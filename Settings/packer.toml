@@ -1,0 +1,14 @@
+[settings]
+# 模組包名稱
+name = "Modpack-Template"
+
+# 補丁 - 用戶端
+client-patch = [
+  "config",
+  "kubejs",
+  "resourcepacks",
+  "LICENSE"
+]
+
+# 補丁 - 伺服器端
+server-patch = []
