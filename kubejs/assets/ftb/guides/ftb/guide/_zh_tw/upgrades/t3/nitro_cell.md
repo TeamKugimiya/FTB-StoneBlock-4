@@ -11,7 +11,9 @@ item_ids:
 
 <ItemImage id="powah:ender_cell_nitro" scale="3" />
 
-<Color id="red">地獄之星終界單元</Color>是解鎖了許多<Color id="gold">世界引擎</Color>專屬的無線能量傳輸配方的一項大型升級，包含：<Color id="light_purple">《通量網路》</Color>模組！
+<Color id="red">地獄之星終界單元</Color>是<Color id="gold">世界引擎</Color>的一項大型升級，解鎖了許多與「無線能量傳輸」相關的配方，
+
+包含：<Color id="light_purple">《通量網路》</Color>模組！
 
 ## 可解鎖配方
 

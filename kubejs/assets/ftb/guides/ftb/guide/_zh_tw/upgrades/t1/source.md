@@ -12,9 +12,15 @@ item_ids:
 
 <ItemImage id="ars_nouveau:sourcestone" scale="3" />
 
-<Color id="light_purple">《新生魔藝》魔源</Color>升級是你最開始能夠解鎖的少數幾個升級之一。本小型升級會讓你能夠將<Color id="light_purple">魔源</Color>導入<Color id="gold">世界引擎控制器</Color>之中。
+<Color id="light_purple">《新生魔藝》魔源</Color>升級，是你最一開始能夠解鎖的少數幾個升級之一。
 
-起初，你會需要帶著一罐<Color id="green">裝有魔源的魔源罐</Color>和一把<Color id="light_purple">支配之杖</Color>：以將<Color id="light_purple">魔源</Color>從魔源罐導入世界引擎之中。你可能最後會想要使用<Color id="light_purple">魔源中繼器：躍遷型</Color>：以直接從你的基地傳送魔源過來。
+本小型升級能讓你將<Color id="light_purple">魔源</Color>導入<Color id="gold">世界引擎控制器</Color>中。
+
+---
+
+起初，你會需要帶著一罐<Color id="green">裝有魔源的魔源罐</Color>和一把<Color id="light_purple">支配之杖</Color>：將<Color id="light_purple">魔源</Color>從魔源罐導入世界引擎之中。
+
+你最後可能會想要使用<Color id="light_purple">魔源中轉器：折躍型</Color>：直接將魔源從基地導入到世界引擎。
 
 ## 可解鎖配方
 

@@ -11,9 +11,9 @@ item_ids:
 
 <ItemImage id="create:shadow_steel_casing" scale="3" />
 
-獲得<Color id="green">暗影機殼</Color>小型升級就代表你已對於<Color id="gold">《動力機械》</Color>模組有了初步的認識。
+當你取得了<Color id="green">暗影機殼</Color>小型升級後，就代表你對於<Color id="gold">《動力機械》</Color>模組有了初步的認識。
 
-本升級會解鎖一些<Color id="gold">《動力機械》</Color>模組中的高級機器，和一些有用的<Color id="gold">《等價交換》</Color>機器。
+本升級會解鎖一些<Color id="gold">《動力機械》</Color>模組中的進階設備，和一些有用的<Color id="gold">《等價交換》</Color>機器。
 
 ## 可解鎖配方
 

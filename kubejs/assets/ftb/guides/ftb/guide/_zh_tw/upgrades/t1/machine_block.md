@@ -11,9 +11,9 @@ item_ids:
 
 <ItemImage id="ftb:world_engine_machine_block" scale="3" />
 
-<Color id="green">世界引擎機器方塊</Color>升級是<Color id="gold">世界引擎</Color>的第一個大型升級。
+<Color id="green">世界引擎機器方塊</Color>升級，是<Color id="gold">世界引擎</Color>的第一個大型升級。
 
-本升級會解鎖你在本模組包推動進展所需的多種基礎機器，包含：<Color id="gold">《應用能源 2》</Color>的開始。
+本升級會解鎖你在本模組包推動進展時，所需的多種基礎機器，包含：<Color id="gold">《應用能源 2》</Color>。
 
 ## 可解鎖配方
 

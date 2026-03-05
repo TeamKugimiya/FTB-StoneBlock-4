@@ -11,7 +11,9 @@ item_ids:
 
 <ItemImage id="ftb:chroniton_glass" scale="3" />
 
-<Color id="green">時空粒子玻璃</Color>是解鎖了<Color id="gold">世界引擎</Color>專屬的某些有用合成配方的一項小型升級，包含：你現在能夠開始收集 EMC 了。
+有了<Color id="green">時空粒子玻璃</Color>小型升級之後，將解鎖某些<Color id="gold">世界引擎</Color>的專屬配方，
+
+包含：你現在可以開始收集 EMC 了。
 
 ## 可解鎖配方
 

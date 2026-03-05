@@ -14,9 +14,9 @@ item_ids:
 
 <Color id="light_purple">附魔升級</Color>是<Color id="gold">世界引擎</Color>的其中一項小型升級。
 
-本升級對於<Color id="gold">《新生魔藝》</Color>模組的使用者來說很好：本升級能夠幫你的法術增加威力。
+本升級對於<Color id="gold">《新生魔藝》</Color>模組的使用者來說很有幫助：提高你法術的威力。
 
-本升級同時也會讓你能夠合成某些附魔，以及《Iron 的飾品》中的<Color id="gold">雙生</Color>配方。
+與此同時，還能讓你合成某些附魔，以及《艾倫的飾品》中的<Color id="gold">雙生</Color>配方。
 
 ## 可解鎖配方
 
