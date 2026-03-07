@@ -18,6 +18,9 @@ on:
         description: "停用發布，將只會產生工作流程成品，並忽略掉發布階段"
         type: boolean
 
+permissions:
+  contents: write
+
 jobs:
   Resourcepack-Maker:
     name: 資源包階段
