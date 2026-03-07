@@ -1,0 +1,20 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/ModsTranslationPack-1.21.x.zip",
+    "file/ParaTranslationPack-1.21.x.zip",
+    "file/FTB-StoneBlock-4-Patches.zip"
+  ],
+  "pack_overrides": {
+    "teamkugimiya": [
+    "file/ModsTranslationPack-1.21.x.zip",
+    "file/ParaTranslationPack-1.21.x.zip",
+    "file/FTB-StoneBlock-4-Patches.zip"
+    ],
+    "$$teamkugimiya": {
+      "default_position": "TOP",
+      "fixed_position": true,
+      "required": true
+    }
+  }
+}
