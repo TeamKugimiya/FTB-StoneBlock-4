@@ -10,6 +10,7 @@ modpack-file-id:
 client-patch:
   - "config"
   - "kubejs"
+  - "resourcepacks"
   - "LICENSE"
 
 # 伺服器 - 複製陣列（為空將會停止產生伺服器版）
