@@ -29,7 +29,7 @@
 	quest.0065DA4214B7B303.quest_desc: [
 		"&e遠古骸龍法老&r出現於&d異界地牢&r結構之中。"
 		""
-		"你能夠在&d虛空斷層&r環中找到這些地牢。"
+		"你能夠在&d虛空斷層&r環帶中找到這些地牢。"
 	]
 	quest.0065DA4214B7B303.title: "&6遠古骸龍法老&r擊殺者"
 	quest.0071ADE2804C1B24.title: "Light Bender Check 2"
@@ -277,7 +277,7 @@
 	quest.040795388568AB69.quest_desc: [
 		"&d終界守衛&r出現於&e廢棄堡壘&r結構之中。"
 		""
-		"你能夠在&e終界&r環中找到該結構。"
+		"你能夠在&e終界&r環帶中找到該結構。"
 	]
 	quest.040795388568AB69.title: "&d終界守衛&r擊殺者"
 	quest.0415C8A3274EF9D1.quest_desc: [
@@ -578,7 +578,7 @@
 	]
 	quest.0A2DB5AFC89E852F.title: "&f焦爐"
 	quest.0A3C1CD48C85E17D.quest_desc: [
-		"你有機會在&7深板岩&r環的較低處遇到&d遠古城市&r。"
+		"你有機會在&7深板岩&r環帶的較低處遇到&d遠古城市&r。"
 		""
 		"當然，那邊沒有任何的危險。你只要安靜的潛行進入，並找到幾片&d回聲碎片&r就好了。"
 		""
@@ -827,7 +827,7 @@
 	quest.0D159FD643581C18.quest_desc: [
 		"&d機械前輩&r提到了一座被遺忘且有潛在&c危險&r的&3寶庫&r：不過裡面可能有著我們製造&6世界引擎的&3暗影機殼升級&r所需的合金。"
 		""
-		"在&3石頭&r和&3深板岩&r環之間且挖且行，使用&d機械前輩&r給予你的羅盤找到那座&3寶庫&r吧。"
+		"在&3石頭&r和&3深板岩&r環帶之間且挖且行，使用&d機械前輩&r給予你的羅盤找到那座&3寶庫&r吧。"
 	]
 	quest.0D159FD643581C18.title: "&f過去的遺跡"
 	quest.0D38D67E3FD120CB.quest_desc: [
@@ -935,7 +935,7 @@
 	quest.0E7AD6BCF9F8605F.quest_desc: [
 		"現在&6世界引擎&r能夠處理&d更終界&r的合成配方了，你會需要開始在不前往&e終界&r的情況下，著手準備一顆&d龍蛋&r。"
 		""
-		"在&e終界&r環中，你有機會找到一座非常特別的&3寶庫&r：裡面有著非常危險的戰鬥，說不定還有一顆龍蛋。"
+		"在&e終界&r環帶中，你有機會找到一座非常特別的&3寶庫&r：裡面有著非常危險的戰鬥，說不定還有一顆龍蛋。"
 		""
 		"你會需要合成一顆&d偉大終界雞蛋&r，並對著中間的&a傳送門定位器&r使用它，就能召喚出 Boss。"
 		"{@pagebreak}"
@@ -1665,7 +1665,7 @@
 		"此競技場內有一場專屬的魔王戰！"
 	]
 	quest.1E061D2E5C560867.title: "找到一座&c『慈悲』競技場&r"
-	quest.1E077BC4B8832C98.quest_desc: ["出現於&b暮光森林&r環較高處的&a雪怪&r寶庫之中，他將會是你要擊敗的第二位暮光頭目。"]
+	quest.1E077BC4B8832C98.quest_desc: ["出現於&b暮光森林&r環帶較高處的&a雪怪&r寶庫之中，他將會是你要擊敗的第二位暮光頭目。"]
 	quest.1E077BC4B8832C98.title: "&f雪怪洞窟"
 	quest.1E2A91B73A752B3B.quest_desc: [
 		"&a生物識別儀&r是讓&d力場&r與&e攔截矩陣&r，在個人層面上運作的必要條件，例如能夠讓玩家在潛行時穿過力場方塊。"
@@ -2281,7 +2281,7 @@
 		"[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]"
 	]
 	quest.2B02D9425E19F560.title: "出現了 BUG？"
-	quest.2B21D8D19E0413AC.quest_desc: ["&c死者之王&r出現於&3石頭&r環或&7深板岩&r環中的&a地下墓穴&r結構之中。"]
+	quest.2B21D8D19E0413AC.quest_desc: ["&c死者之王&r出現於&3石頭&r環帶或&7深板岩&r環帶中的&a地下墓穴&r結構之中。"]
 	quest.2B21D8D19E0413AC.title: "&c死者之王&r擊殺者"
 	quest.2B2BB685DE246BCC.quest_desc: ["透過消耗「熔岩」與「紅石（可選）」產生能量。"]
 	quest.2B86CBB61E10051F.quest_desc: ["&c熾焰術士&r出現於&c生與死的故事&r傳送門當中。"]
@@ -2411,7 +2411,7 @@
 	quest.2CEF038B5DA1FF25.quest_desc: ["透過消耗「煙火」產生能量。"]
 	quest.2D0E345C7C7B3AC0.title: "Quartermaster Meet"
 	quest.2D110AB9A38178C5.quest_desc: [
-		"&d煉獄炎魔&r提到，於&c地獄&r環，地獄岩的深處之中，埋藏著一座&3寶庫&r，寶庫之中有著一位非常危險的熾熱之魂。"
+		"&d煉獄炎魔&r提到，於&c地獄&r環帶，地獄石的深處之中，埋藏著一座&3寶庫&r，寶庫之中有著一位非常危險的熾熱之魂。"
 		""
 		"該&3寶庫&r會在唱片箱播放了祂最喜歡的歌曲之後開啟。"
 		""
@@ -2583,7 +2583,7 @@
 	quest.30902357747A64F1.quest_desc: [
 		"當你擊敗了&2雪怪首領&r之後，你現在有著兩座全新寶庫能夠探索。"
 		""
-		"她會出現於&b暮光森林&r環較高處的&a冰雪女王城堡&r之中。"
+		"她會出現於&b暮光森林&r環帶較高處的&a冰雪女王城堡&r之中。"
 	]
 	quest.30902357747A64F1.title: "&f冰雪女王宮殿"
 	quest.309D995CCCDB3AEE.quest_desc: ["&d飛龍傳人&r給了你一個注入了龍族之力的&a時空粒子電池&r，你現在可以透過這項工具前往&z破碎虛空&r了。此地點也被綁定至你的&2操作面板&r了。"]
@@ -2729,7 +2729,7 @@
 	quest.32653261B16850B3.quest_desc: [
 		"當&a冰雪女王&r和&2九頭蛇&r雙雙被擊敗之後，最終寶庫已被解鎖。"
 		""
-		"&d幻影騎士&r寶庫將會是你在&b暮光森林&r環中經歷的最後一道謎題和最後一場戰鬥。"
+		"&d幻影騎士&r寶庫將會是你在&b暮光森林&r環帶中經歷的最後一道謎題和最後一場戰鬥。"
 	]
 	quest.32653261B16850B3.quest_subtitle: "小型世界引擎升級"
 	quest.32653261B16850B3.title: "&f最後一座暮光寶庫"
@@ -3352,7 +3352,7 @@
 	quest.3D0CE267A8FD95CD.quest_desc: [
 		"當你擊敗了&2雪怪首領&r之後，你現在有著兩座全新寶庫能夠探索。"
 		""
-		"牠會出現於&b暮光森林&r環較低處的&a九頭蛇巢穴寶庫&r之中。"
+		"牠會出現於&b暮光森林&r環帶較低處的&a九頭蛇巢穴寶庫&r之中。"
 		""
 		"&e備註&r：&c九頭蛇&r繳不起房租，所以現在那裡有位新的租客。"
 	]
@@ -3513,7 +3513,7 @@
 	quest.3FA9D6A475E4D1C6.quest_desc: [
 		"&d尋路先鋒&r深諳遊歷這個世界的一切之道。"
 		""
-		"他提到了一座藏於&3深板岩&r環中的&3寶庫&r中有著一種秘密能源。"
+		"他提到了一座藏於&3深板岩&r環帶中的&3寶庫&r中有著一種秘密能源。"
 		""
 		"&e備註&r：製造一個&a探索者羅盤&r有助於定位該&3寶庫&r！"
 		""
@@ -3626,7 +3626,7 @@
 		"並對其「潛行 + 點擊右鍵」即可拆除紙箱。"
 	]
 	quest.417573A657CAED05.quest_desc: [
-		"一旦你從&c地獄&r環中收集到一些材料，你就可以升級到下一階級的凝漿。"
+		"一旦你從&c地獄&r環帶中收集到一些材料，你就可以升級到下一階級的凝漿。"
 		""
 		"&c烈蕾凝漿&r將允許你透過轉化&e金方塊&r，來創造一種"
 		"更高階的金屬：&6烈焰金&r，就像我們對鐵方塊所做的一樣。"
@@ -3881,7 +3881,7 @@
 	]
 	quest.456904808D93A9E3.title: "&f定位：&3寶庫"
 	quest.456B067C9CC123AD.quest_desc: ["當你合成出&d加熱器&r後，你是時候該回訪&d熱力謙者&r，並向他學習該如何在&6世界引擎&r上使用它了。"]
-	quest.45A3E686E32AB95D.quest_desc: ["出現於&b暮光森林&r環的&a巫妖&r寶庫之中，他會是你總共要尋找的五位暮光頭目的第一位。"]
+	quest.45A3E686E32AB95D.quest_desc: ["出現於&b暮光森林&r環帶的&a巫妖&r寶庫之中，他會是你總共要尋找的五位暮光頭目的第一位。"]
 	quest.45A3E686E32AB95D.title: "&f巫妖巢穴"
 	quest.45B2C8BD2ACBA46D.quest_desc: [
 		"&d反應爐&r 必須由長方體牆面構成，外框使用 &a反應爐牆體&r。每個方向最大尺寸為 64 格，且其內部在垂直（Y 軸）上必須保持一致。"
@@ -3902,7 +3902,7 @@
 	]
 	quest.45B2C8BD2ACBA46D.title: "設計反應爐"
 	quest.45BA73F16B7AE681.quest_desc: [
-		"在深板岩環的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。"
+		"在深板岩環帶的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。"
 		""
 		"當你進入傳送門之後，你會受到失明效果的影響。只能透過殺死&3寶庫&r內的強大敵人，利用他們的靈魂填滿你的&d靈魂牢籠&r，來逐步減緩失明效果。"
 		""
@@ -4326,7 +4326,7 @@
 	quest.4D64F277A4330749.quest_subtitle: "可縮寫成「BEER」"
 	quest.4D64F277A4330749.title: "書櫃偵測範圍擴張"
 	quest.4D6D066B0855586D.quest_desc: [
-		"在海洋環之中，有著一隻曾被虛空觸碰過的生物。"
+		"在海洋環帶之中，有著一隻曾被虛空觸碰過的生物。"
 		""
 		"祝你好運。"
 		""
@@ -4547,7 +4547,7 @@
 	]
 	quest.50B7CA94F8BB6F58.title: "&f旋轉致勝"
 	quest.50BB7069AC5A1A14.quest_desc: [
-		"你可以在&d虛空斷層&r環中的&c城堡&r結構之中找到「&z提洛斯&r」。"
+		"你可以在&d虛空斷層&r環帶中的&c城堡&r結構之中找到「&z提洛斯&r」。"
 		""
 		"你會需要一串&c尋魂燼鈴&r以召喚出該 Boss。"
 	]
@@ -4707,7 +4707,7 @@
 	quest.5455CF5D3C37ECA9.quest_desc: [
 		"&c獄髓巨獸&r出現於&3靈魂鍛造廠&r。"
 		""
-		"你能夠在&c地獄&r環的上部地區找到它。"
+		"你能夠在&c地獄&r環帶的上部地區找到它。"
 	]
 	quest.5455CF5D3C37ECA9.title: "&c獄髓巨獸&r擊殺者"
 	quest.54A1D7A1D89C1A04.quest_desc: ["&b苦寒監牢&r會出現於&b海洋&r環帶的較高處。"]
@@ -4742,7 +4742,7 @@
 	quest.5535D64E2B05005E.quest_subtitle: "增加方塊破壞器與終界雷射的運作範圍"
 	quest.555BB3F7C11CD6F9.title: "Radiance Check 1"
 	quest.558A4BBC3BDB853D.quest_desc: [
-		"於&d虛空&r環中的&6『王國』競技場&r內殺死&6『王國』&r。"
+		"於&d虛空&r環帶中的&6『王國』競技場&r內殺死&6『王國』&r。"
 		""
 		"&c提交其獎盃&r以領取你的懸賞。"
 	]
@@ -5125,7 +5125,7 @@
 		"&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。"
 	]
 	quest.5C8773D5561D7245.title: "&f自動建造&3覺醒核心升級"
-	quest.5CD461E6C3E8E7D1.quest_desc: ["可於&3深板岩&r環中找到，在此寶庫之中非常容易迷路。"]
+	quest.5CD461E6C3E8E7D1.quest_desc: ["可於&3深板岩&r環帶中找到，在此寶庫之中非常容易迷路。"]
 	quest.5CD461E6C3E8E7D1.title: "&3迷宮寶庫"
 	quest.5CD7299E8709E7F6.quest_desc: [
 		"將村民轉換為&a勞工令牌&r只是&a回聲編碼工具&r使用方法的一種示範。"
@@ -5249,7 +5249,7 @@
 	]
 	quest.5E5BDCBF185E48E3.title: "&f工程師作業台"
 	quest.5E74E0339A6F5314.quest_desc: [
-		"於&e終界&r環中的&d『慈悲』競技場&r內殺死&d『慈悲』&r。"
+		"於&e終界&r環帶中的&d『慈悲』競技場&r內殺死&d『慈悲』&r。"
 		""
 		"&c提交其獎盃&r以領取你的懸賞。"
 	]
@@ -5708,7 +5708,7 @@
 	quest.67D1E0D81B2C5D8D.quest_desc: [
 		"&d利維坦&r出現於&b水球&r結構之中。"
 		""
-		"你能夠在&b海洋&r環中找到這些結構。"
+		"你能夠在&b海洋&r環帶中找到這些結構。"
 		""
 		"&e備註&r：你會需要一份&d深淵祭品&r來啟動祭壇。"
 		""
@@ -6467,7 +6467,7 @@
 		""
 		"你也能夠做出一台&a自動錘&r來自動幫你將鵝卵石粉碎成各種不同方塊供你&a發掘&r！"
 		""
-		"&e備註&r：初訪&d機械前輩之回聲&r所給予你的禮物能夠很輕鬆地取得&c熔岩&r。你也能在&c地獄&r環中找到&c熔岩&r。"
+		"&e備註&r：初訪&d機械前輩之回聲&r所給予你的禮物能夠很輕鬆地取得&c熔岩&r。你也能在&c地獄&r環帶中找到&c熔岩&r。"
 	]
 	quest.75F6827C1FB52C91.title: "&f鵝卵石製造機&r"
 	quest.7614FCF3E2012C48.title: "&dPsimetal Exosuit"
@@ -6524,11 +6524,11 @@
 		"他會教你該如何安裝&3低吟金屬世界引擎升級&r。"
 	]
 	quest.777F76601D213DF2.quest_desc: [
-		"The &eSimply Swords&r mod adds a wide range of weapons that you can choose to craft."
+		"《&e簡易刀劍&r》模組加入了多樣化的武器供你選擇與製作。"
 		""
-		"&dRunic Weapons&r require &dRunic Tablets&r found by exploring the world."
+		"&d符文武器&r需要消耗探索世界取得的&d符文石板&r來進行製作。"
 		""
-		"&6Unique Weapons&r can also be rarely found during your explorations, though some may also be crafted."
+		"在探索過程中也有極低機率發現&6獨特武器&r，不過其中一部分也可以透過合成獲得。"
 	]
 	quest.777F76601D213DF2.title: "&e簡易刀劍"
 	quest.778A876616D4638E.quest_desc: [
@@ -6584,7 +6584,7 @@
 	quest.77DE3D57E5B58948.quest_desc: [
 		"這次沒有&e羅盤&r了！"
 		""
-		"動身前往海洋環，並使用你的&b探索者羅盤&r找到「冥海之珠」競技場以召喚出&d利維坦&r！"
+		"動身前往海洋環帶，並使用你的&b探索者羅盤&r找到「冥海之珠」競技場以召喚出&d利維坦&r！"
 	]
 	quest.77DE3D57E5B58948.title: "&f定位：&3利維坦"
 	quest.77F8CCE971B9B186.quest_desc: [
@@ -6693,7 +6693,7 @@
 	quest.7913B52AD9D28D2B.quest_desc: [
 		"&6先驅者&r是一種出沒於&6古代工廠&r結構之中的強力生物。"
 		""
-		"你能夠在&d虛空斷層&r環中找到它。"
+		"你能夠在&d虛空斷層&r環帶中找到它。"
 		""
 		"&e備註&r：你必須先對該 Boss 使用&d地獄之星&r來啟動它。"
 	]
@@ -6778,7 +6778,7 @@
 		"Cx: -1"
 		"Cz: 185"
 	]
-	quest.7A8669713BE28E8F.quest_desc: ["&d伏守者&r居住於&d遠古城市&r之中：你能夠在&3深板岩&r環中找到該結構。"]
+	quest.7A8669713BE28E8F.quest_desc: ["&d伏守者&r居住於&d遠古城市&r之中：你能夠在&3深板岩&r環帶中找到該結構。"]
 	quest.7A8669713BE28E8F.title: "&e殺死&f：&3伏守者"
 	quest.7A8D31482AB1FCAA.quest_desc: [
 		"&6壓縮空間機械&r讓你能建立屬於你自己的口袋維度房間！"
@@ -7177,8 +7177,8 @@
 	reward.31B152CBB7E9CDAD.title: "地獄 - 西"
 	reward.31B318A2B60F4CC5.title: "安裝&3暗影機殼升級"
 	reward.32A31D445DC7FF87.title: "&3海洋碎片"
-	reward.3322D2E72CD06BE1.title: "Mekanism Teleporter"
-	reward.338E0593C527D311.title: "Mycelial Reactor Set"
+	reward.3322D2E72CD06BE1.title: "《通用機械》傳送機"
+	reward.338E0593C527D311.title: "全套菌絲網路發電機組"
 	reward.35FBC3A2C111904A.title: "{\"translate\": \"ftb.shop.notification\"}"
 	reward.37851CF3F949515A.title: "暮光 - 南"
 	reward.37F1C940A746F48C.title: "StoneBlock4 Official NFT"
@@ -7199,7 +7199,7 @@
 	reward.444D56BB0340167E.title: "安裝&3終界單元升級"
 	reward.4765C42AB1F8D1A6.title: "&3機械前輩寶庫羅盤"
 	reward.476F60C6DEB324A9.title: "神龍弓"
-	reward.495DF49EBBF0B77D.title: "Boon of the Earth 5"
+	reward.495DF49EBBF0B77D.title: "大地恩惠 5"
 	reward.4A3B5AA97272B2D2.title: "神龍斧"
 	reward.4AE89E9586399F31.title: "{\"translate\": \"ftb.shop.notification\"}"
 	reward.4BA4CA2B38D5C1F3.title: "安裝&3覺醒核心升級"
@@ -7229,13 +7229,13 @@
 	reward.60A493A83705E5C6.title: "Ancient Archive Waypoint"
 	reward.61E89C638FD700C4.title: "&e升滿&3發掘等級"
 	reward.62E61D9249A89F89.title: "{\"translate\": \"ftb.shop.notification\"}"
-	reward.632965F5B615FA8D.title: "Fusion Reactor"
+	reward.632965F5B615FA8D.title: "核融合反應爐"
 	reward.64CB075D188C05CC.title: "海洋 - 南"
 	reward.676EC71A125D6E04.title: "安裝&3魔源升級"
 	reward.689FE9894FCB03FA.title: "安裝&3終界合金升級"
-	reward.68F8EBD48743037D.title: "Simple Teleporter Bundle"
+	reward.68F8EBD48743037D.title: "簡易傳送器組"
 	reward.693E7161A63AA8E7.title: "混沌鎬"
-	reward.694311419C81AF7D.title: "Reactor (Nitro)"
+	reward.694311419C81AF7D.title: "反應爐（地獄之星）"
 	reward.696B39000701CF3E.title: "&d附魔道長&f定位點"
 	reward.69E35BEC6CB9A014.title: "安裝&3超立方體升級"
 	reward.6A0011BF8C25D4FA.title: "神龍劍"
@@ -7251,7 +7251,7 @@
 	reward.729901F3863D27E4.title: "Fabricator Archive Waypoint"
 	reward.72FFFB11B65A0DF3.title: "混沌電容"
 	reward.742CB3E07E4CCEB1.title: "&b2 級魔符"
-	reward.7459FD34B6687F30.title: "Tempad's Guidebook"
+	reward.7459FD34B6687F30.title: "《時空平板》指南手冊"
 	reward.747CED69FCED45E8.title: "Magician Archive Waypoint"
 	reward.75028F17C07E02D0.title: "{\"translate\": \"ftb.shop.notification\"}"
 	reward.7834CF7F86C29EE0.title: "暮光 - 北"
@@ -7269,7 +7269,7 @@
 	reward_table.16E7488E801B3DAA.title: "「雙足飛龍」裝備"
 	reward_table.1892AD44EB5DD99D.title: "「混沌」裝備"
 	reward_table.1D31E6EC121FF83B.title: "「神龍」裝備"
-	reward_table.1DA364008CA08643.title: "Iron 的裝備"
+	reward_table.1DA364008CA08643.title: "《艾倫的法術》裝備"
 	reward_table.20D1BF16232BD665.title: "RF 能量來源"
 	reward_table.21A38B78E82935CD.title: "資料模型"
 	reward_table.28714053C75776A5.title: "頂級探索遺物"
@@ -7295,7 +7295,7 @@
 	reward_table.790A03E65CE8EBE4.title: "阿嬤煮的"
 	reward_table.7CDA9FD69979A8C9.title: "《神化》寶典"
 	reward_table.7D0A27C985829037.title: "次級探索遺物"
-	task.003F316E9DCBE7FE.title: "Any #minecraft:logs_that_burn"
+	task.003F316E9DCBE7FE.title: "任何 #minecraft:logs_that_burn"
 	task.00ABB62332FC4C09.title: "&f與&d器械尊者之回聲&r交談"
 	task.00F90C52CBAECEBB.title: "&d法術&a墨水"
 	task.0119636863DFB474.title: "Speak to Guidance"
@@ -7305,11 +7305,11 @@
 	task.018BA3043844C4CB.title: "Block Interaction Machines"
 	task.01A493D72943A94B.title: "流體儲存元件"
 	task.01AB71CC57E2057D.title: "任何 #minecraft:candles"
-	task.0269945CD49FAC4A.title: "Any #c:seeds/tiered"
+	task.0269945CD49FAC4A.title: "任何 #c:seeds/tiered"
 	task.0284D9E486F445FC.title: "&f尋找九頭蛇寶庫"
 	task.0287C11F3728514E.title: "World Engine Craft Unlocks"
 	task.02CC4D7DB653D0B6.title: "Check"
-	task.02E900C9DF62699B.title: "Any #irons_spellbooks:add_to_lectern_and_bookshelf"
+	task.02E900C9DF62699B.title: "任何 #irons_spellbooks:add_to_lectern_and_bookshelf"
 	task.034DB0323132B088.title: "導管"
 	task.045D6D51D5A394B8.title: "Early Power"
 	task.04B00E264007135A.title: "Extra Deepshelves"
@@ -7317,7 +7317,7 @@
 	task.04FA10D12C67E713.title: "獄髓原版工具"
 	task.05118382686E3B7F.title: "《靈災》武器"
 	task.05300BCA326E091F.title: "冷卻計時器"
-	task.053465F0FFC2E3BB.title: "Knight Vault"
+	task.053465F0FFC2E3BB.title: "幻影騎士寶庫"
 	task.05BA59C2F9E1F43B.title: "&e殺死&f：10x 烈焰使者"
 	task.05C31228DE4297E0.title: "Resonant WE Crafts"
 	task.05EA231F68B35FBA.title: "Generation 9"
@@ -7330,7 +7330,7 @@
 	task.06F0C110F6DF4933.title: "Color Guide"
 	task.0707B05028ADBA69.title: "&e殺死&f：&6先驅者"
 	task.075F7BA7175B340A.title: "發掘等級"
-	task.07BBC0302934453B.title: "Stone Generation Options"
+	task.07BBC0302934453B.title: "石頭製造機選項"
 	task.084914CB047A78F0.title: "能量儲存元件"
 	task.0879C32890B7363C.title: "&d符文武器"
 	task.08D1694DFD199F2E.title: "修改用物品"
@@ -7347,7 +7347,7 @@
 	task.0C13FA83021AE4C5.title: "&e殺死&f：&c獄髓巨獸"
 	task.0C703E47B7643F97.title: "Level 1"
 	task.0CAD1A4AF9391EB7.title: "Tiered Constructors"
-	task.0CDA50C894140131.title: "Any spirit alchemy product"
+	task.0CDA50C894140131.title: "任何 spirit alchemy product"
 	task.0D2B50FDF033C966.title: "《艾倫的法術》盔甲"
 	task.0D549424518A10E0.title: "chickens?"
 	task.0D88BFCD6CDC0266.title: "武器"
@@ -7363,7 +7363,7 @@
 	task.0EFEB7A9C3BC6904.title: "冷卻計時器"
 	task.0F2D2B75BBD3B74B.title: "&c能量立方&r"
 	task.0F4B5618923F3F8B.title: "&e殺死&f：九頭蛇"
-	task.0F7A749B164D259A.title: "Any #minecraft:coals"
+	task.0F7A749B164D259A.title: "任何 #minecraft:coals"
 	task.0FAC970FD967F5DF.title: "deepslate west"
 	task.0FE18EA47455263E.title: "回聲-定位"
 	task.101BA566216C32AD.title: "ME 線纜"
@@ -7438,7 +7438,7 @@
 	task.1E5E244A9DF5B9B8.title: "Level 1"
 	task.1EBEAF4114DC3BFD.title: "Twilight WE Upgrade Crafts"
 	task.1F45D65E053E1701.title: "挖掘小幫手"
-	task.1F9A7927EEE12740.title: "Any #c:seeds/tiered"
+	task.1F9A7927EEE12740.title: "任何 #c:seeds/tiered"
 	task.200DC63D1223B179.title: "反應爐燃料棒"
 	task.20FE0359B927FE66.title: "Ore Generation Options"
 	task.21F1C6036A37CED9.title: "&e尋找&f：&d暮光族裔"
@@ -7479,9 +7479,9 @@
 	task.27F8AF789DE14145.title: "組裝完成的處理器"
 	task.284A47FAF4885800.title: "Tradeable"
 	task.287D976A94ACDE7C.title: "烈焰金武器"
-	task.2897D7BC60592E58.title: "Any #c:wools"
+	task.2897D7BC60592E58.title: "任何 #c:wools"
 	task.28C14943E06CE907.title: "Items Unlocked via World Craft"
-	task.293421D07539E14B.title: "Any wizard armor"
+	task.293421D07539E14B.title: "任何 wizard armor"
 	task.2988CAF299690CDB.title: "Useful Commands"
 	task.29B29381709E8E09.title: "Passive Mob Farms"
 	task.29F0C3330016EDCF.title: "&fThe Start of Automation - RS2"
@@ -7620,7 +7620,7 @@
 	task.41FB0785445FC826.title: "Fluid Interaction Machines"
 	task.42AEAD2BF6113D89.title: "Yeti Vault"
 	task.42D645B26E4EE8A4.title: "Generation 6"
-	task.43010F9F652B5B4B.title: "Any #minecraft:pickaxes"
+	task.43010F9F652B5B4B.title: "任何 #minecraft:pickaxes"
 	task.430918A5AD62C27F.title: "Mid Game Options"
 	task.4309B43CD4447705.title: "建築棒"
 	task.4321D68C7B5CA800.title: "Level 4"
@@ -7756,7 +7756,7 @@
 	task.5A43BF69F5EE7A51.title: "End Game Options"
 	task.5A652535811A2B66.title: "量子盔甲"
 	task.5A912A97A8A7DB47.title: "尋找：&3動力機械寶庫"
-	task.5A9C48DEA2F607F9.title: "Any #justdynathings:compat/ae2/buddings"
+	task.5A9C48DEA2F607F9.title: "任何 #justdynathings:compat/ae2/buddings"
 	task.5AB9DD72EFFA8BB2.title: "Hidden"
 	task.5AE65BF06E12FC55.title: "&eObserve&r: World Engine Block"
 	task.5AEBA3792645C057.title: "link"
@@ -7806,7 +7806,7 @@
 	task.615166F23D87249A.title: "回聲-定位"
 	task.6166C057F795A2CB.title: "物質載入"
 	task.61990CCF4D2011E7.title: "Awakened Core + Dark Void Craft Unlocks"
-	task.619E259715D3DAFC.title: "Any &eApplied Flux &fStorage Cell"
+	task.619E259715D3DAFC.title: "任何 &eApplied Flux &fStorage Cell"
 	task.61C0F35123FBB85E.title: "&e殺死&f：&3伏守者"
 	task.61D894B195259EFE.title: "獄髓盔甲"
 	task.61D984A3215E20D1.title: "&e殺死&f：冰雪女王"
@@ -7836,9 +7836,9 @@
 	task.65AD3185427B9AF3.title: "Create Vault"
 	task.65B4BE28B27BE67B.title: "infernal"
 	task.6662DD03B1F24FB1.title: "Echo-Location"
-	task.6681C95BA23C70AA.title: "Any metal impetus"
+	task.6681C95BA23C70AA.title: "任何 metal impetus"
 	task.6686A02C1B8BCACB.title: "乳白或烏黑 CAD 機體"
-	task.66B4466B7858F8C2.title: "Any #minecraft:saplings"
+	task.66B4466B7858F8C2.title: "任何 #minecraft:saplings"
 	task.66BE14D0E22A9924.title: "Give Create Echo Unlock"
 	task.66E96E8D93525948.title: "Fortron WE Crafts"
 	task.66F6B411E884E391.title: "end east"
@@ -7850,7 +7850,7 @@
 	task.68A1DE705F7F836C.title: "點擊以開啟事件"
 	task.68B5F556D4439356.title: "Generation 7"
 	task.68E6367E2F80DCBE.title: "Mining Gadgets"
-	task.68FBE3E15C3F9B33.title: "Any rune brooch"
+	task.68FBE3E15C3F9B33.title: "任何 rune brooch"
 	task.69019AD3FEB39B7B.title: "give stage"
 	task.696DC87210410650.title: "《起源科技》管道"
 	task.6976A5FDA39CFA13.title: "冷卻計時器"
