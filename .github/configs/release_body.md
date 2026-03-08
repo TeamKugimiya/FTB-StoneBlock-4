@@ -10,14 +10,14 @@
 
 ## 安裝中文化補丁（玩家）
 
-使用 7-Zip 等軟體開啟 ``$ModPack_Name_VAR-Patches-Client.zip`` 壓縮檔，並將壓縮檔中的內容，解壓縮到模組包的 ``.minecraft`` 資料夾**內**
-
-## 安裝模組翻譯包（玩家）
-
-從 Modrinth 平台上下載 [模組翻譯包](https://modrinth.com/resourcepack/modstranslationpack)，並放入 ``resourcepack`` 資料夾中
+詳細的圖文安裝教學，請前往我們 [官網](https://teamkugimiya.org/modpacks/sb4/tutorial/) 查看。
 
 ## 安裝伺服器補丁（伺服主）
 
 該補丁僅須安裝在伺服器上。安裝該補丁後，伺服器上的玩家才有完整的中文化體驗。
 
 使用 7-Zip 等軟體開啟 ``$ModPack_Name_VAR-Patches-Server.zip`` 壓縮檔，並將壓縮檔中的內容，解壓縮到伺服器的資料夾中。
+
+## 更新記錄
+
+[官網更新記錄](https://teamkugimiya.org/modpacks/sb4/changelog/)
