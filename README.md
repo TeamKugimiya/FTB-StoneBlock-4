@@ -1,4 +1,4 @@
-# # FTB StoneBlock 4
+# FTB StoneBlock 4
 
 [![sb4][curseforge]][sb4]
 [![Version][version_badge]][version_link]
