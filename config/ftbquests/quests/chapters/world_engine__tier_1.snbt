@@ -1222,7 +1222,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/compass locate ftb:vault/create"
-				feedback_message: "Machinist's Vault Compass Acquired"
+				feedback_message: "feedback_message.ftb.locator_machinist_vault"
 				icon: {
 					id: "explorerscompass:explorerscompass"
 				}
