@@ -26,7 +26,7 @@ jobs:
     name: 資源包階段
     uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Resourcepack.yml@main
     with:
-      force_include_files: "LICENSE"
+      force_include_files: "LICENSE,'assets/*/ae2guide/**/*?.md'"
       version: ${{ github.event.inputs.tag }}
 
   Patch-Maker:
