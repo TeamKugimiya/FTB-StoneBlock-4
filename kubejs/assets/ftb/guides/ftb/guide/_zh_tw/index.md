@@ -6,14 +6,38 @@ navigation:
 item_ids:
   - ftb:world_engine_machine_block
 ---
-# 入門須知
 
-<Color id="gold">世界引擎</Color>是<Color id="gold">《只有石頭的世界 4》</Color>中的主要合成機器。隨著你逐漸發展，你會逐步安裝<Color id="green">升級</Color>來為該引擎解鎖新的配方。
+<Column alignItems="center" fullWidth={true}>
+# <Color id="gold">世界引擎</Color>
+<GameScene zoom="3">
+  <ImportStructure src="assets/world_engine_machine.nbt" />
+  <BlockAnnotation x="0" y="0" z="0" color="#00000000">
+    <Color id="gold">世界引擎機器</Color>
+  </BlockAnnotation>
+</GameScene>
 
-<Color id="gold">世界引擎</Color>有超多不同的升級！
+<Color id="gold">世界引擎</Color>是《<Color id="gold">只有石頭的世界 4</Color>》中的主要合成機器。
 
-<Color id="gold">大型升級</Color>是推動進度所需的必要條件，並且能夠解鎖遊玩過程中至關重要的合成配方。
+隨著進度推進，你可以透過安裝<Color id="green">升級</Color>，為引擎解鎖新的配方。
+</Column>
 
-<Color id="green">小型升級</Color>則不是必要的，但它能夠讓你選擇你想要探索本模組包中的哪些模組。
+***
 
+<Column alignItems="center" fullWidth={true}>
+## <Color id="light_purple">升級類型</Color>
+</Column>
 
+<Color id="gold">大型升級</Color>是推進流程所必需的，會解鎖遊玩過程中的關鍵配方。
+
+<Color id="green">小型升級</Color>則非必需，讓你可以依照自己想探索的模組路線自由選擇。
+
+***
+
+<Column alignItems="center" fullWidth={true}>
+## <Color id="light_purple">各階升級</Color>
+</Column>
+* <ItemImage id="ftb:world_engine_machine_block" scale="0.5" /> [第 1 階升級](ftb:t1_upgrades.md)
+* <ItemImage id="mekanism:resistive_heater" scale="0.5" /> [第 2 階升級](ftb:t2_upgrades.md)
+* <ItemImage id="ftb:world_engine_advanced_machine_block" scale="0.5" /> [第 3 階升級](ftb:t3_upgrades.md)
+* <ItemImage id="draconicevolution:energy_core_stabilizer" scale="0.5" /> [第 4 階升級](ftb:t4_upgrades.md)
+* <ItemImage id="avaritia:infinity_block" scale="0.5" /> [第 5 階升級](ftb:t5_upgrades.md)

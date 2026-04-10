@@ -7,19 +7,18 @@ navigation:
 item_ids:
   - ftb:world_engine_advanced_machine_block
 ---
-# 高級機器方塊升級
+# <Color id="gold">高級機器方塊升級</Color>
 
 <ItemImage id="ftb:world_engine_advanced_machine_block" scale="3" />
 
-<Color id="red">高級機器方塊</Color>是想要用<Color id="gold">世界引擎</Color>合成高級配方必備的一項大型升級。
+<Color id="red">高級機器方塊</Color>是一項大型升級，也是許多進階<Color id="gold">世界引擎</Color>配方所必需的條件。
 
-你需要先安裝此升級，才能逐步解鎖並使用其他後續升級，而且它是進入階級 4 的必要條件之一。
+還有不少其他升級也會要求你先安裝這項大型升級，它同時也是推進到第 4 階的必要條件之一。
 
-不過，安裝此升級後只會解鎖一種配方。
+單就這個升級本身而言，它只會額外解鎖一個配方。
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="entangled:block" />
-
 </ItemGrid>

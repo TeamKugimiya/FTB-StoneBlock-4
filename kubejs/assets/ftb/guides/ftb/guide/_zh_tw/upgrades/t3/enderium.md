@@ -7,15 +7,15 @@ navigation:
 item_ids:
   - ftb:enderium_block
 ---
-# 終界合金方塊升級
+# <Color id="gold">終界合金方塊升級</Color>
 
 <ItemImage id="ftb:enderium_block" scale="3" />
 
-<Color id="red">終界合金方塊</Color>是解鎖了許多<Color id="gold">世界引擎</Color>專屬的<Color id="gold">《等價交換》</Color>模組配方的一項大型升級。
+<Color id="red">終界合金方塊</Color>是一項大型升級，會解鎖大量使用<Color id="gold">世界引擎</Color>製作的《<Color id="gold">等價交換</Color>》進階配方。
 
-<Color id="gold">進階機器方塊</Color>升級必須要擁有此升級才能製作。
+這項升級同時也是製作<Color id="gold">高級機器方塊</Color>升級的必要條件。
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="projecte:collector_mk2" />

@@ -8,17 +8,17 @@ item_ids:
   - apothic_enchanting:echoing_deepshelf
   - apothic_enchanting:deepshelf
 ---
-# 深板岩書櫃附魔升級
+# <Color id="green">深板岩書櫃附魔升級</Color>
 
 <ItemImage id="apothic_enchanting:echoing_deepshelf" scale="3" />
 
-<Color id="light_purple">附魔升級</Color>是<Color id="gold">世界引擎</Color>的其中一項小型升級。
+<Color id="light_purple">附魔升級</Color>是<Color id="gold">世界引擎</Color>的一項小型升級。
 
-本升級對於<Color id="gold">《新生魔藝》</Color>模組的使用者來說很有幫助：提高你法術的威力。
+對使用《<Color id="gold">新生魔藝</Color>》的玩家來說，這項升級特別實用，因為它能進一步強化你的法術。
 
-與此同時，還能讓你合成某些附魔，以及《艾倫的飾品》中的<Color id="gold">雙生</Color>配方。
+與此同時，還能讓你合成數種附魔，以及《<Color id="gold">艾倫的珠寶與首飾</Color>》中的<Color id="gold">雙生</Color>配方。
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="minecraft:enchanted_book" />
@@ -27,7 +27,7 @@ item_ids:
   <ItemIcon id="irons_spellbooks:villager_spell_book" />
 </ItemGrid>
 
-## 可合成的附魔
+## <Color id="gold">可合成的附魔</Color>
 
 - 拾荒者 III
 - 歲月知識 III
@@ -36,7 +36,7 @@ item_ids:
 - 海洋的祝福 VIII + 魚餌 VIII
 - 魔力提升 VII + 魔力回復 VII
 - 收割者 IX
-- 魂氣劫掠 VI
+- 精魂劫掠 VI
 - 迅捷潛行 V
 - 背刺 VIII
 - 冰凍氣場 VIII

@@ -1,10 +1,15 @@
 ---
 navigation:
-  title: 階級 4 升級
+  title: 第 4 階升級
+  icon: "draconicevolution:energy_core_stabilizer"
   position: 5
 ---
-# 階級 4 世界引擎升級
 
-<SubPages />
+<Column alignItems="center" fullWidth={true}>
 
+# <Color id="light_purple">第 4 階世界引擎升級</Color>
+<ItemImage id="draconicevolution:energy_core_stabilizer" scale="2" />
 
+</Column>
+
+<SubPages icons={true} />

@@ -260,11 +260,11 @@
 		"Each &dWireless Grid&r provides the same functionality as their corresponding &aGrids&r."
 	]
 	quest.03E48CD6E5DB806F.quest_desc: [
-		"With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Wyrmwright&r."
+		"隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d飛龍傳人之回聲&r了。"
 		""
-		"Work with them to unlock the &dDraconic Energy&r upgrade for your &6World Engine&r."
+		"和這位&d回聲&r協力為你的&6世界引擎&r解鎖&d龍族能量&r升級吧。"
 		""
-		"&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo wyrmwright&7."
+		"&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wyrmwright&7」。"
 	]
 	quest.03E48CD6E5DB806F.title: "&f初訪&d飛龍傳人"
 	quest.04013A6813F80EF7.quest_desc: [
@@ -1868,6 +1868,25 @@
 		"&z中子活化器&r需要熱量來模擬太陽的能量，畢竟在這充滿石頭的世界顯然根本不存在什麼太陽。"
 		"{@pagebreak}"
 		"&z中子活化器&r利用活化的&6中子塵埃&r將&e核廢料&r轉換成&d釙&r，或將&e鋰&r轉換成&a氚&r。"
+		"{@pagebreak}"
+		"《&e自訂機器&r》內建結構預覽功能，能讓你查看方塊應該放置在世界中的哪個位置。"
+		""
+		"想要使用此功能，只需點擊介面中的配方箭頭，然後點擊 JEI 中的結構"
+		"方塊按鈕，即可查看方塊在世界中的擺放位置。"
+		""
+		"&7&o下一頁包含引導你的擷圖畫面，最後一頁則是已搭建好的結構圖。 ->"
+		"{@pagebreak}"
+		"{image:ftb:textures/quests/neutron_activator/neutron_activator_ui.png width:200 height:90 align:center}"
+		""
+		"{image:ftb:textures/quests/neutron_activator/zh_tw/neutron_activator_jei.png width:180 height:150 align:center}"
+		"{@pagebreak}"
+		"搭建完成的結構應該如下圖所示，四面牆壁上各有 2 個低語玻璃，"
+		""
+		"反應爐中子反射器位於底部中間方塊的正上方，"
+		""
+		"反應爐散熱器位於其上方，而充能煤晶方塊則位於頂部中間。"
+		""
+		"{image:ftb:textures/quests/neutron_activator/neutron_activator_build.png width:120 height:150 align:center}"
 	]
 	quest.21322BAF061FE83F.title: "&z中子活化器&r"
 	quest.213FE1D19D589513.quest_desc: [
@@ -2241,6 +2260,18 @@
 	quest.28E63B302DFCF6D9.title: "&d阿卡那&r物品"
 	quest.28F636FAA3397479.quest_desc: ["《&6RFTools&r》的&a基礎煤炭發電機&r，能透過燃燒熔爐燃料物品來發電。"]
 	quest.28F636FAA3397479.title: "&f基礎煤炭發電機"
+	quest.28F9C2B43B31DE16.quest_desc: [
+		"&d原子鍛造廠&f現在可以將你附魔過的&5三位一體寶石&f，與一對附魔過的&d中子錠&f結合，合成出&6強化圍阻裝置&f。"
+		""
+		"&e注意&f：&5三位一體寶石&f需要耐久 112 與爆炸保護 10，而&d中子錠&f需要耐久 16！"
+		""
+		"當你取得了用來捕捉&d反物質&f的&6圍阻裝置&f後，是時候來開始生產了！"
+		""
+		"以足夠高的速度，使具有高放射性的&2鈽燃料顆粒&f撞擊&6圍阻裝置&f，"
+		""
+		"將會產生大量的&d反物質&f，&6圍阻裝置&f能夠在它消散之前，將其捕捉成&d反物質碎片&f。"
+	]
+	quest.28F9C2B43B31DE16.title: "&z強化圍阻裝置&r"
 	quest.294AB45D52BE342B.quest_desc: [
 		"《&6動力機械&r》在物品儲存與自動合成上，有非常獨特的玩法！"
 		""
@@ -2951,6 +2982,12 @@
 	quest.35791C02AC048594.quest_subtitle: "解鎖「/home」指令"
 	quest.35791C02AC048594.title: "&f時空粒子管理"
 	quest.35A0BC59FB62D5F9.title: "Ocean Shards"
+	quest.35AB3E816F51A68E.quest_desc: [
+		"為了大量生產用於超級附魔的附魔書，你可以考慮使用&a印刷機&r或&2附魔器&r。"
+		""
+		"穩定供應&e液態經驗&r與輸入材料，就能製造出所有你需要的附魔書。"
+	]
+	quest.35AB3E816F51A68E.title: "&z生產附魔書"
 	quest.35E8F57E93106BFE.quest_desc: [
 		"&a樣板&r用於儲存合成或處理配方。"
 		""
@@ -3081,6 +3118,26 @@
 	]
 	quest.38869642A2E6F8B6.quest_subtitle: "它能做任何事"
 	quest.38869642A2E6F8B6.title: "《模組化路由器》"
+	quest.38893C57D1D9A5DE.quest_desc: [
+		"有兩種方式可以為你的&a奧術催化器&f取得&3靈魂&f。"
+		""
+		"這些事件必須發生在距離&a催化器&f的 16 格範圍內，才能收集到&3靈魂&f。"
+		""
+		"1. 生物死亡時會提供 1 個靈魂。"
+		""
+		"但並非所有殺死生物的方法都會產生靈魂。"
+		""
+		"像是《工業先鋒》的生物屠殺裝置，它就不會產生靈魂。"
+		""
+		"2. 種植並「破壞」&a靈魂花&r。"
+		""
+		"一朵完全成熟的&a靈魂花&r會產生 1 個靈魂。"
+		""
+		"許多收穫方法都不會產生靈魂，因為它們實際上並沒有「破壞」花朵。"
+		""
+		"&7&o每製造一顆反物質球，大約需要 350,000 個靈魂。"
+	]
+	quest.38893C57D1D9A5DE.title: "&z生產靈魂"
 	quest.388FDE6183B26A5E.title: "雙足飛龍核心交易"
 	quest.38E2176886386133.quest_desc: [
 		"&a合金窯&r是一種遊戲前期的多方塊結構，用於製作如：康銅、不變鋼、琥珀金與青銅等合金。"
@@ -3306,21 +3363,6 @@
 		"&d機械手&r用於模擬玩家互動與處理物品配方。"
 		""
 		"&d機械手&r可以擠牛奶、剪羊毛、開墾耕地、攻擊怪物以及更多功能。"
-	]
-	quest.3CFC372F57CF6B82.quest_desc: [
-		"&eCustom Machinery&r has a built-in structure preview function that allows you to see where the blocks should be placed in the world."
-		""
-		"To access this feature, simply click the Recipe arrow inside of the UI, then click the structure block in JEI to see the block placements in the world."
-		""
-		"&7&oThe next page contains screenshots to help guide you, and the final page contains a screenshot of the fully-built structure. ->"
-		"{@pagebreak}"
-		"{image:ftb:textures/quests/neutron_activator/neutron_activator_ui.png width:200 height:90 align:center}"
-		""
-		"{image:ftb:textures/quests/neutron_activator/neutron_activator_jei.png width:180 height:150 align:center}"
-		"{@pagebreak}"
-		"The final structure should look like the picture below, with 2 Whisperglass on each of the four walls, the Reactor Reflector one up from the bottom-middle block, the Reactor Vent on top of that and the Empowered Void Block on the top-middle block."
-		""
-		"{image:ftb:textures/quests/neutron_activator/neutron_activator_build.png width:120 height:150 align:center}"
 	]
 	quest.3CFDFD0BA7D30118.quest_desc: [
 		"在&6《只有石頭的世界 4》&r中，世界生成分為好幾個環帶！"
@@ -4096,6 +4138,32 @@
 		"這支法杖使用&6時間流體&r來為你的機器加速，類似於時間瓶或時間錦囊。"
 	]
 	quest.48C1A1BB346B7D07.title: "&z時間法杖"
+	quest.48EEEEDA95AD9C67.quest_desc: [
+		"&o厭倦了只有《&e通用機械&f》能生產&d反物質&f嗎？"
+		""
+		"奧術科學家們發現，有一種特殊的秘法工具，可以捕捉粒子碰撞所產生的&d反物質&r。"
+		""
+		"首先，你需要擴展你的奧術知識，並取得這個注入異界能量的魔法圍阻容器。"
+		"{@pagebreak}"
+		"&6三位一體寶石&f會需要經過一些強化，才能在粒子碰撞中倖存。"
+		""
+		"極高等級的耐久，與些許爆炸保護應該就能搞定。"
+		""
+		"&a奧術催化器&f可以附加遠超常規附魔等級限制的附魔。"
+		""
+		"若想要讓它運作，你需要準備 3 樣東西："
+		""
+		"- 穩定的靈魂供應，可以藉由收集附近實體死亡掉落的靈魂，"
+		"　或是收穫附近的&3靈魂花&r來取得。"
+		""
+		"- 穩定供應原版最高等級的&2附魔書&r（以這個情況來說，分別是耐久 III 或爆炸保護 IV）。"
+		""
+		"- 至少 2550 個靈魂的靈魂穩定度。"
+		"　這可以藉由將安裝速度升級的&d終界雷射&r，對準&a奧術催化器&r來達成。"
+		"　速度升級插件可以讓你每個催化器儲存更多的靈魂。"
+	]
+	quest.48EEEEDA95AD9C67.quest_subtitle: "是時候來點新花樣了"
+	quest.48EEEEDA95AD9C67.title: "&6《通用機械》黑粉集結！"
 	quest.496903AB7E8A0A92.quest_desc: [
 		"《&e艾倫的珠寶與首飾&r》是一款著重於結合材料與&b寶石&r，為玩家提供特殊效果或屬性提升的模組。"
 		""
@@ -5193,8 +5261,6 @@
 	quest.5CFC04F4F9A4B01D.title: "《起源科技》管道"
 	quest.5D1DD9EA59C3078D.title: "終界龍 資料模型"
 	quest.5D20790BCDE45CF9.quest_desc: [
-		"此物品目前因修復錯誤而暫時停用，造成不便敬請見諒。"
-		"{@pagebreak}"
 		"《&6起源科技&r》的&d終界雷射砲&r，是一把強力遠程武器，可發射高速彈體，對敵人造成可觀傷害，並能遠距離破壞方塊。"
 		""
 		"左鍵可發射持續光束，會傷害路徑上的任何實體，也能挖掘前方第一個方塊。"
@@ -5460,7 +5526,7 @@
 		""
 		"基礎木製管道可用來傳輸物品與流體。"
 		""
-		"&a鐵製&r版本可在提供紅石訊號時，抽取物品或流體。"
+		"&a銅製&r版本可在提供紅石訊號時，抽取物品或流體。"
 		""
 		"另外還有多種不同階級管道可執行不同功能，記得查看。"
 		""

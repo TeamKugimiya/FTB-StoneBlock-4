@@ -7,15 +7,15 @@ navigation:
 item_ids:
   - ftb:euphonium
 ---
-# 低吟金屬升級
+# <Color id="green">低吟金屬升級</Color>
 
 <ItemImage id="ftb:euphonium" scale="3" />
 
-<Color id="light_purple">低吟金屬</Color>是解鎖了<Color id="dark_purple">靈魂湧動</Color>配方的一項小型升級。
+<Color id="light_purple">低吟金屬</Color>是一項小型升級，會解鎖<Color id="dark_purple">靈魂湧動</Color>。
 
-本升級會需要與<Color id="red">高級機器方塊</Color>升級同時安裝才能解鎖它的配方。
+欲解鎖這項升級的配方，還需要先安裝<Color id="red">高級機器方塊</Color>升級。
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="industrialforegoingsouls:soul_laser_base" />

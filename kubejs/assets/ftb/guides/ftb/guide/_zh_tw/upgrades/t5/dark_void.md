@@ -7,14 +7,14 @@ navigation:
 item_ids:
   - xycraft_machines:void_container
 ---
-# 黑暗虛空升級
+# <Color id="gold">黑暗虛空升級</Color>
 
 <ItemImage id="xycraft_machines:void_container" scale="3" />
 
-<Color id="dark_purple">黑暗虛空升級</Color>是解鎖了<Color id="gold">世界引擎</Color>專屬的<Color id="gold">奇點</Color>配方的一項大型升級。
+<Color id="dark_purple">黑暗虛空升級</Color>是一項大型升級，會解鎖<Color id="gold">世界引擎</Color>中的<Color id="gold">奇點</Color>系列配方。
 
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="mekanism:ultimate_tier_installer" />

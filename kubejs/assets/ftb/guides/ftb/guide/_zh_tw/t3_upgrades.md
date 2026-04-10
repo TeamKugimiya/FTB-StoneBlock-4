@@ -1,10 +1,15 @@
 ---
 navigation:
-  title: 階級 3 升級
+  title: 第 3 階升級
+  icon: "ftb:world_engine_advanced_machine_block"
   position: 4
 ---
-# 階級 3 世界引擎升級
 
-<SubPages />
+<Column alignItems="center" fullWidth={true}>
 
+# <Color id="light_purple">第 3 階世界引擎升級</Color>
+<ItemImage id="ftb:world_engine_advanced_machine_block" scale="2" />
 
+</Column>
+
+<SubPages icons={true} />

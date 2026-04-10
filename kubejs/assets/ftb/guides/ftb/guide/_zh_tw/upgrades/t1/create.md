@@ -7,15 +7,15 @@ navigation:
 item_ids:
   - create:shadow_steel_casing
 ---
-# 《動力機械》暗影機殼升級
+# <Color id="green">《動力機械》暗影機殼升級</Color>
 
 <ItemImage id="create:shadow_steel_casing" scale="3" />
 
-當你取得了<Color id="green">暗影機殼</Color>小型升級後，就代表你對於<Color id="gold">《動力機械》</Color>模組有了初步的認識。
+<Color id="green">暗影機殼</Color>是一項小型升級，代表你已經具備了對《<Color id="gold">動力機械</Color>》的基礎理解。
 
-本升級會解鎖一些<Color id="gold">《動力機械》</Color>模組中的進階設備，和一些有用的<Color id="gold">《等價交換》</Color>機器。
+這項升級會解鎖數種《<Color id="gold">動力機械</Color>》的進階設備，以及一些實用的《<Color id="gold">等價交換</Color>》機器。
 
-## 可解鎖配方
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="createaddition:electric_motor" />

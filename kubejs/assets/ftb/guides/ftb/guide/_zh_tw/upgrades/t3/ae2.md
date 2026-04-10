@@ -7,22 +7,23 @@ navigation:
 item_ids:
   - ae2:quantum_ring
 ---
-# 量子通道升級
+# <Color id="green">量子通道升級</Color>
 
 <ItemImage id="ae2:quantum_ring" scale="3" />
 
-<Color id="aqua">量子通道</Color>是讓你能夠對<Color id="gold">世界引擎</Color>進行自動化合成的一項小型升級。
+<Color id="aqua">量子通道</Color>是一項小型升級，能解鎖<Color id="gold">世界引擎</Color>的自動化合成能力。
 
-你會需要在你的《應用能源 2》系統內連接一條量子環，並確保它的區塊有被載入。世界引擎區塊固定會被載入。
+你需要架設一個連接到 AE2 系統的量子環，並確保該區塊持續載入。
 
-本升級會需要與<Color id="red">高級機器方塊</Color>升級同時安裝才能解鎖它的配方。
+世界引擎本身的區塊則已經預設會保持載入。
 
-## 可解鎖配方
+欲解鎖這項升級的配方，還需要先安裝<Color id="red">高級機器方塊</Color>升級。
+
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="advanced_ae:reaction_chamber" />
   <ItemIcon id="mekanism:elite_tier_installer" />
   <ItemIcon id="pipez:ultimate_upgrade" />
   <ItemIcon id="xp_synthesiser:xp_synthesiser" />
-
 </ItemGrid>

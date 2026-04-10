@@ -7,15 +7,16 @@ navigation:
 item_ids:
   - draconicevolution:awakened_draconium_block
 ---
-# 覺醒核心升級
+# <Color id="gold">覺醒核心升級</Color>
 
 <ItemImage id="draconicevolution:awakened_draconium_block" scale="3" />
 
-<Color id="gold">覺醒核心升級</Color>是解鎖了<Color id="gold">世界引擎</Color>專屬的<Color id="gold">無盡</Color>配方的一項大型升級。
+<Color id="gold">覺醒核心升級</Color>是一項大型升級，會解鎖<Color id="gold">世界引擎</Color>中的<Color id="gold">無盡</Color>系列配方。
 
-本升級需要一座等級 8 的能量核心：也就是 378 塊<Color id="gold">覺醒龍金屬方塊</Color>和 786 塊<Color id="light_purple">龍金屬方塊</Color>。
+它需要一個 8 級能量核心，而那意味著你得準備 378 個<Color id="gold">覺醒龍金屬方塊</Color>和 786 個<Color id="light_purple">龍金屬方塊</Color>。
 
-## 可解鎖配方
+
+## <Color id="gold">可解鎖配方</Color>
 
 <ItemGrid>
   <ItemIcon id="avaritia:infinity_sword" />
