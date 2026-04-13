@@ -16,11 +16,6 @@
 * [模組翻譯包][ModsTranslationPack]：由翻譯組製作的模組翻譯集大成。
 * [Para 翻譯包][ParaTranslationPack]：由 [ParaTranz] 社群貢獻的模組翻譯。
 
-請安裝下列模組：
-
-* [Resource Pack Overrides][RO]：使內建資源包的標題、敘述可被翻譯。
-* [Neo Language Reload][languagereload]：語言快速切換，在本補丁中用於自動切換成中文。
-
 ## **安裝補丁**
 
 詳細的圖文安裝教學，請前往我們 [官網][website] 查看。
