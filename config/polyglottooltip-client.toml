@@ -8,7 +8,7 @@ alwaysShow = false
 enableChineseScriptMatching = true
 #Legacy format codes applied to secondary-language names shown in normal tooltips.
 #Examples: "&7", "&7&l", "&e&o". Use an empty string for no extra formatting.
-tooltipSecondaryNameFormat = "&6&o"
+tooltipSecondaryNameFormat = "&e&o"
 #Legacy format codes applied to secondary-language names shown in Jade tooltips.
 #Examples: "&7", "&7&l", "&e&o". Use an empty string for no extra formatting.
 jadeSecondaryNameFormat = "&7"
