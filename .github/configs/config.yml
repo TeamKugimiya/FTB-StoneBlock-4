@@ -10,6 +10,7 @@ modpack-file-id:
 client-patch:
   - "config"
   - "kubejs"
+  - "mods"
   - "resourcepacks"
   - "LICENSE"
 

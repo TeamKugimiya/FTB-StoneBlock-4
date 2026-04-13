@@ -1,0 +1,17 @@
+{
+  "itemGroup.dimdungeons": "維度地牢",
+  "biome.dimdungeons.biome_dungeon": "地牢",
+  "dimension.dimdungeons.dimension_dungeon": "地牢維度",
+  "dimdungeons:activate_key": "鑰匙啟動",
+  "block.dimdungeons.block_gilded_portal": "賦魂傳送門方塊",
+  "block.dimdungeons.block_gold_portal": "地牢傳送門",
+  "block.dimdungeons.block_portal_crown": "傳送門強化方塊",
+  "error.dimdungeons.portal_error_4": "傳送門框架應由深板岩磚構成，而非",
+  "error.dimdungeons.portal_error_6": "傳送門塔尖應由深板岩磚構成，而非",
+  "error.dimdungeons.portal_error_7": "傳送門塔尖頂部，需要放置賦魂傳送門方塊，而非",
+  "error.dimdungeons.portal_error_8": "你必須在框架頂部加上兩個傳送門強化方塊。",
+  "advancements.dimdungeons.dungeons.find_crown.description": "在地牢中找到兩個傳送門強化方塊。",
+  "npart.dimdungeons.theme_1": "遠古競技場",
+  "npart.dimdungeons.theme_2": "亡魂競技場",
+  "npart.dimdungeons.theme_3": "遠古競技場"
+}

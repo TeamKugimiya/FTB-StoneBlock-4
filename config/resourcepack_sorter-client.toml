@@ -1,0 +1,34 @@
+#Resource pack ids that are required to stay enabled.
+#Use the exact ids stored by Minecraft, for example 'vanilla_tweaks', 'file/My Pack.zip', or a built-in pack id.
+requiredPacks = [
+    "file/FTB-StoneBlock-4-Patches.zip",
+    "file/ModsTranslationPack-1.21.x.zip",
+    "file/ParaTranslationPack-1.21.x.zip"
+]
+#Optional explicit order using the same top-to-bottom direction as the resource-pack screen.
+#Listed packs are placed first in that order. Any other enabled packs are appended to the bottom.
+#If you want complete control, list every pack that may be enabled.
+packOrder = [
+    "file/FTB-StoneBlock-4-Patches.zip",
+    "file/ModsTranslationPack-1.21.x.zip",
+    "file/ParaTranslationPack-1.21.x.zip"
+]
+#Resource pack ids that cannot be moved in the resource-pack screen.
+#This only locks movement. It does not force packs to stay enabled.
+lockedPacks = [
+    "file/FTB-StoneBlock-4-Patches.zip",
+    "file/ModsTranslationPack-1.21.x.zip",
+    "file/ParaTranslationPack-1.21.x.zip"
+]
+#How many times per game session the mod will try to restore the configured selection
+#after Minecraft clears resource packs because of a loading error.
+#Set to 0 to leave vanilla error recovery untouched.
+# Default: 3
+# Range: 0 ~ 100
+maxErrorRecoveryAttempts = 3
+#Whether to overwrite Minecraft's saved language code during startup.
+#When enabled, the client switches to startupLanguageCode every time Options load.
+forceLanguageOnStartup = true
+#Language code to force during startup when forceLanguageOnStartup is enabled.
+#Examples: zh_tw, en_us, ja_jp.
+startupLanguageCode = "zh_tw"

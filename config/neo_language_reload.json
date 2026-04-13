@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "multilingualItemSearch": false,
+  "removableDefaultLanguage": false,
+  "fallbacks": [
+    "zh_cn",
+    "en_us"
+  ],
+  "previousFallbacks": [
+    "en_us"
+  ],
+  "language": "zh_tw",
+  "previousLanguage": "zh_tw"
+}
