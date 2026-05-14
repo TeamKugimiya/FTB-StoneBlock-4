@@ -1,0 +1,983 @@
+{
+  "chapter.7ECA39E2497C35D1.title": {
+    "original": "Generating Resources",
+    "translation": "資源生產",
+    "context": "chapters/resource_generation.snbt / chapter 7ECA39E2497C35D1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.05F1EC4F14A449AD.quest_desc": {
+    "original": "The \u0026aOre Laser Base\u0026r from \u0026bIndustrial Foregoing\u0026r can be used to infinitely generate ores using \u0026aLaser Drills\u0026r.\n\nWithin the UI, you can set the Y Lvl to determine what types of ores you want to find, as well as installing a \u0026aColored Lens\u0026r to allow the \u0026aLaser Base\u0026r to specialize in specific ore types.\n\nThis machine becomes available with the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "來自《\u0026b工業先鋒\u0026r》的\u0026a礦物雷射基座\u0026r，配合\u0026a雷射鑽\u0026r使用可以產出無限礦物。\n\n在機器的介面中，你可以設定 Y 軸高度來決定想要尋找的礦\n物類型。\n\n此外，安裝\u0026a染色透鏡\u0026r還能讓\u0026a雷射基座\u0026r專注於產出特定的礦物。\n\n在\u0026b力場子注能方塊\u00266世界引擎升級\u0026r後才能做出該機器。",
+    "context": "chapters/resource_generation.snbt / quest 05F1EC4F14A449AD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.05F1EC4F14A449AD.title": {
+    "original": "\u0026fVirtual Mining",
+    "translation": "\u0026f虛擬挖礦",
+    "context": "chapters/resource_generation.snbt / quest 05F1EC4F14A449AD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.081EA35CCBDF793F.quest_desc": {
+    "original": "Chickens will need a place to lay eggs and/or resources, which is what the \u00262Roost\u0026r is for.\n\nWhile chickens are in a \u00262Roost\u0026r, they will need seeds matching their tier to produce resources. These tiered seeds are crafted using \u0026bSouls\u0026r.\n\nThe higher the Chicken's level, the more resources that are produced per seed.\n\n\u0026eNote\u0026f: You can rename your \u00262Roosts\u0026r to keep things more organized, especially when using the \u0026aRoost Collector\u0026r.",
+    "translation": "雞會需要一個地方來下蛋或生產資源，這就是\u00262雞舍\u0026r的用途。\n\n當雞在\u00262雞舍\u0026r中時，牠們需要食用符合其階級的種子，才能生產資源。\n\n而這些階級種子，則是使用\u0026b靈魂\u0026r製作而來的。\n\n雞的等級越高，消耗每個種子所能產出的資源也就越多。\n\n\u0026e注意\u0026f：你可以重新命名\u00262雞舍\u0026r來使一切維持井然有序，特別是在使用\u0026a雞舍收集器\u0026r的時候會很有幫助。",
+    "context": "chapters/resource_generation.snbt / quest 081EA35CCBDF793F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.081EA35CCBDF793F.title": {
+    "original": "Roost Ultimate",
+    "translation": "終極雞舍",
+    "context": "chapters/resource_generation.snbt / quest 081EA35CCBDF793F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0BEF15E1352A5F72.quest_desc": {
+    "original": "Once you have an experienced \u0026dDimensionalist\u0026r working for you, you'll run into a very valuable ore called \u0026dRaw Replication\u0026r.\n\nThis is how you start \u00266Replication\u0026r, which will allow you to break down items into \u0026bMatter\u0026r, which can be converted into other items that are made up of that same type of \u0026bMatter\u0026r.\n\nThink Full Metal Alchemist level of Alchemy.",
+    "translation": "當你雇用一位有經驗的\u0026d維度學家\u0026r後，你會接觸到一種非常珍貴的礦物：\u0026d複鑄原礦\u0026r。\n\n這就是開始《\u00266複製科技\u0026r》的方式。\n\n你可以把物品分解成\u0026b物質\u0026r，再將其轉換為由相同類型\u0026b物質\u0026r構成的其他物品。\n\n想像一下《鋼之鍊金術師》等級的鍊金術。",
+    "context": "chapters/resource_generation.snbt / quest 0BEF15E1352A5F72",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0BEF15E1352A5F72.title": {
+    "original": "\u00266Matter Replication\u0026r",
+    "translation": "\u00266物質複製\u0026r",
+    "context": "chapters/resource_generation.snbt / quest 0BEF15E1352A5F72",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0C2523AA8CA20CC4.quest_subtitle": {
+    "original": "Green + Diamond",
+    "translation": "綠色 + 鑽石",
+    "context": "chapters/resource_generation.snbt / quest 0C2523AA8CA20CC4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0CAA799855644363.quest_subtitle": {
+    "original": "Glass + Gold",
+    "translation": "玻璃 + 黃金",
+    "context": "chapters/resource_generation.snbt / quest 0CAA799855644363",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0EBA58B7FD2AF36D.quest_desc": {
+    "original": "The \u0026aExtractor\u0026r from \u0026bXycraft\u0026r is a staple for easily generating niche resources like \u0026dDragon Eggs\u0026r or \u00267Sky Stone Dust\u0026r.\n\nThis machine becomes available with the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "來自\u0026b《Xy 工藝》\u0026r模組的\u0026a提取器\u0026r，是一台能夠輕鬆產出像是\n\u0026d龍蛋\u0026r或\u00267隕石粉\u0026r這種稀缺資源的裝置。\n\n在\u0026b力場子注能方塊\u00266世界引擎升級\u0026r後才能做出該機器。",
+    "context": "chapters/resource_generation.snbt / quest 0EBA58B7FD2AF36D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0EBA58B7FD2AF36D.title": {
+    "original": "\u0026fXycraft's Extractor\u0026r",
+    "translation": "\u0026f《Xy 工藝》提取器\u0026r",
+    "context": "chapters/resource_generation.snbt / quest 0EBA58B7FD2AF36D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.11C58E38DE9488BE.quest_desc": {
+    "original": "The \u0026aMob Masher\u0026r from \u0026bMob Grinding Utils\u0026r can automate the killing process in mob farms when given a redstone signal.\n\nIt can also be upgraded to do more damage, drop more loot, or cause mobs to drop their heads!\n\n\u0026aNote\u0026r: You will still need something to pick up the items as they drop into the world.",
+    "translation": "來自《\u0026b刷怪塔實用設備\u0026r》的\u0026a生物粉碎機\u0026r，在給予紅石訊號時，能夠自動殺死刷怪塔裡生物。\n\n粉碎機能透過安裝升級，增加傷害、掉落物，甚至使生物掉落他們的頭顱！\n\n\u0026a注意\u0026r：你仍需要為刷怪塔產出的掉落物，準備收集措施。",
+    "context": "chapters/resource_generation.snbt / quest 11C58E38DE9488BE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11C58E38DE9488BE.quest_subtitle": {
+    "original": "Mob Grinding Utils",
+    "translation": "刷怪塔實用設備",
+    "context": "chapters/resource_generation.snbt / quest 11C58E38DE9488BE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.11C58E38DE9488BE.title": {
+    "original": "\u0026fMob Mashing",
+    "translation": "\u0026f生物粉碎",
+    "context": "chapters/resource_generation.snbt / quest 11C58E38DE9488BE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13874944C284A510.quest_desc": {
+    "original": "\u0026bOccultism\u0026r offers generating infinite ores by binding spirits to mine for you in the demon realm.\n\nThis can be done using a \u0026dDimensional Mineshaft\u0026r and a \u0026dBound Miner Foliot\u0026r.\n\nPlace the Miner Foliot into the \u0026dDimensional Mineshaft\u0026r and it will generate ores over time.",
+    "translation": "《\u0026b神祕學\u0026r》提供了另一種無限礦石方案：束縛魔精，並讓它們在惡魔維度為你挖礦。\n\n這可以透過\u0026d維度礦井\u0026r與\u0026d被束縛的魔精礦工\u0026r來達成。\n\n將魔精礦工放入\u0026d維度礦井\u0026r後，它就會隨時間不斷產出礦物。",
+    "context": "chapters/resource_generation.snbt / quest 13874944C284A510",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13874944C284A510.title": {
+    "original": "\u0026fSpirit Mining",
+    "translation": "\u0026f魔精礦工",
+    "context": "chapters/resource_generation.snbt / quest 13874944C284A510",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.150BB4679DD2B4B5.quest_desc": {
+    "original": "Believe it or not, cows really like Apples and.... clay? Put them together and what do you get?\n\nIf you feed a cow a \u0026aClapple\u0026r, it will convert it into a random baby \u0026bFluid Cow\u0026r. Once fully grown, these can be milked to give a bucket of that fluid!\n\nUnlike regular cows, \u0026bFluid Cows\u0026r have a cooldown on how often they can be milked.\n\nList of \u0026bFluid Cows\u0026r that can be made using the \u0026aClapple\u0026r -\u003e\n{@pagebreak}\n- Copper\n- Iron\n- Tin\n- Zinc\n- Lead\n- Nickel\n- Silver\n{@pagebreak}\n- Aluminum\n- Gold\n- Uranium\n- Amethyst\n- Redstone\n- Carbon\n- Slime\n- Osmium",
+    "translation": "不管你信不信，牛真的很喜歡蘋果和......黏土？把它們湊在一起會變成什麼？\n\n若你將\u0026a黏土蘋果\u0026r餵給一頭牛，它就會轉化成一頭隨機的幼年\u0026b流體牛\u0026r。\n\n等到完全長大後，就能透過擠奶獲得一桶該種類的流體！\n\n與普通的牛不同，\u0026b流體牛\u0026r在擠奶之後會有冷卻時間。\n\n以下是使用\u0026a黏土蘋果\u0026r可以轉化出的\u0026b流體牛\u0026r清單 -\u003e\n{@pagebreak}\n- 銅\n- 鐵\n- 錫\n- 鋅\n- 鉛\n- 鎳\n- 銀\n{@pagebreak}\n- 鋁\n- 金\n- 鈾\n- 紫水晶\n- 紅石\n- 炭\n- 史萊姆\n- 鋨",
+    "context": "chapters/resource_generation.snbt / quest 150BB4679DD2B4B5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.150BB4679DD2B4B5.title": {
+    "original": "Fluid Cows",
+    "translation": "流體牛",
+    "context": "chapters/resource_generation.snbt / quest 150BB4679DD2B4B5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.159DE084D82C6A1C.quest_desc": {
+    "original": "The \u00262Garden Cloche\u0026r is a staple machine that can automate growing crops, as long as it has water, power, and a piece of soil inside.\n\nDifferent tiers of soil have different rates of growth!",
+    "translation": "\u00262園藝玻璃罩\u0026r是一台相當經典的機器，只要內部擁有足夠的水分、能量以及一塊土壤，就能自動化種植作物。\n\n使用不同階級的土壤，會帶來不同的生長速率加成！",
+    "context": "chapters/resource_generation.snbt / quest 159DE084D82C6A1C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.159DE084D82C6A1C.title": {
+    "original": "Garden Cloches",
+    "translation": "園藝玻璃罩",
+    "context": "chapters/resource_generation.snbt / quest 159DE084D82C6A1C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.16F7490FA5DE307C.quest_desc": {
+    "original": "The \u0026aMob Crusher\u0026r from \u0026bIndustrial Foregoing\u0026r can easily crush mobs for you within your mob farm.\n\nWhen powered, this machine will instantly kill any mob within its working area, automatically picking up the loot into its inventory.\n\nThe working area can be upgraded using addons, as well as how fast it activates.",
+    "translation": "來自《\u0026b工業先鋒\u0026r》的\u0026a生物屠殺裝置\u0026r，可以為你的刷怪塔輕鬆粉碎生物。\n\n提供能量時，這台機器會立即殺死其工作範圍內的所有生物，並自動將掉落物收集至內部空間中。\n\n你可以透過安裝升級插件，來擴大機器的運作範圍，以及運作速度。",
+    "context": "chapters/resource_generation.snbt / quest 16F7490FA5DE307C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.16F7490FA5DE307C.quest_subtitle": {
+    "original": "Industrial Foregoing",
+    "translation": "工業先鋒",
+    "context": "chapters/resource_generation.snbt / quest 16F7490FA5DE307C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.16F7490FA5DE307C.title": {
+    "original": "\u0026fMob Crushing",
+    "translation": "\u0026f生物屠殺",
+    "context": "chapters/resource_generation.snbt / quest 16F7490FA5DE307C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.19C7CC772EC56E7B.quest_desc": {
+    "original": "Once you have some eggs, you can combine them with any color of the rainbow to create a \u0026aDyed Chicken Eggs\u0026r.\n\nWhen these eggs are thrown, there is a chance for it to hatch into a chicken of that color.\n\nWhile only considered a tier 1 chicken, these chickens are required for breeding for the higher tier chickens!",
+    "translation": "一旦你有了一些雞蛋，你可以將它們與彩虹中，任何顏色的染料結合，製作出\u0026a染色雞蛋\u0026r。\n\n投擲這些染色蛋時，有機會孵化出該顏色的雞。\n\n雖然這些雞的階級只有一級，但若要繁殖出高階雞種的話，這些雞將是不可或缺的！",
+    "context": "chapters/resource_generation.snbt / quest 19C7CC772EC56E7B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.19C7CC772EC56E7B.title": {
+    "original": "Basic Dye Chickens",
+    "translation": "基礎顏料雞",
+    "context": "chapters/resource_generation.snbt / quest 19C7CC772EC56E7B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1CCD08A54B3F94C4.quest_desc": {
+    "original": "Most items in the pack won't have EMC values, but \u0026dDark Matter\u0026r and \u0026cRed Matter\u0026r can be used for more than EMC.\n\nEither of these can be converted into a TON of \u0026bMatter\u0026r using the \u0026aDisintegrator\u0026r.",
+    "translation": "本模組包中的多數物品都沒有 EMC 數值，\n但\u0026d暗物質\u0026r與\u0026c紅物質\u0026r的用途可不只 EMC。\n\n使用\u0026a粉碎機\u0026r可將其中任一種，轉換成大量的\u0026b物質\u0026r。",
+    "context": "chapters/resource_generation.snbt / quest 1CCD08A54B3F94C4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1CCD08A54B3F94C4.title": {
+    "original": "Matter Overload",
+    "translation": "物質超載",
+    "context": "chapters/resource_generation.snbt / quest 1CCD08A54B3F94C4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2E619195856B3B9F.quest_desc": {
+    "original": "The \u0026aOre Generator\u0026r from \u0026bMekanism\u0026r allows you to charge \u0026cLasers\u0026r with power, then direct them into the generator to create ores.\n\nThis machine becomes available with the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "來自《\u0026b通用機械\u0026r》的\u0026a礦物製造機\u0026r，讓你可以為\u0026c雷射\u0026r充能，並將其導向製造機以產生礦物。\n\n在\u0026b力場子注能方塊\u00266世界引擎升級\u0026r後才能做出該機器。",
+    "context": "chapters/resource_generation.snbt / quest 2E619195856B3B9F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2E619195856B3B9F.title": {
+    "original": "\u0026fGenerating Ores With Mek Lasers",
+    "translation": "\u0026f使用《通用機械》雷射產生礦物",
+    "context": "chapters/resource_generation.snbt / quest 2E619195856B3B9F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2E9F9DD6660745B3.quest_desc": {
+    "original": "The \u0026aMechanical Harvester\u0026r from \u0026bCreate\u0026r can be attached to a spinning contraption to auto-harvest any crops it comes in contact with.\n\nThis can be a great option for those who like to use \u0026bCreate\u0026r!",
+    "translation": "來自《\u0026b動力機械\u0026r》的\u0026a機械收割機\u0026r，可以安裝在旋轉的動能裝置上，自動收割任何接觸到的作物。\n\n對於喜歡使用《\u0026b動力機械\u0026r》動力系統的玩家來說，這是一個絕佳的選擇！",
+    "context": "chapters/resource_generation.snbt / quest 2E9F9DD6660745B3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2E9F9DD6660745B3.title": {
+    "original": "Mechanical Harvesting",
+    "translation": "機械收割",
+    "context": "chapters/resource_generation.snbt / quest 2E9F9DD6660745B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2F8BB4724991B7C4.quest_desc": {
+    "original": "If you want to replicate an item based on stored matter, you will first need to learn how to make it using the \u0026aIdentification Chamber\u0026r.\n\nThe chamber will need a \u0026dMemory Chip\u0026r to remember how to make the item. Each chip can save up to 16 items.\n\nBy placing a \u0026aChip Storage\u0026r on top of the \u0026aIdentification Chamber\u0026r, it will automatically push the chips into the storage when full.",
+    "translation": "若你想根據已儲存的物質來複製物品，必須先用\u0026a鑑定室\u0026r學會該物品的製作資訊。\n\n鑑定室需要搭配\u0026d記憶體晶片\u0026r來記錄資料。每片晶片最多可儲存 16 種物品。\n\n在\u0026a鑑定室\u0026r上方放置\u0026a晶片儲存器\u0026r後，晶片寫滿時會自動存入儲存器。",
+    "context": "chapters/resource_generation.snbt / quest 2F8BB4724991B7C4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.30F922372D95D407.quest_desc": {
+    "original": "\u0026eBonsai Pots\u0026r make tree farming a breeze!\n\nPlace in a piece of dirt, a sapling, and an axe to create a mini tree farm in a single block.\n\nYou can get some clay by brushing sand.",
+    "translation": "\u0026e盆景盆\u0026r能夠讓砍樹變得十分輕鬆！\n\n放入一塊泥土、一株樹苗和一把斧，就能夠在一格內製造出一個迷你樹場。\n\n你可以在刷掃沙時獲得黏土。",
+    "context": "chapters/resource_generation.snbt / quest 30F922372D95D407",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.30F922372D95D407.title": {
+    "original": "\u0026fBonsai Trees",
+    "translation": "\u0026f《盆景樹》模組",
+    "context": "chapters/resource_generation.snbt / quest 30F922372D95D407",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.34A2BA2C754CE27A.quest_desc": {
+    "original": "The \u00262Roost Feeder\u0026r and \u0026aRoost Collector\u0026r can deliver seeds and pick up items from any nearby Roost up to 30 blocks away. This range can be configured inside the interface by clicking the '+' and '-' buttons.\n\nThe \u00262Roost Feeder\u0026r allows you to filter which seeds can be fed to which roost by dragging a seed item from your inventory or JEI to the right-side filter slot of each roost within the \u00262Feeder's\u0026r interface.\n\nFor either block to function, you must also select a Roost to collect resources from by clicking the `[ ]` on the left to show `[x]`.\n\n\u0026eNote\u0026f: Renaming your \u00262Roosts\u0026r will display their name on these interfaces.",
+    "translation": "\u00262雞舍餵食器\u0026r和\u0026a雞舍收集器\u0026r，\n\n可以對半徑 30 格內的任何雞舍，進行種子配送與物品收集，\n\n這個範圍可以在介面中，透過點擊「+」與「-」按鈕來設定。\n\n------------------------------\n\n\u00262雞舍餵食器\u0026r能讓你篩選哪些種子，要投餵到哪個雞舍，\n\n方法是將種子從你的物品欄或 JEI，\n\n拖放到\u00262餵食器\u0026r的介面中，每個雞舍右側的篩選欄位上。\n\n------------------------------\n\n要讓這兩個方塊運作，你還必須在設定的視窗裡，\n\n點擊雞舍左側的 [ ]，使其變為 [x]，來選擇要從哪個雞舍收集資源。\n\n\u0026e注意\u0026f：重新命名你的\u00262雞舍\u0026r，將會使它們的名稱顯示在這些介面中。",
+    "context": "chapters/resource_generation.snbt / quest 34A2BA2C754CE27A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.34A2BA2C754CE27A.title": {
+    "original": "Wireless Chickens",
+    "translation": "無線傳輸雞",
+    "context": "chapters/resource_generation.snbt / quest 34A2BA2C754CE27A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.36BA7AADD98E9868.quest_subtitle": {
+    "original": "Diamond + Gold",
+    "translation": "鑽石 + 黃金",
+    "context": "chapters/resource_generation.snbt / quest 36BA7AADD98E9868",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.39751E377C0F22EE.quest_desc": {
+    "original": "The \u0026aReplication Terminal\u0026r allows you to request items to be replicated.\n\nThe Terminal will show you the items you have stored on \u0026dMemory Chips\u0026r within your network, as well as the total amount of matter stored in \u0026aMatter Tanks\u0026r on the right side.",
+    "translation": "\u0026a複製終端機\u0026r能讓你下單請求複製物品。\n\n終端機會顯示你網路中儲存在\u0026d記憶體晶片\u0026r的物品，右側則會顯示\u0026a物質儲罐\u0026r內的物質總量。",
+    "context": "chapters/resource_generation.snbt / quest 39751E377C0F22EE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.43919D8A9EB5C627.quest_desc": {
+    "original": "The \u00262Hydroponic Bed\u0026r from \u0026bIndustrial Foregoing\u0026r works as an accelerated soil for crops to grow on.\n\nIt can automatically harvest crops for you, and can also be upgraded in speed using upgrades and by using \u0026bEther Gas\u0026r from Withers.\n\nYou can also use the \u0026dSimulated Hydroponic Bed\u0026r to simulate the growth from a single crop into multiple beds!",
+    "translation": "來自《\u0026b工業先鋒\u0026r》的\u00262水耕床\u0026r，可作為加速作物生長的強化土壤。\n\n它能為你自動收穫作物，並能透過安裝升級插件，以及消耗來自凋零怪的\u0026b乙醚氣體\u0026r，來進一步提升運作速度。\n\n你還可以使用\u0026d模擬水耕床\u0026r，模擬單一作物的生長狀態，並同步至多個水耕床中！",
+    "context": "chapters/resource_generation.snbt / quest 43919D8A9EB5C627",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.43919D8A9EB5C627.title": {
+    "original": "Hydro Beds",
+    "translation": "水耕床",
+    "context": "chapters/resource_generation.snbt / quest 43919D8A9EB5C627",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44A61436D2FE34E9.quest_subtitle": {
+    "original": "Iron Chicken",
+    "translation": "鐵雞",
+    "context": "chapters/resource_generation.snbt / quest 44A61436D2FE34E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44A61436D2FE34E9.title": {
+    "original": "A Good Starting Point",
+    "translation": "一個好的開頭",
+    "context": "chapters/resource_generation.snbt / quest 44A61436D2FE34E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.45CB4500F3CEF539.quest_desc": {
+    "original": "The \u0026aMaterial Stonework Factory\u0026r from \u0026bIndustrial Foregoing\u0026r can infinitely generate different types of stone blocks over time.\n\nTo see the many different items the Factory can make, hit \u0026bU\u0026r on it while in JEI.",
+    "translation": "來自《\u0026b工業先鋒\u0026r》的\u0026a造石加工機\u0026r，可以隨著時間，無限生產各種類型的石材方塊。\n\n若想查看該工廠能製作的所有物品，請在 JEI 中對其按下\n「\u0026bU\u0026r」查看用途。",
+    "context": "chapters/resource_generation.snbt / quest 45CB4500F3CEF539",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45CB4500F3CEF539.title": {
+    "original": "\u0026fStonework Factory",
+    "translation": "造石加工機",
+    "context": "chapters/resource_generation.snbt / quest 45CB4500F3CEF539",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.48B3D104BEFE1959.quest_desc": {
+    "original": "Using a \u0026aMechanical Saw\u0026r from \u00266Create\u0026r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a \u0026aDeployer\u0026r to plant the saplings back, and you'll have a cool looking tree farm.",
+    "translation": "Using a \u0026aMechanical Saw\u0026r from \u00266Create\u0026r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a \u0026aDeployer\u0026r to plant the saplings back, and you'll have a cool looking tree farm.",
+    "context": "chapters/resource_generation.snbt / quest 48B3D104BEFE1959",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.48B3D104BEFE1959.title": {
+    "original": "Contraption Cutting",
+    "translation": "砍樹裝置",
+    "context": "chapters/resource_generation.snbt / quest 48B3D104BEFE1959",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4A8581D52BD1922B.quest_desc": {
+    "original": "To get more advanced types of \u0026bFluid Cows\u0026r, you'll need to breed specific cows together to get \u0026cMolten Alloy\u0026r \u0026bFluid Cows\u0026r.\n\nFor example, you can breed an \u0026aIron\u0026r cow with a \u0026eNickel\u0026r cow to make an \u00267Invar\u0026r \u0026bFluid Cow\u0026r.\n\nTo help navigate JEI better, the \u0026aAlchemy Glass\u0026r from the quest reward will show you the different breeding combos.\n\nYou can also search up specific molten metals in JEI to see what you need to breed.",
+    "translation": "若要取得更高階的\u0026b流體牛\u0026r，你需要將特定的牛隻進行配種，以獲得\u0026c熔融合金\u0026r類型的\u0026b流體牛\u0026r。\n\n例如：你可以將\u0026a鐵\u0026r牛與\u0026e鎳\u0026r牛進行繁殖，來獲得\u00267不變鋼\u0026r\u0026b流體牛\u0026r。\n\n為了幫助你更輕鬆地查詢 JEI，\n任務獎勵提供的\u0026a煉金玻璃\u0026r，會顯示所有的繁殖組合。\n\n你也可以在 JEI 中直接搜尋特定的熔融金屬，\n查看需要哪些牛來進行繁殖。",
+    "context": "chapters/resource_generation.snbt / quest 4A8581D52BD1922B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4A8581D52BD1922B.title": {
+    "original": "Fluid Cow Breeding",
+    "translation": "繁殖流體牛",
+    "context": "chapters/resource_generation.snbt / quest 4A8581D52BD1922B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4BEBF37F66E48801.quest_desc": {
+    "original": "If you feed a \u0026bFluid Cow\u0026r a bucket of milk, they will revert back to a regular cow.",
+    "translation": "若你將一桶鮮奶餵給\u0026b流體牛\u0026r，牠們會變回普通的牛。",
+    "context": "chapters/resource_generation.snbt / quest 4BEBF37F66E48801",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4BEBF37F66E48801.title": {
+    "original": "I Take It Back",
+    "translation": "窩要退貨",
+    "context": "chapters/resource_generation.snbt / quest 4BEBF37F66E48801",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4CE414ADD47790B2.quest_desc": {
+    "original": "\u0026aReplicators\u0026r can be sped up using \u0026dReplicator Enclosures\u0026r, which can be Sneak+Right-clicked onto the \u0026aReplicator\u0026r to install it.\n\nYou can also configure speeds by installing a \u0026aReplicator Motor\u0026r. To craft the motor, you'll need to first craft the \u0026dMatter Blueprint\u0026r for the motor.\n{@pagebreak}\nPlace this into an \u0026aIdentification Chamber\u0026r with a \u0026dMemory Chip\u0026r to teach your system how to replicate it, then craft it from the \u0026aReplication Terminal\u0026r.\n\nOnce installed into a \u0026aReplicator\u0026r, you can configure its speed. The fastest it can go is 20%, but increases the chance for the replication to fail.",
+    "translation": "\u0026a複製器\u0026r可透過\u0026d複製器外殼罩\u0026r加速，安裝方式是對著\u0026a複製器\u0026r「潛行 + 點擊右鍵」。\n\n你也可以安裝\u0026a複製器馬達\u0026r來調整速度。\n\n若要製作馬達，需要先製作該馬達的\u0026d物質藍圖\u0026r。\n{@pagebreak}\n將藍圖與\u0026d記憶體晶片\u0026r一起放入\u0026a鑑定室\u0026r，讓系統學會如何複製，之後再到\u0026a複製終端機\u0026r製作。\n\n馬達裝入\u0026a複製器\u0026r後即可調整速度。最高可設為 20%，\n\n但也會提高複製失敗的機率。",
+    "context": "chapters/resource_generation.snbt / quest 4CE414ADD47790B2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.50E133C3E351255E.quest_desc": {
+    "original": "Why use machines to create resources when you can grow some chickens from the mod \u0026eRoost Ultimate\u0026r!\n\nThis mod contains a chicken type for most resources in the pack, with the only exception being alloys. You can make Fluid Cows for those!\n\nOnce you've gotten your hands on an egg and a feather, you should make the \u0026aChicken Stick\u0026r. This serves as the wrench for the mod, and allows you to pick up chickens from the world.",
+    "translation": "既然你能透過《\u0026e雞舍\u0026r》模組養雞，那何必還要使用機器來生產資源呢！\n\n這款模組包含模組包中，大多數資源類型的雞，唯一的例外是合金。但合金你可以透過「流體牛」來解決！\n\n一旦你入手了雞蛋與羽毛，你應該製作一根\u0026a雞棒\u0026r。它在這模組中具有扳手的功能，且能讓你將世界上的雞撿起來。",
+    "context": "chapters/resource_generation.snbt / quest 50E133C3E351255E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.50E133C3E351255E.quest_subtitle": {
+    "original": "Roost Ultimate",
+    "translation": "《雞舍》模組",
+    "context": "chapters/resource_generation.snbt / quest 50E133C3E351255E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.50E133C3E351255E.title": {
+    "original": "\u0026fChickens!!",
+    "translation": "\u0026f雞舍開幕！！",
+    "context": "chapters/resource_generation.snbt / quest 50E133C3E351255E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.517AAA103D89A14F.quest_desc": {
+    "original": "The \u00266Chicken Trainer\u0026r is a gym for your chickens to level up.\n\nIf you want to beef up your chickens fast, you place them in the trainer and feed them tiered seeds.\n\nInstead of producing materials, the seeds will be consumed and give full experience to the chickens.",
+    "translation": "\u00266雞訓練所\u0026r是讓你的雞升級的健身房。\n\n若你想快速強化你的雞，就把牠們放進訓練所，並餵食階級種子。\n\n這時種子不會用來生產材料，而是會被消耗並給予雞滿滿的經驗值。",
+    "context": "chapters/resource_generation.snbt / quest 517AAA103D89A14F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.517AAA103D89A14F.quest_subtitle": {
+    "original": "Queue Training Montage",
+    "translation": "排隊訓練蒙太奇",
+    "context": "chapters/resource_generation.snbt / quest 517AAA103D89A14F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.517AAA103D89A14F.title": {
+    "original": "Hitting The Gym",
+    "translation": "去健身房運動",
+    "context": "chapters/resource_generation.snbt / quest 517AAA103D89A14F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.52ADC3D46CCB2659.quest_desc": {
+    "original": "\u0026aApotheosis\u0026r provides the ability to relocate and upgrade \u0026dMob Spawners\u0026r that can be great for making your own mob farms. To move a spawner, break it with a pickaxe that has \u0026bsilk touch\u0026r on it.\n\nMob spawners can be changed by using a \u0026aMob Egg\u0026r on them, allowing you to create your own custom spawners. Using specific items on the spawners will also upgrade them to be faster, ignore spawning rules, and more!\n\nTo learn more about which items to use, check the recipes in JEI for a spawner.",
+    "translation": "《\u0026a神化\u0026r》提供了搬移與升級\u0026d生怪磚\u0026r的能力，這對於建造刷怪塔非常有幫助。\n\n要移動生怪磚，只需使用帶有\u0026b絲綢之觸\u0026r附魔的十字鎬將其挖掘即可。\n\n你可以對著生怪磚使用\u0026a生怪蛋\u0026r，來變更其生成的生物。\n\n在生怪磚上使用特定的物品，還能對其進行升級，使其生成速度更快、無視生成條件等等！\n\n若要進一步了解可使用的升級物品，請在 JEI 中查看生怪磚\n的相關配方。",
+    "context": "chapters/resource_generation.snbt / quest 52ADC3D46CCB2659",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.52ADC3D46CCB2659.title": {
+    "original": "Apotheosis Spawners",
+    "translation": "《神化》生怪磚",
+    "context": "chapters/resource_generation.snbt / quest 52ADC3D46CCB2659",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.537DE7A354AF8E9E.quest_desc": {
+    "original": "\u0026bMob Grinding Utils\u0026r provides easy to use blocks to move mobs around in your mob farms.\n\nThe \u0026aMob Fan\u0026r can push mobs away from it, and can be upgraded to increase its work area.\n\nThe \u0026aEntity Conveyor\u0026r is a floor block that pushes mobs in the direction of its arrow. The player can sneak while on top to negate the effect.",
+    "translation": "《\u0026b刷怪塔實用設備\u0026r》提供了許多易於使用的方塊，讓你能在刷怪塔中隨意移動生物。\n\n\u0026a生物風扇\u0026r能將生物朝其面對方向推動，還能透過安裝升級擴大運作範圍。\n\n\u0026a實體輸送器\u0026r是一種地板方塊，會將生物朝箭頭指示方向輸送。\n\n玩家站在輸送器上方時，可以透過「潛行」來抵銷輸送效果。",
+    "context": "chapters/resource_generation.snbt / quest 537DE7A354AF8E9E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.537DE7A354AF8E9E.title": {
+    "original": "\u0026fMoving Mobs",
+    "translation": "\u0026f搬移生物",
+    "context": "chapters/resource_generation.snbt / quest 537DE7A354AF8E9E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.53C947D1E96420A1.quest_desc": {
+    "original": "Using an \u0026aAtomic Reconstructor\u0026r, you can install a \u0026dLens of the Miner\u0026r to zap certain stone blocks into ores using power.\n\nThis Lens can convert Stone, Deepslate, and Netherrack into ores.\n\nWhen automated, this can be really strong for ore generation!",
+    "translation": "使用\u0026a原子重構機\u0026r時，你可以安裝\u0026d礦工透鏡\u0026r，透過消耗能量將特定石材「電」成礦物。\n\n這種透鏡可以將石頭、深板岩，以及地獄石轉化成礦石。\n\n完成自動化後，這將會是非常強大的礦物產生手段！",
+    "context": "chapters/resource_generation.snbt / quest 53C947D1E96420A1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.551964C1A41FA3D0.quest_desc": {
+    "original": "To get chickens for the higher tier materials, you'll need to breed specific chickens together in a \u0026aBreeder\u0026r.\n\nFor breeding to be successful, you'll need to provide 2 chickens and a specific tier of seed for the chicken you are trying to breed for. JEI will be your best friend when finding breeding recipes!\n\nTo see which tier of seed that you need, make sure to hover over the seed in the recipe while in JEI. This will show you a tooltip with the required seed tier.",
+    "translation": "若要取得生產更高階材料的雞，你需要在\u0026a雞繁殖所\u0026r中，將特定的雞進行配種。\n\n為了成功繁殖，你需要提供 2 隻雞，以及你想繁殖出的雞種，其所需的\n指定階級種子。\n\n在尋找繁殖配方時，JEI 將會是你最佳的夥伴！\n\n要查看你需要哪個階級的種子，請確保在 JEI 配方中，\n\n將滑鼠游標懸停在種子上方。所需的種子階級，將會顯示於工具提示中。",
+    "context": "chapters/resource_generation.snbt / quest 551964C1A41FA3D0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.551964C1A41FA3D0.title": {
+    "original": "Breeding Chickens",
+    "translation": "繁殖雞",
+    "context": "chapters/resource_generation.snbt / quest 551964C1A41FA3D0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5624865A6F796087.quest_desc": {
+    "original": "The \u0026aReplicator\u0026r is the core working machine of your matter network.\n\nOnce an item is set in a \u0026dMemory Chip\u0026r and requested from a \u0026aReplication Terminal\u0026r, the job is sent to available \u0026aReplicators\u0026r to be crafted using stored matter.",
+    "translation": "\u0026a複製器\u0026r是你物質網路的核心工作機器。\n\n當物品資料寫入\u0026d記憶體晶片\u0026r，並從\u0026a複製終端機\u0026r發出請求後，任務就會送到可用的\u0026a複製器\u0026r，消耗儲存物質進行製作。",
+    "context": "chapters/resource_generation.snbt / quest 5624865A6F796087",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A7056F1FB256B5F.quest_desc": {
+    "original": "This chapter outlines most of the different ways to automate generating resources!",
+    "translation": "本章節為你重點標示出了用來自動生產資源的大多數方式！",
+    "context": "chapters/resource_generation.snbt / quest 5A7056F1FB256B5F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A793B307C82AB91.quest_desc": {
+    "original": "The \u00262Geologist\u0026r is a master of hard materials, and can work through \u00262Cobblestone\u0026r, \u00267Gravel\u0026r, \u0026aSoul Sand\u0026r, and \u0026aCrushed Kivi\u0026r. They require a \u0026aSalvaging Table\u0026r as a workstation.\n\nThis worker can be a great source for generating most ore chunks and gems depending on their level.\n\nThe \u00262Geologist\u0026r is one of the only sources for generating items like \u0026aXychorium Gems\u0026r and \u0026aBlack Quartz\u0026r.",
+    "translation": "\u00262地質學家\u0026r是處理硬質材料的專家，可以處理：\u00262鵝卵石\u0026r、\u00267礫石\u0026r、\u0026a靈魂砂\u0026r，以及\u0026a粉碎奇石\u0026r。\n\n他們需要\u0026a分解台\u0026r作為工作站。\n\n這位工人可以根據等級，為你產出大多數的碎礦與寶石。\n\n\u00262地質學家\u0026r也是極少數能產出\u0026a幻晶寶石\u0026r與\u0026a黑石英\u0026r的管道！",
+    "context": "chapters/resource_generation.snbt / quest 5A793B307C82AB91",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A793B307C82AB91.title": {
+    "original": "Geologist",
+    "translation": "地質學家",
+    "context": "chapters/resource_generation.snbt / quest 5A793B307C82AB91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5CD7299E8709E7F6.quest_desc": {
+    "original": "The \u0026aWorker Token\u0026r that the villager converted into was just an example of what the \u0026aEcho Encoder\u0026r can do.\n\nIf you encode villagers with specific jobs, you can put them to work for you in an \u00262Unearther\u0026r.\n\nThis is a 3x3x3 block that allows you to automate block brushing. All it requires is a little Villager labor!\n\n\u0026o\u00267The Unearther supports automatic item input and output via hoppers and pipes.",
+    "translation": "將村民轉換為\u0026a勞工令牌\u0026r只是\u0026a回聲編碼工具\u0026r使用方法的一種示範。\n\n假如你將特定職業的村民編碼的話，你可以將他們放入\u00262資源發掘站\u0026r中為你工作。\n\n它是一種能夠讓你自動化刷掃方塊的 3x3x3 方塊。\n它唯一的一項需求就是少許的村民勞工！\n\n\u0026o\u00267資源發掘站支援使用漏斗或管道進行自動化物品輸入／輸出",
+    "context": "chapters/resource_generation.snbt / quest 5CD7299E8709E7F6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5CD7299E8709E7F6.quest_subtitle": {
+    "original": "Automation",
+    "translation": "自動化",
+    "context": "chapters/resource_generation.snbt / quest 5CD7299E8709E7F6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5CD7299E8709E7F6.title": {
+    "original": "\u0026fPutting Villagers To Work",
+    "translation": "\u0026f讓村民工作起來",
+    "context": "chapters/resource_generation.snbt / quest 5CD7299E8709E7F6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D3ED71A2ADB7F8E.quest_subtitle": {
+    "original": "Crafted with Netherite Chicken",
+    "translation": "用獄髓雞合成",
+    "context": "chapters/resource_generation.snbt / quest 5D3ED71A2ADB7F8E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.60B8D5DAA4BA7DC4.quest_desc": {
+    "original": "\u0026eReplication: Matter Overflow\u0026f allows you to craft \u0026aOverflow Tanks\u0026r that will automatically void excess matter of its set type.\n\nYou should make one for each matter type and lock them so that excess matter always has somewhere to go and won't overflow into other tanks in your network.",
+    "translation": "《\u0026e複製科技：物質溢出\u0026f》可讓你製作\u0026a溢出儲罐\u0026r，自動銷毀指定類型的多餘物質。\n\n建議每種物質都做一個並鎖定類型，讓多餘物質永遠有去處，而不會溢出到網路中的其他儲罐。",
+    "context": "chapters/resource_generation.snbt / quest 60B8D5DAA4BA7DC4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.60B8D5DAA4BA7DC4.title": {
+    "original": "Too Much Matter",
+    "translation": "物質太多了",
+    "context": "chapters/resource_generation.snbt / quest 60B8D5DAA4BA7DC4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.60BBE214131DF6EB.quest_desc": {
+    "original": "Once you have a Data Model for a mob, you'll need to level it up to at least the \u0026aBasic\u0026r tier by killing that type of mob.\n\nWhen provided with a \u00262Prediction Matrix\u0026r and power, the \u0026aSimulation Chamber\u0026r will run simulations as if you were killing that specific mob.\n\nIf the simulation fails, you'll get a \u0026bGeneralized Prediction\u0026r. If it succeeds, you'll get that mob's \u00266Prediction\u0026r.\n\nThis \u00266Prediction\u0026r can be run through a \u0026dLoot Fabricator\u0026r to create loot!",
+    "translation": "一旦你獲得了某種生物的\u0026c資料模型\u0026r，就必須透過擊殺該生物，將模型等級提升至\u0026a基礎\u0026r。\n\n當提供了\u00262預測矩陣\u0026r與能量後，\u0026a戰鬥模擬室\u0026r就會開始模擬戰鬥，效果等同於你正在擊殺該特定生物。\n\n若戰鬥模擬失敗，你會獲得\u0026b通用化預測產物\u0026r；若戰鬥模擬成功，你則會獲得該生物專屬的\u00266預測產物\u0026r。\n\n這些\u00266預測產物\u0026r可以放入\u0026d戰利品製造機\u0026r中，生產對應生物的戰利品！",
+    "context": "chapters/resource_generation.snbt / quest 60BBE214131DF6EB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.60BBE214131DF6EB.title": {
+    "original": "Simulating Loot",
+    "translation": "模擬戰利品",
+    "context": "chapters/resource_generation.snbt / quest 60BBE214131DF6EB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67AD604F2C4E5CC9.quest_desc": {
+    "original": "Not every \u0026bFluid Cow\u0026r can be made by breeding or using the \u0026aClapple\u0026r.\n\nThere are a few other items that you can feed to a cow to create specific types of \u0026bFluid Cows\u0026r, like an \u0026dEye of Ender\u0026r that creates a \u0026cMolten Ender\u0026r cow, a \u0026dBlaze Rod\u0026r creates a \u0026cLava\u0026r cow...\n\nThe \u0026bLatex\u0026r cow is also pretty nice.\n\nFeeding a fluid cow a \u0026bBucket of Milk\u0026r will reset them to a normal cow.",
+    "translation": "並非所有的\u0026b流體牛\u0026r都能透過繁殖，或餵食\u0026a黏土蘋果\u0026r獲得。\n\n還有一些特定物品，可以餵給牛來產生特殊類型的\u0026b流體牛\u0026r，\n例如餵食\u0026d終界之眼\u0026r會產生\u0026c熔融終界\u0026r牛，餵食\u0026d烈焰桿\u0026r會產生\u0026c熔岩\u0026r牛......。\n\n\u0026b乳膠\u0026r牛也是個很棒的選擇。\n\n對著流體牛餵食\u0026b鮮奶桶\u0026r，將會使其重置回一般的牛。",
+    "context": "chapters/resource_generation.snbt / quest 67AD604F2C4E5CC9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.67AD604F2C4E5CC9.title": {
+    "original": "Special Fluid Cows",
+    "translation": "特殊流體牛",
+    "context": "chapters/resource_generation.snbt / quest 67AD604F2C4E5CC9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6A67A14C8770B8C5.quest_desc": {
+    "original": "The \u0026cLava\u0026r and \u0026bWater\u0026r chickens are craftable Tier 2 chickens!\n\nThese chickens can be used to get some \u0026aTier 2 Souls\u0026r, which means \u00262Tier 2 Seeds\u0026r.",
+    "translation": "\u0026c熔岩\u0026r和\u0026b水\u0026r雞是可合成的 2 階雞！\n\n這些雞可用來取得 \u0026aT2 靈魂\u0026r，也就是 \u00262T2 種子\u0026r。",
+    "context": "chapters/resource_generation.snbt / quest 6A67A14C8770B8C5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A67A14C8770B8C5.title": {
+    "original": "\u0026fCraftable Tier 2 Chickens",
+    "translation": "\u0026f可合成的 2 階雞種",
+    "context": "chapters/resource_generation.snbt / quest 6A67A14C8770B8C5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6F53C65C3131B68A.quest_desc": {
+    "original": "The \u00262Archaeologist\u0026r is a master of soft materials, and can work through \u00262Dirt\u0026r, \u0026eSand\u0026r, \u0026eDust\u0026r, and \u00267Mud\u0026r. They require a \u0026aDecorated Pot\u0026r as a workstation.\n\nThis worker can be a great source for generating seeds, clay, and more unique ore chunks like \u00262Uranium\u0026r.\n\nA level 4 \u00262Archaeologist\u0026r is a great way to get \u0026dArchwood Saplings\u0026r!",
+    "translation": "\u00262考古學家\u0026r是處理軟質材料的專家，可以處理：\u00262泥土\u0026r、\u0026e沙\u0026r、\u0026e塵土\u0026r以及\u00267泥巴\u0026r。\n\n他們需要\u0026a飾紋陶罐\u0026r作為工作站。\n\n這位工人是取得種子、黏土，以及各種獨特碎礦（例如\u00262鈾\u0026r）的絕佳來源。\n\n4 級的\u00262考古學家\u0026r更是取得\u0026d至高木樹苗\u0026r的重要管道！",
+    "context": "chapters/resource_generation.snbt / quest 6F53C65C3131B68A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6F53C65C3131B68A.title": {
+    "original": "\u0026fThe Archaeologist\u0026r",
+    "translation": "\u0026f考古學家\u0026r",
+    "context": "chapters/resource_generation.snbt / quest 6F53C65C3131B68A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6F91297C4FAA43FE.quest_desc": {
+    "original": "The \u0026dDimensionalist\u0026r is a master of other-worldy materials, and can brush through \u0026cNetherrack\u0026r, \u0026eEnd Stone\u0026r, and \u00267Otherrock\u0026r. They require a \u0026aResonanz Engineering Block\u0026r as a workstation.\n\nThis is an advanced worker that allows you to acquire some of the rarer materials like \u0026aPlatinum\u0026r and \u0026bDimensional Shards\u0026r.\n\nA level 4 \u0026dDimensionalist\u0026r is required to get \u0026aReplica Ore\u0026r and \u0026aDraconium Dust\u0026r.",
+    "translation": "\u0026d維度學家\u0026r是處理異界材料的專家，可以刷掃：\u0026c地獄石\u0026r、\u0026e終界石\u0026r，以及\u00267異界岩\u0026r。\n\n他們需要\u0026a共振工程方塊\u0026r作為工作站。\n\n這是一位高階工人，能讓你取得一些更稀有的材料，像是\u0026a鉑\u0026r與\u0026b維度碎片\u0026r。\n\n必須擁有 4 級的\u0026d維度學家\u0026r，才能獲得\u0026a複鑄礦\u0026r與\u0026a龍塵\u0026r。",
+    "context": "chapters/resource_generation.snbt / quest 6F91297C4FAA43FE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6F91297C4FAA43FE.title": {
+    "original": "Dimensionalist",
+    "translation": "維度學家",
+    "context": "chapters/resource_generation.snbt / quest 6F91297C4FAA43FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.705E4FFB4FCADFD1.quest_desc": {
+    "original": "You can extract matter from items using the \u0026aDisintegrator\u0026r.\n\nThis matter will need to be stored into \u0026aMatter Tanks\u0026r for later use, and can be piped between machines and tanks using \u0026eMatter Network Pipes\u0026r.",
+    "translation": "你可以使用\u0026a粉碎機\u0026r從物品中提取\u0026b物質\u0026r。\n\n這些物質需要先存入\u0026a物質儲罐\u0026r以便後續使用，並可透過\u0026e物質網路管道\u0026r，在機器與儲罐之間傳輸。",
+    "context": "chapters/resource_generation.snbt / quest 705E4FFB4FCADFD1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.705E4FFB4FCADFD1.title": {
+    "original": "Creating Matter",
+    "translation": "建立物質",
+    "context": "chapters/resource_generation.snbt / quest 705E4FFB4FCADFD1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.70C02FCA0C7B8777.quest_desc": {
+    "original": "Chickens have \u0026bTiers\u0026r depending on the resource they can create. This \u0026bTier\u0026r determines what tier of seed that they will need to eat. These seeds require \u0026dSouls\u0026r to make.\n\nYou'll need to make a \u0026dSoul Extractor\u0026r to extract \u0026btiered souls\u0026r from chickens to make the seeds.\n\nThankfully, you will only need one seed of each tier, then you can plant them and squat-grow them!\n\n\u0026eNote\u0026r: The \u00266World Engine\u0026r can also craft soul upgrades.",
+    "translation": "雞會根據其生產的資源，而被分為不同\u0026b階級\u0026r。\n\n這個\u0026b階級\u0026r決定了牠們需要吃哪種階級的種子。製作這些種子會需要\u0026d靈魂\u0026r。\n\n你需要製作一台\u0026d靈魂提取器\u0026r，從雞身上提取\u0026b階級靈魂\u0026r來製作種子。\n\n謝天謝地，每個階級你只需要製作一顆種子，之後你就可以將其種下，並透過反覆蹲下的舞步來將它催熟！\n\n\u0026e注意\u0026r：\u00266世界引擎\u0026r也可以製作靈魂升級。",
+    "context": "chapters/resource_generation.snbt / quest 70C02FCA0C7B8777",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.70C02FCA0C7B8777.quest_subtitle": {
+    "original": "Use the Chickens to Breed the Chickens",
+    "translation": "使用雞來繁殖雞",
+    "context": "chapters/resource_generation.snbt / quest 70C02FCA0C7B8777",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.70C02FCA0C7B8777.title": {
+    "original": "Soul Extracting and Seeds",
+    "translation": "靈魂提取與種子",
+    "context": "chapters/resource_generation.snbt / quest 70C02FCA0C7B8777",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.72934B141A741423.quest_subtitle": {
+    "original": "Yellow + Iron",
+    "translation": "黃色 + 鐵",
+    "context": "chapters/resource_generation.snbt / quest 72934B141A741423",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.73268E8255CBB44A.quest_desc": {
+    "original": "By making a \u0026aSoul Vial\u0026r, you can Sneak+Right-click on a mob to capture its soul.\n\nYou can combine this soul with a \u0026aBroken Spawner\u0026r inside of a \u0026dSoul Binder\u0026r to infuse the spawner with that mob's soul.\n\nCrafting a \u00262Powered Spawner\u0026r using that infused spawner will create your own powered version of a spawner!",
+    "translation": "使用\u0026a靈魂瓶\u0026r，對著生物「Shift + 點擊右鍵」來捕捉其靈魂。\n\n你可以在\u0026d靈魂綁定器\u0026r中，將此靈魂與\u0026a損壞的生怪磚\u0026r結合，將該生物的靈魂注入到生怪磚中。\n\n接著將此注入靈魂的生怪磚，用於合成\u00262電動生怪磚\u0026r，就能使用能量來生成你想要的生物！",
+    "context": "chapters/resource_generation.snbt / quest 73268E8255CBB44A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.73268E8255CBB44A.quest_subtitle": {
+    "original": "EnderIO",
+    "translation": "EnderIO",
+    "context": "chapters/resource_generation.snbt / quest 73268E8255CBB44A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.73268E8255CBB44A.title": {
+    "original": "\u0026fCustom Spawners",
+    "translation": "\u0026f自訂生怪磚",
+    "context": "chapters/resource_generation.snbt / quest 73268E8255CBB44A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.74CC5FF2097C0839.quest_desc": {
+    "original": "\u00266Hostile Neural Networks\u0026r (or \u00266HNN\u0026r for short) allows you to collect data from a mob to harvest its drops in the form of \u0026bPredictions\u0026r.\n\nTo get started with the mod, start off by creating a \u0026aModel Framework\u0026r and right-clicking it on a mob to gather its \u0026cData Model\u0026r.\n\nNext, you'll want to craft a \u00262Deep Learner\u0026r and place the \u0026cData Model\u0026r inside of it. Once inside, every kill for that mob will allow you to improve the \u0026bData Model\u0026r.\n\n\u0026eNote\u0026r: You will need the \u0026bChroniton Glass\u0026r \u00266World Engine Upgrade\u0026r to use this mod.",
+    "translation": "《\u00266敵對勢力神經網路\u0026r》（或簡稱《\u00266HNN\u0026r》）讓你能夠收集生物的資料，並以\u0026b預測物質\u0026r的形式來產出其掉落物。\n\n要開始使用此模組，首先製作一個\u0026a模型框架\u0026r，並對著生物按下右鍵，以取得該生物的\u0026c資料模型\u0026r。\n\n接下來，你需要製作一台\u00262深度學習機\u0026r，並將\u0026c資料模型\u0026r放入其中。\n\n當模型放入學習機後，每當你擊殺該生物時，都能提升該\u0026c資料模型\u0026r的等級。\n\n\u0026e注意\u0026r：在使用此模組之前，你需要先擁有\u0026b時空粒子玻璃\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/resource_generation.snbt / quest 74CC5FF2097C0839",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.74CC5FF2097C0839.title": {
+    "original": "Server Friendly Mob Farming",
+    "translation": "對伺服器友善的刷怪方式",
+    "context": "chapters/resource_generation.snbt / quest 74CC5FF2097C0839",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.76482BDD2CD6CB8E.quest_desc": {
+    "original": "\u00266Occultism\u0026r has a \u0026aLumberjack Foliot\u0026r that you can summon to cut down trees for you.\n\nThis can be a very magical way of creating a simple tree farm!",
+    "translation": "\u00266《神秘學》\u0026r模組有著一隻能夠召喚來為你砍樹的\u0026a魔精伐木工\u0026r。\n\n這是一個非常魔法化的用來製造簡易樹場的方式！",
+    "context": "chapters/resource_generation.snbt / quest 76482BDD2CD6CB8E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.76482BDD2CD6CB8E.title": {
+    "original": "Demon Tree Farming",
+    "translation": "惡魔樹場",
+    "context": "chapters/resource_generation.snbt / quest 76482BDD2CD6CB8E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0D9BCEFBD92A6E7F.title": {
+    "original": "Dimensionalist Brushing Blocks",
+    "translation": "維度學家能夠刷掃的方塊",
+    "context": "chapters/resource_generation.snbt / task 0D9BCEFBD92A6E7F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0E1BCAE9F0367A8B.title": {
+    "original": "Geologist Brushing Blocks",
+    "translation": "地質學家能夠刷掃的方塊",
+    "context": "chapters/resource_generation.snbt / task 0E1BCAE9F0367A8B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.14E50AE68E2967C5.title": {
+    "original": "Cow Catalyst",
+    "translation": "牛催化劑",
+    "context": "chapters/resource_generation.snbt / task 14E50AE68E2967C5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1726EF3A700E7F17.title": {
+    "original": "Craftable Chickens",
+    "translation": "可合成的雞種",
+    "context": "chapters/resource_generation.snbt / task 1726EF3A700E7F17",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.25B4028ACF0AA25B.title": {
+    "original": "Archaeologist Brush Blocks",
+    "translation": "考古學家能夠刷掃的方塊",
+    "context": "chapters/resource_generation.snbt / task 25B4028ACF0AA25B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.266AF5D6914A2BA5.title": {
+    "original": "Chicken Soul",
+    "translation": "Chicken Soul",
+    "context": "chapters/resource_generation.snbt / task 266AF5D6914A2BA5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.268850BC9199AE77.title": {
+    "original": "Observe A \u0026bFluid Cow\u0026r",
+    "translation": "觀察一隻\u0026b流體牛\u0026r",
+    "context": "chapters/resource_generation.snbt / task 268850BC9199AE77",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.46201BC3BAE0D15A.title": {
+    "original": "Mekanism Lasers",
+    "translation": "Mekanism Lasers",
+    "context": "chapters/resource_generation.snbt / task 46201BC3BAE0D15A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4F48BE06A8542822.title": {
+    "original": "Items For Moving Mobs",
+    "translation": "用於移動生物的方塊",
+    "context": "chapters/resource_generation.snbt / task 4F48BE06A8542822",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.54C8C7E72F5D069E.title": {
+    "original": "Generating Resources",
+    "translation": "資源生產",
+    "context": "chapters/resource_generation.snbt / task 54C8C7E72F5D069E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5C6B2370E7B8E980.title": {
+    "original": "Occultism Miners",
+    "translation": "《神祕學》魔精礦工",
+    "context": "chapters/resource_generation.snbt / task 5C6B2370E7B8E980",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6166C057F795A2CB.title": {
+    "original": "Loads of Matter",
+    "translation": "物質載入",
+    "context": "chapters/resource_generation.snbt / task 6166C057F795A2CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

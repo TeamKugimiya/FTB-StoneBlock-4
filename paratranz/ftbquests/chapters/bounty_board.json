@@ -1,0 +1,866 @@
+{
+  "chapter.4F0F16931654DF58.title": {
+    "original": "Bounty Board",
+    "translation": "懸賞板",
+    "context": "chapters/bounty_board.snbt / chapter 4F0F16931654DF58",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0065DA4214B7B303.quest_desc": {
+    "original": "The \u0026eAncient Remnant\u0026r can be found within an \u0026dOtherworld Dungeon\u0026r.\n\nThese are found scattered throughout the \u0026dVoid Chasm\u0026r ring.",
+    "translation": "\u0026e遠古骸龍法老\u0026r出現於\u0026d異界地牢\u0026r結構之中。\n\n你能夠在\u0026d虛空斷層\u0026r環帶中找到這些地牢。",
+    "context": "chapters/bounty_board.snbt / quest 0065DA4214B7B303",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0065DA4214B7B303.title": {
+    "original": "Kill The \u00266Ancient Remnant\u0026r",
+    "translation": "\u00266遠古骸龍法老\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 0065DA4214B7B303",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.040795388568AB69.quest_desc": {
+    "original": "The \u0026dEnder Guardian\u0026r is found within the \u0026eRuined Citadel\u0026r structure.\n\nYou can find this structure in the \u0026eEnd\u0026r ring. ",
+    "translation": "\u0026d終界守衛\u0026r出現於\u0026e廢棄堡壘\u0026r結構之中。\n\n你能夠在\u0026e終界\u0026r環帶中找到該結構。",
+    "context": "chapters/bounty_board.snbt / quest 040795388568AB69",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.040795388568AB69.title": {
+    "original": "Kill The \u0026dEnder Guardian\u0026r",
+    "translation": "\u0026d終界守衛\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 040795388568AB69",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.099481C1F0718B67.quest_desc": {
+    "original": "The \u0026#FCD205Priest\u0026r can be found in the \u0026dTale of a Priest who knew too much!\u0026r Gateway.",
+    "translation": "\u0026#FCD205牧師\u0026r出現於\u0026d僭越牧師的故事\u0026r傳送門當中。",
+    "context": "chapters/bounty_board.snbt / quest 099481C1F0718B67",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.099481C1F0718B67.title": {
+    "original": "Kill The \u0026#FCD205Priest",
+    "translation": "\u0026#FCD205牧師\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 099481C1F0718B67",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0DF48D4589272952.title": {
+    "original": "\u0026fPlay For \u0026a10 Hours",
+    "translation": "遊玩時數：「\u0026a10 小時\u0026f」",
+    "context": "chapters/bounty_board.snbt / quest 0DF48D4589272952",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1237537100194BED.title": {
+    "original": "\u0026eKill\u0026f: \u00267Wither",
+    "translation": "\u0026e殺死\u0026f：\u00267凋零怪",
+    "context": "chapters/bounty_board.snbt / quest 1237537100194BED",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.160C4C63A3CEACE1.title": {
+    "original": "Fortron Infused Block Trade",
+    "translation": "力場子世界引擎升級",
+    "context": "chapters/bounty_board.snbt / quest 160C4C63A3CEACE1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.19C696F8143FB1B6.title": {
+    "original": "\u00266Awakened Draconium \u0026fTrade",
+    "translation": "\u00266覺醒龍金屬\u0026r交易",
+    "context": "chapters/bounty_board.snbt / quest 19C696F8143FB1B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1CA8D89EE7C50CFD.title": {
+    "original": "Kill Shulkers",
+    "translation": "界伏蚌擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 1CA8D89EE7C50CFD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1FE2B36C234A35C9.quest_desc": {
+    "original": "The \u00262Apothecarist\u0026r can be found in the \u0026aTale of Life and Death\u0026r Gateway.",
+    "translation": "\u0026#FCD205藥劑師\u0026r出現於\u0026d生與死的故事\u0026r傳送門當中。",
+    "context": "chapters/bounty_board.snbt / quest 1FE2B36C234A35C9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1FE2B36C234A35C9.title": {
+    "original": "Kill The \u00262Apothecarist",
+    "translation": "\u00262藥劑師\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 1FE2B36C234A35C9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.20D7DA6055C540FA.quest_desc": {
+    "original": "Most quests in the Bounty Board are repeatable and \u0026arefresh every 24 hours\u0026r!\n\nThe clock task in each quest will show the cooldown once you've collected your rewards.",
+    "translation": "懸賞板中的大多數任務都可重複完成，\n每隔\u0026a 24 小時\u0026r會重置一次！\n\n你能夠在每個任務中的時鐘看到經過的冷卻時間。",
+    "context": "chapters/bounty_board.snbt / quest 20D7DA6055C540FA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.20D7DA6055C540FA.title": {
+    "original": "Quest Timers",
+    "translation": "任務計時器",
+    "context": "chapters/bounty_board.snbt / quest 20D7DA6055C540FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2A456EFB14ECA6C2.title": {
+    "original": "Kill The \u0026dWilden Chimera",
+    "translation": "\u0026d荒野奇美拉\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 2A456EFB14ECA6C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2B21D8D19E0413AC.quest_desc": {
+    "original": "The \u0026cDead King\u0026r can be found in the \u0026aCatacombs\u0026r with the \u00263Stone\u0026r and \u00267Deepslate\u0026r layers.",
+    "translation": "\u0026c死者之王\u0026r出現於\u00263石頭\u0026r環帶或\u00267深板岩\u0026r環帶中的\u0026a地下墓穴\u0026r結構之中。",
+    "context": "chapters/bounty_board.snbt / quest 2B21D8D19E0413AC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2B21D8D19E0413AC.title": {
+    "original": "Kill The \u0026cDead King",
+    "translation": "\u0026c死者之王\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 2B21D8D19E0413AC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2B86CBB61E10051F.quest_desc": {
+    "original": "The \u0026cPyromancer\u0026r can be found in the \u0026cTale of Ice and Fire\u0026r Gateway.",
+    "translation": "\u0026c熾焰術士\u0026r出現於\u0026c生與死的故事\u0026r傳送門當中。",
+    "context": "chapters/bounty_board.snbt / quest 2B86CBB61E10051F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2B86CBB61E10051F.title": {
+    "original": "Kill The \u0026cPyromancer",
+    "translation": "\u0026c熾焰術士\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 2B86CBB61E10051F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2D178651FB267E91.title": {
+    "original": "Marks of Mastery Trade",
+    "translation": "精通之印交易",
+    "context": "chapters/bounty_board.snbt / quest 2D178651FB267E91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2EC3F054AB506916.title": {
+    "original": "Advanced Machine Block Trade",
+    "translation": "高級機器方塊交易",
+    "context": "chapters/bounty_board.snbt / quest 2EC3F054AB506916",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2EE5352D8E5F715F.title": {
+    "original": "Kill Spiders",
+    "translation": "蜘蛛擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 2EE5352D8E5F715F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.34C8824842867F5D.quest_desc": {
+    "original": "The \u0026zMighty Ender Chicken\u0026r has a home on both the North and South parts of the map, specifically in \u0026eEnd\u0026r ring. Rumor has it, the chicken has an impenetrable shield. Perhaps a \u0026bChicken Stick\u0026r might help with that...",
+    "translation": "\u0026z偉大終界雞\u0026r會出現在北部及南部地區，尤其是\u0026e終界\u0026r環帶中。\n\n傳聞這隻雞擁有一面堅不可摧的護盾。\n\n說不定\u0026b雞棒\u0026r能夠派上用場...",
+    "context": "chapters/bounty_board.snbt / quest 34C8824842867F5D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.34C8824842867F5D.title": {
+    "original": "\u0026eKill\u0026f: \u0026zMighty Ender Chicken",
+    "translation": "\u0026e殺死\u0026f：\u0026z偉大終界雞",
+    "context": "chapters/bounty_board.snbt / quest 34C8824842867F5D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.37A6FBA47B056D57.title": {
+    "original": "Shadow Casing Trade",
+    "translation": "暗影機殼交易",
+    "context": "chapters/bounty_board.snbt / quest 37A6FBA47B056D57",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.388FDE6183B26A5E.title": {
+    "original": "Wyvern Core Trade",
+    "translation": "雙足飛龍核心交易",
+    "context": "chapters/bounty_board.snbt / quest 388FDE6183B26A5E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3D687BF735E54AE8.title": {
+    "original": "Kill Blaze",
+    "translation": "烈焰使者擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 3D687BF735E54AE8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3E0D5504617365AD.title": {
+    "original": "Kill Zombified Piglins",
+    "translation": "殭屍化豬布林擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 3E0D5504617365AD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47C45A0552FBC1BD.title": {
+    "original": "\u0026fPlay For \u0026d50 Hours",
+    "translation": "遊玩時數：「\u0026d50 小時\u0026f」",
+    "context": "chapters/bounty_board.snbt / quest 47C45A0552FBC1BD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4DBD57AF035CAA6B.title": {
+    "original": "\u0026fPlay For \u00266100 Hours",
+    "translation": "遊玩時數：「\u00266100 小時\u0026f」",
+    "context": "chapters/bounty_board.snbt / quest 4DBD57AF035CAA6B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.50BB7069AC5A1A14.quest_desc": {
+    "original": "You can find \u0026zTyros\u0026r in the \u0026cCitadel\u0026r that spawns in the \u0026dVoid Chasms\u0026r ring.\n\nYou will need a \u0026cCinderous Soulcaller\u0026r to summon the boss.",
+    "translation": "你可以在\u0026d虛空斷層\u0026r環帶中的\u0026c城堡\u0026r結構之中找到「\u0026z提洛斯\u0026r」。\n\n你會需要一串\u0026c尋魂燼鈴\u0026r以召喚出該 Boss。",
+    "context": "chapters/bounty_board.snbt / quest 50BB7069AC5A1A14",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.50BB7069AC5A1A14.title": {
+    "original": "Kill \u0026cEcho of Tyros",
+    "translation": "\u0026c提洛斯回聲\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 50BB7069AC5A1A14",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5119EFBB9FB39CDE.quest_desc": {
+    "original": "You might find one of these in the \u0026dArcane Grove\u0026r structure, or from the \u0026dTale of a Priest who knew too much!\u0026r Gateway.",
+    "translation": "\u0026d高位喚魔者\u0026r出現於\u0026d秘法源林\u0026r結構之中，或是\u0026d僭越牧師的故事\u0026r傳送門當中。",
+    "context": "chapters/bounty_board.snbt / quest 5119EFBB9FB39CDE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5119EFBB9FB39CDE.title": {
+    "original": "Kill The \u0026dArchevoker",
+    "translation": "\u0026d高位喚魔者\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 5119EFBB9FB39CDE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51F3F949B8426B43.title": {
+    "original": "Chroniton Glass Block Trade",
+    "translation": "時空粒子世界引擎升級",
+    "context": "chapters/bounty_board.snbt / quest 51F3F949B8426B43",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5455CF5D3C37ECA9.quest_desc": {
+    "original": "The \u0026cNetherite Monstrosity\u0026r can be found in the \u00263Soul Blacksmith\u0026r.\n\nThis is located in the upper parts of the \u0026cNether\u0026r ring.",
+    "translation": "\u0026c獄髓巨獸\u0026r出現於\u00263靈魂鍛造廠\u0026r。\n\n你能夠在\u0026c地獄\u0026r環帶的上部地區找到它。",
+    "context": "chapters/bounty_board.snbt / quest 5455CF5D3C37ECA9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5455CF5D3C37ECA9.title": {
+    "original": "Kill The \u0026cNether Monstrosity\u0026r",
+    "translation": "\u0026c獄髓巨獸\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 5455CF5D3C37ECA9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.558A4BBC3BDB853D.quest_desc": {
+    "original": "Kill \u00266Malkuth\u0026r located in the \u00266Malkuth Arena\u0026r in the \u0026dVoid\u0026r ring and \u0026csubmit its trophy\u0026r to claim your bounty.",
+    "translation": "於\u0026d虛空\u0026r環帶中的\u00266『王國』競技場\u0026r內殺死\u00266『王國』\u0026r。\n\n\u0026c提交其獎盃\u0026r以領取你的懸賞。",
+    "context": "chapters/bounty_board.snbt / quest 558A4BBC3BDB853D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.59C71582F19E8554.title": {
+    "original": "Kill Zombies",
+    "translation": "殭屍擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 59C71582F19E8554",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5A284AE3AC14D070.title": {
+    "original": "\u0026fPlay For 1 Hour",
+    "translation": "遊玩時數：「1 小時」",
+    "context": "chapters/bounty_board.snbt / quest 5A284AE3AC14D070",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5A8CEB600CAADCD2.quest_desc": {
+    "original": "The \u0026bCryomancer\u0026r can be found by using the \u0026aPearl of the Frozen Oath\u0026r Gateway.",
+    "translation": "\u0026b冰霜術士\u0026r出現於\u0026d「冰霜誓言」之珍珠\u0026r傳送門當中。",
+    "context": "chapters/bounty_board.snbt / quest 5A8CEB600CAADCD2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A8CEB600CAADCD2.title": {
+    "original": "Kill The \u0026bCryomancer",
+    "translation": "\u0026b冰霜術士\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 5A8CEB600CAADCD2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5C2C0986D6014ADD.quest_desc": {
+    "original": "For centuries, the \u0026aWandering Trader\u0026r has set out to personally annoy as many players as it possibly can.\n\nThat ends today.\n\nKill the \u0026aWandering Trader\u0026r in the name of \u00266AlfredGG\u0026r.\n\n\u00267Try /cry",
+    "translation": "多年以來，\u0026a流浪商人\u0026r總是一直盡其所能地親自騷擾玩家。\n\n今天，一切都將結束。\n\n以 \u00266AlfredGG\u0026r 之名，殺死\u0026a流浪商人\u0026r。\n\n\u00267試試 /cry\u0026r",
+    "context": "chapters/bounty_board.snbt / quest 5C2C0986D6014ADD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5C2C0986D6014ADD.title": {
+    "original": "\u00266A Personal Vendetta",
+    "translation": "\u00266個人復仇計畫",
+    "context": "chapters/bounty_board.snbt / quest 5C2C0986D6014ADD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D2936B7F8D0F8FA.title": {
+    "original": "Block of Ignitium Trade",
+    "translation": "熾焰方塊交易",
+    "context": "chapters/bounty_board.snbt / quest 5D2936B7F8D0F8FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5E74E0339A6F5314.quest_desc": {
+    "original": "Kill the \u0026dChesed\u0026r located in the \u0026dChesed Arena\u0026r in the \u0026eEnd\u0026r ring and \u0026cSubmit its trophy\u0026r to claim your bounty.",
+    "translation": "於\u0026e終界\u0026r環帶中的\u0026d『慈悲』競技場\u0026r內殺死\u0026d『慈悲』\u0026r。\n\n\u0026c提交其獎盃\u0026r以領取你的懸賞。",
+    "context": "chapters/bounty_board.snbt / quest 5E74E0339A6F5314",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E74E0339A6F5314.title": {
+    "original": "Kill \u0026dThe Chesed",
+    "translation": "\u0026d『慈悲』\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 5E74E0339A6F5314",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67078BCAD52BC4B4.title": {
+    "original": "Kill Slimes",
+    "translation": "史萊姆擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 67078BCAD52BC4B4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67D1E0D81B2C5D8D.quest_desc": {
+    "original": "The \u0026dLeviathan\u0026r can be found within the \u0026bWater Orb\u0026r structure.\n\nThis is found scattered throughout the \u0026bOcean\u0026r ring.\n\n\u0026eNote\u0026r: You will need an \u0026dAbyssal Sacrifice\u0026r to activate the altar. The items required to craft it can be acquired from the \u00269Coralssus\u0026r \u0026aGateway of Eternity\u0026r.",
+    "translation": "\u0026d利維坦\u0026r出現於\u0026b水球\u0026r結構之中。\n\n你能夠在\u0026b海洋\u0026r環帶中找到這些結構。\n\n\u0026e備註\u0026r：你會需要一份\u0026d深淵祭品\u0026r來啟動祭壇。\n\n合成祭品所需的材料，可以從\u00269珊瑚巨像\u0026r的\u0026a永恆傳送門\u0026r挑戰中獲取。",
+    "context": "chapters/bounty_board.snbt / quest 67D1E0D81B2C5D8D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.67D1E0D81B2C5D8D.title": {
+    "original": "Kill The \u0026dLeviathan\u0026r",
+    "translation": "\u0026d利維坦\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 67D1E0D81B2C5D8D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DC738A434C5B02F.title": {
+    "original": "Kill Endermen",
+    "translation": "終界使者擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 6DC738A434C5B02F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DD9A75EE8C97710.title": {
+    "original": "Kill The \u00267Necromancer",
+    "translation": "\u00267亡靈術士\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 6DD9A75EE8C97710",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6E458E2978B64C77.title": {
+    "original": "Basic Plating Trade",
+    "translation": "基礎鍛造板交易",
+    "context": "chapters/bounty_board.snbt / quest 6E458E2978B64C77",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.706E469302F9F383.quest_desc": {
+    "original": "The \u0026aSource Condenser\u0026r can be used to turn regular source into fluid.",
+    "translation": "你可以用\u0026a魔源凝結器\u0026r將魔源轉化成流體。",
+    "context": "chapters/bounty_board.snbt / quest 706E469302F9F383",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.706E469302F9F383.title": {
+    "original": "Liquified Source Trade",
+    "translation": "魔源",
+    "context": "chapters/bounty_board.snbt / quest 706E469302F9F383",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.708DD6CD3AE7F0FE.title": {
+    "original": "Kill Wither Skeletons",
+    "translation": "凋零骷髏擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 708DD6CD3AE7F0FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.72766EEF59130E19.title": {
+    "original": "\u0026fPlay For \u0026c25 Hours",
+    "translation": "遊玩時數：「\u0026c25 小時\u0026f」",
+    "context": "chapters/bounty_board.snbt / quest 72766EEF59130E19",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.735CB0E29FB372C1.title": {
+    "original": "\u0026dAntimatter Pellet \u0026fTrade",
+    "translation": "\u0026d反物質球\u0026r交易",
+    "context": "chapters/bounty_board.snbt / quest 735CB0E29FB372C1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.744AB20A66A1835E.title": {
+    "original": "\u0026dBlack Hole \u0026fTrade",
+    "translation": "\u0026d黑洞\u0026r交易",
+    "context": "chapters/bounty_board.snbt / quest 744AB20A66A1835E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.77F964631F38EA2E.title": {
+    "original": "Kill Creepers",
+    "translation": "苦力怕擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 77F964631F38EA2E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7913B52AD9D28D2B.quest_desc": {
+    "original": "The \u00266Harbinger\u0026r is a tough mob found within the \u00266Ancient Factory\u0026r structure.\n\nThis can be found in the \u0026dVoid Chasm\u0026r ring.\n\n\u0026eNote\u0026r: You must activate the boss by using a \u0026dNether Star\u0026r on it first.",
+    "translation": "\u00266先驅者\u0026r是一種出沒於\u00266古代工廠\u0026r結構之中的強力生物。\n\n你能夠在\u0026d虛空斷層\u0026r環帶中找到它。\n\n\u0026e備註\u0026r：你必須先對該 Boss 使用\u0026d地獄之星\u0026r來啟動它。",
+    "context": "chapters/bounty_board.snbt / quest 7913B52AD9D28D2B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7913B52AD9D28D2B.title": {
+    "original": "Kill The \u00266Harbinger\u0026r",
+    "translation": "\u00266先驅者\u0026r擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 7913B52AD9D28D2B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7A8669713BE28E8F.quest_desc": {
+    "original": "The \u0026dWarden\u0026r lives in the \u0026dAncient City\u0026r, which you can find in the bottom layer of the \u00263Deepslate\u0026r ring.",
+    "translation": "\u0026d伏守者\u0026r居住於\u0026d遠古城市\u0026r之中：你能夠在\u00263深板岩\u0026r環帶中找到該結構。",
+    "context": "chapters/bounty_board.snbt / quest 7A8669713BE28E8F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7A8669713BE28E8F.title": {
+    "original": "\u0026eKill\u0026f: \u00263Warden",
+    "translation": "\u0026e殺死\u0026f：\u00263伏守者",
+    "context": "chapters/bounty_board.snbt / quest 7A8669713BE28E8F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7D23D1C9DE75721F.title": {
+    "original": "Kill Skeletons",
+    "translation": "骷髏擊殺者",
+    "context": "chapters/bounty_board.snbt / quest 7D23D1C9DE75721F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E8C48A1F0A2F37A.title": {
+    "original": "\u0026zInfinity Block \u0026fTrade",
+    "translation": "\u0026z無盡方塊\u0026r交易",
+    "context": "chapters/bounty_board.snbt / quest 7E8C48A1F0A2F37A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7EACA525066908E0.title": {
+    "original": "Twilight Trophy Trade",
+    "translation": "暮光森林 Boss",
+    "context": "chapters/bounty_board.snbt / quest 7EACA525066908E0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.05BA59C2F9E1F43B.title": {
+    "original": "\u0026eKill\u0026f: 10x Blaze",
+    "translation": "\u0026e殺死\u0026f：10x 烈焰使者",
+    "context": "chapters/bounty_board.snbt / task 05BA59C2F9E1F43B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0707B05028ADBA69.title": {
+    "original": "\u0026eKill\u0026f: \u00266The Harbinger",
+    "translation": "\u0026e殺死\u0026f：\u00266先驅者",
+    "context": "chapters/bounty_board.snbt / task 0707B05028ADBA69",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0C13FA83021AE4C5.title": {
+    "original": "\u0026eKill\u0026f: \u0026cNetherite Monstrosity",
+    "translation": "\u0026e殺死\u0026f：\u0026c獄髓巨獸",
+    "context": "chapters/bounty_board.snbt / task 0C13FA83021AE4C5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1B724AA2EDADE92A.title": {
+    "original": "\u0026eKill\u0026f: \u00267Necromancer",
+    "translation": "\u0026e殺死\u0026f：\u00267亡靈術士",
+    "context": "chapters/bounty_board.snbt / task 1B724AA2EDADE92A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.268F689AFA620C03.title": {
+    "original": "\u0026eKill\u0026f: 20 Skeletons",
+    "translation": "\u0026e殺死\u0026f：20x 骷髏",
+    "context": "chapters/bounty_board.snbt / task 268F689AFA620C03",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2FB8AB5ADB1F8D26.title": {
+    "original": "\u0026eKill\u0026f: \u0026cEcho of Tyros, First Flamebearer",
+    "translation": "\u0026e殺死\u0026f：\u0026c提洛斯回聲",
+    "context": "chapters/bounty_board.snbt / task 2FB8AB5ADB1F8D26",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.327D6E2AE8863BC1.title": {
+    "original": "\u0026eKill\u0026f: \u0026cPyromancer",
+    "translation": "\u0026e殺死\u0026f：\u0026c熾焰術士",
+    "context": "chapters/bounty_board.snbt / task 327D6E2AE8863BC1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3EBAF104991E89BF.title": {
+    "original": "\u0026eKill\u0026f: \u0026dMighty Chicken Jockey",
+    "translation": "\u0026e殺死\u0026f：\u0026d偉大終界雞",
+    "context": "chapters/bounty_board.snbt / task 3EBAF104991E89BF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3F437642D1B08EBF.title": {
+    "original": "\u0026eKill\u0026f: 20x Spiders",
+    "translation": "\u0026e殺死\u0026f：20x 蜘蛛",
+    "context": "chapters/bounty_board.snbt / task 3F437642D1B08EBF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4087591E474FC477.title": {
+    "original": "\u0026eKill\u0026f: 10x Endermen",
+    "translation": "\u0026e殺死\u0026f：10x 終界使者",
+    "context": "chapters/bounty_board.snbt / task 4087591E474FC477",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4461612C1C9D3F92.title": {
+    "original": "\u0026eKill\u0026f: \u0026aWandering Trader",
+    "translation": "\u0026e殺死\u0026f：\u0026a流浪商人",
+    "context": "chapters/bounty_board.snbt / task 4461612C1C9D3F92",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.491E250D69066BBC.title": {
+    "original": "\u0026eKill\u0026f: \u00267Wither",
+    "translation": "\u0026e殺死\u0026f：\u00267凋零怪",
+    "context": "chapters/bounty_board.snbt / task 491E250D69066BBC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.55E36C96A2424F59.title": {
+    "original": "\u0026eKill\u0026f: \u00266Ancient Remnant",
+    "translation": "\u0026e殺死\u0026f：\u00266遠古骸龍法老",
+    "context": "chapters/bounty_board.snbt / task 55E36C96A2424F59",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.58687506041183E7.title": {
+    "original": "\u0026eKill\u0026f: 20x Slimes",
+    "translation": "\u0026e殺死\u0026f：20x 史萊姆",
+    "context": "chapters/bounty_board.snbt / task 58687506041183E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.58DC7CD2A4F595DD.title": {
+    "original": "\u0026eKill\u0026f: \u0026dArchevoker",
+    "translation": "\u0026e殺死\u0026f：\u0026d高位喚魔者",
+    "context": "chapters/bounty_board.snbt / task 58DC7CD2A4F595DD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B82C7AEA857BED3.title": {
+    "original": "\u0026eKill\u0026f: \u0026dEnder Guardian",
+    "translation": "\u0026e殺死\u0026f：\u0026d終界守衛",
+    "context": "chapters/bounty_board.snbt / task 5B82C7AEA857BED3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B97CEFB80FF361B.title": {
+    "original": "\u0026eKill\u0026f: 10x Shulkers",
+    "translation": "\u0026e殺死\u0026f：10x 界伏蚌",
+    "context": "chapters/bounty_board.snbt / task 5B97CEFB80FF361B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5FD1AC346811740C.title": {
+    "original": "\u0026eKill\u0026f: \u0026cThe Dead King",
+    "translation": "\u0026e殺死\u0026f：\u0026c死者之王",
+    "context": "chapters/bounty_board.snbt / task 5FD1AC346811740C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6064031AABA0D8D1.title": {
+    "original": "\u0026eKill\u0026f: \u00262Apothecarist",
+    "translation": "\u0026e殺死\u0026f：\u00262藥劑師",
+    "context": "chapters/bounty_board.snbt / task 6064031AABA0D8D1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.61C0F35123FBB85E.title": {
+    "original": "\u0026eKill\u0026f: \u00263Warden",
+    "translation": "\u0026e殺死\u0026f：\u00263伏守者",
+    "context": "chapters/bounty_board.snbt / task 61C0F35123FBB85E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6347BBAD2ED20F25.title": {
+    "original": "\u0026eKill\u0026f: 20x Zombies",
+    "translation": "\u0026e殺死\u0026f：20x 殭屍",
+    "context": "chapters/bounty_board.snbt / task 6347BBAD2ED20F25",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.671339615BA68B10.title": {
+    "original": "\u0026eKill\u0026f: \u0026bCryomancer",
+    "translation": "\u0026e殺死\u0026f：\u0026b冰霜術士",
+    "context": "chapters/bounty_board.snbt / task 671339615BA68B10",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6C730129357A78D0.title": {
+    "original": "\u0026eKill\u0026f: Zombified Piglins",
+    "translation": "\u0026e殺死\u0026f：殭屍化豬布林",
+    "context": "chapters/bounty_board.snbt / task 6C730129357A78D0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.79684EDD87FFB47C.title": {
+    "original": "\u0026eKill\u0026f: 20x Creepers",
+    "translation": "\u0026e殺死\u0026f：20x 苦力怕",
+    "context": "chapters/bounty_board.snbt / task 79684EDD87FFB47C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.79B58E484D4196CD.title": {
+    "original": "\u0026eKill\u0026f: \u0026dThe Leviathan",
+    "translation": "\u0026e殺死\u0026f：\u0026d利維坦",
+    "context": "chapters/bounty_board.snbt / task 79B58E484D4196CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7AC3BD79A70049CA.title": {
+    "original": "\u0026eKill\u0026f: \u0026#FCD205Priest",
+    "translation": "\u0026e殺死\u0026f：\u0026#FCD205牧師",
+    "context": "chapters/bounty_board.snbt / task 7AC3BD79A70049CA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7B71A001741520D3.title": {
+    "original": "\u0026eKill\u0026f: 10x Wither Skeletons",
+    "translation": "\u0026e殺死\u0026f：10x 凋零骷髏",
+    "context": "chapters/bounty_board.snbt / task 7B71A001741520D3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

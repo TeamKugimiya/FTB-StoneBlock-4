@@ -1,0 +1,11 @@
+{
+  chapter.1C63D973F178FD60.title: "歡迎！",
+  quest.2B02D9425E19F560.quest_desc: ["出現了一些理應不該發生的事情？", "", "[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]"],
+  quest.2B02D9425E19F560.title: "出現了 BUG？",
+  quest.2F15D918EF183051.quest_desc: ["《&6只有石頭的世界4&r》是一款劇情向的模組包：有著豐富多樣的遊玩選項，", "並能夠根據你的個人遊玩風格來推進劇情。", "", "本模組包含有適合所有類型玩家的成千上萬種不同的模組。部分模組可能與主線任務有關，所以在遊玩過程請記得去探索各種不同的選項以推動遊戲進度！", "", "給任何想要挑戰自我的玩家：本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？"],
+  quest.2F15D918EF183051.title: "歡迎來到《&6只有石頭的世界 4&r》！",
+  quest.77FC846DC0EF4ED2.quest_desc: ["&a/home&r｜此指令會在遊戲前期的主線任務中解鎖：開啟一道通往你的基地的傳送門。", "", "&a/back&r｜使你回到上一次死亡的位置。", "", "&a/spawn&r｜將玩家傳送回大廳。大廳在本模組包中非常重要！", "{@pagebreak}", "", "&a/spark tps&r｜查看伺服器的 TPS。如果你的伺服器出現卡頓時，可用來檢查。"],
+  task.2988CAF299690CDB.title: "Useful Commands",
+  task.519E1F80092719D1.title: "回報錯誤",
+  task.5434F149E894EFA6.title: "Welcome"
+}

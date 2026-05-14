@@ -1,0 +1,911 @@
+{
+  "chapter.1769B71219D1B9F7.title": {
+    "original": "Tier 1: Foundation",
+    "translation": "階級 1：根基",
+    "context": "chapters/world_engine__tier_1.snbt / chapter 1769B71219D1B9F7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0448DC5884C8ED55.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Quartermaster\u0026r.\n\nWork with this \u0026dEcho\u0026r to discover your first \u00263Major Upgrade\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo quartermaster\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d儲物將軍之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力探索出你的第一個\u00263主要升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo quartermaster\u00267」。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0448DC5884C8ED55",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0448DC5884C8ED55.title": {
+    "original": "\u0026fMeet \u0026dThe Quartermaster",
+    "translation": "\u0026f初訪\u0026d儲物將軍",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0448DC5884C8ED55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0484D6030DF690BD.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby to find the \u0026dEcho of The Machinist\u0026r.\n\nThe \u0026dMachinist\u0026r specialises in calibrated engineering and moving contraptions.\n\nWork with this \u0026dEcho\u0026r to unlock the \u00263Shadow Casing Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo machinist\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d機械前輩之回聲\u0026r了。\n\n\u0026d機械前輩\u0026r將他的畢生精力投入於各種校準工程和移動裝置。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263暗影機殼升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo machinist\u00267」。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0484D6030DF690BD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0484D6030DF690BD.title": {
+    "original": "\u0026fMeet \u0026dThe Machinist",
+    "translation": "\u0026f初訪\u0026d機械前輩",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0484D6030DF690BD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.04E68DA90DC83B45.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\nYou will still need to set up and connect a rotational power source close to the \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n你還是要自行在\u00266世界引擎\u0026r附近設置並連接動能應力源上去。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 04E68DA90DC83B45",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.04E68DA90DC83B45.title": {
+    "original": "\u0026fAuto-Build The \u00263Shadow Casing Upgrade",
+    "translation": "\u0026f自動建造\u00263暗影機殼升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 04E68DA90DC83B45",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0D159FD643581C18.quest_desc": {
+    "original": "The \u0026dMachinist\u0026r mentioned a forgotten and potentially \u0026cdangerous\u0026r \u00263Vault\u0026r that should contain the alloy needed to make the \u00266World Engine's \u00263Shadow Casing Upgrade\u0026r.\n\nDig throughout the \u00263Stone\u0026r and \u00263Deepslate\u0026r rings to locate the \u00263Vault\u0026r using the compass provided by the \u0026dMachinist\u0026r.",
+    "translation": "\u0026d機械前輩\u0026r提到了一座被遺忘且有潛在\u0026c危險\u0026r的\u00263寶庫\u0026r：不過裡面可能有著我們製造\u00266世界引擎的\u00263暗影機殼升級\u0026r所需的合金。\n\n在\u00263石頭\u0026r和\u00263深板岩\u0026r環帶之間且挖且行，使用\u0026d機械前輩\u0026r給予你的羅盤找到那座\u00263寶庫\u0026r吧。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0D159FD643581C18",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D159FD643581C18.title": {
+    "original": "\u0026fRemnants of The Past",
+    "translation": "\u0026f過去的遺跡",
+    "context": "chapters/world_engine__tier_1.snbt / quest 0D159FD643581C18",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.10DEA5CE1800F935.quest_desc": {
+    "original": "\u00267\u0026oSometimes things go wrong, and since Minecraft has no \"Undo\" button. We've added one for you.\n\nIf you accidentally break your \u00266World Engine\u0026r machine block, clicking this button will replace it for you.\n\nKeep in mind that this will wipe any of your existing settings and items inside the \u00266World Engine\u0026r.",
+    "translation": "\u00267\u0026o有些事情不太對勁：由於 Minecraft 沒有「回退」選項，\\n我們在這裡幫你加入了一個。\n\n如果你不小心破壞掉了你的\u00266世界引擎\u0026r機器方塊的話，點擊這個按鈕會重新放置一個。\n\n請小心：這個按鈕會消除\u00266世界引擎\u0026r內存有的各種資源和現有設定。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 10DEA5CE1800F935",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.15B551FCA8790707.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 15B551FCA8790707",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.15B551FCA8790707.title": {
+    "original": "\u0026fLocating \u0026dThe Magician",
+    "translation": "\u0026f定位：\u0026d魔法長老",
+    "context": "chapters/world_engine__tier_1.snbt / quest 15B551FCA8790707",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.17AC5EBEBDC124E9.quest_desc": {
+    "original": "Using the \u0026aEcho Encoder\u0026r, you can Sneak + Right-click to convert the Villager into a \u00262Token\u0026r.\n\nThis \u00262Token\u0026r encodes the \u0026aVillager\u0026r in time, allowing you to place it down when needed.\n\nThe \u0026aEcho Encoder\u0026r only has so many charges, and will need to be recharged by placing it back into the \u00266World Engine\u0026r.\n\nThe \u0026dEcho of Guidance\u0026r should now guide your next steps.",
+    "translation": "手持\u0026a回聲編碼工具\u0026r時，對著村民「潛行 + 右鍵」\\n可以將他轉換成一塊\u00262令牌\u0026r。\n\n這塊\u00262令牌\u0026r會馬上將\u0026a村民\u0026r編碼，以使你可以在需要時才將村民放出來。\n\n\u0026a回聲編碼工具\u0026r只有短短幾次使用次數，若它的使用次數用完的話，就需要將它丟回\u00266世界引擎\u0026r進行充能。\n\n\u0026d指引嚮導之回聲\u0026r將指引你的下一步。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 17AC5EBEBDC124E9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.17AC5EBEBDC124E9.title": {
+    "original": "\u0026fA Token of the Mindless",
+    "translation": "\u0026f無意識者令牌",
+    "context": "chapters/world_engine__tier_1.snbt / quest 17AC5EBEBDC124E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.18E10F15FD94258B.quest_desc": {
+    "original": "Before you can create the casings used in for the \u00266World Engine\u0026r, you'll need to have acquired \u0026cLava\u0026r and \u0026dObsidian\u0026r. \n\nIf you haven't already, make sure you go speak to \u00266The Machinist\u0026r to get an \u0026bEntropy Manipulator\u0026r to create lava.\n\n\u0026dObsidian\u0026r is a strong enough material to support the strength of basic casings, but you'll need to press it into \u0026aPlates\u0026r first.",
+    "translation": "在你能夠製造出用在\u00266世界引擎\u0026r上的機殼之前，你會需要先取得\u0026c熔岩\u0026r和\u0026d黑曜石\u0026r。\n\n如果你覺得你無法取得，請先去和\u00266機械前輩\u0026r交談並取得\u0026b熵變機械手臂\u0026r：用來製造熔岩。\n\n\u0026d黑曜石\u0026r是一種堅固到足以支撐基礎機殼硬度的材料，但你會需要先將它壓成\u0026a板\u0026r。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 18E10F15FD94258B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.18E10F15FD94258B.title": {
+    "original": "\u0026fShaping Obsidian",
+    "translation": "\u0026f黑曜石塑型",
+    "context": "chapters/world_engine__tier_1.snbt / quest 18E10F15FD94258B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.20168B6357665708.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 20168B6357665708",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.20168B6357665708.title": {
+    "original": "\u0026fLocating \u0026dThe Quartermaster",
+    "translation": "\u0026f定位：\u0026d儲物將軍",
+    "context": "chapters/world_engine__tier_1.snbt / quest 20168B6357665708",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2140EAC255C3EA09.quest_desc": {
+    "original": "The \u0026aMultiblock Printer\u0026f and \u0026aMultiblock Validator\u0026f are two tools that can help you build new structures and validate broken multiblocks.\n\nThe following pages will teach you how to use each item.\n{@pagebreak}\nThe \u0026aMultiblock Printer\u0026f supports only certain structures, which you can find in \u0026eJEI\u0026r by searching “\u0026aMultiblock Printer\u0026r” and checking for the \"\u0026aⓘ\u0026f Compatible\" tag. \n\nOnce you've gatherered the required blocks and cleared enough space for the multiblock, place down the \u0026bController\u0026r and Right-click it with the \u0026aMultiblock Printer\u0026r.\n\nIt will place blocks automatically using items from your inventory. \n\nIf something blocks block placement or an item can’t be found in your inventory, the \u0026aMultiblock Printer\u0026f stops working and shows an error explaining the issue.\n{@pagebreak}\nThe \u0026aMultiblock Validator\u0026f helps diagnose and maintain \u0026eCustom Machinery\u0026r multiblocks. \n\nUsing it on a \u0026bCustom Machinery Controller\u0026r shows all \u0026aInstalled Multiblock Modules\u0026f. \n\nIt can also re-align the World Engine automatically. \n\nYou can also reset all multiblock cores. This action will \u0026c\u0026n\u0026lNOT\u0026r\u0026c\u0026n refund any lost items\u0026r to errored cores, meaning any items in those cores will be effectively voided.",
+    "translation": "\u0026a多方塊建造小幫手\u0026f與\u0026a多方塊驗證工具\u0026f是兩樣能協助你建造新結構，並修復損壞結構的便利工具。\n\n接下來的頁面將教導你如何使用這兩項物品。\n{@pagebreak}\n\u0026a多方塊建造小幫手\u0026f僅支援部分特定的結構，\n\n你可以在 \u0026eJEI\u0026r 中搜尋「\u0026a多方塊建造小幫手\u0026r」，\n\n並檢查是否有標註「\u0026aⓘ\u0026f 相容」標籤來確認。\n\n------------\n\n一旦你集齊了所需的方塊，並為機器清出了足夠的空間，\n\n先將\u0026b控制器\u0026r置於世界上，\n\n並用\u0026a多方塊建造小幫手\u0026r對著控制器點擊右鍵，\n\n工具會取用你物品欄內的物品，開始自動搭建多方塊結構。\n\n------------\n\n若放置過程中有障礙物阻擋，或是物品欄內缺少所需物品，\n\n\u0026a多方塊建造小幫手\u0026r將停止運作，並顯示錯誤訊息並說明問題。\n\n{@pagebreak}\n\u0026a多方塊驗證工具\u0026f用於診斷與維護《\u0026e自訂機器\u0026r》的多方塊結構。\n\n使用工具對著《\u0026e自訂機器\u0026r》的控制器點擊右鍵，\n\n會顯示所有\u0026a已安裝的多方塊結構升級\u0026f。\n\n它還能自動重新校準世界引擎。\n\n------------\n\n你還能用這項工具，重設多方塊結構的核心狀態。\n\n注意：這項操作\u0026c\u0026n\u0026l將不會\u0026r\u0026c\u0026n退還錯誤核心中失去的物品\u0026r，\n\n這表示這些核心內的任何物品，都將被完全銷毀。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2140EAC255C3EA09",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2140EAC255C3EA09.title": {
+    "original": "Multiblock Tools",
+    "translation": "多方塊結構工具",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2140EAC255C3EA09",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.22B94BDDC08B3FA9.quest_desc": {
+    "original": "By reinforcing a \u0026aBrass Casing\u0026r with an \u0026dObsidian Plate\u0026r, you can create a casing strong enough to withstand the weight of a train.\n\nThis is a big step towards upgrading the \u00266World Engine\u0026r!\n\nHead back to the \u0026dMachinist\u0026r to show them your progress.",
+    "translation": "透過使用\u0026d黑曜石板\u0026r強化\u0026a黃銅機殼\u0026r後，你可以製造出一種甚至能夠承受住列車的重量的堅固外殼。\n\n在升級\u00266世界引擎\u0026r這件事上，我們已經邁出了一大步！\n\n回訪\u0026d機械前輩\u0026r，告訴他你的進展。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 22B94BDDC08B3FA9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22B94BDDC08B3FA9.title": {
+    "original": "\u0026fTrain Casing",
+    "translation": "列車機殼",
+    "context": "chapters/world_engine__tier_1.snbt / quest 22B94BDDC08B3FA9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2646D51DBAD8AD42.quest_desc": {
+    "original": "\u0026bCheck\u0026f: Getting Shadow Casing\n\n\u0026bUnlocks\u0026f: \"Create Vault\" Technically players can get there before",
+    "translation": "\u0026bCheck\u0026f: Getting Shadow Casing\n\n\u0026bUnlocks\u0026f: \"Create Vault\" Technically players can get there before",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2646D51DBAD8AD42",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2646D51DBAD8AD42.title": {
+    "original": "Machinist Check 1",
+    "translation": "Machinist Check 1",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2646D51DBAD8AD42",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.275C5A38C3231690.quest_desc": {
+    "original": "Once you've acquired the ability to produce \u0026dSource\u0026r, you should return to the \u0026dMagician\u0026r to learn how to infuse it into the \u00266World Engine\u0026r.",
+    "translation": "當你具有生產\u0026d魔源\u0026r的能力後，你是時候該回訪\u0026d魔法長老\u0026r，並向他學習該如何將它注入\u00266世界引擎\u0026r之中了。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 275C5A38C3231690",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2950D495BCF2D52D.quest_desc": {
+    "original": "To upgrade the \u00266World Engine\u0026r, you'll need to make some basic machines for processing materials.\n\nTo do this, you'll need some basic circuitry and metallic alloys. A \u0026aMetallurgic Infuser\u0026r would be a great machine for this.\n\nYou will also need a very durable machine casing to house the components.\n\n[\"\", {\"text\": \"Note\", \"color\": \"yellow\"},  \": Take a look at the \", {\"text\": \"Power Generation\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"391B65CD04A90459\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Power chapter\"}}, \" chapter if you want some more early power options.\"]\n\nYou should return to the \u0026dQuartermaster\u0026r once you have completed his task.",
+    "translation": "要升級\u00266世界引擎\u0026r的話，你會需要做出一些用來處理材料的基礎機器。\n\n你會需要一些基礎的電路材料和金屬合金才能完成這件事。\u0026a冶金灌注機\u0026r能夠很好的完成上述任務。\n\n你也會需要一個非常堅固的機器外殼來容納內部組件。\n\n[\"\", {\"text\": \"備註\", \"color\": \"yellow\"},  \"：如果你想要找一些早期的發電選項的話，請查看「\", {\"text\": \"發電\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"391B65CD04A90459\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「能量」章節\"}}, \"」章節。\"]\n\n當你完成這項任務後，請去找\u0026d儲物將軍\u0026r回報任務。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2950D495BCF2D52D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2950D495BCF2D52D.title": {
+    "original": "\u0026fInfusing Metals",
+    "translation": "\u0026f灌注金屬",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2950D495BCF2D52D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2D0E345C7C7B3AC0.title": {
+    "original": "Quartermaster Meet",
+    "translation": "Quartermaster Meet",
+    "context": "chapters/world_engine__tier_1.snbt / quest 2D0E345C7C7B3AC0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.31CCB73669788855.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 31CCB73669788855",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.31CCB73669788855.title": {
+    "original": "\u0026fLocating \u0026dThe Machinist",
+    "translation": "\u0026f定位：\u0026d機械前輩",
+    "context": "chapters/world_engine__tier_1.snbt / quest 31CCB73669788855",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.325826C9B71AD7E1.quest_desc": {
+    "original": "\u0026aBrass\u0026r is an easy and malleable alloy to work with, and can be used to create some basic casings.\n\nYou'll need to combine these with \u0026dObsidian Plates\u0026r to create a stronger foundation.",
+    "translation": "\u0026a黃銅\u0026r是一種易於加工且延展性高的合金，它可用於製作一些基礎的外殼。\n\n你會需要將它們與\u0026d黑曜石板\u0026r結合來製造出更堅固的外殼。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 325826C9B71AD7E1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.325826C9B71AD7E1.title": {
+    "original": "\u0026fBasic Casings",
+    "translation": "\u0026f基礎機殼",
+    "context": "chapters/world_engine__tier_1.snbt / quest 325826C9B71AD7E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3917A0EC517F70E6.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3917A0EC517F70E6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3917A0EC517F70E6.title": {
+    "original": "\u0026fAuto-Build The \u00263Source Upgrade",
+    "translation": "\u0026f自動建造\u00263魔源升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3917A0EC517F70E6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3C0A24054C75BF91.title": {
+    "original": "Quartermaster Check 1",
+    "translation": "Quartermaster Check 1",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3C0A24054C75BF91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3E89531AEC1CF0DA.quest_desc": {
+    "original": "Once you've crafted all the required \u0026aMachine Blocks\u0026r, you should return to the \u0026dQuartermaster\u0026r to learn where they should go in the \u00266World Engine\u0026r.",
+    "translation": "當你合成出了足夠多的\u0026a機器方塊\u0026r後，你是時候該回訪\u0026d儲物將軍\u0026r，並向他學習該如何在\u00266世界引擎\u0026r安裝這項升級了。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3E89531AEC1CF0DA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3F81256B4E65076F.quest_desc": {
+    "original": "The magical properties from the tree's logs can draw in the magical essence left behind in the world.\n\nCraft the \u0026aImbuement Chamber\u0026r and convert \u0026aLapis\u0026r into a \u0026dSource Gem\u0026r.",
+    "translation": "至高木原木所蘊含的親魔特性，讓它們能夠自動吸收世界上的魔源。\n\n合成一台\u0026a灌注室\u0026r，並將一顆\u0026a青金石\u0026r灌注成\u0026d魔源寶石\u0026r。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3F81256B4E65076F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3F81256B4E65076F.title": {
+    "original": "\u0026fInfusing Magical Essence",
+    "translation": "\u0026f灌注魔法源質",
+    "context": "chapters/world_engine__tier_1.snbt / quest 3F81256B4E65076F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.40DDD27BA5E191FA.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_1.snbt / quest 40DDD27BA5E191FA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.40DDD27BA5E191FA.title": {
+    "original": "\u0026fLocating The \u00263Vault",
+    "translation": "\u0026f定位：\u00263寶庫",
+    "context": "chapters/world_engine__tier_1.snbt / quest 40DDD27BA5E191FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47D745A94C534B48.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of the Magician\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock the \u00263Source Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo magician\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d魔法長老之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263魔源升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo magician\u00267」。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 47D745A94C534B48",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.47D745A94C534B48.title": {
+    "original": "\u0026fMeet \u0026dThe Magician",
+    "translation": "\u0026f初訪\u0026d魔法長老",
+    "context": "chapters/world_engine__tier_1.snbt / quest 47D745A94C534B48",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.48005B47655AD525.quest_desc": {
+    "original": "With the power of \u0026dSource Gems\u0026r, you can harness the flow of \u0026dSource\u0026r by making a \u00262Source Relay\u0026r.\n\nUsing a \u0026aDominion Wand\u0026r, you can direct the flow of \u0026dSource\u0026r between jars.\n\nBy installing the \u0026dSource\u0026r \u00263World Engine Upgrade\u0026r, you can direct \u0026dSource\u0026r into the engine to craft more magical items.",
+    "translation": "以\u0026d魔源寶石\u0026r之力，你可以製造一台\u00262魔源中繼器\u0026r來駕馭\u0026d魔源\u0026r的流動。\n\n你可以使用\u0026a支配之杖\u0026r引導各個容器之間的\u0026d魔源\u0026r流動。\n\n當你安裝了\u0026d魔源\u0026r\u00263世界引擎升級\u0026r之後，你就可以直接將\u0026d魔源\u0026r導入引擎內，合成更多魔法物品了。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 48005B47655AD525",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.48005B47655AD525.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 48005B47655AD525",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.48005B47655AD525.title": {
+    "original": "\u0026fWorld Engine Source",
+    "translation": "\u0026f世界引擎魔源",
+    "context": "chapters/world_engine__tier_1.snbt / quest 48005B47655AD525",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.487BD65BA8F5337D.title": {
+    "original": "Machinist Meet",
+    "translation": "Machinist Meet",
+    "context": "chapters/world_engine__tier_1.snbt / quest 487BD65BA8F5337D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4C549866DEB8DB61.quest_desc": {
+    "original": "To craft the \u0026aMechanical Parts\u0026r needed for the \u00263Machine Block Upgrade\u0026r, you'll need some basic machines to make alloy wires and metal plates.\n\nThese plates are much easier to work with, and will reinforce the \u00262Machine Blocks\u0026r to withstand \u00266World Engine\u0026r crafts.\n\n\u0026eNote\u0026r: These can be acquired using Productive Metalworks, Create, or Immersive Engineering.",
+    "translation": "你會需要一些能夠製造合金導線和金屬板的機器，才能合成出\u00263機器方塊升級\u0026r所需的\u0026a機械零件\u0026r。\n\n金屬板的兼容性較好，並且能夠將\u00262機器方塊\u0026r強化到\u00266世界引擎\u0026r足以承受它的合成能量。\n\n\u0026e備註\u0026r：你可以透過《高效率金屬製品》、《動力機械》或《沉浸工程》模組來完成這些。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 4C549866DEB8DB61",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4C549866DEB8DB61.title": {
+    "original": "\u0026fReinforcing Machine Frames",
+    "translation": "\u0026f強化機器外框",
+    "context": "chapters/world_engine__tier_1.snbt / quest 4C549866DEB8DB61",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.50AC369D1F5B7DD8.quest_desc": {
+    "original": "\u0026bCheck\u0026f: Getting Magical Trees and Saplings\n\n\u0026bUnlocks\u0026f: ",
+    "translation": "\u0026bCheck\u0026f: Getting Magical Trees and Saplings\n\n\u0026bUnlocks\u0026f: ",
+    "context": "chapters/world_engine__tier_1.snbt / quest 50AC369D1F5B7DD8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.50AC369D1F5B7DD8.title": {
+    "original": "Magician Check 1",
+    "translation": "Magician Check 1",
+    "context": "chapters/world_engine__tier_1.snbt / quest 50AC369D1F5B7DD8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.584B4C34CBF0E028.quest_desc": {
+    "original": "While the \u0026aImbuement Chamber\u0026r can slowly draw in the magical essence from the world, it cannot create the \u0026dSource\u0026r that you need to upgrade the \u00266World Engine\u0026r.\n\n\u0026dSource\u0026r can be drawn from many different sources by using a \u0026aSourcelink\u0026r. There are many different options, but the \u00262Agronomic Sourcelink\u0026r is a great starting point.\n\nYou'll also need a way to store the \u0026dSource\u0026r the link collects, which can easily be done by placing a \u0026aSource Jar\u0026r near the link.",
+    "translation": "即使\u0026a灌注室\u0026r可以自動吸收世界上的魔力，它無法創造出你升級\u00266世界引擎\u0026r所需的\u0026d魔源\u0026r。\n\n\u0026a魔源通道\u0026r可以向各種不同來源吸收\u0026d魔源\u0026r。有許多不同的選項，但\u00262農藝魔源通道\u0026r會是一個很好的開頭。\n\n你也會需要一種能夠儲存\u0026a魔源通道\u0026r製造的\u0026d魔源\u0026r的方法：只要簡單地在它旁邊放一罐\u0026a魔源罐\u0026r即可。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 584B4C34CBF0E028",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.584B4C34CBF0E028.title": {
+    "original": "\u0026fCreating \u0026dSource",
+    "translation": "\u0026f製造\u0026d魔源",
+    "context": "chapters/world_engine__tier_1.snbt / quest 584B4C34CBF0E028",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.58BC57B1119204CA.title": {
+    "original": "Magician Meet",
+    "translation": "Magician Meet",
+    "context": "chapters/world_engine__tier_1.snbt / quest 58BC57B1119204CA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.615D1A52ED3A9C78.quest_desc": {
+    "original": "With the \u00262Worker Token\u0026r, the \u0026dEcho of Guidance\u0026r has unlocked more \u00266Archives\u0026r for you to visit.\n\nWithin them are new \u0026dEchoes\u0026r whose tasks will allow you to upgrade the \u00266World Engine\u0026r! Make sure to go meet each one, as they might have a gift for you.\n\nThe \u00266World Engine\u0026r has plenty of upgrades, with only a few being required to advance. Each tier requires at least 2 Upgrades to be completed by working with the \u0026dEchoes\u0026r.\n\n\u0026eNote\u0026r: \u0026dMajor Upgrades\u0026r will be required, while \u0026aMinor Upgrades\u0026r are optional.",
+    "translation": "有了\u00262勞工令牌\u0026r之後，\u0026d指引嚮導之回聲\u0026r解鎖了更多的\u00266檔案庫\u0026r供你拜訪。\n\n\u00266檔案庫\u0026r中有著更多新的\u0026d回聲\u0026r：他們的任務會讓你逐步升級你的\u00266世界引擎\u0026r！記得去拜訪每一位，有些可能為你準備了禮物。\n\n\u00266世界引擎\u0026r有著各式各樣的升級，但只有其中一些是進階必需的。每個階級都必須要至少完成兩項「要和\u0026d回聲\u0026r協力完成的升級」才能進階。\n\n\u0026e注意\u0026r：\u0026d大型升級\u0026r為必須完成，\u0026a小型升級\u0026r則為可選項。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 615D1A52ED3A9C78",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.615D1A52ED3A9C78.quest_subtitle": {
+    "original": "Unlocks Tier 1 Chapter",
+    "translation": "解鎖階級 1 章節",
+    "context": "chapters/world_engine__tier_1.snbt / quest 615D1A52ED3A9C78",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.615D1A52ED3A9C78.title": {
+    "original": "\u0026fUnlocking the Archives",
+    "translation": "解鎖檔案庫",
+    "context": "chapters/world_engine__tier_1.snbt / quest 615D1A52ED3A9C78",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.62531896A7E58F55.quest_desc": {
+    "original": "The alloys within the \u00263Vault\u0026r are exactly what the \u0026dMachinist\u0026r talked about needing for the \u00266World Engine\u0026r upgrade.\n\nMake those upgrade materials and head back to the \u0026dEcho\u0026r.\n\n\u0026eNote\u0026r: You'll need to provide Rotational Power to the \u00266World Engine\u0026r through the \u0026aEncased Chain Drive\u0026r below it.",
+    "translation": "在\u00263寶庫\u0026r中找到的合金真的是\u0026d機械前輩\u0026r提到的那種：作為\u00266世界引擎\u0026r升級必需的合金。\n\n製作出這些升級材料並回訪\u0026d機械前輩\u0026r。\n\n\u0026e備註\u0026r：你會需要透過\u00266世界引擎\u0026r正下方的\u0026a鏈式傳動箱\u0026r將動能應力輸送進去。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 62531896A7E58F55",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.62531896A7E58F55.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 62531896A7E58F55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.62531896A7E58F55.title": {
+    "original": "\u0026fShadow Casings \\\u0026\\ Stress",
+    "translation": "\u0026f暗影機殼 \\\u0026\\ 動能應力",
+    "context": "chapters/world_engine__tier_1.snbt / quest 62531896A7E58F55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6B391D0B32AF8529.quest_desc": {
+    "original": "After you've crafted enough \u00262Shadow Steel\u0026r, you should return to the \u0026dMachinist\u0026r to learn where to place it in the \u00266World Engine\u0026r.",
+    "translation": "當你合成出了足夠多的\u00262暗影機殼\u0026r後，你是時候該回訪\u0026d機械尊者\u0026r，並向他學習該如何在\u00266世界引擎\u0026r安裝這項升級了。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 6B391D0B32AF8529",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.715F30D0A9B79DD7.quest_desc": {
+    "original": "The \u00266World Engine's \u00263Machine Block Upgrade\u0026r unlocks several new crafts, including one of the best tools you can make for getting around.\n\nThe \u0026aExplorer's Compass\u0026r can help you locate any structure in the pack, including mysterious \u00263Vaults\u0026r!",
+    "translation": "\u00266世界引擎\u00263機器方塊升級\u0026r解鎖了許多新的合成配方，包含一個探索世界時最有用的工具：\n\n\u0026a探索者羅盤\u0026r可以幫助你定位本模組包中的任何結構，像是那些神秘的\u00263寶庫\u0026r！",
+    "context": "chapters/world_engine__tier_1.snbt / quest 715F30D0A9B79DD7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.715F30D0A9B79DD7.title": {
+    "original": "\u0026fFinding Your Way",
+    "translation": "\u0026f指明前路",
+    "context": "chapters/world_engine__tier_1.snbt / quest 715F30D0A9B79DD7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7408FB23D476F791.title": {
+    "original": "Guidance Completed 1",
+    "translation": "Guidance Completed 1",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7408FB23D476F791",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.76673B8374630924.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 76673B8374630924",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.76673B8374630924.title": {
+    "original": "\u0026fAuto-Build The \u00263Machine Block Upgrade",
+    "translation": "\u0026f自動建造\u00263機器方塊升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 76673B8374630924",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.79EB0239FE299185.quest_desc": {
+    "original": "According to the \u0026dQuartermaster\u0026r, you now have everything you need to craft the \u00262World Engine Machine Frames\u0026r in the \u00266World Engine\u0026r.\n\nYou'll need a bunch of these to restore some of the \u00266World Engine's\u0026r functions, allowing you to craft more complex items!",
+    "translation": "據\u0026d儲物將軍\u0026r所述，你已取得了合成\u00266世界引擎\u0026r的\u00262世界引擎機器框架\u0026r所需的所有材料了。\n\n你會需要很多才能復原\u00266世界引擎\u0026r的功能：這樣你就可以合成更多更複雜的物品了！",
+    "context": "chapters/world_engine__tier_1.snbt / quest 79EB0239FE299185",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.79EB0239FE299185.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 79EB0239FE299185",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.79EB0239FE299185.title": {
+    "original": "\u0026aThe First Big Upgrade",
+    "translation": "\u0026a第一個大升級",
+    "context": "chapters/world_engine__tier_1.snbt / quest 79EB0239FE299185",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7D1FB9A40B5CAE97.quest_desc": {
+    "original": "\u0026bCheck\u0026f: Getting Worker Token\n\n\u0026bUnlocks\u0026f: Doors to T1 Echoes and Chapter 1",
+    "translation": "\u0026bCheck\u0026f: Getting Worker Token\n\n\u0026bUnlocks\u0026f: Doors to T1 Echoes and Chapter 1",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7D1FB9A40B5CAE97",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7D1FB9A40B5CAE97.title": {
+    "original": "Guidance 1.3 check",
+    "translation": "Guidance 1.3 check",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7D1FB9A40B5CAE97",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F7C0B1523AA28C4.quest_desc": {
+    "original": "The first task from the \u0026dMagician\u0026r is to unearth magical trees from the world.\n\nYou should work together with an Expert or Master \u00262Archaeologist\u0026r in an \u0026aUnearther\u0026r to dig up these magical saplings up.\n\n[\"If you're more of the explorer type, you may also find some magical resources in the \", {\"text\": \"Arcane Grove\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Arcane Grove Quest\"}}, \". Use the compass provided by the \", {\"text\": \"Magician\", \"color\": \"light_purple\"}, \" to guide you.\"]\n\nIf you're planning to engage the enemies within the \u00262Grove\u0026r, make sure to equip at least \u0026bDiamond-level\u0026r gear. \u0026cYou've been warned!\u0026r\n\nYou should return to the \u0026dMagician\u0026r once you have completed his task.",
+    "translation": "來自\u0026d魔法長老\u0026r的第一項任務是發掘出世界上的魔法樹種。\n\n你需要一個「專家」或「大師」級的\u00262考古學家\u0026r，幫你在\u0026a資源發掘站\u0026r中\u0026a發掘\u0026r出這些魔法樹苗。\n\n[\"若你是一位喜歡探險的玩家，你也可以在「\", {\"text\": \"秘法源林\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「秘法源林」任務\"}}, \"」中找到至高木。使用\", {\"text\": \"魔法長老\", \"color\": \"light_purple\"}, \"給予你的羅盤來定位該結構。\"]\n\n如果你想要對抗\u00262源林\u0026r中的敵人的話，建議至少穿上\u0026b鑽石級別\u0026r的盔甲。\u0026c你已被警告過了！\u0026r\n\n當你完成此項任務後，記得回到\u0026d魔法長老\u0026r處。",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7F7C0B1523AA28C4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7F7C0B1523AA28C4.quest_subtitle": {
+    "original": "Unlocking Ars",
+    "translation": "解鎖《新生魔藝》模組",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7F7C0B1523AA28C4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F7C0B1523AA28C4.title": {
+    "original": "\u0026fMagical Trees",
+    "translation": "\u0026f魔法之樹",
+    "context": "chapters/world_engine__tier_1.snbt / quest 7F7C0B1523AA28C4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.08D775729B3EAF3E.title": {
+    "original": "\u0026dQuartermaster \u0026fWaypoint",
+    "translation": "\u0026d儲物將軍\u0026f定位點",
+    "context": "chapters/world_engine__tier_1.snbt / reward 08D775729B3EAF3E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.235AF7EB3F88D642.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_1.snbt / reward 235AF7EB3F88D642",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2730B9B9300AA75C.title": {
+    "original": "\u0026e+1 \u00263Unearther Level",
+    "translation": "\u0026e+1 \u00263發掘等級",
+    "context": "chapters/world_engine__tier_1.snbt / reward 2730B9B9300AA75C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2C24A3F46426B257.title": {
+    "original": "Assemble The \u00263Machine Block Upgrade",
+    "translation": "安裝\u00263機器方塊升級",
+    "context": "chapters/world_engine__tier_1.snbt / reward 2C24A3F46426B257",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.31B318A2B60F4CC5.title": {
+    "original": "Assemble The \u00263Shadow Casing Upgrade",
+    "translation": "安裝\u00263暗影機殼升級",
+    "context": "chapters/world_engine__tier_1.snbt / reward 31B318A2B60F4CC5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.39BDE32B4BEF479B.title": {
+    "original": "Reset World Engine",
+    "translation": "reset_world_engine_machine",
+    "context": "chapters/world_engine__tier_1.snbt / reward 39BDE32B4BEF479B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4765C42AB1F8D1A6.title": {
+    "original": "\u00263Machinist's Vault Compass",
+    "translation": "\u00263機械前輩寶庫羅盤",
+    "context": "chapters/world_engine__tier_1.snbt / reward 4765C42AB1F8D1A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.59039114F2E02EBE.title": {
+    "original": "Arcane Grove Locator",
+    "translation": "Arcane Grove Locator",
+    "context": "chapters/world_engine__tier_1.snbt / reward 59039114F2E02EBE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5CD5D5D173FA5C89.title": {
+    "original": "\u0026dMachinist \u0026fWaypoint",
+    "translation": "\u0026d機械前輩\u0026f定位點",
+    "context": "chapters/world_engine__tier_1.snbt / reward 5CD5D5D173FA5C89",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5FEF5E7E69F4437F.title": {
+    "original": "\u0026dMagician \u0026fWaypoint",
+    "translation": "\u0026d魔法長老\u0026f定位點",
+    "context": "chapters/world_engine__tier_1.snbt / reward 5FEF5E7E69F4437F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.676EC71A125D6E04.title": {
+    "original": "Assemble The \u00263Source Upgrade",
+    "translation": "安裝\u00263魔源升級",
+    "context": "chapters/world_engine__tier_1.snbt / reward 676EC71A125D6E04",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0FE18EA47455263E.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_1.snbt / task 0FE18EA47455263E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.16F92FFAF9B19572.title": {
+    "original": "Sourcelinks",
+    "translation": "魔源通道",
+    "context": "chapters/world_engine__tier_1.snbt / task 16F92FFAF9B19572",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.19893A74AF61880F.title": {
+    "original": "Archwood Saplings",
+    "translation": "至高木樹苗",
+    "context": "chapters/world_engine__tier_1.snbt / task 19893A74AF61880F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.238BCDF15FC7E9CB.title": {
+    "original": "Speak With The \u0026dEcho of Guidance",
+    "translation": "\u0026f與\u0026d指引嚮導之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_1.snbt / task 238BCDF15FC7E9CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2695E2029A6BC6A0.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Magician",
+    "translation": "\u0026f與\u0026d魔法長老之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_1.snbt / task 2695E2029A6BC6A0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2C1D58B8E7565119.title": {
+    "original": "Early Power Suggestions",
+    "translation": "早期發電建議",
+    "context": "chapters/world_engine__tier_1.snbt / task 2C1D58B8E7565119",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3C532F10AE78D105.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dMachinist",
+    "translation": "\u0026e尋找\u0026f：\u0026d機械前輩",
+    "context": "chapters/world_engine__tier_1.snbt / task 3C532F10AE78D105",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.402164B895BEDB8E.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Quartermaster",
+    "translation": "\u0026f與\u0026d儲物將軍之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_1.snbt / task 402164B895BEDB8E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.459AEFEC8F060222.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_1.snbt / task 459AEFEC8F060222",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.45E18E3EE8C1D683.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Machinist",
+    "translation": "\u0026f與\u0026d機械前輩之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_1.snbt / task 45E18E3EE8C1D683",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5A912A97A8A7DB47.title": {
+    "original": "Finding the \u00263Create Vault",
+    "translation": "尋找：\u00263動力機械寶庫",
+    "context": "chapters/world_engine__tier_1.snbt / task 5A912A97A8A7DB47",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B3A2DEB3DFBA285.title": {
+    "original": "Speak With The \u0026dEcho of Guidance",
+    "translation": "與\u0026d指引嚮導之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_1.snbt / task 5B3A2DEB3DFBA285",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5D219927A5B4C985.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_1.snbt / task 5D219927A5B4C985",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5DB582096285438A.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dQuartermaster",
+    "translation": "\u0026e尋找\u0026f：\u0026d儲物將軍",
+    "context": "chapters/world_engine__tier_1.snbt / task 5DB582096285438A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5EA5666395E5AAEC.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dMagician",
+    "translation": "\u0026e尋找\u0026f：\u0026d魔法長老",
+    "context": "chapters/world_engine__tier_1.snbt / task 5EA5666395E5AAEC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6865F20C1E218901.title": {
+    "original": "Reset World Engine",
+    "translation": "重置世界引擎",
+    "context": "chapters/world_engine__tier_1.snbt / task 6865F20C1E218901",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7B3908878D77CBC9.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_1.snbt / task 7B3908878D77CBC9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

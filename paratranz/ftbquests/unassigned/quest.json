@@ -1,0 +1,1088 @@
+{
+  "quest.0171649B0F984DBB.quest_desc": {
+    "original": "This quest will set up a waypoint to the \u0026dWyrmwright's \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to the \u0026dWyrmwright's \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 0171649B0F984DBB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0171649B0F984DBB.title": {
+    "original": "\u0026fLocating \u0026dThe Wyrmwright",
+    "translation": "\u0026fLocating \u0026dThe Wyrmwright",
+    "context": "unassigned/quest.snbt / quest 0171649B0F984DBB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0173ED2BED248CF6.quest_desc": {
+    "original": "\u0026aMatter\u0026r \u0026eTransmitters\u0026r and \u0026aReceivers\u0026r can be used to set up teleportation back and forth within the world. ",
+    "translation": "\u0026aMatter\u0026r \u0026eTransmitters\u0026r and \u0026aReceivers\u0026r can be used to set up teleportation back and forth within the world. ",
+    "context": "unassigned/quest.snbt / quest 0173ED2BED248CF6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.01C338263242935F.title": {
+    "original": "TF East",
+    "translation": "TF East",
+    "context": "unassigned/quest.snbt / quest 01C338263242935F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.03BEFC2150D09E7A.quest_desc": {
+    "original": "\u0026dWireless Grids\u0026r allow remote access to your storage network when within range of the \u00263Wireless Transmitter\u0026r.\n\nEach \u0026dWireless Grid\u0026r provides the same functionality as their corresponding \u0026aGrids\u0026r.",
+    "translation": "\u0026dWireless Grids\u0026r allow remote access to your storage network when within range of the \u00263Wireless Transmitter\u0026r.\n\nEach \u0026dWireless Grid\u0026r provides the same functionality as their corresponding \u0026aGrids\u0026r.",
+    "context": "unassigned/quest.snbt / quest 03BEFC2150D09E7A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0484DE13B27E77D0.title": {
+    "original": "Explain Task Screen",
+    "translation": "Explain Task Screen",
+    "context": "unassigned/quest.snbt / quest 0484DE13B27E77D0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.04886BA191FF452F.title": {
+    "original": "Ocean West",
+    "translation": "Ocean West",
+    "context": "unassigned/quest.snbt / quest 04886BA191FF452F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.04BF47162CC46237.quest_subtitle": {
+    "original": "Unearther, Archaeologist",
+    "translation": "Unearther, Archaeologist",
+    "context": "unassigned/quest.snbt / quest 04BF47162CC46237",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.051AA9C595DC9B02.quest_desc": {
+    "original": "This quest will set up a waypoint to \u0026dThe Catalyst's \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to \u0026dThe Catalyst's \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 051AA9C595DC9B02",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.051AA9C595DC9B02.title": {
+    "original": "\u0026fLocating \u0026dThe Catalyst",
+    "translation": "\u0026fLocating \u0026dThe Catalyst",
+    "context": "unassigned/quest.snbt / quest 051AA9C595DC9B02",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.05BB2A6101B519A0.quest_desc": {
+    "original": "The \u00266Dimension Card\u0026r grants you access to your network across dimensions at a hefty energy cost.",
+    "translation": "The \u00266Dimension Card\u0026r grants you access to your network across dimensions at a hefty energy cost.",
+    "context": "unassigned/quest.snbt / quest 05BB2A6101B519A0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.06A86C3EC5CBF204.quest_subtitle": {
+    "original": "Unearther, Archaeologist",
+    "translation": "Unearther, Archaeologist",
+    "context": "unassigned/quest.snbt / quest 06A86C3EC5CBF204",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.077F5C3829CA7300.title": {
+    "original": "Foods",
+    "translation": "Foods",
+    "context": "unassigned/quest.snbt / quest 077F5C3829CA7300",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.082551D21363A1D9.title": {
+    "original": "\u0026dArs Weaponry",
+    "translation": "\u0026dArs Weaponry",
+    "context": "unassigned/quest.snbt / quest 082551D21363A1D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0AFA74FA77E9056B.title": {
+    "original": "Ocean South",
+    "translation": "Ocean South",
+    "context": "unassigned/quest.snbt / quest 0AFA74FA77E9056B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0D864FD6A668D8C6.quest_desc": {
+    "original": "\u00263Interfaces\u0026r can input into and output from your network at the same time, functioning as an \u0026aImporter\u0026r and \u00262Exporter\u0026r within the same blockspace.",
+    "translation": "\u00263Interfaces\u0026r can input into and output from your network at the same time, functioning as an \u0026aImporter\u0026r and \u00262Exporter\u0026r within the same blockspace.",
+    "context": "unassigned/quest.snbt / quest 0D864FD6A668D8C6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DF9EE9016483463.title": {
+    "original": "add WE schematics to rewards",
+    "translation": "add WE schematics to rewards",
+    "context": "unassigned/quest.snbt / quest 0DF9EE9016483463",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0F1B7185D8F4CDE6.quest_desc": {
+    "original": "\u00267Dark Matter Tools\u0026r are fast and unbreakable, and the dark matter \u0026aPickaxe\u0026r can switch modes from normal to 3-block-wide mining.\n\n\u0026eProjectE\u0026r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
+    "translation": "\u00267Dark Matter Tools\u0026r are fast and unbreakable, and the dark matter \u0026aPickaxe\u0026r can switch modes from normal to 3-block-wide mining.\n\n\u0026eProjectE\u0026r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
+    "context": "unassigned/quest.snbt / quest 0F1B7185D8F4CDE6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0F1B7185D8F4CDE6.title": {
+    "original": "\u00267Dark Matter \u0026fTools",
+    "translation": "\u00267Dark Matter \u0026fTools",
+    "context": "unassigned/quest.snbt / quest 0F1B7185D8F4CDE6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0FED418633235211.title": {
+    "original": "\u0026fMidgame Vanilla Swords",
+    "translation": "\u0026fMidgame Vanilla Swords",
+    "context": "unassigned/quest.snbt / quest 0FED418633235211",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1278BB2F13A74537.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 1278BB2F13A74537",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.133ECE7BDDC8C13D.quest_desc": {
+    "original": "Now that you've acquired \u003cblank\u003e, the \u00266Echo of Guidance\u0026r mentioned further \u0026dArchives\u0026r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
+    "translation": "Now that you've acquired \u003cblank\u003e, the \u00266Echo of Guidance\u0026r mentioned further \u0026dArchives\u0026r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
+    "context": "unassigned/quest.snbt / quest 133ECE7BDDC8C13D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.133ECE7BDDC8C13D.quest_subtitle": {
+    "original": "Unlocks Tier 2 Questline",
+    "translation": "Unlocks Tier 2 Questline",
+    "context": "unassigned/quest.snbt / quest 133ECE7BDDC8C13D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.133ECE7BDDC8C13D.title": {
+    "original": "\u0026fUncovering The Lost Echoes",
+    "translation": "\u0026fUncovering The Lost Echoes",
+    "context": "unassigned/quest.snbt / quest 133ECE7BDDC8C13D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.136E32BEF40CCB1B.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 136E32BEF40CCB1B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13D1BC0C49543326.quest_desc": {
+    "original": "This quest will set up a waypoint to \u0026dThe Ancient's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to \u0026dThe Ancient's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 13D1BC0C49543326",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13D1BC0C49543326.title": {
+    "original": "\u0026fLocating \u0026dThe Ancient",
+    "translation": "\u0026fLocating \u0026dThe Ancient",
+    "context": "unassigned/quest.snbt / quest 13D1BC0C49543326",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1402FA427FF1B8B3.quest_subtitle": {
+    "original": "Unearther, Dimensionalist",
+    "translation": "Unearther, Dimensionalist",
+    "context": "unassigned/quest.snbt / quest 1402FA427FF1B8B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1628081CB8A2E5CA.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 1628081CB8A2E5CA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1C3DFCB335276952.title": {
+    "original": "Mekanism Reactors",
+    "translation": "Mekanism Reactors",
+    "context": "unassigned/quest.snbt / quest 1C3DFCB335276952",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1DA11C69EFDA19EC.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 1DA11C69EFDA19EC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1DC5DE6E9F0D0B2C.quest_desc": {
+    "original": "Spells can be cast by equipping your \u0026aSpell Book\u0026r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the \u0026bR\u0026r keybind by default. Casting the selected spell can be done by pressing \u0026bV\u0026r.\n\nThese can all be changed in your keybinds. Try searching for \u0026acategory:\"Iron's Spells 'n Spellbooks - General\"\u0026r.\n\nThere are also quick cast options!",
+    "translation": "Spells can be cast by equipping your \u0026aSpell Book\u0026r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the \u0026bR\u0026r keybind by default. Casting the selected spell can be done by pressing \u0026bV\u0026r.\n\nThese can all be changed in your keybinds. Try searching for \u0026acategory:\"Iron's Spells 'n Spellbooks - General\"\u0026r.\n\nThere are also quick cast options!",
+    "context": "unassigned/quest.snbt / quest 1DC5DE6E9F0D0B2C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1DC5DE6E9F0D0B2C.title": {
+    "original": "\u0026bCasting Spells",
+    "translation": "\u0026bCasting Spells",
+    "context": "unassigned/quest.snbt / quest 1DC5DE6E9F0D0B2C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1EC4F12DACE04299.quest_desc": {
+    "original": "Gotten from the create vault",
+    "translation": "Gotten from the create vault",
+    "context": "unassigned/quest.snbt / quest 1EC4F12DACE04299",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.228D69F6ACAE761B.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 228D69F6ACAE761B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.238137090A4F8FD6.title": {
+    "original": "Minor WE Upgrade Check",
+    "translation": "Minor WE Upgrade Check",
+    "context": "unassigned/quest.snbt / quest 238137090A4F8FD6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.244134B3BF63A680.quest_subtitle": {
+    "original": "now available via unearther",
+    "translation": "now available via unearther",
+    "context": "unassigned/quest.snbt / quest 244134B3BF63A680",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.24D045E9CE30A016.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 24D045E9CE30A016",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.24F370B893D01143.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 24F370B893D01143",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25E0E97D705F3514.quest_subtitle": {
+    "original": "needs removing for IronJs",
+    "translation": "needs removing for IronJs",
+    "context": "unassigned/quest.snbt / quest 25E0E97D705F3514",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.27D28CC22BB5C665.quest_subtitle": {
+    "original": "Used to craft other upgrades",
+    "translation": "Used to craft other upgrades",
+    "context": "unassigned/quest.snbt / quest 27D28CC22BB5C665",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.27D28CC22BB5C665.title": {
+    "original": "Upgrade Base",
+    "translation": "Upgrade Base",
+    "context": "unassigned/quest.snbt / quest 27D28CC22BB5C665",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2BFD68083AD1B894.quest_desc": {
+    "original": "\u0026aConstructors\u0026r can place resources from your network into the world as blocks or item entities.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "translation": "\u0026aConstructors\u0026r can place resources from your network into the world as blocks or item entities.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "context": "unassigned/quest.snbt / quest 2BFD68083AD1B894",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2BFD68083AD1B894.title": {
+    "original": "Constructors",
+    "translation": "Constructors",
+    "context": "unassigned/quest.snbt / quest 2BFD68083AD1B894",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2C141655079AC173.quest_desc": {
+    "original": "\u0026dWyvern\u0026r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "\u0026dWyvern\u0026r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "context": "unassigned/quest.snbt / quest 2C141655079AC173",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2C141655079AC173.title": {
+    "original": "\u0026dWyvern \u0026fWeapons",
+    "translation": "\u0026dWyvern \u0026fWeapons",
+    "context": "unassigned/quest.snbt / quest 2C141655079AC173",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2D35AD2FDC93FA46.title": {
+    "original": "TF South",
+    "translation": "TF South",
+    "context": "unassigned/quest.snbt / quest 2D35AD2FDC93FA46",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2DB9D91CFB15C210.quest_desc": {
+    "original": "Use the Infuser to make the circuitry needed for the \u00262Machine Frames\u0026r.",
+    "translation": "Use the Infuser to make the circuitry needed for the \u00262Machine Frames\u0026r.",
+    "context": "unassigned/quest.snbt / quest 2DB9D91CFB15C210",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2DB9D91CFB15C210.title": {
+    "original": "\u0026fBasic Circuitry",
+    "translation": "\u0026fBasic Circuitry",
+    "context": "unassigned/quest.snbt / quest 2DB9D91CFB15C210",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2FF6307E57E005C8.quest_subtitle": {
+    "original": "requires IE crusher, only used in IE",
+    "translation": "requires IE crusher, only used in IE",
+    "context": "unassigned/quest.snbt / quest 2FF6307E57E005C8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.30DC15C5BF42A9DE.title": {
+    "original": "Ocean East",
+    "translation": "Ocean East",
+    "context": "unassigned/quest.snbt / quest 30DC15C5BF42A9DE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.310F815C02B2CAF8.quest_desc": {
+    "original": "This quest will set up a waypoint to the \u0026dTwilight's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to the \u0026dTwilight's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 310F815C02B2CAF8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.310F815C02B2CAF8.title": {
+    "original": "\u0026fLocating \u0026dTwilight",
+    "translation": "\u0026fLocating \u0026dTwilight",
+    "context": "unassigned/quest.snbt / quest 310F815C02B2CAF8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.33FEE29B3EF5A420.quest_subtitle": {
+    "original": "Unearther, Otherstone",
+    "translation": "Unearther, Otherstone",
+    "context": "unassigned/quest.snbt / quest 33FEE29B3EF5A420",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.364B2143B874582D.quest_desc": {
+    "original": "",
+    "context": "unassigned/quest.snbt / quest 364B2143B874582D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.364B2143B874582D.title": {
+    "original": "\u0026fUncovering The World Engine",
+    "translation": "\u0026fUncovering The World Engine",
+    "context": "unassigned/quest.snbt / quest 364B2143B874582D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.36CB035F6484A70F.quest_desc": {
+    "original": "",
+    "context": "unassigned/quest.snbt / quest 36CB035F6484A70F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.36CB035F6484A70F.title": {
+    "original": "\u0026fLeather",
+    "translation": "\u0026fLeather",
+    "context": "unassigned/quest.snbt / quest 36CB035F6484A70F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.38EDDC529FD4C665.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 38EDDC529FD4C665",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3A106E4D6EE35D7A.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 3A106E4D6EE35D7A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3A47929FBAEEBD8B.quest_subtitle": {
+    "original": "Unearther, Cobblestone",
+    "translation": "Unearther, Cobblestone",
+    "context": "unassigned/quest.snbt / quest 3A47929FBAEEBD8B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3B0DA478464D29CC.title": {
+    "original": "\u0026fEarlygame Vanilla Swords",
+    "translation": "\u0026fEarlygame Vanilla Swords",
+    "context": "unassigned/quest.snbt / quest 3B0DA478464D29CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3C25B0FAC773D70A.title": {
+    "original": "\u0026dArs' Tools",
+    "translation": "\u0026dArs' Tools",
+    "context": "unassigned/quest.snbt / quest 3C25B0FAC773D70A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3EF3DBD1F6ADEAEC.quest_subtitle": {
+    "original": "Unearther, Dimensionalist",
+    "translation": "Unearther, Dimensionalist",
+    "context": "unassigned/quest.snbt / quest 3EF3DBD1F6ADEAEC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.428E671C1444C97B.quest_subtitle": {
+    "original": "Unearther, Archaeologist",
+    "translation": "Unearther, Archaeologist",
+    "context": "unassigned/quest.snbt / quest 428E671C1444C97B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.43B92A87F280211F.title": {
+    "original": "TF West",
+    "translation": "TF West",
+    "context": "unassigned/quest.snbt / quest 43B92A87F280211F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44842AC8247EFDF4.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 44842AC8247EFDF4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44D9A7C563B087C0.quest_subtitle": {
+    "original": "unearthing",
+    "translation": "unearthing",
+    "context": "unassigned/quest.snbt / quest 44D9A7C563B087C0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47920CCF1C3CAE5B.title": {
+    "original": "End North",
+    "translation": "End North",
+    "context": "unassigned/quest.snbt / quest 47920CCF1C3CAE5B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4A871B8D8648F305.quest_desc": {
+    "original": "Smelted from its dust form or alloyed\n\nDust from Metallurgic Infusing Nickel with Diamond",
+    "translation": "Smelted from its dust form or alloyed\n\nDust from Metallurgic Infusing Nickel with Diamond",
+    "context": "unassigned/quest.snbt / quest 4A871B8D8648F305",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4B8E75ACE0AA6FA0.quest_desc": {
+    "original": "Can be acquired from Geologist in an Unearther from Crushed Kivi.",
+    "translation": "Can be acquired from Geologist in an Unearther from Crushed Kivi.",
+    "context": "unassigned/quest.snbt / quest 4B8E75ACE0AA6FA0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4B8E75ACE0AA6FA0.quest_subtitle": {
+    "original": "requires ore generator",
+    "translation": "requires ore generator",
+    "context": "unassigned/quest.snbt / quest 4B8E75ACE0AA6FA0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4BBDC7BF4B9EAD72.quest_subtitle": {
+    "original": "Unearther, Archaeologist",
+    "translation": "Unearther, Archaeologist",
+    "context": "unassigned/quest.snbt / quest 4BBDC7BF4B9EAD72",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.50416F411ED15BA5.quest_subtitle": {
+    "original": "requires ore generator",
+    "translation": "requires ore generator",
+    "context": "unassigned/quest.snbt / quest 50416F411ED15BA5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.50EFBD8BDE0C88AF.quest_desc": {
+    "original": "The \u0026aRange Upgrade\u0026r increases the range of the \u00263Wireless Transmitter\u0026r, from 16 up to 48 blocks.",
+    "translation": "The \u0026aRange Upgrade\u0026r increases the range of the \u00263Wireless Transmitter\u0026r, from 16 up to 48 blocks.",
+    "context": "unassigned/quest.snbt / quest 50EFBD8BDE0C88AF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.519C754DF20BF31E.quest_desc": {
+    "original": "Plat block using Goo",
+    "translation": "Plat block using Goo",
+    "context": "unassigned/quest.snbt / quest 519C754DF20BF31E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.519C754DF20BF31E.quest_subtitle": {
+    "original": "(Sold by Echo)",
+    "translation": "(Sold by Echo)",
+    "context": "unassigned/quest.snbt / quest 519C754DF20BF31E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.54404B81EAC760E8.quest_subtitle": {
+    "original": "(Sold by Echo)",
+    "translation": "(Sold by Echo)",
+    "context": "unassigned/quest.snbt / quest 54404B81EAC760E8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.55DB51D88B9C5724.quest_subtitle": {
+    "original": "alloy of tin and copper",
+    "translation": "alloy of tin and copper",
+    "context": "unassigned/quest.snbt / quest 55DB51D88B9C5724",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.594911C1304689E9.quest_desc": {
+    "original": "\u0026aExporters\u0026r are used to move resources out of your network.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "translation": "\u0026aExporters\u0026r are used to move resources out of your network.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "context": "unassigned/quest.snbt / quest 594911C1304689E9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.594911C1304689E9.title": {
+    "original": "Exporters",
+    "translation": "Exporters",
+    "context": "unassigned/quest.snbt / quest 594911C1304689E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.59D007531CD064D9.quest_subtitle": {
+    "original": "needs removing for IronJs",
+    "translation": "needs removing for IronJs",
+    "context": "unassigned/quest.snbt / quest 59D007531CD064D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5B23C2EB38DCEE6E.quest_desc": {
+    "original": "Alloying Platinum + Netherite\n\nAtomic Forging Platinum + 2 Reinforced Carbon Sheets",
+    "translation": "Alloying Platinum + Netherite\n\nAtomic Forging Platinum + 2 Reinforced Carbon Sheets",
+    "context": "unassigned/quest.snbt / quest 5B23C2EB38DCEE6E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E79F24C893AFF65.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 5E79F24C893AFF65",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5ED062BF97780287.title": {
+    "original": "End West",
+    "translation": "End West",
+    "context": "unassigned/quest.snbt / quest 5ED062BF97780287",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.62BB5925FB6C05C6.title": {
+    "original": "\u0026dEcho of The Magician \u0026fWaypoint",
+    "translation": "\u0026dEcho of The Magician \u0026fWaypoint",
+    "context": "unassigned/quest.snbt / quest 62BB5925FB6C05C6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.63BA03EC05C8105F.title": {
+    "original": "TF North",
+    "translation": "TF North",
+    "context": "unassigned/quest.snbt / quest 63BA03EC05C8105F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6681C945EBF3E114.quest_desc": {
+    "original": "Input mode",
+    "translation": "Input mode",
+    "context": "unassigned/quest.snbt / quest 6681C945EBF3E114",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6697F832067F1A9C.quest_desc": {
+    "original": "\u0026eOritech's \u00263Enderic Railgun\u0026r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle \u0026bMining Mode\u0026r on/off.\n\nIn \u0026bMining Mode\u0026r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
+    "translation": "\u0026eOritech's \u00263Enderic Railgun\u0026r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle \u0026bMining Mode\u0026r on/off.\n\nIn \u0026bMining Mode\u0026r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
+    "context": "unassigned/quest.snbt / quest 6697F832067F1A9C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.674AFF1CFDE5886F.title": {
+    "original": "Armorer",
+    "translation": "Armorer",
+    "context": "unassigned/quest.snbt / quest 674AFF1CFDE5886F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67747675548AAC80.quest_subtitle": {
+    "original": "Unearther, Archaeologist",
+    "translation": "Unearther, Archaeologist",
+    "context": "unassigned/quest.snbt / quest 67747675548AAC80",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67F596597F0B2825.title": {
+    "original": "\u0026fMeet The Guide",
+    "translation": "\u0026fMeet The Guide",
+    "context": "unassigned/quest.snbt / quest 67F596597F0B2825",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.69997DAB93184551.quest_desc": {
+    "original": "The \u0026dWyvern Chestpiece\u0026r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via \u0026aUpgrade Modules\u0026r.\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "The \u0026dWyvern Chestpiece\u0026r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via \u0026aUpgrade Modules\u0026r.\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "context": "unassigned/quest.snbt / quest 69997DAB93184551",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.69997DAB93184551.title": {
+    "original": "\u0026dWyvern \u0026fChestpiece",
+    "translation": "\u0026dWyvern \u0026fChestpiece",
+    "context": "unassigned/quest.snbt / quest 69997DAB93184551",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6BF5A24142C8FC67.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 6BF5A24142C8FC67",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6D9862948E97E696.title": {
+    "original": "End East",
+    "translation": "End East",
+    "context": "unassigned/quest.snbt / quest 6D9862948E97E696",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DB6B40C3E07E389.quest_desc": {
+    "original": "If you manage to find your way through the puzzles of this vault, the \u00262Chroniton Star\u0026r should be yours for the taking.\n\nJust remember, the cake is a lie.",
+    "translation": "If you manage to find your way through the puzzles of this vault, the \u00262Chroniton Star\u0026r should be yours for the taking.\n\nJust remember, the cake is a lie.",
+    "context": "unassigned/quest.snbt / quest 6DB6B40C3E07E389",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6DEB5453D8E3BD76.quest_subtitle": {
+    "original": "Unearther, Dimensionalist",
+    "translation": "Unearther, Dimensionalist",
+    "context": "unassigned/quest.snbt / quest 6DEB5453D8E3BD76",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DEB5453D8E3BD76.title": {
+    "original": "Ancient Debris or Netherite",
+    "translation": "Ancient Debris or Netherite",
+    "context": "unassigned/quest.snbt / quest 6DEB5453D8E3BD76",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6F68D2CC4B83671E.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 6F68D2CC4B83671E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.70D3D4701167B4D5.title": {
+    "original": "\u0026fAlways greener on the other side",
+    "translation": "\u0026fAlways greener on the other side",
+    "context": "unassigned/quest.snbt / quest 70D3D4701167B4D5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.727FAF20A8E1303B.quest_subtitle": {
+    "original": "Found in Healing Springs",
+    "translation": "Found in Healing Springs",
+    "context": "unassigned/quest.snbt / quest 727FAF20A8E1303B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7379486ABDDE4430.quest_desc": {
+    "original": "This quest will set up a waypoint to \u0026dThe Light Bender's \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to \u0026dThe Light Bender's \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 7379486ABDDE4430",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7379486ABDDE4430.title": {
+    "original": "\u0026fLocating \u0026dThe Light Bender",
+    "translation": "\u0026fLocating \u0026dThe Light Bender",
+    "context": "unassigned/quest.snbt / quest 7379486ABDDE4430",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.740B9F63604944F3.title": {
+    "original": "Ocean North",
+    "translation": "Ocean North",
+    "context": "unassigned/quest.snbt / quest 740B9F63604944F3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.75CAB7B10BA85935.title": {
+    "original": "Fusion Crafting",
+    "translation": "Fusion Crafting",
+    "context": "unassigned/quest.snbt / quest 75CAB7B10BA85935",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7614FCF3E2012C48.title": {
+    "original": "\u0026dPsimetal Exosuit",
+    "translation": "\u0026dPsimetal Exosuit",
+    "context": "unassigned/quest.snbt / quest 7614FCF3E2012C48",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.779460FD700CB351.quest_subtitle": {
+    "original": "Unearther, Geologist",
+    "translation": "Unearther, Geologist",
+    "context": "unassigned/quest.snbt / quest 779460FD700CB351",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.77ABD20EB652F302.quest_desc": {
+    "original": "",
+    "context": "unassigned/quest.snbt / quest 77ABD20EB652F302",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.77ABD20EB652F302.title": {
+    "original": "\u0026fSpawning Farm Animals",
+    "translation": "\u0026fSpawning Farm Animals",
+    "context": "unassigned/quest.snbt / quest 77ABD20EB652F302",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.79CB07BC6B2333AE.title": {
+    "original": "Prismarine",
+    "translation": "Prismarine",
+    "context": "unassigned/quest.snbt / quest 79CB07BC6B2333AE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7A1BCD0876713992.quest_desc": {
+    "original": "Flawed Budding Block is available to craft in the \u0026bWorld Engine\u0026r that has the basic \u0026aMachine Block\u0026r upgrade.",
+    "translation": "Flawed Budding Block is available to craft in the \u0026bWorld Engine\u0026r that has the basic \u0026aMachine Block\u0026r upgrade.",
+    "context": "unassigned/quest.snbt / quest 7A1BCD0876713992",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7A6F1E301DB2EDC3.quest_desc": {
+    "original": "Cx: -1\nCz: 185",
+    "translation": "Cx: -1\nCz: 185",
+    "context": "unassigned/quest.snbt / quest 7A6F1E301DB2EDC3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7C6BB27CCDA5E878.quest_desc": {
+    "original": "This quest will set up a waypoint to \u0026dThe Infernal's \u00266Archive\u0026r.",
+    "translation": "This quest will set up a waypoint to \u0026dThe Infernal's \u00266Archive\u0026r.",
+    "context": "unassigned/quest.snbt / quest 7C6BB27CCDA5E878",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7C6BB27CCDA5E878.title": {
+    "original": "\u0026fLocating \u0026dThe Infernal",
+    "translation": "\u0026fLocating \u0026dThe Infernal",
+    "context": "unassigned/quest.snbt / quest 7C6BB27CCDA5E878",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E062B48AD37EAF1.quest_desc": {
+    "original": "Processors are used to craft most of the core components of your \u0026eRS2\u0026r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
+    "translation": "Processors are used to craft most of the core components of your \u0026eRS2\u0026r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
+    "context": "unassigned/quest.snbt / quest 7E062B48AD37EAF1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7E062B48AD37EAF1.title": {
+    "original": "Processors",
+    "translation": "Processors",
+    "context": "unassigned/quest.snbt / quest 7E062B48AD37EAF1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E0E4E6260C1D61E.quest_desc": {
+    "original": "With infinite power for your storage system and access to \u0026zcreative spells\u0026r from \u00266Ars\u0026r, that only leaves one more thing to take care of before you can shape the world around you.\n\n\u0026zCreative Power\u0026r for everything.",
+    "translation": "With infinite power for your storage system and access to \u0026zcreative spells\u0026r from \u00266Ars\u0026r, that only leaves one more thing to take care of before you can shape the world around you.\n\n\u0026zCreative Power\u0026r for everything.",
+    "context": "unassigned/quest.snbt / quest 7E0E4E6260C1D61E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7E0E4E6260C1D61E.title": {
+    "original": "Ascension Tier 3 - Omniscient",
+    "translation": "Ascension Tier 3 - Omniscient",
+    "context": "unassigned/quest.snbt / quest 7E0E4E6260C1D61E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F022A9289CCBF5D.title": {
+    "original": "End South",
+    "translation": "End South",
+    "context": "unassigned/quest.snbt / quest 7F022A9289CCBF5D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F7D54E743F4E1DE.title": {
+    "original": "add WE schematics to rewards",
+    "translation": "add WE schematics to rewards",
+    "context": "unassigned/quest.snbt / quest 7F7D54E743F4E1DE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

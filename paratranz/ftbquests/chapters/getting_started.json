@@ -1,0 +1,884 @@
+{
+  "chapter.41A8FE9D26EFA401.title": {
+    "original": "Getting Started",
+    "translation": "石頭之始",
+    "context": "chapters/getting_started.snbt / chapter 41A8FE9D26EFA401",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0138DA9E72BF9CE0.quest_desc": {
+    "original": "This compass will lead you to the nearest \u0026aHealing Spring\u0026r.",
+    "translation": "這個羅盤能夠引領你找到最近的\u0026a治癒之泉\u0026r。",
+    "context": "chapters/getting_started.snbt / quest 0138DA9E72BF9CE0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0138DA9E72BF9CE0.title": {
+    "original": "\u0026fLocating the \u0026aHealing Spring",
+    "translation": "\u0026f定位\u0026a治癒之泉",
+    "context": "chapters/getting_started.snbt / quest 0138DA9E72BF9CE0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.036047DE66198D10.quest_desc": {
+    "original": "If \u0026aLeaves\u0026r are dried out, they can be used to make stronger fibers.\n\nMake a \u0026aCampfire\u0026r and place the \u0026aLeaves\u0026r in it to dry them out. Once dry, you should be able to turn them into straw by breaking them with \u0026aCrook\u0026r.",
+    "translation": "烤乾\u0026a樹葉\u0026r能夠將它們製成更堅韌的纖維。\n\n合成一簇\u0026a營火\u0026r並將\u0026a樹葉\u0026r放上去，烤乾它們。當它們被烤乾後，使用\u0026a曲柄杖\u0026r破壞它們就能取得稻梗了。",
+    "context": "chapters/getting_started.snbt / quest 036047DE66198D10",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.036047DE66198D10.title": {
+    "original": "\u0026fFeel The Burn",
+    "translation": "\u0026f感到有點熱",
+    "context": "chapters/getting_started.snbt / quest 036047DE66198D10",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0AAA6858DAF43067.quest_desc": {
+    "original": "Cobblestone will only get you so far.\n\nMake a \u0026aStone Hammer\u0026r so that you can break Cobblestone down into a finer material. There has to be some minerals in it somewhere!",
+    "translation": "鵝卵石能夠做的事就這麼多了。\n\n合成一把\u0026a石錘\u0026r，這樣你就可以將鵝卵石粉碎成更多種材料了。石塊之中可能殘餘著一些礦物！",
+    "context": "chapters/getting_started.snbt / quest 0AAA6858DAF43067",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0AAA6858DAF43067.title": {
+    "original": "\u0026fFrom Punching To Smashing",
+    "translation": "\u0026f手無縛雞之力",
+    "context": "chapters/getting_started.snbt / quest 0AAA6858DAF43067",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0ACCAD3AEF57F2E2.quest_desc": {
+    "original": "Instead of picking through \u00267Dirt\u0026r with a \u00262Crook\u0026r, the \u0026aCrude Brush\u0026r can help you find smaller objects like \u00262Seeds\u0026r to start a farm!\n\nGrass or \u0026dDelightful Dirt\u0026r can also be used to make a \u0026aPassive Mob Farm\u0026r that can be a good source of food and resources, especially \u0026bLeather\u0026r.\n\nThe \u0026dEcho of Guidance\u0026r also sells a Gateway containing passive mobs.",
+    "translation": "除了使用\u00262曲柄杖\u0026r挑揀\u00267泥土\u0026r之外，\u0026a粗製刷子\u0026r能夠幫助你找尋位於其中的更小物件，像是：各種「種子」，這樣你就可以開始進行農作了！\n\n草地或\u0026d祝福之土\u0026r能夠用來製造出一片\u0026a被動生物農場\u0026r，動物們能夠作為一種很好的食物來源，也能夠取得許多有用資源，\n像是「\u0026b皮革\u0026r」等。\n\n\u0026d指引嚮導之回聲\u0026r也有賣一個含有各種被動生物的「傳送門珍珠」。",
+    "context": "chapters/getting_started.snbt / quest 0ACCAD3AEF57F2E2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0ACCAD3AEF57F2E2.title": {
+    "original": "\u0026fBrushing In The Dirt",
+    "translation": "\u0026f刷刷土",
+    "context": "chapters/getting_started.snbt / quest 0ACCAD3AEF57F2E2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B295CE75D367D59.quest_desc": {
+    "original": "Wood is important, especially in a world made of Stone. You need to make use of everything you can get!\n\nWith your first pieces of Wood, make some \u0026aWooden Shears\u0026r to properly harvest those leaves as well!",
+    "translation": "木頭很重要，尤其你現在是在全是石頭的世界。你必須要物盡其用！\n\n你可以使用你的第一塊木頭做出一把\u0026a木剪刀\u0026r剪下那些樹葉納為己用。",
+    "context": "chapters/getting_started.snbt / quest 0B295CE75D367D59",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B295CE75D367D59.title": {
+    "original": "\u0026fLeaf Nothing Behind",
+    "translation": "\u0026f悄無聲息落下",
+    "context": "chapters/getting_started.snbt / quest 0B295CE75D367D59",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1520491A7804E08E.quest_desc": {
+    "original": "To be able to use the \u0026aWorker Token\u0026r in an \u00262Unearther\u0026r, you'll need a villager that has one of these 3 jobs:\n\n- \u0026aArcheologist\u0026r: Can brush Dirt, Dust, Mud, and Sand. Uses a \u0026aDecorative Pot\u0026r for the workstation.\n\n- \u00262Geologist\u0026r: Can brush Gravel, Soul Sand, and Crushed Kivi. Uses a \u00262Salvaging Table\u0026r for the workstation.\n\n- \u0026dDimensionalist\u0026r: Can brush Netherrack, End Stone, and Otherrock. Uses the \u0026dResonanz Engineering Block\u0026r for the workstation.",
+    "translation": "要在\u00262資源發掘站\u0026r中使用\u0026a勞工令牌\u0026r的話，村民的職業必須為下列三種之一：\n\n- \u0026a考古學家\u0026r：可以刷掃泥土、塵土、泥巴和沙子。\\n以\u0026a裝飾陶罐\u0026r作為工作站。\n\n- \u00262地質學家\u0026r：可以刷掃礫石、靈魂砂和粉碎奇石。\\n以\u00262分解台\u0026r作為工作站。\n\n- \u0026d維度學家\u0026r：可以刷掃地獄石、終界石和異界石。\\n以\u0026d諧振工程方塊\u0026r作為工作站。",
+    "context": "chapters/getting_started.snbt / quest 1520491A7804E08E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1520491A7804E08E.title": {
+    "original": "\u0026fUnearthing Villagers",
+    "translation": "\u0026f發掘村民",
+    "context": "chapters/getting_started.snbt / quest 1520491A7804E08E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.193690C049F4B4BB.quest_desc": {
+    "original": "Using a \u00262Hammer\u0026r, you can also break down Dirt into Sand, and then into \u0026aDust\u0026r. These will provide different resources needed for progression.\n\nThe \u00262Hammer\u0026r can also smash down \u0026aCompressed Blocks\u0026r to speed things up!",
+    "translation": "利用\u00262錘\u0026r，你還能夠將泥土粉碎為沙子，再粉碎為\u0026a塵土\u0026r。它們之中蘊含著的資源各不相同，但都是你發展所需的資源。\n\n\u00262錘\u0026r也可以粉碎\u0026a壓縮方塊\u0026r以加速這一過程！",
+    "context": "chapters/getting_started.snbt / quest 193690C049F4B4BB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.193690C049F4B4BB.title": {
+    "original": "\u0026fMore Smashing",
+    "translation": "\u0026f再次粉碎",
+    "context": "chapters/getting_started.snbt / quest 193690C049F4B4BB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1A84E167BFF8C2E4.quest_desc": {
+    "original": "No dirt... no trees... no tools... But you've still got your fists.\n\nBreak some \u0026aStone\u0026r to get \u00262Pebbles\u0026r that you can work with.\n\n\u0026eNote\u0026r: This must be done with an empty hand!",
+    "translation": "沒有泥土...沒有樹木...沒有工具...但你還有你的雙拳。\n\n擊破一些\u0026a石頭\u0026r以取得一些大有用處的\u00262石子\u0026r。\n\n\u0026e備註\u0026r：必須要空手才能取得石子！",
+    "context": "chapters/getting_started.snbt / quest 1A84E167BFF8C2E4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1A84E167BFF8C2E4.title": {
+    "original": "\u0026fHard As A Rock",
+    "translation": "\u0026f堅若磐石",
+    "context": "chapters/getting_started.snbt / quest 1A84E167BFF8C2E4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1F9D3474C8A655A9.quest_desc": {
+    "original": "Welcome to the \u00266Archive of Guidance\u0026r.\n\nSpeak with the \u0026dEcho\u0026r to begin your journey...\n\n\u0026eNote\u0026f: If you're playing with friends, complete this quest first and reach your home base \u0026nbefore\u0026r inviting others to your team.",
+    "translation": "歡迎來到\u00266指引嚮導檔案庫\u0026r。\n\n與\u0026d回聲\u0026r交談，你的旅程即將開始...\n\n\u0026e備註\u0026f：如果你正在和朋友一起玩的話，請先完成這項任務、並先創建完你的基地\u0026n之後\u0026r，再邀請其他人加入你的隊伍。",
+    "context": "chapters/getting_started.snbt / quest 1F9D3474C8A655A9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1F9D3474C8A655A9.title": {
+    "original": "\u0026fA Mysterious Path...",
+    "translation": "\u0026f一條神秘的道路...",
+    "context": "chapters/getting_started.snbt / quest 1F9D3474C8A655A9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.277181E358575312.quest_desc": {
+    "original": "Not everyone likes \u0026c\u0026mslaughtering innocent cows\u0026r animal farms. You may slay the undead instead to acquire \u0026aRotten Flesh\u0026r, which can be cured into \u0026bLeather\u0026r in a \u00262Campfire\u0026r.\n\nIt's probably a good idea to consider making a \u00262Backpack\u0026r with some of this leather!",
+    "translation": "不是所有人都喜歡\u0026c\u0026m屠宰無辜的牛\u0026r來獲得牠們的掉落物。相反，你可以透過殺死不死族來獲得\u0026a腐肉\u0026r：接著利用\u00262營火\u0026r將它烤成\u0026b皮革\u0026r。 \n\n將這些皮革製成一個\u00262背包\u0026r或許是個好主意！",
+    "context": "chapters/getting_started.snbt / quest 277181E358575312",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.277181E358575312.title": {
+    "original": "\u0026fRotten Flesh into Leather",
+    "translation": "\u0026f化腐朽為神奇",
+    "context": "chapters/getting_started.snbt / quest 277181E358575312",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.28683BFE22FBCCFC.quest_desc": {
+    "original": "If you didn't know, you can burn logs into \u00267Charcoal\u0026r in a furnace!\n\nThis can be a good early source of fuel.",
+    "translation": "以防你不知道，你可以在熔爐中將原木熔煉成\u00267木炭\u0026r！\n\n木炭在早期能夠作為一種很好的燃料來源。",
+    "context": "chapters/getting_started.snbt / quest 28683BFE22FBCCFC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.28683BFE22FBCCFC.title": {
+    "original": "\u0026fCharcoal and You",
+    "translation": "\u0026f木炭與你",
+    "context": "chapters/getting_started.snbt / quest 28683BFE22FBCCFC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.35791C02AC048594.quest_desc": {
+    "original": "The \u0026aChronon Cell\u0026r allows you to store the power of time, called \u0026bChronon\u0026r.\n\nThe \u00262Chronon Generator\u0026r will slowly generate \u0026bChronon\u0026r for the \u0026aCell\u0026r, which enables teleportation to your base using /home.\n\nYou can also use the \u0026aCell\u0026r to teleport to the \u00266World Engine\u0026r by Sneak + Right-clicking with it in your hand.",
+    "translation": "\u0026a時空粒子單元\u0026r能夠儲存時空之中蘊含的能量，俗稱「\u0026b時空粒子\u0026r」。\n\n\u00262時空粒子產生器\u0026r會緩慢產生並直接向\u0026a單元\u0026r之中存入\u0026b時空粒子\u0026r：它們是你使用像是「/home」或「/spawn」等傳送方式所需的能量。\n\n你也可以手持\u0026a單元\u0026r「潛行 + 右鍵」來傳送至\u00266世界引擎\u0026r處。",
+    "context": "chapters/getting_started.snbt / quest 35791C02AC048594",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.35791C02AC048594.quest_subtitle": {
+    "original": "Unlocking /home",
+    "translation": "解鎖「/home」指令",
+    "context": "chapters/getting_started.snbt / quest 35791C02AC048594",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.35791C02AC048594.title": {
+    "original": "\u0026fChronon Management",
+    "translation": "\u0026f時空粒子管理",
+    "context": "chapters/getting_started.snbt / quest 35791C02AC048594",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.39F6026AB205841A.quest_desc": {
+    "original": "While the pack contains \u0026eFTB Ultimine\u0026r, it does not work on \u0026aStone\u0026r!\n\n[\"Ultimine can be toggled with the keybind \", { \"keybind\": \"key.ftbultimine\", \"color\": \"green\" }, \".\"]\n\nIt also requires a tool in your hand to work.",
+    "translation": "本模組包有著《\u0026eFTB 連鎖挖礦\u0026r》模組，但它對\u0026a石頭\u0026r無效！\n\n[\"連鎖挖礦可以藉由按鍵「\", { \"keybind\": \"key.ftbultimine\", \"color\": \"green\" }, \"」觸發。\"]\n\n你手上必須要有工具才能使用連鎖挖礦。",
+    "context": "chapters/getting_started.snbt / quest 39F6026AB205841A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.39F6026AB205841A.title": {
+    "original": "Ultimine Notes",
+    "translation": "關於連鎖挖礦",
+    "context": "chapters/getting_started.snbt / quest 39F6026AB205841A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3BD07A9C3A6ED05A.quest_desc": {
+    "original": "Within the dark, empty spaces, it sounds like creatures have begun to crawl up from the depths of the stone.\n\nWith some luck, you might be able to find a deceased \u0026aVillager\u0026r stirring up.\n\nCreate an empty dark room to allow for a \u0026aZombie Villager\u0026r to spawn, and use the \u00262Healing Springs\u0026r to bring them back to life.\n\n\u0026eNote\u0026f: Make sure not to build the room too close to the \u0026aHealing Spring\u0026r as mobs won't spawn there! Look for the \u0026bBiome Name\u0026r under your minimap or using 'F3' to check.",
+    "translation": "於黑暗、空曠之地，你聽到了某些生物從岩層深處爬地而出的聲響。\n\n幸運的話，你說不定能夠找到一位已故\u0026a村民\u0026r佇立著。\n\n開闢一片空曠的黑暗房間，讓\u0026a殭屍村民\u0026r能夠生成，並將他帶至\u00262治癒之泉\u0026r處起死回生。\n\n\u0026e備註\u0026f：請確保不要將房間蓋得太靠近\u00262治癒之泉\u0026r，那裡不會有怪物生成！請看你小地圖下方的\u0026b生態域\u0026r名稱或使用「F3」自行查找。",
+    "context": "chapters/getting_started.snbt / quest 3BD07A9C3A6ED05A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3BD07A9C3A6ED05A.quest_subtitle": {
+    "original": "Wake Me Up Inside",
+    "translation": "喚醒我內心",
+    "context": "chapters/getting_started.snbt / quest 3BD07A9C3A6ED05A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3BD07A9C3A6ED05A.title": {
+    "original": "\u0026fBring Me To Life",
+    "translation": "\u0026f帶我復活",
+    "context": "chapters/getting_started.snbt / quest 3BD07A9C3A6ED05A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3DF42A6D832C0492.quest_desc": {
+    "original": "The \u0026dAction Pad\u0026r is a marvel of the ages. It can route many of your commonly used commands, such has home, spawn and world engine teleportation through this device.\n\n[\"You can open the menu by using the item or with the keybind \", { \"keybind\": \"ftbpackcompanion.key.open_action_pad\", \"color\": \"green\" }, \".\"]\n\nMany other teleportation options will appear as you meet the various \u0026dEchoes\u0026r and progress through the pack.\n\nIf you ever lose your device, you can claim a replacement in the questbook emergency items tab. ",
+    "translation": "\u0026d操作面板\u0026r是跨時代的奇蹟。這台設備能夠定位到任何你通常會使用指令才能傳送到的地方，像是：你的基地、重生點或世界引擎。 \n\n[\"你可以直接使用該物品或使用按鍵「\", { \"keybind\": \"ftbpackcompanion.key.open_action_pad\", \"color\": \"green\" }, \"」來開啟它的介面\"]\n\n隨著你遇見更多的\u0026d回聲\u0026r和推進模組包進度時，上面會出現更多其他的傳送選項。\n\n如果你不小心丟失了你的設備，你可以在任務書的「緊急道具」分頁領取一台新的。",
+    "context": "chapters/getting_started.snbt / quest 3DF42A6D832C0492",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3DF42A6D832C0492.title": {
+    "original": "Action Pad",
+    "translation": "操作面板",
+    "context": "chapters/getting_started.snbt / quest 3DF42A6D832C0492",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4194852B70E0ECEB.quest_desc": {
+    "original": "The \u0026dEcho of Guidance\u0026r has directed you to create your first home.\n\nHead out of the \u00266Archive\u0026r and enter through the giant portal to make your place in this world!",
+    "translation": "\u0026d指引嚮導之回聲\u0026r指引你去創建你的第一個基地。\n\n離開\u00266檔案庫\u0026r並穿越那巨大傳送門，在這個世界上找到專屬於你的位置！",
+    "context": "chapters/getting_started.snbt / quest 4194852B70E0ECEB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4194852B70E0ECEB.title": {
+    "original": "\u0026fThe Start of Your Stone World",
+    "translation": "\u0026f石頭世界之始",
+    "context": "chapters/getting_started.snbt / quest 4194852B70E0ECEB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4445906BD04FC37D.quest_desc": {
+    "original": "With your new \u00263Unearthing\u0026r skill, you should easily be able to find better materials in the different blocks that you can brush.\n\nTry brushing \u0026aDust\u0026r to see what you can \u00263Unearth\u0026r.",
+    "translation": "由於你掌握了新的\u00263發掘\u0026r技術，你應該能夠更輕易地在刷掃方塊時找到更好的材料。\n\n試著刷掃\u0026a塵土\u0026r來看看你能\u00263發掘\u0026r出甚麼新東西。",
+    "context": "chapters/getting_started.snbt / quest 4445906BD04FC37D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4445906BD04FC37D.title": {
+    "original": "\u0026fBecoming The Unearther",
+    "translation": "\u0026f成為發掘者",
+    "context": "chapters/getting_started.snbt / quest 4445906BD04FC37D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.455930CEC0C90C0C.quest_desc": {
+    "original": "The \u0026eClavis\u0026r mod adds special interaction with locked chests.\n\nChests are now locked behind a lockpicking minigame! Line up the needle with the locks and left click to unlock them.\n\nThe less you miss and the faster you complete the challenge, the better the loot!\n\n\u0026eNote\u0026r: The chest will still unlock with reduced rewards if you fail. You can also use \u0026aLock Picks\u0026r to completely skip the minigame.",
+    "translation": "\u0026e《鎖匙》\u0026r模組為上鎖寶箱加入了各種特別的互動。\n\n現在所有寶箱都需要經歷一場開鎖小遊戲才能解鎖！當指針與鎖銷連成一線時點擊左鍵就能開啟它。\n\n失誤次數越少、開啟的越快，能夠獲得的獎勵就越豐富！\n\n\u0026e備註\u0026r：就算失敗，你還是能夠以更少的獎勵來打開寶箱。你也可以使用\u0026a開鎖器\u0026r跳過小遊戲。",
+    "context": "chapters/getting_started.snbt / quest 455930CEC0C90C0C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.455930CEC0C90C0C.title": {
+    "original": "\u0026zLoot Chests",
+    "translation": "\u0026z獎勵寶箱",
+    "context": "chapters/getting_started.snbt / quest 455930CEC0C90C0C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47C1E9F93CEF25D3.quest_desc": {
+    "original": "Increasing your \u00263Unearther Level\u0026r will also increase the types of drops you get from brushing blocks.",
+    "translation": "提升你的\u00263發掘等級\u0026r會增加你刷掃方塊時所能獲得的物品種類。",
+    "context": "chapters/getting_started.snbt / quest 47C1E9F93CEF25D3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.47C1E9F93CEF25D3.title": {
+    "original": "\u0026fUnearther Levels",
+    "translation": "\u0026f發掘等級",
+    "context": "chapters/getting_started.snbt / quest 47C1E9F93CEF25D3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4F27342D2DA7C605.quest_desc": {
+    "original": "Smashing \u00267Gravel\u0026r down further turns it into \u0026aDirt\u0026r!\n\n\u0026aDirt\u0026r is always filled with some kind of seed or sapling.\n\nTry breaking \u0026aDirt\u0026r with a \u0026aStone Crook\u0026r.",
+    "translation": "將\u00267礫石\u0026r再次粉碎成\u0026a泥土\u0026r！\n\n\u0026a泥土\u0026r之中總會有某些種子或樹苗。\n\n試著使用\u0026a石製曲柄杖\u0026r破壞\u0026a泥土\u0026r吧。",
+    "context": "chapters/getting_started.snbt / quest 4F27342D2DA7C605",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4F27342D2DA7C605.title": {
+    "original": "\u0026fA Fine-Tooth Pick",
+    "translation": "\u0026f一根精美的牙籤",
+    "context": "chapters/getting_started.snbt / quest 4F27342D2DA7C605",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4FE01499D831CACC.quest_desc": {
+    "original": "As you unlock more \u00266World Engine\u0026r recipes, you will notice that some of them will require fluids.\n\nMake sure the fluid inside the \u00266World Engine\u0026r is placed in the correct tank shown in JEI, otherwise the recipe will not function properly.",
+    "translation": "隨著你解鎖更多\u00266世界引擎\u0026r配方，你會發現其中有些配方需要消耗流體。\n\n請確保這些流體，位於 JEI 所標示的對應流體槽，否則配方\n將無法正常運作。",
+    "context": "chapters/getting_started.snbt / quest 4FE01499D831CACC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4FE01499D831CACC.title": {
+    "original": "\u00266World Engine\u0026f Fluids",
+    "translation": "\u00266世界引擎\u0026f流體",
+    "context": "chapters/getting_started.snbt / quest 4FE01499D831CACC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5151A30EB06C1122.quest_desc": {
+    "original": "Passively spawned chickens can drop eggs randomly, but you can also get the eggs before the chickens.\n\nThey may randomly drop from the \u0026bLoot Bee\u0026r event, or, if you're very lucky, the \u0026bChicken Jockey\u0026r event may also lay an egg.\n\n[\"With access to eggs and feathers, you can get started on the \", { \"text\": \"Roost Ultimate\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"50E133C3E351255E\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Roost Starting Quest\"} }, \" mod, allowing your chickens to produce other resources than just plain old eggs.\"]",
+    "translation": "自然生成的雞有時會掉落雞蛋，但你也有可能會先得到蛋才孵出牠們。\n\n「\u0026b空投蜜蜂\u0026r」事件有時會投下雞蛋，或是如果你足夠幸運，「\u0026b雞騎士\u0026r」事件有時也會產下一顆蛋。\n\n[\"當你獲得了雞蛋和羽毛之後，你就可以開始你的《\", { \"text\": \"雞舍\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"50E133C3E351255E\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「雞舍開幕」任務\"} }, \"》模組之旅了，該模組會讓你的雞能夠產下除了雞蛋之外的其他資源。\"]",
+    "context": "chapters/getting_started.snbt / quest 5151A30EB06C1122",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5151A30EB06C1122.title": {
+    "original": "\u0026fThe Chicken or the Egg?",
+    "translation": "\u0026f先有雞，還是先有蛋？",
+    "context": "chapters/getting_started.snbt / quest 5151A30EB06C1122",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.54A433FAF8A65CC0.quest_desc": {
+    "original": "Once you've cured a \u0026aVillager\u0026r, the \u0026dEcho of Guidance\u0026r knows of a tool you can craft that can harness their skills for future use. To make this tool, you must use the \u00266World Engine\u0026r.\n\nThe \u00266World Engine\u0026r can harness the power of ancient crafts to create advanced items beyond your current knowledge.\n\nTo reach the \u00266World Engine\u0026r, a portal must be activated by Sneak + Right-clicking a \u0026aChronon Cell\u0026r once it contains some \u0026bChronon\u0026r.\n\nYour goal will be to craft an \u0026aEcho Encoder\u0026r using the latent magical powers stored within amethyst.\n{@pagebreak}\n[\"There are 2 main ways to get \", {\"text\": \"Leather\", \"color\": \"green\"}, \" early on: \", {\"text\": \"Killing a Cow\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0ACCAD3AEF57F2E2\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Grass Quest\"}}, \", or by using \", {\"text\": \"Rotten Flesh\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"277181E358575312\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Rotten Flesh Quest\"}}, \".\"]",
+    "translation": "看來你成功治癒了一隻\u0026a村民\u0026r，\u0026d指引嚮導之回聲\u0026r知道你現在可以合成一種工具：用以充分利用他們的技能。要製造這把工具，你會需要用到\u00266世界引擎\u0026r。\n\n\u00266世界引擎\u0026r能夠驅動遠古工藝之力，製造出凌駕於你現有知識之上的進階物品。\n\n你會需要手持一台裝有足量\u0026b時空粒子\u0026r的\u0026a時空粒子單元\u0026r「潛行 + 右鍵」，才能開啟通往\u00266世界引擎\u0026r的傳送門，最終抵達那裡。\n\n你的目標是利用蘊藏在紫水晶中的潛在魔法力量合成出一把\u0026a回聲編碼工具\u0026r。\n{@pagebreak}\n[\"在早期有著兩種取得\", {\"text\": \"皮革\", \"color\": \"green\"}, \"的主要方式：\", {\"text\": \"殺死一隻牛\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0ACCAD3AEF57F2E2\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「草地」任務\"}}, \"或是使用\", {\"text\": \"腐肉\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"277181E358575312\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「腐肉」任務\"}}, \"。\"]",
+    "context": "chapters/getting_started.snbt / quest 54A433FAF8A65CC0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.54A433FAF8A65CC0.title": {
+    "original": "\u0026fThe First World Craft",
+    "translation": "\u0026f首次世界合成",
+    "context": "chapters/getting_started.snbt / quest 54A433FAF8A65CC0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5868F616B3756FF3.quest_desc": {
+    "original": "So far you have made good use of your fists, but now it's time to step it up a notch.\n\nThose \u00262Leaves\u0026r have some life in them. You just need to crush them to find it.\n\nPlace down the \u0026aBasin\u0026r, then place some \u00262Leaves\u0026r on top of it. Jump on them until you've squeezed out every last drop from them. \n\nThis will create \u0026bWater\u0026r, but you'll need a way to scoop it out...",
+    "translation": "你已經充分利用了你的雙手，現在是時候輪到你的雙腳了。\n\n你剛採下的\u00262樹葉\u0026r之中有些生機。但你會需要壓碎它們才能找出那些生機。\n\n放下一台\u0026a木水盆\u0026r，接著在它的上方一格處放置一些\u00262樹葉\u0026r。在上面一直跳跳跳，直至你碾碎了每一片樹葉。\n\n這一過程會產出\u0026b水\u0026r，但你需要另尋其他方法將它舀出...",
+    "context": "chapters/getting_started.snbt / quest 5868F616B3756FF3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5868F616B3756FF3.title": {
+    "original": "\u0026fDon't Forget To Stomp",
+    "translation": "\u0026f別忘了跺跺腳",
+    "context": "chapters/getting_started.snbt / quest 5868F616B3756FF3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.59E8FEC3758635DF.quest_desc": {
+    "original": "According to the \u0026dEchoes\u0026r, recently cured Villagers are unskilled. You must train them to increase their Unearthing Levels!\n\nOnce they are placed into an \u0026aUnearther\u0026r, they will slowly gain levels over time.\n\nYou can place them back into the world using the Token, but will need to pick them back up with the \u0026aEcho Encoder\u0026r.\n\n\u0026cWarning\u0026r: Placing the Villager back into the world as a Token will cause the Villager to lose their job and levels!\n{@pagebreak}\nWhile they can work without food, feeding them is probably a good idea.\n\nThe food you feed them will give them special bonuses depending on what you feed them!\n\n- More Shanks = Faster work speed.\n\n- More Saturation = Longer-lasting food.",
+    "translation": "據\u0026d回聲\u0026r所述，剛痊癒的村民為無業村民。你必須要訓練他們才能提升他們的發掘等級！\n\n當他們被丟進\u0026a資源發掘站\u0026r後，他們就會隨著時間緩慢提升等級。\n\n你可以使用令牌來將他們再次放回世界上，但會需要再次使用\u0026a回聲編碼工具\u0026r將他們轉換回去。\n\n\u0026c警告\u0026r：將令牌中的村民放回世界上會導致他丟失他的工作和等級！\n{@pagebreak}\n即使他們不需要食物也能工作，餵食他們可能會是一個好主意。\n\n根據你餵給他們的不同食物，他們會獲得額外的不同加成！\n\n- 更高的\u0026c飢餓值\u0026r = 更快的工作速度。\n\n- 更高的\u0026e飽食度\u0026r = 食物的持續時間更久。",
+    "context": "chapters/getting_started.snbt / quest 59E8FEC3758635DF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.59E8FEC3758635DF.title": {
+    "original": "\u0026fVillagers and How To Train Them",
+    "translation": "\u0026f村民與他們的訓練方式",
+    "context": "chapters/getting_started.snbt / quest 59E8FEC3758635DF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5E90192C6F3011B7.quest_desc": {
+    "original": "With the power of the \u00266World Engine\u0026r and an \u0026aEcho Encoder\u0026r, you can manufacture more villagers using food once you have at least 1 \u00262Worker Token\u0026r.\n\n\u00267\u0026oGone are the days of manually making more villagers.",
+    "translation": "有了\u00266世界引擎\u0026r和\u0026a回聲編碼工具\u0026r的力量，當你取得了一個\u00262勞工令牌\u0026r之後：你現在可以使用足量的食物來製造出更多隻村民。\n\n\u00267\u0026o手動繁殖更多村民的日子已一去不復返。",
+    "context": "chapters/getting_started.snbt / quest 5E90192C6F3011B7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E90192C6F3011B7.title": {
+    "original": "\u0026fVillager Breeding",
+    "translation": "\u0026f村民繁殖",
+    "context": "chapters/getting_started.snbt / quest 5E90192C6F3011B7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.60633295CFD82152.quest_desc": {
+    "original": "Digging with a pickaxe will take forever since it only mines one block at a time.\n\nUpgrade to a \u0026bHammer\u0026r from the \u0026bJustHammers\u0026r mod! The basic \u0026aStone Hammer\u0026r can dig in a 3x3x1 area per swing, with the better Hammers digging out even bigger areas.",
+    "translation": "只用鎬挖石頭會花上許多時間，因為它一次只能破壞一個方塊。\n\n那不妨試試《鎚子合集》（JustHammers）模組中的\u0026b鎚\u0026r吧！最小把的\u0026a石鎚\u0026r每次能夠挖下 3x3x1 空間的方塊，\\n還有更多更強力的鎚子能夠一次挖下更多的方塊。",
+    "context": "chapters/getting_started.snbt / quest 60633295CFD82152",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.60633295CFD82152.title": {
+    "original": "\u0026fHammer Time",
+    "translation": "\u0026f鎚子時間到",
+    "context": "chapters/getting_started.snbt / quest 60633295CFD82152",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6089F3DC28FB69C0.quest_desc": {
+    "original": "The \u0026aDirt\u0026r seems to have plenty of \u00262Saplings\u0026r that you can use! You can get these saplings by mining \u0026aDirt\u0026r with the \u00262Crook\u0026r.\n\nWhile you can wait for a tree to grow, you can force it to grow by using \u0026eSquat Grow\u0026r.\n\n[\"This can be toggled with the keybind \", { \"keybind\": \"key.squatgrow.toggle\", \"color\": \"green\" }, \".\"]",
+    "translation": "\u0026a泥土\u0026r之中富含著你心心念念的\u00262樹苗\u0026r！你可以使用\u00262曲柄杖\u0026r挖掘\u0026a泥土\u0026r取得樹苗。\n\n你當然可以慢慢看著樹木長大，但你也可以使用\u0026e豐收之舞\u0026r，透過反覆蹲下來加速它們的生長。\n\n[\"可以使用按鍵「\", { \"keybind\": \"key.squatgrow.toggle\", \"color\": \"green\" }, \"」來開關此功能。\"]",
+    "context": "chapters/getting_started.snbt / quest 6089F3DC28FB69C0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6089F3DC28FB69C0.title": {
+    "original": "\u0026fDigging In The Dirt",
+    "translation": "\u0026f挖土趣",
+    "context": "chapters/getting_started.snbt / quest 6089F3DC28FB69C0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6B387999FBEE2E9E.quest_desc": {
+    "original": "This pack comes with random events that are disabled by default. To enable them, complete this quest!\n\n\u0026eNote\u0026r: Some events might contain jump scares. You can toggle each event using the command \u0026b/events toggle \u003cevent\u003e\u0026r.\n\nFor example, if you want to disable the jump scare event, you can use the command \u0026a/events toggle ftb:creeper\u0026r. ",
+    "translation": "本模組包包含著一些預設為「關閉」的隨機事件。你要完成這項任務才能將它們「開啟」！\n\n\u0026e備註\u0026r：某些事件具有「突發驚嚇」成份。你可以藉由下列指令來開關它們：\u0026b/events toggle \u003c事件 ID\u003e\u0026r。\n\n舉例來說：如果你想要關閉「神風特攻苦力怕」事件的話，你可以輸入「\u0026a/events toggle ftb:creeper\u0026r」。",
+    "context": "chapters/getting_started.snbt / quest 6B387999FBEE2E9E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6B387999FBEE2E9E.title": {
+    "original": "\u00266FTB Events",
+    "translation": "\u00266FTB 事件",
+    "context": "chapters/getting_started.snbt / quest 6B387999FBEE2E9E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.71205F3FE5AD49B3.quest_desc": {
+    "original": "To show the \u0026dEcho\u0026r that you've learned how to \u00263Unearth\u0026r resources from this world, you should make an \u0026aIron Hammer\u0026r from the materials you can brush from \u00267Gravel\u0026r.\n\nThis will speed up gathering cobblestone greatly.\n\n\u0026eNote\u0026r: Completing this quest will upgrade your \u00263Unearther Level\u0026r, which increases the types of items that you receive when \u00263Brushing\u0026r.",
+    "translation": "為了向\u0026d回聲\u0026r展示你已經掌握了該如何從這世界上\u00263發掘\u0026r出資源，你該使用你刷掃\u00267礫石\u0026r時獲得的材料來做出一把\u0026a鐵錘\u0026r。\n\n這把工具能夠顯著提升你採集鵝卵石的速度。\n\n\u0026e備註\u0026r：完成這個任務會提升你的\u00263發掘等級\u0026r：增加你\u00263刷掃\u0026r方塊時所能獲得的物品種類。",
+    "context": "chapters/getting_started.snbt / quest 71205F3FE5AD49B3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.71205F3FE5AD49B3.title": {
+    "original": "\u0026fProving Yourself",
+    "translation": "\u0026f證明自身",
+    "context": "chapters/getting_started.snbt / quest 71205F3FE5AD49B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.75F6827C1FB52C91.quest_desc": {
+    "original": "You may be surrounded by stone, but that doesn't help you for automation.\n\nThe \u0026aCobble Generators\u0026r will generate cobblestone over time, with higher tiers generating more per tick.\n\nYou can also create an \u0026aAuto Hammer\u0026r to break the cobble down into the different blocks needed for the \u0026aUnearther\u0026r!\n\n\u0026eNote\u0026r: \u0026cLava\u0026r can easily be acquired by using the gift you get from meeting the \u0026dEcho of the Machinist\u0026r. You can also get it from the \u0026cNether\u0026r ring.",
+    "translation": "你被包圍在石頭之中，但這並沒有為你的自動化帶來幫助。\n\n\u0026a鵝卵石製造機\u0026r會隨著時間製造出鵝卵石，更高階級能夠產得更快。\n\n你也能夠做出一台\u0026a自動錘\u0026r來自動幫你將鵝卵石粉碎成各種不同方塊供你\u0026a發掘\u0026r！\n\n\u0026e備註\u0026r：初訪\u0026d機械前輩之回聲\u0026r所給予你的禮物能夠很輕鬆地取得\u0026c熔岩\u0026r。你也能在\u0026c地獄\u0026r環帶中找到\u0026c熔岩\u0026r。",
+    "context": "chapters/getting_started.snbt / quest 75F6827C1FB52C91",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75F6827C1FB52C91.title": {
+    "original": "\u0026fCobble Generators\u0026r",
+    "translation": "\u0026f鵝卵石製造機\u0026r",
+    "context": "chapters/getting_started.snbt / quest 75F6827C1FB52C91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7B2044D285C9F1E3.quest_desc": {
+    "original": "Most quests in the main chapters that are shaped like a \u0026aGear\u0026r are \u0026dEcho\u0026r related quests!\n\nThis means that you will most likely need to return to an \u0026dEcho\u0026r to complete their task, or see if they have something new for you.",
+    "translation": "所有長得像是一片\u0026a齒輪\u0026r的主線任務都是與\u0026d回聲\u0026r有關的任務！\n\n這代表你很可能需要回訪\u0026d回聲\u0026r來完成他們的任務目標，或是回去檢查他們是否有提供一些新東西。",
+    "context": "chapters/getting_started.snbt / quest 7B2044D285C9F1E3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B2044D285C9F1E3.title": {
+    "original": "Gear-Shaped Quests!",
+    "translation": "齒輪任務！",
+    "context": "chapters/getting_started.snbt / quest 7B2044D285C9F1E3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7D945B6D1311B741.quest_desc": {
+    "original": "The \u0026dEcho\u0026r mentioned a \u00262Healing Spring\u0026r somewhere north of your base that can provide you with resources to make the \u0026aChronon Cell\u0026r.\n\n\u00267\u0026oIt's time to dig, dig, dig",
+    "translation": "\u0026d回聲\u0026r提到你的基地的北方有著一座\u00262治癒之泉\u0026r：裡面有著製造出\u0026a時空粒子產生器\u0026r所需的資源。\n\n\u00267\u0026o是時候一路挖挖挖了",
+    "context": "chapters/getting_started.snbt / quest 7D945B6D1311B741",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7D945B6D1311B741.title": {
+    "original": "\u0026fSecrets of the Spring",
+    "translation": "\u0026f溫泉的秘密",
+    "context": "chapters/getting_started.snbt / quest 7D945B6D1311B741",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.09DF4A8DBF01CD61.title": {
+    "original": "\u0026e+1 \u00263Unearther Level",
+    "translation": "\u0026e+1 \u00263發掘等級",
+    "context": "chapters/getting_started.snbt / reward 09DF4A8DBF01CD61",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0E91DBA45C7125BF.title": {
+    "original": "\u0026eUnlock\u0026f: \u00266World Engine",
+    "translation": "\u0026e解鎖\u0026f：\u00266世界引擎",
+    "context": "chapters/getting_started.snbt / reward 0E91DBA45C7125BF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1E8870E07D7F4A99.title": {
+    "original": "Bee Event",
+    "translation": "蜜蜂事件",
+    "context": "chapters/getting_started.snbt / reward 1E8870E07D7F4A99",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2F7B82DA30E186CA.title": {
+    "original": "\u0026e+1 \u00263Unearther Level",
+    "translation": "\u0026e+1 \u00263發掘等級",
+    "context": "chapters/getting_started.snbt / reward 2F7B82DA30E186CA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.37F1C940A746F48C.title": {
+    "original": "StoneBlock4 Official NFT",
+    "translation": "StoneBlock4 Official NFT",
+    "context": "chapters/getting_started.snbt / reward 37F1C940A746F48C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5AE23D826352677E.title": {
+    "original": "Healing Spring Locator",
+    "translation": "Healing Spring Locator",
+    "context": "chapters/getting_started.snbt / reward 5AE23D826352677E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.075F7BA7175B340A.title": {
+    "original": "Unearther Levels",
+    "translation": "發掘等級",
+    "context": "chapters/getting_started.snbt / task 075F7BA7175B340A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.149EDD07DA46D40F.title": {
+    "original": "\u0026eObserve\u0026r: \u00262Villager\u0026r",
+    "translation": "\u0026e觀察\u0026r：\u00262村民\u0026r",
+    "context": "chapters/getting_started.snbt / task 149EDD07DA46D40F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.180699485CD072B7.title": {
+    "original": "Easy Villagers",
+    "translation": "更簡單的村民",
+    "context": "chapters/getting_started.snbt / task 180699485CD072B7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.187D3A2680948DF2.title": {
+    "original": "\u00266World Engine\u0026f Fluids",
+    "translation": "\u00266世界引擎\u0026f流體",
+    "context": "chapters/getting_started.snbt / task 187D3A2680948DF2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.18CB8C05E3A9150F.title": {
+    "original": "Villager Info",
+    "translation": "Villager Info",
+    "context": "chapters/getting_started.snbt / task 18CB8C05E3A9150F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1E31F492D8779AB6.title": {
+    "original": "Cobble Generators",
+    "translation": "鵝卵石製造機",
+    "context": "chapters/getting_started.snbt / task 1E31F492D8779AB6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2CB20E4080C1B6CC.title": {
+    "original": "Teleporter",
+    "translation": "Teleporter",
+    "context": "chapters/getting_started.snbt / task 2CB20E4080C1B6CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2D2F59A031BC2E63.title": {
+    "original": "Gear Quests",
+    "translation": "Gear Quests",
+    "context": "chapters/getting_started.snbt / task 2D2F59A031BC2E63",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.34E4918707295C02.title": {
+    "original": "Claim Compass",
+    "translation": "Claim Compass",
+    "context": "chapters/getting_started.snbt / task 34E4918707295C02",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.36D65F0F76F3F5E9.title": {
+    "original": "Ultimine Notes",
+    "translation": "Ultimine Notes",
+    "context": "chapters/getting_started.snbt / task 36D65F0F76F3F5E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.379AF15FE59B449C.title": {
+    "original": "All About Chronon",
+    "translation": "All About Chronon",
+    "context": "chapters/getting_started.snbt / task 379AF15FE59B449C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.37F6704E46F8E7BC.title": {
+    "original": "Loot",
+    "translation": "Loot",
+    "context": "chapters/getting_started.snbt / task 37F6704E46F8E7BC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.45C3B788492E3C09.title": {
+    "original": "\u0026eObserve\u0026f: \u00262Grass Block",
+    "translation": "\u0026e觀察\u0026f：\u00262草地",
+    "context": "chapters/getting_started.snbt / task 45C3B788492E3C09",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4F171D8BC8C1C8F7.title": {
+    "original": "Any \u0026bHammer\u0026r from \u0026eJust Hammers",
+    "translation": "任何\u0026e《鎚子合集》\u0026r中的\u0026b鎚\u0026r",
+    "context": "chapters/getting_started.snbt / task 4F171D8BC8C1C8F7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4F37295B08FFCA81.title": {
+    "original": "Create Your Home",
+    "translation": "創建你的家",
+    "context": "chapters/getting_started.snbt / task 4F37295B08FFCA81",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5034DC565C8B0377.title": {
+    "original": "Any Leaf Block",
+    "translation": "任何樹葉方塊",
+    "context": "chapters/getting_started.snbt / task 5034DC565C8B0377",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.59521977C507A466.title": {
+    "original": "Speak to the \u0026dEcho of Guidance",
+    "translation": "與\u0026d指引嚮導之回聲\u0026r交談",
+    "context": "chapters/getting_started.snbt / task 59521977C507A466",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B2F539FB8DF8B64.title": {
+    "original": "\u0026fAuto Hammers",
+    "translation": "\u0026f自動錘",
+    "context": "chapters/getting_started.snbt / task 5B2F539FB8DF8B64",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5D44C1D4945AB04C.title": {
+    "original": "\u0026eLocate\u0026f: Underground Springs",
+    "translation": "\u0026e尋找\u0026f：地下溫泉",
+    "context": "chapters/getting_started.snbt / task 5D44C1D4945AB04C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.68A1DE705F7F836C.title": {
+    "original": "Click to Enable Events",
+    "translation": "點擊以開啟事件",
+    "context": "chapters/getting_started.snbt / task 68A1DE705F7F836C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6F63CD417D16DE7F.title": {
+    "original": "\u0026eObserve\u0026r: \u00266World Engine Block",
+    "translation": "\u0026e觀察\u0026r：\u00266世界引擎方塊",
+    "context": "chapters/getting_started.snbt / task 6F63CD417D16DE7F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.72121E28134ACE07.title": {
+    "original": "Meet the \u0026dEcho of Guidance",
+    "translation": "初遇\u0026d指引嚮導之回聲",
+    "context": "chapters/getting_started.snbt / task 72121E28134ACE07",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.742022DB9012FEDC.title": {
+    "original": "Any Sapling",
+    "translation": "任何樹苗",
+    "context": "chapters/getting_started.snbt / task 742022DB9012FEDC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

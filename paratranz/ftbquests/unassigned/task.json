@@ -1,0 +1,2324 @@
+{
+  "task.003F316E9DCBE7FE.title": {
+    "original": "Any #minecraft:logs_that_burn",
+    "translation": "任何 #minecraft:logs_that_burn",
+    "context": "unassigned/task.snbt / task 003F316E9DCBE7FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0119636863DFB474.title": {
+    "original": "Speak to Guidance",
+    "translation": "Speak to Guidance",
+    "context": "unassigned/task.snbt / task 0119636863DFB474",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.011E0B1769C2E749.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 011E0B1769C2E749",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.012649B3BEFFCA3E.title": {
+    "original": "Geologist Brushing Blocks",
+    "translation": "Geologist Brushing Blocks",
+    "context": "unassigned/task.snbt / task 012649B3BEFFCA3E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.018BA3043844C4CB.title": {
+    "original": "Block Interaction Machines",
+    "translation": "Block Interaction Machines",
+    "context": "unassigned/task.snbt / task 018BA3043844C4CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0269945CD49FAC4A.title": {
+    "original": "Any #c:seeds/tiered",
+    "translation": "任何 #c:seeds/tiered",
+    "context": "unassigned/task.snbt / task 0269945CD49FAC4A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0287C11F3728514E.title": {
+    "original": "World Engine Craft Unlocks",
+    "translation": "World Engine Craft Unlocks",
+    "context": "unassigned/task.snbt / task 0287C11F3728514E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.02E900C9DF62699B.title": {
+    "original": "Any #irons_spellbooks:add_to_lectern_and_bookshelf",
+    "translation": "任何 #irons_spellbooks:add_to_lectern_and_bookshelf",
+    "context": "unassigned/task.snbt / task 02E900C9DF62699B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.045D6D51D5A394B8.title": {
+    "original": "Early Power",
+    "translation": "Early Power",
+    "context": "unassigned/task.snbt / task 045D6D51D5A394B8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.04B00E264007135A.title": {
+    "original": "Extra Deepshelves",
+    "translation": "Extra Deepshelves",
+    "context": "unassigned/task.snbt / task 04B00E264007135A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.053465F0FFC2E3BB.title": {
+    "original": "Knight Vault",
+    "translation": "幻影騎士寶庫",
+    "context": "unassigned/task.snbt / task 053465F0FFC2E3BB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.05C31228DE4297E0.title": {
+    "original": "Resonant WE Crafts",
+    "translation": "Resonant WE Crafts",
+    "context": "unassigned/task.snbt / task 05C31228DE4297E0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.05EA231F68B35FBA.title": {
+    "original": "Generation 9",
+    "translation": "Generation 9",
+    "context": "unassigned/task.snbt / task 05EA231F68B35FBA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0675F9CC003D7723.title": {
+    "original": "Chesed Arena",
+    "translation": "Chesed Arena",
+    "context": "unassigned/task.snbt / task 0675F9CC003D7723",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.06AA7AE5C6C5D694.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 06AA7AE5C6C5D694",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.06F0C110F6DF4933.title": {
+    "original": "Color Guide",
+    "translation": "Color Guide",
+    "context": "unassigned/task.snbt / task 06F0C110F6DF4933",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.07BBC0302934453B.title": {
+    "original": "Stone Generation Options",
+    "translation": "石頭製造機選項",
+    "context": "unassigned/task.snbt / task 07BBC0302934453B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.09D272BA64115EA4.title": {
+    "original": "Congrats, You've finished the pack",
+    "translation": "Congrats, You've finished the pack",
+    "context": "unassigned/task.snbt / task 09D272BA64115EA4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0AE9E3C1553154B6.title": {
+    "original": "Machine Cores",
+    "translation": "Machine Cores",
+    "context": "unassigned/task.snbt / task 0AE9E3C1553154B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0C703E47B7643F97.title": {
+    "original": "Level 1",
+    "translation": "Level 1",
+    "context": "unassigned/task.snbt / task 0C703E47B7643F97",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0CAD1A4AF9391EB7.title": {
+    "original": "Tiered Constructors",
+    "translation": "Tiered Constructors",
+    "context": "unassigned/task.snbt / task 0CAD1A4AF9391EB7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0CDA50C894140131.title": {
+    "original": "Any spirit alchemy product",
+    "translation": "任何 spirit alchemy product",
+    "context": "unassigned/task.snbt / task 0CDA50C894140131",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0D549424518A10E0.title": {
+    "original": "chickens?",
+    "translation": "chickens?",
+    "context": "unassigned/task.snbt / task 0D549424518A10E0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0DD6F5AD5EE05878.title": {
+    "original": "home stage",
+    "translation": "home stage",
+    "context": "unassigned/task.snbt / task 0DD6F5AD5EE05878",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0E0DB651D35A550F.title": {
+    "original": "Generation 3",
+    "translation": "Generation 3",
+    "context": "unassigned/task.snbt / task 0E0DB651D35A550F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0E558F6F41339C8A.title": {
+    "original": "Tier 4",
+    "translation": "Tier 4",
+    "context": "unassigned/task.snbt / task 0E558F6F41339C8A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0E861275FB1F9A6E.title": {
+    "original": "\u0026dEcho Unlock Twilight Ancient",
+    "translation": "\u0026dEcho Unlock Twilight Ancient",
+    "context": "unassigned/task.snbt / task 0E861275FB1F9A6E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0F7A749B164D259A.title": {
+    "original": "Any #minecraft:coals",
+    "translation": "任何 #minecraft:coals",
+    "context": "unassigned/task.snbt / task 0F7A749B164D259A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0FAC970FD967F5DF.title": {
+    "original": "deepslate west",
+    "translation": "deepslate west",
+    "context": "unassigned/task.snbt / task 0FAC970FD967F5DF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1040794FCC53E1C2.title": {
+    "original": "check",
+    "translation": "check",
+    "context": "unassigned/task.snbt / task 1040794FCC53E1C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.10F4611888E8BE79.title": {
+    "original": "Echo 1",
+    "translation": "Echo 1",
+    "context": "unassigned/task.snbt / task 10F4611888E8BE79",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.111E92A0F608B427.title": {
+    "original": "Start of Foundation Chapter",
+    "translation": "Start of Foundation Chapter",
+    "context": "unassigned/task.snbt / task 111E92A0F608B427",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1159F04F98B724A1.title": {
+    "original": "Burning Disco Vault",
+    "translation": "Burning Disco Vault",
+    "context": "unassigned/task.snbt / task 1159F04F98B724A1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.11B86810F19A15B9.title": {
+    "original": "Runes",
+    "translation": "Runes",
+    "context": "unassigned/task.snbt / task 11B86810F19A15B9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.121998ADA1263511.title": {
+    "original": "tier 4 echoes",
+    "translation": "tier 4 echoes",
+    "context": "unassigned/task.snbt / task 121998ADA1263511",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1221574B280EBA24.title": {
+    "original": "Behold: Grass!",
+    "translation": "Behold: Grass!",
+    "context": "unassigned/task.snbt / task 1221574B280EBA24",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.129AAFBA73EBA070.title": {
+    "original": "\u0026dEcho Unlock Ancient",
+    "translation": "\u0026dEcho Unlock Ancient",
+    "context": "unassigned/task.snbt / task 129AAFBA73EBA070",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.12C03EE6A8238B47.title": {
+    "original": "ocean west",
+    "translation": "ocean west",
+    "context": "unassigned/task.snbt / task 12C03EE6A8238B47",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.13749D631F4473F2.title": {
+    "original": "things guide should say",
+    "translation": "things guide should say",
+    "context": "unassigned/task.snbt / task 13749D631F4473F2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1427925FA59931D3.title": {
+    "original": "Wireless Porters",
+    "translation": "Wireless Porters",
+    "context": "unassigned/task.snbt / task 1427925FA59931D3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.143FD5E58F888422.title": {
+    "original": "Axes",
+    "translation": "Axes",
+    "context": "unassigned/task.snbt / task 143FD5E58F888422",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.145E372410535D17.title": {
+    "original": "Spell Casting",
+    "translation": "Spell Casting",
+    "context": "unassigned/task.snbt / task 145E372410535D17",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.154C17C5C905CDB8.title": {
+    "original": "Draconic WE Upgrade Crafts",
+    "translation": "Draconic WE Upgrade Crafts",
+    "context": "unassigned/task.snbt / task 154C17C5C905CDB8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.157A4FF7FF3C6F6A.title": {
+    "original": "deepslate north",
+    "translation": "deepslate north",
+    "context": "unassigned/task.snbt / task 157A4FF7FF3C6F6A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.159CA0D800D44755.title": {
+    "original": "AE2 + Advanced WE Craft Unlocks",
+    "translation": "AE2 + Advanced WE Craft Unlocks",
+    "context": "unassigned/task.snbt / task 159CA0D800D44755",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.15E01B224B9897FE.title": {
+    "original": "Setup Apoth Enchanting System",
+    "translation": "Setup Apoth Enchanting System",
+    "context": "unassigned/task.snbt / task 15E01B224B9897FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.171FAFE09103AB82.title": {
+    "original": "Chicken Jockey North",
+    "translation": "Chicken Jockey North",
+    "context": "unassigned/task.snbt / task 171FAFE09103AB82",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.180232CD32A5D6B0.title": {
+    "original": "create craft",
+    "translation": "create craft",
+    "context": "unassigned/task.snbt / task 180232CD32A5D6B0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.189C216C50078C70.title": {
+    "original": "Gates Powah",
+    "translation": "Gates Powah",
+    "context": "unassigned/task.snbt / task 189C216C50078C70",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.18D6F8FAB2FA69F7.title": {
+    "original": "void south",
+    "translation": "void south",
+    "context": "unassigned/task.snbt / task 18D6F8FAB2FA69F7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.197E8D7DE2765B21.title": {
+    "original": "catalyst",
+    "translation": "catalyst",
+    "context": "unassigned/task.snbt / task 197E8D7DE2765B21",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1AF85D1D3B0426BC.title": {
+    "original": "tier 3 echoes",
+    "translation": "tier 3 echoes",
+    "context": "unassigned/task.snbt / task 1AF85D1D3B0426BC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1B25E200BE38BF9E.title": {
+    "original": "middle quests",
+    "translation": "middle quests",
+    "context": "unassigned/task.snbt / task 1B25E200BE38BF9E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1B354BFDDC6B862B.title": {
+    "original": "machinist",
+    "translation": "machinist",
+    "context": "unassigned/task.snbt / task 1B354BFDDC6B862B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1CFBFD68628474D1.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 1CFBFD68628474D1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1DF6D23F11B7296E.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 1DF6D23F11B7296E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1E4CCF6176F19AA2.title": {
+    "original": "Get a compass for Healing Spring",
+    "translation": "Get a compass for Healing Spring",
+    "context": "unassigned/task.snbt / task 1E4CCF6176F19AA2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1E5E244A9DF5B9B8.title": {
+    "original": "Level 1",
+    "translation": "Level 1",
+    "context": "unassigned/task.snbt / task 1E5E244A9DF5B9B8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1EBEAF4114DC3BFD.title": {
+    "original": "Twilight WE Upgrade Crafts",
+    "translation": "Twilight WE Upgrade Crafts",
+    "context": "unassigned/task.snbt / task 1EBEAF4114DC3BFD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1F9A7927EEE12740.title": {
+    "original": "Any #c:seeds/tiered",
+    "translation": "任何 #c:seeds/tiered",
+    "context": "unassigned/task.snbt / task 1F9A7927EEE12740",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.20FE0359B927FE66.title": {
+    "original": "Ore Generation Options",
+    "translation": "Ore Generation Options",
+    "context": "unassigned/task.snbt / task 20FE0359B927FE66",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.22F4D12640FE8DE4.title": {
+    "original": "Growing Resources",
+    "translation": "Growing Resources",
+    "context": "unassigned/task.snbt / task 22F4D12640FE8DE4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.23288392FC94FD36.title": {
+    "original": "lightbender",
+    "translation": "lightbender",
+    "context": "unassigned/task.snbt / task 23288392FC94FD36",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.243CF5EB168426DC.title": {
+    "original": "Check",
+    "translation": "Check",
+    "context": "unassigned/task.snbt / task 243CF5EB168426DC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2448423EA50BA0ED.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 2448423EA50BA0ED",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.24F1AD47BF873ABE.title": {
+    "original": "magician",
+    "translation": "magician",
+    "context": "unassigned/task.snbt / task 24F1AD47BF873ABE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.24F9A4F56ECE9A55.title": {
+    "original": "tf north",
+    "translation": "tf north",
+    "context": "unassigned/task.snbt / task 24F9A4F56ECE9A55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.254216164263D3E2.title": {
+    "original": "Talk with Dude",
+    "translation": "Talk with Dude",
+    "context": "unassigned/task.snbt / task 254216164263D3E2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.258EC76B1D603C46.title": {
+    "original": "Tiered Destructors",
+    "translation": "Tiered Destructors",
+    "context": "unassigned/task.snbt / task 258EC76B1D603C46",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2595A4B8A1522BBC.title": {
+    "original": "Archaeologist Brush Blocks",
+    "translation": "Archaeologist Brush Blocks",
+    "context": "unassigned/task.snbt / task 2595A4B8A1522BBC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.25A2E220B9181819.title": {
+    "original": "\u0026dEcho Unlock Wyrmwright",
+    "translation": "\u0026dEcho Unlock Wyrmwright",
+    "context": "unassigned/task.snbt / task 25A2E220B9181819",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.25E59EFA886226D4.title": {
+    "original": "Resource Check",
+    "translation": "Resource Check",
+    "context": "unassigned/task.snbt / task 25E59EFA886226D4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2689CFF1F62FA5FF.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 2689CFF1F62FA5FF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.27B14942E7BE87E2.title": {
+    "original": "ocean south",
+    "translation": "ocean south",
+    "context": "unassigned/task.snbt / task 27B14942E7BE87E2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.284A47FAF4885800.title": {
+    "original": "Tradeable",
+    "translation": "Tradeable",
+    "context": "unassigned/task.snbt / task 284A47FAF4885800",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2897D7BC60592E58.title": {
+    "original": "Any #c:wools",
+    "translation": "任何 #c:wools",
+    "context": "unassigned/task.snbt / task 2897D7BC60592E58",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.28C14943E06CE907.title": {
+    "original": "Items Unlocked via World Craft",
+    "translation": "Items Unlocked via World Craft",
+    "context": "unassigned/task.snbt / task 28C14943E06CE907",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.293421D07539E14B.title": {
+    "original": "Any wizard armor",
+    "translation": "任何 wizard armor",
+    "context": "unassigned/task.snbt / task 293421D07539E14B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.29B29381709E8E09.title": {
+    "original": "Passive Mob Farms",
+    "translation": "Passive Mob Farms",
+    "context": "unassigned/task.snbt / task 29B29381709E8E09",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.29F0C3330016EDCF.title": {
+    "original": "\u0026fThe Start of Automation - RS2",
+    "translation": "\u0026fThe Start of Automation - RS2",
+    "context": "unassigned/task.snbt / task 29F0C3330016EDCF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2B3540F8DE693645.title": {
+    "original": "Unlocks Quartermaster",
+    "translation": "Unlocks Quartermaster",
+    "context": "unassigned/task.snbt / task 2B3540F8DE693645",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2B85248A0FF8317A.title": {
+    "original": "Tiered Exporters",
+    "translation": "Tiered Exporters",
+    "context": "unassigned/task.snbt / task 2B85248A0FF8317A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2C70B41BE01902A0.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 2C70B41BE01902A0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2C7178256D98DFC4.title": {
+    "original": "go visit lobby for echo",
+    "translation": "go visit lobby for echo",
+    "context": "unassigned/task.snbt / task 2C7178256D98DFC4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2CDC924219F0604D.title": {
+    "original": "The Xychorium Gems",
+    "translation": "The Xychorium Gems",
+    "context": "unassigned/task.snbt / task 2CDC924219F0604D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2CDCBCC6501AC541.title": {
+    "original": "\u0026eLocate\u0026f: \u0026eCatacombs\u0026r Dungeon",
+    "translation": "\u0026eLocate\u0026f: \u0026eCatacombs\u0026r Dungeon",
+    "context": "unassigned/task.snbt / task 2CDCBCC6501AC541",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2DCE94139CB2078D.title": {
+    "original": "Drawer Item Management",
+    "translation": "Drawer Item Management",
+    "context": "unassigned/task.snbt / task 2DCE94139CB2078D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2E0D7FA5FBCAFA4D.title": {
+    "original": "check",
+    "translation": "check",
+    "context": "unassigned/task.snbt / task 2E0D7FA5FBCAFA4D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2E42256C51193994.title": {
+    "original": "wyrmright",
+    "translation": "wyrmright",
+    "context": "unassigned/task.snbt / task 2E42256C51193994",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2EFD3D6830A8480A.title": {
+    "original": "\u0026eLocate\u0026f: \u00263Echoing Dread Vault",
+    "translation": "\u0026eLocate\u0026f: \u00263Echoing Dread Vault",
+    "context": "unassigned/task.snbt / task 2EFD3D6830A8480A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2F3D8C75AD838DC1.title": {
+    "original": "\u00266Echo Unlock Fortronist",
+    "translation": "\u00266Echo Unlock Fortronist",
+    "context": "unassigned/task.snbt / task 2F3D8C75AD838DC1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2F94FA9842248FA3.title": {
+    "original": "Snow Queen Vault",
+    "translation": "Snow Queen Vault",
+    "context": "unassigned/task.snbt / task 2F94FA9842248FA3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.30B05842C5C7D548.title": {
+    "original": "Powah Batteries",
+    "translation": "Powah Batteries",
+    "context": "unassigned/task.snbt / task 30B05842C5C7D548",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.317038ACC0AB2217.title": {
+    "original": "void north",
+    "translation": "void north",
+    "context": "unassigned/task.snbt / task 317038ACC0AB2217",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.318D58F3EAE30A2B.title": {
+    "original": "The World Engine",
+    "translation": "The World Engine",
+    "context": "unassigned/task.snbt / task 318D58F3EAE30A2B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.323197B515C2DAB6.title": {
+    "original": "\u00263Echo Unlock Catalyst",
+    "translation": "\u00263Echo Unlock Catalyst",
+    "context": "unassigned/task.snbt / task 323197B515C2DAB6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.32463C2AE2B4F13B.title": {
+    "original": "Kill \u00266Malkuth\u0026r",
+    "translation": "殺死\u00266『王國』\u0026r",
+    "context": "unassigned/task.snbt / task 32463C2AE2B4F13B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.32FB115D88E24CD5.title": {
+    "original": "tf west",
+    "translation": "tf west",
+    "context": "unassigned/task.snbt / task 32FB115D88E24CD5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.346BBC841E2A3F2D.title": {
+    "original": "Tier 2 Echoes",
+    "translation": "Tier 2 Echoes",
+    "context": "unassigned/task.snbt / task 346BBC841E2A3F2D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.34F41FF2B63589A6.title": {
+    "original": "source inlet",
+    "translation": "source inlet",
+    "context": "unassigned/task.snbt / task 34F41FF2B63589A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.36114BC736C0EB31.title": {
+    "original": "Unlocks Machinist",
+    "translation": "Unlocks Machinist",
+    "context": "unassigned/task.snbt / task 36114BC736C0EB31",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.367FD95D506DE27B.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 367FD95D506DE27B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.36851BEF447522C1.title": {
+    "original": "fabricator",
+    "translation": "fabricator",
+    "context": "unassigned/task.snbt / task 36851BEF447522C1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.376297FFB45E51A2.title": {
+    "original": "end west",
+    "translation": "end west",
+    "context": "unassigned/task.snbt / task 376297FFB45E51A2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.37AD604DC3429E57.title": {
+    "original": "Enderium WE Crafts",
+    "translation": "Enderium WE Crafts",
+    "context": "unassigned/task.snbt / task 37AD604DC3429E57",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.37C9E3F65AE092C6.title": {
+    "original": "end north",
+    "translation": "end north",
+    "context": "unassigned/task.snbt / task 37C9E3F65AE092C6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.387AEDAFD8378A6D.title": {
+    "original": "Chicken Jockey South",
+    "translation": "Chicken Jockey South",
+    "context": "unassigned/task.snbt / task 387AEDAFD8378A6D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.388714C70D55C2C0.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 388714C70D55C2C0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.38B484C5F2CD48C9.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 38B484C5F2CD48C9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.39A587FEA3FFAB6B.title": {
+    "original": "\u0026aEcho Unlock Wayfinder",
+    "translation": "\u0026aEcho Unlock Wayfinder",
+    "context": "unassigned/task.snbt / task 39A587FEA3FFAB6B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3B085693A5797F89.title": {
+    "original": "Dark Matter Tools",
+    "translation": "Dark Matter Tools",
+    "context": "unassigned/task.snbt / task 3B085693A5797F89",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3B69744AB1794F4A.title": {
+    "original": "\u00263Echo Unlock Light Bender",
+    "translation": "\u00263Echo Unlock Light Bender",
+    "context": "unassigned/task.snbt / task 3B69744AB1794F4A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3B79C7596F19EFC3.title": {
+    "original": "Check",
+    "translation": "Check",
+    "context": "unassigned/task.snbt / task 3B79C7596F19EFC3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3BB23794DB9DEDD4.title": {
+    "original": "Mud Products",
+    "translation": "Mud Products",
+    "context": "unassigned/task.snbt / task 3BB23794DB9DEDD4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3C26A988187EEF02.title": {
+    "original": "nether west",
+    "translation": "nether west",
+    "context": "unassigned/task.snbt / task 3C26A988187EEF02",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3C99AA1534641A3F.title": {
+    "original": "ocean east",
+    "translation": "ocean east",
+    "context": "unassigned/task.snbt / task 3C99AA1534641A3F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3CEB40B064A202AA.title": {
+    "original": "Unlock World Engine",
+    "translation": "Unlock World Engine",
+    "context": "unassigned/task.snbt / task 3CEB40B064A202AA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3CF9E82FE7A7CA32.title": {
+    "original": "deepslate south",
+    "translation": "deepslate south",
+    "context": "unassigned/task.snbt / task 3CF9E82FE7A7CA32",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3D5F6DE10646EBE3.title": {
+    "original": "Wyvern Gear",
+    "translation": "Wyvern Gear",
+    "context": "unassigned/task.snbt / task 3D5F6DE10646EBE3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3D6254435D99C13C.title": {
+    "original": "Malkuth Arena",
+    "translation": "Malkuth Arena",
+    "context": "unassigned/task.snbt / task 3D6254435D99C13C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3E9C440E3E2EE022.title": {
+    "original": "Have a quest reward these things",
+    "translation": "Have a quest reward these things",
+    "context": "unassigned/task.snbt / task 3E9C440E3E2EE022",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3EA41562AB11F9B1.title": {
+    "original": "tf east",
+    "translation": "tf east",
+    "context": "unassigned/task.snbt / task 3EA41562AB11F9B1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3EB209408B5FD9FA.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 3EB209408B5FD9FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.40921D92713F1FB4.title": {
+    "original": "Give Gamestage",
+    "translation": "Give Gamestage",
+    "context": "unassigned/task.snbt / task 40921D92713F1FB4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.41FB0785445FC826.title": {
+    "original": "Fluid Interaction Machines",
+    "translation": "Fluid Interaction Machines",
+    "context": "unassigned/task.snbt / task 41FB0785445FC826",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.42AEAD2BF6113D89.title": {
+    "original": "Yeti Vault",
+    "translation": "Yeti Vault",
+    "context": "unassigned/task.snbt / task 42AEAD2BF6113D89",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.42D645B26E4EE8A4.title": {
+    "original": "Generation 6",
+    "translation": "Generation 6",
+    "context": "unassigned/task.snbt / task 42D645B26E4EE8A4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.43010F9F652B5B4B.title": {
+    "original": "Any #minecraft:pickaxes",
+    "translation": "任何 #minecraft:pickaxes",
+    "context": "unassigned/task.snbt / task 43010F9F652B5B4B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.430918A5AD62C27F.title": {
+    "original": "Mid Game Options",
+    "translation": "Mid Game Options",
+    "context": "unassigned/task.snbt / task 430918A5AD62C27F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4321D68C7B5CA800.title": {
+    "original": "Level 4",
+    "translation": "Level 4",
+    "context": "unassigned/task.snbt / task 4321D68C7B5CA800",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4436C5870B83BA75.title": {
+    "original": "nether east",
+    "translation": "nether east",
+    "context": "unassigned/task.snbt / task 4436C5870B83BA75",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4483C09E6123BC4C.title": {
+    "original": "Items Unlocked via World Craft",
+    "translation": "Items Unlocked via World Craft",
+    "context": "unassigned/task.snbt / task 4483C09E6123BC4C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4497434CDD9642C0.title": {
+    "original": "Villager Trading",
+    "translation": "Villager Trading",
+    "context": "unassigned/task.snbt / task 4497434CDD9642C0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.44BC8362B01E30DC.title": {
+    "original": "ocean north",
+    "translation": "ocean north",
+    "context": "unassigned/task.snbt / task 44BC8362B01E30DC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.45B09FA666AC50A6.title": {
+    "original": "tier 2 echoes",
+    "translation": "tier 2 echoes",
+    "context": "unassigned/task.snbt / task 45B09FA666AC50A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.45B385C4A1E03540.title": {
+    "original": "Dungeon Vault",
+    "translation": "Dungeon Vault",
+    "context": "unassigned/task.snbt / task 45B385C4A1E03540",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.45E2610784D6C62D.title": {
+    "original": "void west",
+    "translation": "void west",
+    "context": "unassigned/task.snbt / task 45E2610784D6C62D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.46EC7CBCB208552B.title": {
+    "original": "\u0026aEcho Unlock Enchanter",
+    "translation": "\u0026aEcho Unlock Enchanter",
+    "context": "unassigned/task.snbt / task 46EC7CBCB208552B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.478D81CA3E31709A.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 478D81CA3E31709A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.47CDD3AB69EDD87A.title": {
+    "original": "Lich Vault",
+    "translation": "Lich Vault",
+    "context": "unassigned/task.snbt / task 47CDD3AB69EDD87A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.48521259017869AC.title": {
+    "original": "Generation 4",
+    "translation": "Generation 4",
+    "context": "unassigned/task.snbt / task 48521259017869AC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.48DEF5D938C94BF6.title": {
+    "original": "\u0026fIndustrial Foregoing Options",
+    "translation": "\u0026fIndustrial Foregoing Options",
+    "context": "unassigned/task.snbt / task 48DEF5D938C94BF6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.496455D7AB00E7B8.title": {
+    "original": "Constructors",
+    "translation": "Constructors",
+    "context": "unassigned/task.snbt / task 496455D7AB00E7B8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4973EE979B7CEBB2.title": {
+    "original": "Remove Gamestage",
+    "translation": "Remove Gamestage",
+    "context": "unassigned/task.snbt / task 4973EE979B7CEBB2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.49D95439F3D1CFCD.title": {
+    "original": "Kitchen Knives",
+    "translation": "Kitchen Knives",
+    "context": "unassigned/task.snbt / task 49D95439F3D1CFCD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.49E3AB30A12DF498.title": {
+    "original": "\u00266Echo Unlock Chaos",
+    "translation": "\u00266Echo Unlock Chaos",
+    "context": "unassigned/task.snbt / task 49E3AB30A12DF498",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4A252C67885BD891.title": {
+    "original": "Level 2 Dirt Products",
+    "translation": "Level 2 Dirt Products",
+    "context": "unassigned/task.snbt / task 4A252C67885BD891",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4B4B8BC2E5273E05.title": {
+    "original": "force",
+    "translation": "force",
+    "context": "unassigned/task.snbt / task 4B4B8BC2E5273E05",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4B64161A3F4645D8.title": {
+    "original": "tier 5 echoes",
+    "translation": "tier 5 echoes",
+    "context": "unassigned/task.snbt / task 4B64161A3F4645D8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4BD6BD132C5F5FD3.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 4BD6BD132C5F5FD3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4C54ABE5A9160A74.title": {
+    "original": "Talk to echo",
+    "translation": "Talk to echo",
+    "context": "unassigned/task.snbt / task 4C54ABE5A9160A74",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4C972CA6C2864541.title": {
+    "original": "T2",
+    "translation": "T2",
+    "context": "unassigned/task.snbt / task 4C972CA6C2864541",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4CC67507BD359450.title": {
+    "original": "Tier 3",
+    "translation": "Tier 3",
+    "context": "unassigned/task.snbt / task 4CC67507BD359450",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4D5A20E3AAF6D613.title": {
+    "original": "Spoken to Echo",
+    "translation": "Spoken to Echo",
+    "context": "unassigned/task.snbt / task 4D5A20E3AAF6D613",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4D83F46E810A7395.title": {
+    "original": "Requires Fabricator",
+    "translation": "Requires Fabricator",
+    "context": "unassigned/task.snbt / task 4D83F46E810A7395",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4E167989D804F280.title": {
+    "original": "Tiered Importers",
+    "translation": "Tiered Importers",
+    "context": "unassigned/task.snbt / task 4E167989D804F280",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4EF4B4FB9E896FDA.title": {
+    "original": "Level 4",
+    "translation": "Level 4",
+    "context": "unassigned/task.snbt / task 4EF4B4FB9E896FDA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.501D5E25BC5D86BC.title": {
+    "original": "Dark Void Craft Unlocks",
+    "translation": "Dark Void Craft Unlocks",
+    "context": "unassigned/task.snbt / task 501D5E25BC5D86BC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.50FC826E34DC4B21.title": {
+    "original": "unlocks Magician",
+    "translation": "unlocks Magician",
+    "context": "unassigned/task.snbt / task 50FC826E34DC4B21",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5117CEC9D541E6AD.title": {
+    "original": "Enderium WE Crafts",
+    "translation": "Enderium WE Crafts",
+    "context": "unassigned/task.snbt / task 5117CEC9D541E6AD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.515FA27128F1F9F4.title": {
+    "original": "Infused Charm of Flying",
+    "translation": "Infused Charm of Flying",
+    "context": "unassigned/task.snbt / task 515FA27128F1F9F4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.517166DF490B8DF9.title": {
+    "original": "Level 2",
+    "translation": "Level 2",
+    "context": "unassigned/task.snbt / task 517166DF490B8DF9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.517D541820F94242.title": {
+    "original": "Cooldown Timer",
+    "translation": "Cooldown Timer",
+    "context": "unassigned/task.snbt / task 517D541820F94242",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.51A10188D6628ECE.title": {
+    "original": "Ender Cell World Engine Crafts",
+    "translation": "Ender Cell World Engine Crafts",
+    "context": "unassigned/task.snbt / task 51A10188D6628ECE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.523276D741403500.title": {
+    "original": "Mob Farms",
+    "translation": "Mob Farms",
+    "context": "unassigned/task.snbt / task 523276D741403500",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.53B81DDD6321D728.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 53B81DDD6321D728",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.53DA98367BF86C09.title": {
+    "original": "power check",
+    "translation": "power check",
+    "context": "unassigned/task.snbt / task 53DA98367BF86C09",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.53DCB3C11B6D07C7.title": {
+    "original": "Items Unlocked via World Craft",
+    "translation": "Items Unlocked via World Craft",
+    "context": "unassigned/task.snbt / task 53DCB3C11B6D07C7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.54161E44D6EC0403.title": {
+    "original": "ancient",
+    "translation": "ancient",
+    "context": "unassigned/task.snbt / task 54161E44D6EC0403",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.545431F57E485EE7.title": {
+    "original": "Shovels",
+    "translation": "Shovels",
+    "context": "unassigned/task.snbt / task 545431F57E485EE7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.56BA1011DDE093D0.title": {
+    "original": "Raw Osmium",
+    "translation": "Raw Osmium",
+    "context": "unassigned/task.snbt / task 56BA1011DDE093D0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.57A2EA2AAF0401BE.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 57A2EA2AAF0401BE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.57BE5B16087C947C.title": {
+    "original": "\u00266Echo Unlock Infinity",
+    "translation": "\u00266Echo Unlock Infinity",
+    "context": "unassigned/task.snbt / task 57BE5B16087C947C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.581CF680220285B0.title": {
+    "original": "Hearts",
+    "translation": "Hearts",
+    "context": "unassigned/task.snbt / task 581CF680220285B0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.58670C125A30CD28.title": {
+    "original": "wayfinder",
+    "translation": "wayfinder",
+    "context": "unassigned/task.snbt / task 58670C125A30CD28",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.58BD6F9BD3D252EE.title": {
+    "original": "World Engine Craft Unlocks",
+    "translation": "World Engine Craft Unlocks",
+    "context": "unassigned/task.snbt / task 58BD6F9BD3D252EE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.593AA0179354204B.title": {
+    "original": "Get Compass",
+    "translation": "Get Compass",
+    "context": "unassigned/task.snbt / task 593AA0179354204B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.593B01E9D4776913.title": {
+    "original": "Processors",
+    "translation": "Processors",
+    "context": "unassigned/task.snbt / task 593B01E9D4776913",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.598209AB20C523FC.title": {
+    "original": "Inferno Vault",
+    "translation": "Inferno Vault",
+    "context": "unassigned/task.snbt / task 598209AB20C523FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.598955C607984551.title": {
+    "original": "Starter Gens",
+    "translation": "Starter Gens",
+    "context": "unassigned/task.snbt / task 598955C607984551",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5996778F5388841D.title": {
+    "original": "An Ivory or Ebony CAD Assembly",
+    "translation": "An Ivory or Ebony CAD Assembly",
+    "context": "unassigned/task.snbt / task 5996778F5388841D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.59A9F44F40AF2E55.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 59A9F44F40AF2E55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5A43BF69F5EE7A51.title": {
+    "original": "End Game Options",
+    "translation": "End Game Options",
+    "context": "unassigned/task.snbt / task 5A43BF69F5EE7A51",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5A9C48DEA2F607F9.title": {
+    "original": "Any #justdynathings:compat/ae2/buddings",
+    "translation": "任何 #justdynathings:compat/ae2/buddings",
+    "context": "unassigned/task.snbt / task 5A9C48DEA2F607F9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5AB9DD72EFFA8BB2.title": {
+    "original": "Hidden",
+    "translation": "Hidden",
+    "context": "unassigned/task.snbt / task 5AB9DD72EFFA8BB2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5AE65BF06E12FC55.title": {
+    "original": "\u0026eObserve\u0026r: World Engine Block",
+    "translation": "\u0026eObserve\u0026r: World Engine Block",
+    "context": "unassigned/task.snbt / task 5AE65BF06E12FC55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5AEBA3792645C057.title": {
+    "original": "link",
+    "translation": "link",
+    "context": "unassigned/task.snbt / task 5AEBA3792645C057",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B1EDE30C0E98068.title": {
+    "original": "Assembling the Neutron Activator",
+    "translation": "組裝中子活化器",
+    "context": "unassigned/task.snbt / task 5B1EDE30C0E98068",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5C1653E469BF0527.title": {
+    "original": "Villager Breeding",
+    "translation": "Villager Breeding",
+    "context": "unassigned/task.snbt / task 5C1653E469BF0527",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5C3B57777EB7E7CD.title": {
+    "original": "Early Game Gens",
+    "translation": "Early Game Gens",
+    "context": "unassigned/task.snbt / task 5C3B57777EB7E7CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5C41B9EBAA3BFB91.title": {
+    "original": "infinity",
+    "translation": "infinity",
+    "context": "unassigned/task.snbt / task 5C41B9EBAA3BFB91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5C68D9D46C6D6566.title": {
+    "original": "\u00263Echo Unlock Infernal",
+    "translation": "\u00263Echo Unlock Infernal",
+    "context": "unassigned/task.snbt / task 5C68D9D46C6D6566",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5CF31579D0098AE7.title": {
+    "original": "Cooldown Timer",
+    "translation": "Cooldown Timer",
+    "context": "unassigned/task.snbt / task 5CF31579D0098AE7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5CF322069EBE856C.title": {
+    "original": "deepslate east",
+    "translation": "deepslate east",
+    "context": "unassigned/task.snbt / task 5CF322069EBE856C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5D0C511745B5006A.title": {
+    "original": "Generation 8",
+    "translation": "Generation 8",
+    "context": "unassigned/task.snbt / task 5D0C511745B5006A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5D14CB44244C2750.title": {
+    "original": "chaos",
+    "translation": "chaos",
+    "context": "unassigned/task.snbt / task 5D14CB44244C2750",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5D301EDAEC889F86.title": {
+    "original": "\u00267Echo Unlock Quartermaster",
+    "translation": "\u00267Echo Unlock Quartermaster",
+    "context": "unassigned/task.snbt / task 5D301EDAEC889F86",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5F9845BFD2B34AC6.title": {
+    "original": "Your Choice",
+    "translation": "Your Choice",
+    "context": "unassigned/task.snbt / task 5F9845BFD2B34AC6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5F99BA061A1605D9.title": {
+    "original": "World Stone Layers Layout",
+    "translation": "World Stone Layers Layout",
+    "context": "unassigned/task.snbt / task 5F99BA061A1605D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.60A5E4D097F85580.title": {
+    "original": "Steel Acquisition",
+    "translation": "Steel Acquisition",
+    "context": "unassigned/task.snbt / task 60A5E4D097F85580",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6143E9BDB0C9D417.title": {
+    "original": "Portal Vault",
+    "translation": "Portal Vault",
+    "context": "unassigned/task.snbt / task 6143E9BDB0C9D417",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.614C3268B71D6CE3.title": {
+    "original": "enchanter",
+    "translation": "enchanter",
+    "context": "unassigned/task.snbt / task 614C3268B71D6CE3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.61990CCF4D2011E7.title": {
+    "original": "Awakened Core + Dark Void Craft Unlocks",
+    "translation": "Awakened Core + Dark Void Craft Unlocks",
+    "context": "unassigned/task.snbt / task 61990CCF4D2011E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.619E259715D3DAFC.title": {
+    "original": "Any \u0026eApplied Flux \u0026fStorage Cell",
+    "translation": "任何 \u0026eApplied Flux \u0026fStorage Cell",
+    "context": "unassigned/task.snbt / task 619E259715D3DAFC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.620B0BA6A6337A57.title": {
+    "original": "tf south",
+    "translation": "tf south",
+    "context": "unassigned/task.snbt / task 620B0BA6A6337A57",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.62978C611C641A3D.title": {
+    "original": "\u0026fME Interface",
+    "translation": "\u0026fME Interface",
+    "context": "unassigned/task.snbt / task 62978C611C641A3D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.62D52342AFC4B5B5.title": {
+    "original": "Generation 5",
+    "translation": "Generation 5",
+    "context": "unassigned/task.snbt / task 62D52342AFC4B5B5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.639A8E9CF51A8596.title": {
+    "original": "Plant Farming",
+    "translation": "Plant Farming",
+    "context": "unassigned/task.snbt / task 639A8E9CF51A8596",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.63A8F38180C3FD30.title": {
+    "original": "Tree Farming",
+    "translation": "Tree Farming",
+    "context": "unassigned/task.snbt / task 63A8F38180C3FD30",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6405640824417BB2.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 6405640824417BB2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.64AB5234ED7B0BDC.title": {
+    "original": "Portal Vault",
+    "translation": "Portal Vault",
+    "context": "unassigned/task.snbt / task 64AB5234ED7B0BDC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.651313A5A837BB13.title": {
+    "original": "\u00267Echo Unlock Magician",
+    "translation": "\u00267Echo Unlock Magician",
+    "context": "unassigned/task.snbt / task 651313A5A837BB13",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.65AD3185427B9AF3.title": {
+    "original": "Create Vault",
+    "translation": "Create Vault",
+    "context": "unassigned/task.snbt / task 65AD3185427B9AF3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.65B4BE28B27BE67B.title": {
+    "original": "infernal",
+    "translation": "infernal",
+    "context": "unassigned/task.snbt / task 65B4BE28B27BE67B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6662DD03B1F24FB1.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 6662DD03B1F24FB1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6681C95BA23C70AA.title": {
+    "original": "Any metal impetus",
+    "translation": "任何 metal impetus",
+    "context": "unassigned/task.snbt / task 6681C95BA23C70AA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.66B4466B7858F8C2.title": {
+    "original": "Any #minecraft:saplings",
+    "translation": "任何 #minecraft:saplings",
+    "context": "unassigned/task.snbt / task 66B4466B7858F8C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.66BE14D0E22A9924.title": {
+    "original": "Give Create Echo Unlock",
+    "translation": "Give Create Echo Unlock",
+    "context": "unassigned/task.snbt / task 66BE14D0E22A9924",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.66E96E8D93525948.title": {
+    "original": "Fortron WE Crafts",
+    "translation": "Fortron WE Crafts",
+    "context": "unassigned/task.snbt / task 66E96E8D93525948",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.66F6B411E884E391.title": {
+    "original": "end east",
+    "translation": "end east",
+    "context": "unassigned/task.snbt / task 66F6B411E884E391",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6751D267B2D7A52D.title": {
+    "original": "Uncovering The Lost Echoes",
+    "translation": "Uncovering The Lost Echoes",
+    "context": "unassigned/task.snbt / task 6751D267B2D7A52D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.678E1BECB4BB8A9A.title": {
+    "original": "Generation 2",
+    "translation": "Generation 2",
+    "context": "unassigned/task.snbt / task 678E1BECB4BB8A9A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.684A45E0379D0386.title": {
+    "original": "vault",
+    "translation": "vault",
+    "context": "unassigned/task.snbt / task 684A45E0379D0386",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.68B5F556D4439356.title": {
+    "original": "Generation 7",
+    "translation": "Generation 7",
+    "context": "unassigned/task.snbt / task 68B5F556D4439356",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.68E6367E2F80DCBE.title": {
+    "original": "Mining Gadgets",
+    "translation": "Mining Gadgets",
+    "context": "unassigned/task.snbt / task 68E6367E2F80DCBE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.68FBE3E15C3F9B33.title": {
+    "original": "Any rune brooch",
+    "translation": "任何 rune brooch",
+    "context": "unassigned/task.snbt / task 68FBE3E15C3F9B33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.69019AD3FEB39B7B.title": {
+    "original": "give stage",
+    "translation": "give stage",
+    "context": "unassigned/task.snbt / task 69019AD3FEB39B7B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.69965C54E13B57DD.title": {
+    "original": "section on wireless redstone",
+    "translation": "section on wireless redstone",
+    "context": "unassigned/task.snbt / task 69965C54E13B57DD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6A00069F522D80AB.title": {
+    "original": "See All Quests",
+    "translation": "See All Quests",
+    "context": "unassigned/task.snbt / task 6A00069F522D80AB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6AD228A3A433DD1F.title": {
+    "original": "MFFS Vault",
+    "translation": "MFFS Vault",
+    "context": "unassigned/task.snbt / task 6AD228A3A433DD1F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6B27B17119E4FED3.title": {
+    "original": "Spirit + Advanced WE Craft Unlocks",
+    "translation": "Spirit + Advanced WE Craft Unlocks",
+    "context": "unassigned/task.snbt / task 6B27B17119E4FED3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6B45D5D3054C838C.title": {
+    "original": "Echo of Guidance",
+    "translation": "Echo of Guidance",
+    "context": "unassigned/task.snbt / task 6B45D5D3054C838C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6D0AA9BE40A0E859.title": {
+    "original": "Echo-Location",
+    "translation": "Echo-Location",
+    "context": "unassigned/task.snbt / task 6D0AA9BE40A0E859",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6FCBB412F4BBBAEB.title": {
+    "original": "\u0026aEcho Unlock Fabricator",
+    "translation": "\u0026aEcho Unlock Fabricator",
+    "context": "unassigned/task.snbt / task 6FCBB412F4BBBAEB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.70D4BC76C32CE0A3.title": {
+    "original": "quartermaster",
+    "translation": "quartermaster",
+    "context": "unassigned/task.snbt / task 70D4BC76C32CE0A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.719285FE3BB19A6E.title": {
+    "original": "quest 1",
+    "translation": "quest 1",
+    "context": "unassigned/task.snbt / task 719285FE3BB19A6E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.71B63908FDE6CC61.title": {
+    "original": "\u0026bAll-In-One Tools",
+    "translation": "\u0026bAll-In-One Tools",
+    "context": "unassigned/task.snbt / task 71B63908FDE6CC61",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7230891A77CE1977.title": {
+    "original": "end south",
+    "translation": "end south",
+    "context": "unassigned/task.snbt / task 7230891A77CE1977",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.736019FA0D0976A4.title": {
+    "original": "Tier 5",
+    "translation": "Tier 5",
+    "context": "unassigned/task.snbt / task 736019FA0D0976A4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.73AD501FEDF94669.title": {
+    "original": "nether north",
+    "translation": "nether north",
+    "context": "unassigned/task.snbt / task 73AD501FEDF94669",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.748C2ADA8E320CA0.title": {
+    "original": "Machine Fabrication",
+    "translation": "Machine Fabrication",
+    "context": "unassigned/task.snbt / task 748C2ADA8E320CA0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7586948F032C6048.title": {
+    "original": "Hydra Vault",
+    "translation": "Hydra Vault",
+    "context": "unassigned/task.snbt / task 7586948F032C6048",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7618036DBF5EE196.title": {
+    "original": "Create Vault",
+    "translation": "Create Vault",
+    "context": "unassigned/task.snbt / task 7618036DBF5EE196",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.765414790D7CA99B.title": {
+    "original": "Raw Nickel",
+    "translation": "Raw Nickel",
+    "context": "unassigned/task.snbt / task 765414790D7CA99B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.77D5AFC1BC5F67C9.title": {
+    "original": "World Engine Craft Unlocks",
+    "translation": "World Engine Craft Unlocks",
+    "context": "unassigned/task.snbt / task 77D5AFC1BC5F67C9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.782E4A45A331FB27.title": {
+    "original": "Echo Waypoint",
+    "translation": "Echo Waypoint",
+    "context": "unassigned/task.snbt / task 782E4A45A331FB27",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.79CCC49178D03422.title": {
+    "original": "Auto-Build the World Engine Upgrade",
+    "translation": "Auto-Build the World Engine Upgrade",
+    "context": "unassigned/task.snbt / task 79CCC49178D03422",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7A0B3916B2B15F4C.title": {
+    "original": "twilight",
+    "translation": "twilight",
+    "context": "unassigned/task.snbt / task 7A0B3916B2B15F4C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7A9E3DADF485CCB4.title": {
+    "original": "some craft",
+    "translation": "some craft",
+    "context": "unassigned/task.snbt / task 7A9E3DADF485CCB4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7A9F1E65CFB92BDF.title": {
+    "original": "void east",
+    "translation": "void east",
+    "context": "unassigned/task.snbt / task 7A9F1E65CFB92BDF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7C5681A418A2297F.title": {
+    "original": "\u00267Echo Unlock Machinist",
+    "translation": "\u00267Echo Unlock Machinist",
+    "context": "unassigned/task.snbt / task 7C5681A418A2297F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7C9A60156BE5D21A.title": {
+    "original": "Generation 1",
+    "translation": "Generation 1",
+    "context": "unassigned/task.snbt / task 7C9A60156BE5D21A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7CA66CFB9AAC98BB.title": {
+    "original": "nether south",
+    "translation": "nether south",
+    "context": "unassigned/task.snbt / task 7CA66CFB9AAC98BB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7D91A1EAA7FEC6BD.title": {
+    "original": "Things the Guides Should Say",
+    "translation": "Things the Guides Should Say",
+    "context": "unassigned/task.snbt / task 7D91A1EAA7FEC6BD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7E4EF12285852B6E.title": {
+    "original": "Plant Harvesting Options",
+    "translation": "Plant Harvesting Options",
+    "context": "unassigned/task.snbt / task 7E4EF12285852B6E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7F49EBC813E06257.title": {
+    "original": "world engine",
+    "translation": "world engine",
+    "context": "unassigned/task.snbt / task 7F49EBC813E06257",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7F7FC9A4E8AADA7F.title": {
+    "original": "Villager Trading",
+    "translation": "Villager Trading",
+    "context": "unassigned/task.snbt / task 7F7FC9A4E8AADA7F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7FF2F415F5685DBA.title": {
+    "original": "Remove Create Echo Unlock",
+    "translation": "Remove Create Echo Unlock",
+    "context": "unassigned/task.snbt / task 7FF2F415F5685DBA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

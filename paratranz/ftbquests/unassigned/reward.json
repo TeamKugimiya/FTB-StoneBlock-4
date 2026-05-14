@@ -1,0 +1,650 @@
+{
+  "reward.00EC1162EB842D86.title": {
+    "original": "Void South",
+    "translation": "虛空 - 南",
+    "context": "unassigned/reward.snbt / reward 00EC1162EB842D86",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.042C6860A26F6057.title": {
+    "original": "End West",
+    "translation": "終界 - 西",
+    "context": "unassigned/reward.snbt / reward 042C6860A26F6057",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.053BB94B773511FC.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "unassigned/reward.snbt / reward 053BB94B773511FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.07015FDD343B3E88.title": {
+    "original": "Wyvern Bow",
+    "translation": "雙足飛龍弓",
+    "context": "unassigned/reward.snbt / reward 07015FDD343B3E88",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.08099C03B0628B39.title": {
+    "original": "Nether South",
+    "translation": "地獄 - 南",
+    "context": "unassigned/reward.snbt / reward 08099C03B0628B39",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0BED496C8D68C629.title": {
+    "original": "Chaotic Shovel",
+    "translation": "混沌鏟",
+    "context": "unassigned/reward.snbt / reward 0BED496C8D68C629",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0D23EB824CB0A0C2.title": {
+    "original": "Void East",
+    "translation": "虛空 - 東",
+    "context": "unassigned/reward.snbt / reward 0D23EB824CB0A0C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0F2B93D49D8DA760.title": {
+    "original": "Wyrmwright Archive Waypoint",
+    "translation": "Wyrmwright Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 0F2B93D49D8DA760",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.15B421B3ACE269E3.title": {
+    "original": "End North",
+    "translation": "終界 - 北",
+    "context": "unassigned/reward.snbt / reward 15B421B3ACE269E3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.16061432FA49EE66.title": {
+    "original": "Chaotic Sword",
+    "translation": "混沌劍",
+    "context": "unassigned/reward.snbt / reward 16061432FA49EE66",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1A219FE0647ED732.title": {
+    "original": "Wyvern Axe",
+    "translation": "雙足飛龍斧",
+    "context": "unassigned/reward.snbt / reward 1A219FE0647ED732",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1ADD62DBE8217E40.title": {
+    "original": "Draconic Shovel",
+    "translation": "神龍鏟",
+    "context": "unassigned/reward.snbt / reward 1ADD62DBE8217E40",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1B215A9431DBAF6F.title": {
+    "original": "Wyvern Shovel",
+    "translation": "雙足飛龍鏟",
+    "context": "unassigned/reward.snbt / reward 1B215A9431DBAF6F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1EA85DCE2A9227C3.title": {
+    "original": "End South",
+    "translation": "終界 - 南",
+    "context": "unassigned/reward.snbt / reward 1EA85DCE2A9227C3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1FC0E512CB219EE5.title": {
+    "original": "Chaotic Axe",
+    "translation": "混沌斧",
+    "context": "unassigned/reward.snbt / reward 1FC0E512CB219EE5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1FEFB160C37A91D4.title": {
+    "original": "Quartermaster Archive Waypoint",
+    "translation": "Quartermaster Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 1FEFB160C37A91D4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.20DD8D5AAA044A24.title": {
+    "original": "Wyvern Sword",
+    "translation": "雙足飛龍劍",
+    "context": "unassigned/reward.snbt / reward 20DD8D5AAA044A24",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.238A2E2AEE1B8D6A.title": {
+    "original": "Light Bender Archive Waypoint",
+    "translation": "Light Bender Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 238A2E2AEE1B8D6A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.24582F4B1C3E7E1F.title": {
+    "original": "Twilight Archive Waypoint",
+    "translation": "Twilight Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 24582F4B1C3E7E1F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.266BE24BD00654A1.title": {
+    "original": "Chaotic Bow",
+    "translation": "混沌弓",
+    "context": "unassigned/reward.snbt / reward 266BE24BD00654A1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.27EBCAD2651AD138.title": {
+    "original": "Void North",
+    "translation": "虛空 - 北",
+    "context": "unassigned/reward.snbt / reward 27EBCAD2651AD138",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2A85D0C9269D0EE5.title": {
+    "original": "Infernal Archive Waypoint",
+    "translation": "Infernal Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 2A85D0C9269D0EE5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2B0BC74A9E61D881.title": {
+    "original": "Draconic Capacitor",
+    "translation": "神龍電容",
+    "context": "unassigned/reward.snbt / reward 2B0BC74A9E61D881",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2CA4C34FFD72EA33.title": {
+    "original": "Twilight East",
+    "translation": "暮光 - 東",
+    "context": "unassigned/reward.snbt / reward 2CA4C34FFD72EA33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2E85DC3CE143BC3A.title": {
+    "original": "Machinist Vault Compass",
+    "translation": "Machinist Vault Compass",
+    "context": "unassigned/reward.snbt / reward 2E85DC3CE143BC3A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.31A55C1C7979AC74.title": {
+    "original": "End East",
+    "translation": "終界 - 東",
+    "context": "unassigned/reward.snbt / reward 31A55C1C7979AC74",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.31B152CBB7E9CDAD.title": {
+    "original": "Nether West",
+    "translation": "地獄 - 西",
+    "context": "unassigned/reward.snbt / reward 31B152CBB7E9CDAD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3322D2E72CD06BE1.title": {
+    "original": "Mekanism Teleporter",
+    "translation": "《通用機械》傳送機",
+    "context": "unassigned/reward.snbt / reward 3322D2E72CD06BE1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.338E0593C527D311.title": {
+    "original": "Mycelial Reactor Set",
+    "translation": "全套菌絲網路發電機組",
+    "context": "unassigned/reward.snbt / reward 338E0593C527D311",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.37851CF3F949515A.title": {
+    "original": "Twilight South",
+    "translation": "暮光 - 南",
+    "context": "unassigned/reward.snbt / reward 37851CF3F949515A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.397185875416F4D2.title": {
+    "original": "Ocean West",
+    "translation": "海洋 - 西",
+    "context": "unassigned/reward.snbt / reward 397185875416F4D2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.39A9BA8313470A5D.title": {
+    "original": "Catalyst Archive Waypoint",
+    "translation": "Catalyst Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 39A9BA8313470A5D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3CC21684802E95E5.title": {
+    "original": "Wyvern Pickaxe",
+    "translation": "雙足飛龍鎬",
+    "context": "unassigned/reward.snbt / reward 3CC21684802E95E5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3E2DC10E8591B9CC.title": {
+    "original": "Wyvern Capacitor",
+    "translation": "雙足飛龍電容",
+    "context": "unassigned/reward.snbt / reward 3E2DC10E8591B9CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3FBE85B391697AA3.title": {
+    "original": "Ocean East",
+    "translation": "海洋 - 東",
+    "context": "unassigned/reward.snbt / reward 3FBE85B391697AA3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.419A1C4D9279BF50.title": {
+    "original": "Nether East",
+    "translation": "地獄 - 東",
+    "context": "unassigned/reward.snbt / reward 419A1C4D9279BF50",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.476F60C6DEB324A9.title": {
+    "original": "Draconic Bow",
+    "translation": "神龍弓",
+    "context": "unassigned/reward.snbt / reward 476F60C6DEB324A9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.495DF49EBBF0B77D.title": {
+    "original": "Boon of the Earth 5",
+    "translation": "大地恩惠 5",
+    "context": "unassigned/reward.snbt / reward 495DF49EBBF0B77D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4A3B5AA97272B2D2.title": {
+    "original": "Draconic Axe",
+    "translation": "神龍斧",
+    "context": "unassigned/reward.snbt / reward 4A3B5AA97272B2D2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4EDE4462114C77EE.title": {
+    "original": "Deepslate North",
+    "translation": "深板岩 - 北",
+    "context": "unassigned/reward.snbt / reward 4EDE4462114C77EE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4F0943ED6ECF70E6.title": {
+    "original": "Deepslate East",
+    "translation": "深板岩 - 東",
+    "context": "unassigned/reward.snbt / reward 4F0943ED6ECF70E6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.53ECA21ACDF436DD.title": {
+    "original": "Machinist Archive Waypoint",
+    "translation": "Machinist Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 53ECA21ACDF436DD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.54DC27E90D2295BC.title": {
+    "original": "Looting 8",
+    "translation": "掠奪 8",
+    "context": "unassigned/reward.snbt / reward 54DC27E90D2295BC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.55FBD183C62F244F.title": {
+    "original": "Nether North",
+    "translation": "地獄 - 北",
+    "context": "unassigned/reward.snbt / reward 55FBD183C62F244F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.58419DD95D235FD7.title": {
+    "original": "Chaotic Chestpiece",
+    "translation": "混沌護胸",
+    "context": "unassigned/reward.snbt / reward 58419DD95D235FD7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.594E158A9C86929B.title": {
+    "original": "\u0026aTier 1 Glyph",
+    "translation": "\u0026a1 級魔符",
+    "context": "unassigned/reward.snbt / reward 594E158A9C86929B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.59AD0E3C98FC5EA2.title": {
+    "original": "Void West",
+    "translation": "虛空 - 西",
+    "context": "unassigned/reward.snbt / reward 59AD0E3C98FC5EA2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.59E384F5A05211FC.title": {
+    "original": "Deepslate South",
+    "translation": "深板岩 - 南",
+    "context": "unassigned/reward.snbt / reward 59E384F5A05211FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5BAED70596AA3D1B.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "unassigned/reward.snbt / reward 5BAED70596AA3D1B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5FEC6723B0F40A00.title": {
+    "original": "Enchanter Archive Waypoint",
+    "translation": "Enchanter Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 5FEC6723B0F40A00",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.60A493A83705E5C6.title": {
+    "original": "Ancient Archive Waypoint",
+    "translation": "Ancient Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 60A493A83705E5C6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.632965F5B615FA8D.title": {
+    "original": "Fusion Reactor",
+    "translation": "核融合反應爐",
+    "context": "unassigned/reward.snbt / reward 632965F5B615FA8D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.64CB075D188C05CC.title": {
+    "original": "Ocean South",
+    "translation": "海洋 - 南",
+    "context": "unassigned/reward.snbt / reward 64CB075D188C05CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.68F8EBD48743037D.title": {
+    "original": "Simple Teleporter Bundle",
+    "translation": "簡易傳送器組",
+    "context": "unassigned/reward.snbt / reward 68F8EBD48743037D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.693E7161A63AA8E7.title": {
+    "original": "Chaotic Pickaxe",
+    "translation": "混沌鎬",
+    "context": "unassigned/reward.snbt / reward 693E7161A63AA8E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.694311419C81AF7D.title": {
+    "original": "Reactor (Nitro)",
+    "translation": "反應爐（地獄之星）",
+    "context": "unassigned/reward.snbt / reward 694311419C81AF7D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6A0011BF8C25D4FA.title": {
+    "original": "Draconic Sword",
+    "translation": "神龍劍",
+    "context": "unassigned/reward.snbt / reward 6A0011BF8C25D4FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6A7A635D5039E00E.title": {
+    "original": "Deepslate West",
+    "translation": "深板岩 - 西",
+    "context": "unassigned/reward.snbt / reward 6A7A635D5039E00E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6AA784677A036A36.title": {
+    "original": "Draconic Pickaxe",
+    "translation": "神龍鎬",
+    "context": "unassigned/reward.snbt / reward 6AA784677A036A36",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6AE5675C3DAAB1D9.title": {
+    "original": "Ocean North",
+    "translation": "海洋 - 北",
+    "context": "unassigned/reward.snbt / reward 6AE5675C3DAAB1D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6B56D274F5BC5918.title": {
+    "original": "\u00263Light Bender's Vault Compass",
+    "translation": "\u00263Light Bender's Vault Compass",
+    "context": "unassigned/reward.snbt / reward 6B56D274F5BC5918",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6B6E3D9E6F38918E.title": {
+    "original": "\u0026dTier 3 Glyph",
+    "translation": "\u0026d3 級魔符",
+    "context": "unassigned/reward.snbt / reward 6B6E3D9E6F38918E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6E2831AAACB7E9AD.title": {
+    "original": "Draconic Chestpiece",
+    "translation": "神龍護胸",
+    "context": "unassigned/reward.snbt / reward 6E2831AAACB7E9AD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.70BC62F1A67B859F.title": {
+    "original": "Amulet of Protection Scroll",
+    "translation": "「保護符」卷軸",
+    "context": "unassigned/reward.snbt / reward 70BC62F1A67B859F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.729901F3863D27E4.title": {
+    "original": "Fabricator Archive Waypoint",
+    "translation": "Fabricator Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 729901F3863D27E4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.72FFFB11B65A0DF3.title": {
+    "original": "Chaotic Capacitor",
+    "translation": "混沌電容",
+    "context": "unassigned/reward.snbt / reward 72FFFB11B65A0DF3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.742CB3E07E4CCEB1.title": {
+    "original": "\u0026bTier 2 Glyph",
+    "translation": "\u0026b2 級魔符",
+    "context": "unassigned/reward.snbt / reward 742CB3E07E4CCEB1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.747CED69FCED45E8.title": {
+    "original": "Magician Archive Waypoint",
+    "translation": "Magician Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 747CED69FCED45E8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7834CF7F86C29EE0.title": {
+    "original": "Twilight North",
+    "translation": "暮光 - 北",
+    "context": "unassigned/reward.snbt / reward 7834CF7F86C29EE0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.798A5012C244EC87.title": {
+    "original": "Wayfinder Archive Waypoint",
+    "translation": "Wayfinder Archive Waypoint",
+    "context": "unassigned/reward.snbt / reward 798A5012C244EC87",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7AA9A619B211B53A.title": {
+    "original": "Wyvern Chestpiece",
+    "translation": "雙足飛龍護胸",
+    "context": "unassigned/reward.snbt / reward 7AA9A619B211B53A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7DB306ACACBC5FA3.title": {
+    "original": "Twilight West",
+    "translation": "暮光 - 西",
+    "context": "unassigned/reward.snbt / reward 7DB306ACACBC5FA3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

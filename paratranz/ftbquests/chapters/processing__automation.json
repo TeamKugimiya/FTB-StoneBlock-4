@@ -1,0 +1,299 @@
+{
+  "chapter.5653350BC99D4290.title": {
+    "original": "Logistics \\\u0026\\ Automation",
+    "translation": "物流 \\\u0026\\ 自動化",
+    "context": "chapters/processing__automation.snbt / chapter 5653350BC99D4290",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.08145422E66D2B7D.quest_desc": {
+    "original": "The \u0026dQuantum Entangloporter\u0026r can transfer items, energy, gases, and liquids wirelessly.\n\nOnce placed, you can right click to open up the interface. Inside, you can set specific frequencies, allowing you to link up to your other \u0026dEntangloporters\u0026r for wireless transmission.\n\nThe \u0026dEntangloporters\u0026r have a buffer, so it can store a small amount of power, gases, etc. You'll want to set the sides up properly to determine what goes in and out of the block, especially if you are using these to transfer gases!",
+    "translation": "\u0026d量子傳送裝置\u0026r可無線傳輸物品、能量、氣體與流體。\n\n置於世界上並點擊右鍵，可以打開它的介面。\n\n你可以在裡面設定特定頻率，將它與其它\u0026d量子傳送裝置\u0026r連線進行無線傳輸。\n\n\u0026d量子傳送裝置\u0026r具有緩衝區，可儲存少量能量、氣體等內容。請正確設定各面的輸入輸出，特別是在傳輸氣體時。",
+    "context": "chapters/processing__automation.snbt / quest 08145422E66D2B7D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DB5CBE2E76D2FD9.quest_desc": {
+    "original": "The \u00266Pipez\u0026r mod adds several useful pipes for transferring \u0026bitems\u0026r, \u00269fluids\u0026r, \u0026cpower\u0026r, or \u00262gases\u0026r. You can even use the \u0026dUniversal Pipes\u0026r to condense everything down into one pipe.\n\nTo set a pipe to extract, you'll need to Sneak + Right-click a \u0026aPipe Wrench\u0026r on the end of the pipe that is connected to the block you want to extract from. Once done, you can upgrade the pipe using a \u0026bPipe Upgrade\u0026r to make it faster, allow for filters, and more!\n\n\u0026eNote\u0026r: \u0026aPipes\u0026r require the \u0026aMachine Block\u0026r \u00266World Engine Upgrade\u0026r to craft.",
+    "translation": "《\u00266Pipez\u0026r》模組新增了多種管道，可傳輸\u0026b物品\u0026r、\u00269流體\u0026r、\u0026c能量\u0026r與\u00262氣體\u0026r。\n你甚至可以使用\u0026d通用管道\u0026r一次運送所有類型的資源。\n\n若要將管道設為抽取模式，請在管線與目標方塊之間的連接處，使用\u0026a管線扳手\u0026r對其潛行並點擊右鍵。完成後可安裝\u0026b管線升級\u0026r來提升速度、啟用篩選等功能。\n\n\u0026e注意\u0026r：\u0026a管道\u0026r需要\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r才能合成。",
+    "context": "chapters/processing__automation.snbt / quest 0DB5CBE2E76D2FD9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DB5CBE2E76D2FD9.title": {
+    "original": "Pipez",
+    "translation": "《Pipez》",
+    "context": "chapters/processing__automation.snbt / quest 0DB5CBE2E76D2FD9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0DF5D2B35FDEE536.quest_desc": {
+    "original": "\u0026eXNET\u0026r is a logistics mod that allows you to set up to 8 channel types (energy, item, fluid, gas, chemicals, and more) on a single connection network.\n\nMachines and storage devices can then be connected and managed all on a single network, taking up very little space and without the need for messy cables everywhere.\n\nTo get started you’ll need some power (FE), a \u0026aController\u0026r and some \u00262Connectors\u0026r.\n\n\u0026eNote\u0026r: The \u0026aController\u0026r requires the \u0026aMachine Block\u0026r and \u0026cEnder Cell\u0026r \u00263World Engine Upgrades\u0026r to craft.",
+    "translation": "《\u0026eXNET\u0026r》是一款物流模組，每個連線網路，最多能設定 8 個頻道類型（適用能量、物品、流體、氣體、化學品等）。\n\n機器與儲存裝置可整合到同一個網路中管理，佔用空間小，也不需要到處拉一堆線。\n\n要開始使用，你需要一些能量、一個\u0026a控制器\u0026r與數個\u00262連接器\u0026r。\n\n\u0026e注意\u0026r：\u0026a控制器\u0026r需要\u0026a機器方塊\u0026r與\u0026c終界單元\u0026r\u00263世界引擎升級\u0026r才能合成。",
+    "context": "chapters/processing__automation.snbt / quest 0DF5D2B35FDEE536",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DF5D2B35FDEE536.title": {
+    "original": "XNet",
+    "translation": "《XNet》",
+    "context": "chapters/processing__automation.snbt / quest 0DF5D2B35FDEE536",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13FE28AF74A357CD.quest_desc": {
+    "original": "\u0026aMechanical Belts\u0026r can be used to create conveyor-like systems to transfer items and/or \u0026bRotational Force\u0026r.\n\n\u0026eCreate\u0026r machines will automatically interact with items on \u0026aBelts\u0026r if they are able to.",
+    "translation": "\u0026a輸送帶\u0026r可以使用\u0026b動能\u0026r來建造物品的傳輸系統。\n\n\u0026e《動力機械》\u0026r模組的機械，都會自動與\u0026a輸送帶\u0026r上符合條件的物品進行互動。",
+    "context": "chapters/processing__automation.snbt / quest 13FE28AF74A357CD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13FE28AF74A357CD.title": {
+    "original": "Create Item Options",
+    "translation": "《動力機械》物流選項",
+    "context": "chapters/processing__automation.snbt / quest 13FE28AF74A357CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1ABA5F2ECAA6D9D2.quest_desc": {
+    "original": "\u0026eMekanism\u0026r offers some of the best logistics cables and pipes in the pack! These items can be upgraded in the world, and also have an internal buffer.\n\nTo configure these pipes and cables, it is best to use the \u0026dConfigurator\u0026r. This is Mekanism's wrench, which also comes with several useful features.",
+    "translation": "\u0026e《通用機械》\u0026r模組提供本模組包中，最佳的物流線纜與管道！\n\n這些物品能夠在置於世界上時升級，並且有著內部緩衝區。\n\n最好使用\u0026d調整器\u0026r來設定這些線纜和管道。它是《通用機械》模組中的扳手，並也有著各種有用的功能。",
+    "context": "chapters/processing__automation.snbt / quest 1ABA5F2ECAA6D9D2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1ABA5F2ECAA6D9D2.title": {
+    "original": "Mekanism Pipes",
+    "translation": "《通用機械》管道",
+    "context": "chapters/processing__automation.snbt / quest 1ABA5F2ECAA6D9D2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1DA78BAB2A6E2C82.quest_desc": {
+    "original": "For modded veterans, \u0026eEnderIO\u0026r held great memories due to its amazing pipes, called \u0026dConduits\u0026r.\n\nThese \u0026dConduits\u0026r are highly configurable, and can even store multiple conduits in the same block space. If you don't like the look of the cables, you can also slap on a \u00262Facade\u0026r to cover them up!\n\nConfiguring them is made easy using the \u0026aYeta Wrench\u0026r. If any pipe is hidden beneath a \u00262Facade\u0026r, holding the wrench in your hand will uncover them for easy configuration.",
+    "translation": "對於老牌模組玩家來說，《\u0026eEnderIO\u0026r》的經典管道「\u0026d導管\u0026r」肯定不陌生。\n\n這些\u0026d導管\u0026r可高度自訂，甚至能在同一格空間內，放入多種導管。若不喜歡管線外觀，也可加裝\u00262偽裝框架\u0026r將它們藏起來。\n\n使用\u0026a耶塔扳手\u0026r可輕鬆設定這些導管。若有導管被\u00262偽裝框架\u0026r遮住，手持扳手時會顯示出來，方便調整。",
+    "context": "chapters/processing__automation.snbt / quest 1DA78BAB2A6E2C82",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1DA78BAB2A6E2C82.title": {
+    "original": "EnderIO Conduits",
+    "translation": "《EnderIO》導管",
+    "context": "chapters/processing__automation.snbt / quest 1DA78BAB2A6E2C82",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.387FB75C400B5D34.quest_desc": {
+    "original": "The \u0026dTesseract\u0026r is a block that can wirelessly transfer energy, items, and fluids.\n\nThis can all be done using networks that can be configured to be private or public.\n\nIt also has a new crafting recipe just like the old days!\n\n\u0026eNote\u0026r: To craft the frame, it requires the \u0026aMachine Block\u0026r and \u0026cEnder Cell\u0026r \u00263World Engine Upgrades\u0026r.",
+    "translation": "\u0026d超立方體\u0026r是可無線傳輸能量、物品與流體的方塊。\n\n你可以透過網路設定為私人或公開模式來完成這些傳輸。\n\n它也有著和以前相似的新合成配方！\n\n\u0026e注意\u0026r：其框架合成需要\u0026a機器方塊\u0026r與\u0026c終界單元\u0026r\u00263世界引擎升級\u0026r。",
+    "context": "chapters/processing__automation.snbt / quest 387FB75C400B5D34",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.38869642A2E6F8B6.quest_desc": {
+    "original": "When it comes to logistics, \u0026eModular Routers\u0026r can do it all. This mod comes with tons of useful features, like \u0026aAuto-Clicking\u0026r, \u0026aBlock Breaking\u0026r, and more!\n\nAll of these features are done within the main block, the \u0026dModular Router\u0026r. To give it a function, it needs a \u0026aModule\u0026r to tell it what to do. These Modules can be configured and upgraded using \u0026aAugments\u0026r.\n\n\u0026eNote\u0026r: \u0026aModular Routers\u0026r require the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r to craft.",
+    "translation": "當我們提到物流時，\u0026e《模組化路由器》\u0026r模組能夠獨自完成所有任務。此模組有很多有用的功能，像是：\u0026a自動點擊\u0026r、\u0026a破壞方塊\u0026r......等！\n\n所有功能都是透過一個重要方塊來達成的：「\u0026d模組化路由器\u0026r」。它會需要各種\u0026a模組\u0026r來告訴它該做什麼，才能啟用各項功能；也可以使用\u0026a增強\u0026r來設定或強化這些模組。\n\n\u0026e備註\u0026r：\u0026a模組化路由器\u0026r需要\u0026b力場子注能方塊\u00266世界引擎升級\u0026r才能合成。",
+    "context": "chapters/processing__automation.snbt / quest 38869642A2E6F8B6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.38869642A2E6F8B6.quest_subtitle": {
+    "original": "They Can Do Anything",
+    "translation": "它能做任何事",
+    "context": "chapters/processing__automation.snbt / quest 38869642A2E6F8B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.38869642A2E6F8B6.title": {
+    "original": "Modular Routers",
+    "translation": "《模組化路由器》",
+    "context": "chapters/processing__automation.snbt / quest 38869642A2E6F8B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4FA08F4A78785162.quest_desc": {
+    "original": "Whether you need to break, place, or even swap out blocks in the world, \u00266Just Dire Things\u0026r has a machine for it.\n\nThese machines are easy to use and configure within their interfaces.",
+    "translation": "無論你是想要破壞、放置，甚至交換世界上的方塊，\n\u00266《Just Dire Things》\u0026r模組都有著對應的機器。\n\n這些機器很容易操作，並且可以直接用它們的介面進行設定。",
+    "context": "chapters/processing__automation.snbt / quest 4FA08F4A78785162",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5778BAEC8F095B3D.quest_desc": {
+    "original": "\u0026eLaserIO\u0026r allows you to transfer pretty much everything using LASERS!\n\nTo get started, you'll need some \u0026aLaser Nodes\u0026r and a \u0026cLaser Wrench\u0026r to connect them. These are the main blocks of the mod, which allows lasers to directly interact with blocks they are attached to.\n\nTo learn how to set them up, check the next page!\n\n\u0026eNote\u0026r: \u0026aLogic Chips\u0026r require the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r to be crafted.\n{@pagebreak}\nTo set up how Lasers will interact with the block, you'll need to install \u0026aCards\u0026r to specify what you'd like them to do.\n\nThese cards are highly configurable. For example, \u0026aItem Cards\u0026r can be used to pull or push items from separate inventories, and can be filtered for precise automation.\n{@pagebreak}\nWhen opening up the interface for a \u0026aLaser Node\u0026r, you'll have a tab for every face of the node. This determines the side that the Card works on. Think of the Card as essentially the \"settings file\" for that face.\n\nThe cards can also be upgraded to increase the speed at which it interacts with other blocks, allowing for extremely fast speeds for automation. They can also be filtered and set to specific channels. \n\nYou're not always going to have straight lasers from each \u0026aLaser Node\u0026r. That's where \u0026aLaser Connectors\u0026r come in!",
+    "translation": "《\u0026eLaserIO\u0026r》讓你幾乎可以用雷射傳輸一切資源！\n\n要開始使用，你需要一些\u0026a雷射節點\u0026r與一把\u0026c雷射扳手\u0026r來連接它們。\n\n這些是本模組的核心方塊，可讓雷射直接與相鄰的方塊互動。\n\n想知道如何設定，請看下一頁！\n\n\u0026e注意\u0026r：\u0026a邏輯晶片\u0026r需要\u0026b力場子注能方塊\u0026r\u00266世界引擎升級\u0026r才能合成。\n{@pagebreak}\n要設定雷射如何與方塊互動，你需要安裝\u0026a卡片\u0026r來指定動作。\n\n這些卡片可高度自訂。例如\u0026a物品卡\u0026r可從不同容器抽取或存入物品，搭配篩選達成精準自動化。\n{@pagebreak}\n開啟\u0026a雷射節點\u0026r介面後，會看到節點每一面的分頁。這決定卡片作用在哪一面。可把卡片理解成該面的「設定檔」。\n\n卡片也能升級，提升與其他方塊互動的速度，讓自動化達到極高效率。還可設定篩選與指定頻道。\n\n雷射不一定都能從\u0026a雷射節點\u0026r直線連到目標，這時就要用到\u0026a雷射連接器\u0026r！",
+    "context": "chapters/processing__automation.snbt / quest 5778BAEC8F095B3D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5778BAEC8F095B3D.title": {
+    "original": "LaserIO",
+    "translation": "《LaserIO》",
+    "context": "chapters/processing__automation.snbt / quest 5778BAEC8F095B3D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5CFC04F4F9A4B01D.quest_desc": {
+    "original": "\u00266Oritech\u0026r comes with several basic \u0026bPipes\u0026r just for this! And of course, you'll need some way to configure the pipes, which is where the \u0026aWrench\u0026r comes in.\n\nRight-clicking on a \u0026bPipe\u0026r with an empty hand will set the pipe to extract!\n{@pagebreak}\nUsing the \u0026aWrench\u0026r on the end of a \u0026bPipes\u0026r will disconnect the \u0026bPipe\u0026r from whatever it is attached to. To reconnect it, use the \u0026aWrench\u0026r on the middle of the \u0026bPipe\u0026r.\n\nSneak+using the \u0026aWrench\u0026r on a \u0026bPipe\u0026r will insta-break it.\n{@pagebreak}\n\u0026bPipes\u0026r Throughputs:\n\n- Item Pipes: 8 items per 5 Ticks\n- Fluid Pipes: 500mb per 3 Ticks\n- Energy Pipes: 10k RF per 1 Tick.",
+    "translation": "\u00266《起源科技》\u0026r也提供了數種基礎\u0026b管道\u0026r來處理日常傳輸！當然，你也需要工具來設定管道，也就是\u0026a管道扳手\u0026r。\n\n空手對著\u0026b管道\u0026r點擊右鍵，即可將其設為抽取模式！\n{@pagebreak}\n對著\u0026b管道\u0026r末端使用\u0026a管道扳手\u0026r，可斷開它與目標之間的連接；要重新連接，請對著\u0026b管道\u0026r中段使用\u0026a管道扳手\u0026r。\n\n潛行對著\u0026b管道\u0026r使用\u0026a管道扳手\u0026r，能將其瞬間拆除。\n{@pagebreak}\n\u0026b管道\u0026r吞吐量：\n\n- 物品管道：每 5 刻 8 個物品\n- 流體管道：每 3 刻 500 mB\n- 能量管道：每 1 刻 10k RF",
+    "context": "chapters/processing__automation.snbt / quest 5CFC04F4F9A4B01D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5CFC04F4F9A4B01D.title": {
+    "original": "Oritech Pipes",
+    "translation": "《起源科技》管道",
+    "context": "chapters/processing__automation.snbt / quest 5CFC04F4F9A4B01D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.61B830759B316300.quest_desc": {
+    "original": "\u00266Classic Pipes\u0026r brings back that original \u0026aBuildcraft\u0026r feel with their easy to craft and use pipes.\n\nThe basic wooden pipes can be used to transport items and fluids.\n\nThe \u0026aCopper\u0026r versions are used to extract items or fluids when given redstone power.\n\nThere are also several different tiers of pipes that do different things, so check them out!\n\n\u0026eNote\u0026r: When these pipes overflow, they will lag the world. Make sure to create an overflow system!",
+    "translation": "《\u00266經典管道\u0026r》帶回了原版《\u0026aBuildcraft\u0026r》那種易於合成與使用的經典管道手感。\n\n基礎木製管道可用來傳輸物品與流體。\n\n\u0026a銅製\u0026r版本可在提供紅石訊號時，抽取物品或流體。\n\n另外還有多種不同階級管道可執行不同功能，記得查看。\n\n\u0026e注意\u0026r：這些管道在溢流時會造成世界卡頓，務必建立溢流處理系統！",
+    "context": "chapters/processing__automation.snbt / quest 61B830759B316300",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.718C72A43E57B75A.quest_desc": {
+    "original": "In this \u0026bChapter\u0026r, you'll find most of the ways to handle transferring items, energy, fluids, and more!",
+    "translation": "在本\u0026b章節\u0026r中，你能夠找到各種用來傳輸物品、能量、流體...等的方法！",
+    "context": "chapters/processing__automation.snbt / quest 718C72A43E57B75A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.0A04058F3A5934FC.title": {
+    "original": "Mekanism Pipes",
+    "translation": "《通用機械》管道",
+    "context": "chapters/processing__automation.snbt / task 0A04058F3A5934FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0A30227533B57599.title": {
+    "original": "Cards",
+    "translation": "卡片",
+    "context": "chapters/processing__automation.snbt / task 0A30227533B57599",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4B7C315189CC7D79.title": {
+    "original": "Classic Pipes",
+    "translation": "經典管道",
+    "context": "chapters/processing__automation.snbt / task 4B7C315189CC7D79",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4E9D1C67F4EAD926.title": {
+    "original": "Connectors",
+    "translation": "連接器",
+    "context": "chapters/processing__automation.snbt / task 4E9D1C67F4EAD926",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.576C3A4D28B4D076.title": {
+    "original": "Modules",
+    "translation": "模組",
+    "context": "chapters/processing__automation.snbt / task 576C3A4D28B4D076",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.62DE6121CE506116.title": {
+    "original": "Pipe Upgrades",
+    "translation": "管道升級",
+    "context": "chapters/processing__automation.snbt / task 62DE6121CE506116",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.696DC87210410650.title": {
+    "original": "Oritech Pipes",
+    "translation": "《起源科技》管道",
+    "context": "chapters/processing__automation.snbt / task 696DC87210410650",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6EEDBE793BDCC2D7.title": {
+    "original": "Logistics",
+    "translation": "物流",
+    "context": "chapters/processing__automation.snbt / task 6EEDBE793BDCC2D7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7C972E1F071C029A.title": {
+    "original": "Belt Control Items",
+    "translation": "輸送帶控制裝置",
+    "context": "chapters/processing__automation.snbt / task 7C972E1F071C029A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7D75B40EC4AF799A.title": {
+    "original": "Just Dire Things Machines",
+    "translation": "《Just Dire Things》機器",
+    "context": "chapters/processing__automation.snbt / task 7D75B40EC4AF799A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

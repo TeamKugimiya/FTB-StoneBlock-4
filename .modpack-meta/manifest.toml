@@ -1,0 +1,11 @@
+schema_version = 1
+
+[upstream_state]
+platform = "curseforge"
+project_id = "1373378"
+version = "FTB StoneBlock 4 1.11.0"
+artifact_id = "7933930"
+artifact_kind = "curseforge_file"
+primary_file_name = "ftb-stoneblock-4-1.11.0.zip"
+fetched_at = "2026-05-14T08:16:30Z"
+source_archive_sha256 = "60627fe6cba73f9719fd31ad3c901d0accb278c4c7acd7ea3ef9d5c679133a24"

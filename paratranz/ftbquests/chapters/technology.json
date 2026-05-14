@@ -1,0 +1,1217 @@
+{
+  "chapter.446E3CE6936F2CAE.title": {
+    "original": "General Tech",
+    "translation": "常用科技",
+    "context": "chapters/technology.snbt / chapter 446E3CE6936F2CAE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0089BFB911BD5E5B.quest_desc": {
+    "original": "While only being able to operate in a radius (1 block per \u00262scale module\u0026r), the \u0026eInterdiction Matrix\u0026r is no less powerful for it.\n\nWhen powered by \u00263Fortron\u0026r and with a \u0026aBiometric Identifier\u0026r on its frequency, it can use installed \u0026amodules\u0026r to perform various key functions, such as: killing hostile mobs, denying block interaction without use of chunk claims or among team members, and warning the general public that they're getting too close to that nuclear mishap \u0026l(not your fault)\u0026r",
+    "translation": "雖然只能在指定半徑範圍內運作（每個\u00262擴展模組\u0026r增加 1 格）\n，但\u0026e攔截矩陣\u0026r的威力絕對不容小覷。\n\n當由\u00263力場子\u0026r供能，且其頻率上有著一個\u0026a生物識別儀\u0026r時，它可以使用安裝的\u0026a模組\u0026r，來執行各種關鍵功能，例如：殺死敵對生物、禁止未經授權的方塊互動（無需使用領地或身為隊伍成員），以及向一般大眾發出警告，警告他們正太過接近那次核能意外 \u0026l（這不是你的錯）\u0026r。",
+    "context": "chapters/technology.snbt / quest 0089BFB911BD5E5B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0089BFB911BD5E5B.title": {
+    "original": "\u0026eInterdiction Matrix",
+    "translation": "\u0026e攔截矩陣",
+    "context": "chapters/technology.snbt / quest 0089BFB911BD5E5B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.009FE1E1B3017486.quest_desc": {
+    "original": "The \u0026cMob Slaughter Factory\u0026r does more than just kill passive mobs for meat—it reduces them to \u0026dPink Slime\u0026r, a liquid that is crucial for progression in \u0026eI.F\u0026r.",
+    "translation": "\u0026c生物屠宰工廠\u0026r不僅僅是殺死被動生物來獲取肉，\n\n它還會將其還原成\u0026d粉紅史萊姆液\u0026r，\n\n這是在進一步發展\u0026e《工業先鋒》\u0026r中，所需的關鍵流體。",
+    "context": "chapters/technology.snbt / quest 009FE1E1B3017486",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.009FE1E1B3017486.title": {
+    "original": "\u0026cMob Slaughter Factory",
+    "translation": "\u0026c生物屠宰工廠",
+    "context": "chapters/technology.snbt / quest 009FE1E1B3017486",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.059B456424293FF3.quest_desc": {
+    "original": "With the power of \u0026dEther Gas\u0026r, you can craft the final tier of machine frames!",
+    "translation": "有了\u0026d乙醚氣體\u0026r的力量，你就可以合成機械框架的最終階級了！",
+    "context": "chapters/technology.snbt / quest 059B456424293FF3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.059B456424293FF3.title": {
+    "original": "\u00266Supreme Machine Frame",
+    "translation": "\u00266終極機械框架",
+    "context": "chapters/technology.snbt / quest 059B456424293FF3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.07062B805D9238C0.quest_desc": {
+    "original": "The core device of the mod, the \u0026aExperience Obelisk\u0026r allows for lossless storage and fine manipulation of experience (XP) levels by converting it internally to and from a fluid called \u0026bCognitium\u0026r.\n\nOther Cognition devices can be linked to this block with the \u0026aStaff of Attunement\u0026r, Cognition's \"wrench,\" to enable or enhance their abilities. A \u0026aMemory Tablet\u0026r can be linked to remotely access an Obelisk in the general area. This link is per player.\n\n\u00267\u0026oIt is also able to passively pick up XP orbs around it.",
+    "translation": "作為本模組的核心裝置，\u0026a經驗方尖碑\u0026r可以將「經驗」轉換為名為\u0026b認知精華\u0026r的流體，來實現無損儲存與精細操作。\n\n其他《\u00262認知\u0026r》模組的裝置，可以透過\u0026a調和之杖\u0026r（本模組的「扳手」）綁定至此方塊，以啟用或增強其能力。\n\n\u0026a記憶石板\u0026r可以被綁定以遠端存取附近的方尖碑。\n此連結僅限於單個玩家。\n\n\u00267\u0026o它還能被動拾取周圍的經驗球。",
+    "context": "chapters/technology.snbt / quest 07062B805D9238C0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.099594F0A383C280.quest_desc": {
+    "original": "The \u0026cAdvanced Machine Frame\u0026r is the next tier upgrade for our machine frames.\n\nThis machine frame is used to make some of the most important machines, like the \u0026dStasis Chamber\u0026r and \u00263Ore Laser Base\u0026r.",
+    "translation": "\u0026c高級機械框架\u0026r是機械框架的下一階段升級。\n\n此機械框架用於製作一些最重要的機器，例如\u0026d靜滯室\u0026r與\u00263礦物雷射基座\u0026r。",
+    "context": "chapters/technology.snbt / quest 099594F0A383C280",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.099594F0A383C280.title": {
+    "original": "\u0026cAdvanced Machine Frame",
+    "translation": "\u0026c高級機械框架",
+    "context": "chapters/technology.snbt / quest 099594F0A383C280",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0A2DB5AFC89E852F.quest_desc": {
+    "original": "The \u0026aCoke Oven\u0026r is an early-game multiblock that converts regular coal into \u00263Coke Coal\u0026r and \u00267Creosote Oil\u0026r.\n\n\u00263Coke Coal\u0026r is a more efficient fuel, while \u0026aCreosote Oil\u0026r will be used in many crafting recipes.\n\nTo build this multiblock, make a 3x3x3 cube using \u0026aCoke Bricks\u0026r, then right click the middle block with the \u0026bEngineer's Hammer\u0026r to activate it.",
+    "translation": "\u0026a焦爐\u0026r是一種遊戲前期的多方塊結構，可將普通煤炭轉換成\u00263焦炭\u0026r與\u00267雜酚油\u0026r。\n\n\u00263焦炭\u0026r是更高效的燃料，而\u0026a雜酚油\u0026r將用於許多合成配方中。\n\n若要建造此多方塊結構，\n請使用\u0026a焦爐磚\u0026r建造一個 3x3x3 的立方體，\n然後使用\u0026b工程師錘子\u0026r，右鍵點擊任意一面正中間的方塊即可啟動。",
+    "context": "chapters/technology.snbt / quest 0A2DB5AFC89E852F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0A2DB5AFC89E852F.title": {
+    "original": "\u0026fCoke Oven",
+    "translation": "\u0026f焦爐",
+    "context": "chapters/technology.snbt / quest 0A2DB5AFC89E852F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B1E459D12D11A0D.quest_desc": {
+    "original": "\u0026aModes\u0026r and \u00262Modules\u0026r instruct the \u0026dProjector\u0026r on how to function.\n\n\u0026aShape Modes\u0026r define the form \u0026bForce Field Blocks\u0026r will be placed in and \u00262Directional Modules\u0026r \u00267(next quest)\u0026r specify its placement in the world.\n\nAn \u0026eInverter Module\u0026r in the matrix slots will fill the \u0026lentire\u0026r projected volume with \u0026bfield blocks\u0026r instead of just creating an outline.\n\n\u00267\u0026oMore mode details on the next pages.\n{@pagebreak}\n\u0026aCube Mode\u0026r respects the directions of scale modules along an axis, and requires each of the three axes to be defined to form an enclosed field.\n\n\u0026aSphere Mode\u0026r treats every \u00262Scale module\u0026r in the field slots as a single radius addition, allowing you to encase a vast area at the cost of reduced shape customization.\n\n\u0026aTube Mode\u0026r is nearly identical to \u0026aCube Mode\u0026r, but has two of the resulting faces open.\n\n\u0026aPyramid Mode\u0026r forms a 4-sided pyramid with points along the horizontal axes, requiring all three axes to be defined, respecting Up/Down directions for height.\n\n\u0026aCylinder Mode\u0026r uses the horizontal axis as a radius, and the Up/Down axis as one total height.\n{@pagebreak}\n\u0026bCustom Mode\u0026r can be used to set both opposing corners of an area. Sneak + Right-Clicking will set that field structure on any non-air blocks within that area. Sneak + Right-Clicking the air will clear the selection.\n\n\u0026bThis mode\u0026r ignores \u00262Scale Modules\u0026r, and defaults its origin to the center of the selected area. A \u0026dCamouflage Module\u0026r will copy the selected blocks instead of its normal behavior.",
+    "translation": "\u0026a模式\u0026r與\u00262模組\u0026r決定了\u0026d力場投影儀\u0026r如何運作。\n\n\u0026a形狀模式\u0026r定義了\u0026b力場方塊\u0026r放置的形狀，而\u00262方向性模組\u0026r（下個任務）則指定其在世界中的放置位置。\n\n在矩陣欄位中放入\u0026e反轉模組\u0026r，會使\u0026l整個\u0026r投影體積填滿\u0026b力場方塊\u0026r，而不僅僅是建立一個輪廓。\n\n\u00267\u0026o更多模式細節請見下頁。\n{@pagebreak}\n\u0026a立方體模式\u0026r會遵循各軸上的擴展模組方向，並需要定義完整三個軸才能形成封閉的力場。\n\n\u0026a球體模式\u0026r會將欄位中的每個\u00262擴展模組\u0026r視為單一半徑的增加，允許你以降低形狀自訂性為代價，包裹住廣大區域。\n\n\u0026a管狀模式\u0026r與\u0026a立方體模式\u0026r幾乎相同，但其中兩個相對面是開放的。\n\n\u0026a金字塔模式\u0026r會形成一個延著水平軸對齊的四面金字塔，需要定義完整三個軸，並遵循高度的上／下方向。\n\n\u0026a圓柱模式\u0026r使用水平軸作為半徑，並使用上／下軸作為總高度。\n{@pagebreak}\n\u0026b自訂模式\u0026r可用於設定區域的兩個相對頂點。\n潛行+右鍵點擊區域內的任何非空氣方塊，可將該區域設定成力場結構。\n潛行+右鍵點擊空氣則會清除選擇。\n\n\u0026b此模式\u0026r會無視\u00262擴展模組\u0026r，並預設其原點為所選區域的中心。\n\n\u0026d偽裝模組\u0026r則會複製所選方塊的外觀，而非其正常行為。",
+    "context": "chapters/technology.snbt / quest 0B1E459D12D11A0D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B1E459D12D11A0D.title": {
+    "original": "\u0026fDefine the \u0026bField",
+    "translation": "\u0026f定義\u0026b力場",
+    "context": "chapters/technology.snbt / quest 0B1E459D12D11A0D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B92679772DB0C68.quest_desc": {
+    "original": "\u0026aShafts\u0026r and \u0026aCogwheels\u0026r are the primary ways to transfer rotational force to your machines and contraptions.\n\nCheck the \u0026aCogwheel\u0026r \u0026bPonder\u0026r to see how they can also be used to increase/decrease \u0026bRotation(s) Per Minute\u0026r (\u0026bRPM\u0026r) within your system.",
+    "translation": "\u0026a傳動桿\u0026r和\u0026a齒輪\u0026r是在你的機器和裝置之間，傳輸動能的主要方式。\n\n查看\u0026a齒輪\u0026r的\u0026b教學\u0026r可以學到該如何利用它們來增加／減少系統的\u0026b轉速\u0026r。",
+    "context": "chapters/technology.snbt / quest 0B92679772DB0C68",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0BF770CB2B6312CF.quest_desc": {
+    "original": "To progress into more late-game \u0026eCreate\u0026r, you will need to craft different plates for different functions.\n\n\u00263Iron Plates\u0026r are the most common type of plate used in most machines and items.\n\n\u00263Copper Plates\u0026r are generally used for fluid-related components.\n\n\u00263Gold Plates\u0026r are used for other miscellaneous recipes.",
+    "translation": "要邁入\u0026e《動力機械》\u0026r的後期階段，你需要為不同的功能製作不同的板材。\n\n\u00263鐵板\u0026r是大多數機器和物品中最常用的板材類型。\n\n\u00263銅板\u0026r通常用於與流體相關的元件。\n\n\u00263金板\u0026r用於其他雜項配方。",
+    "context": "chapters/technology.snbt / quest 0BF770CB2B6312CF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0E107AC18FCFDB57.quest_desc": {
+    "original": "Now that we have some \u0026aPrimogel Goo\u0026r, we can use it to see how this mechanic works.\n\nStart by placing down the \u0026aPrimogel Goo\u0026r somewhere in an open space, then activate it by giving it either \u0026bSugar\u0026r or \u0026bRotten Flesh\u0026r. You can now place \u00262Iron Blocks\u0026r on any of its faces to start the conversion.\n\n{image:ftb:textures/quests/just_dire_things/impure_daisy.png width:200 height:100 align:center}\n{@pagebreak}\nYou'll notice the \u0026bGoo\u0026r slowly starting to spread over, taking it completely over. Once the process is complete, you'll be left with \u0026aRaw Ferricore Ore\u0026r.\n\n\u00267\u0026oSome Shaders will not properly display this effect, so you might want to disable them if you want to see the changes.\n\nMining this ore will give you \u0026aRaw Ferricore\u0026r, which you can smelt down into \u0026aFerricore Ingots\u0026r.\n\n\u0026eNote\u0026r: Fortune does not work on these ores. You will typically get between 3 or 4 raw ores.",
+    "translation": "既然我們有了一些\u0026a原初凝漿\u0026r，我們可以用它觀察這個機制是如何運作的。\n\n首先在基地某處放置\u0026a原初凝漿\u0026r，接著透過餵食\u0026b糖\u0026r或\u0026b腐肉\u0026r來啟動它。\n你現在可以在其任何一個面上，放置\u00262鐵方塊\u0026r來開始轉化。\n\n{image:ftb:textures/quests/just_dire_things/impure_daisy.png width:200 height:100 align:center}\n{@pagebreak}\n你會注意到\u0026b凝漿\u0026r慢慢開始擴散，並將其完全佔據。一旦過程完成，你將會獲得\u0026a核鐵原礦\u0026r。\n\n\u00267\u0026o部分光影包無法正確顯示此效果，因此如果你想看到變化，可能需要先關掉光影。\n\n挖掘此礦簇會獲得\u0026a核鐵原礦\u0026r，你可以將其熔煉成\u0026a核鐵錠\u0026r。\n\n\u0026e注意\u0026r：幸運附魔對這類礦簇無效。你通常會獲得 3 到 4 個原礦。",
+    "context": "chapters/technology.snbt / quest 0E107AC18FCFDB57",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0E107AC18FCFDB57.title": {
+    "original": "\u0026aGoo Transmutations\u0026r",
+    "translation": "\u0026a凝漿轉化",
+    "context": "chapters/technology.snbt / quest 0E107AC18FCFDB57",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13FD704C45145E23.quest_desc": {
+    "original": "The \u0026aFluid Extractor\u0026r is the first machine you'll want to make in the mod.\n\nThese machines will pull \u00267Latex\u0026r from any Wood Log placed in front of it. You'll need a lot of \u00267Latex\u0026r, so it's good to make a few of these!\n\nThese machines don't require power, but work \u0026b3x faster\u0026r when powered.\n\nMost logs will give an average amount, but \u0026aAcacia logs\u0026r and \u0026aMangrove logs\u0026r will give the most!",
+    "translation": "\u0026a樹液提取器\u0026r是你會在該模組中製作的第一台機器。\n\n這些機器會從放置在其前方的任何原木中提取\u00267乳膠\u0026r。你會需要大量的\u00267乳膠\u0026r，所以多做幾台這機器是個不錯的主意！\n\n這些機器不需要能量，但供電時運作速度會快\u0026b 3 倍\u0026r。\n\n大多數原木的產量都差不多，但\u0026a相思木原木\u0026r與\u0026a紅樹林原木\u0026r提供的乳膠量最多！",
+    "context": "chapters/technology.snbt / quest 13FD704C45145E23",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13FD704C45145E23.title": {
+    "original": "\u0026fExtracting \u00267Latex",
+    "translation": "\u0026f提取\u00267乳膠",
+    "context": "chapters/technology.snbt / quest 13FD704C45145E23",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1461682BD1978BA8.quest_desc": {
+    "original": "The \u0026aCrusher\u0026r is a \u0026bHeavy Machine\u0026r primarily used as a way to break down ores and metals into \u0026bdust\u0026r.\n\nIt can also be used to grind up enemies that are unfortunate enough to fall into it, outputting their relevant drops.\n\nMake sure to check out the \u0026bEngineer's Manual\u0026r to help you build the multiblock!",
+    "translation": "\u0026a粉碎機\u0026r是一種\u0026b重型機械\u0026r，主要用於將礦石與金屬分解成\u0026b粉末\u0026r。\n\n它也可以用來研磨不幸掉入其中的敵人，並輸出其對應的掉落物。\n\n請務必查閱\u0026b工程師指南手冊\u0026r來協助你建造此多方塊結構！",
+    "context": "chapters/technology.snbt / quest 1461682BD1978BA8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1461682BD1978BA8.title": {
+    "original": "\u0026fCrusher",
+    "translation": "\u0026f粉碎機",
+    "context": "chapters/technology.snbt / quest 1461682BD1978BA8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.166BA0D04A1686C7.quest_desc": {
+    "original": "\u00263Fortron\u0026r can be extracted from the buffer of a \u0026aCoercion Deriver\u0026r or any other \u0026bFortron-based machines\u0026r.\n\nThis can be done by using any method of fluid extracting from other mods.\n\n\u00267\u0026oCheck the \"Logistics\" quest chapter for some fluid management options.\n\n\u00267\u0026oNote: to complete this quest, you'll need to pump a bucket's worth (1000mB) into an assigned \u00262Task Screen\u0026r.",
+    "translation": "\u00263力場子\u0026r可以從\u0026a力場子衍生儀\u0026r或任何其他\u0026b力場子基礎機器\u0026r的緩衝區中提取。\n\n這可以透過使用其他模組的任何流體提取方法來完成。\n\n\u00267\u0026o請查看「物流」任務章節以瞭解一些流體管理選項。\n\n\u00267\u0026o注意：要完成此任務，你需要向指定的\u00262任務螢幕\u0026r，\n\u00267\u0026o輸入一桶（1000mB）力場子。",
+    "context": "chapters/technology.snbt / quest 166BA0D04A1686C7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.166BA0D04A1686C7.title": {
+    "original": "\u0026fExtracting \u00263Fortron",
+    "translation": "\u0026f提取\u00263力場子",
+    "context": "chapters/technology.snbt / quest 166BA0D04A1686C7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1B8BB733ADF897FE.quest_desc": {
+    "original": "\u0026eProductive Metalworks\u0026r is used to smelt and forge alloys, and cast them into various different parts.\n\nStart by crafting some \u0026cFire Clay\u0026r and then smelting that into \u00264Fire Bricks\u0026r. These will be used to build the structure of our \u00266Foundry\u0026r.\n\nThe \u0026eBig Book of Metallurgy\u0026r can show you how to set up a \u00266Foundry\u0026r.",
+    "translation": "\u0026e《高效金屬加工》\u0026r用於熔煉與鍛造合金，並將其澆鑄成各種不同的部件。\n\n首先製作一些\u0026c耐火黏土\u0026r，然後將其熔煉成\u00264耐火磚頭\u0026r。\n這些磚塊將用於建造我們的\u00266鑄造爐\u0026r結構。\n\n《冶金大百科》中，有介紹如何搭建\u00266鑄造爐\u0026r。",
+    "context": "chapters/technology.snbt / quest 1B8BB733ADF897FE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1B8BB733ADF897FE.title": {
+    "original": "\u0026eProductive Metalworks \u00266Foundry",
+    "translation": "\u0026e《高效金屬加工》\u00266鑄造爐",
+    "context": "chapters/technology.snbt / quest 1B8BB733ADF897FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1BFDE3507411C116.quest_desc": {
+    "original": "Your \u00266Foundry\u0026r will need a \u0026aController\u0026r and a \u00262Tank\u0026r to control the foundry and to store smelting liquids.\n\nOf course, you'll also need your \u00266Foundry\u0026r base resistant enough to withstand enough heat to smelt things down.\n\n\u00267\u0026oThese can be dyed to match your base aesthetics.",
+    "translation": "你的\u00266鑄造爐\u0026r需要一個\u0026a控制器\u0026r和一個\u00262燃料罐\u0026r，用以控制鑄造爐並儲存熔煉所需的流體燃料。\n\n當然，你的\u00266鑄造爐\u0026r基座也必須具備足夠的耐熱性，以承受熔化物品所需的高溫。\n\n\u00267\u0026o這些方塊可以被染色，以符合你的基地美學。",
+    "context": "chapters/technology.snbt / quest 1BFDE3507411C116",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1BFDE3507411C116.title": {
+    "original": "\u0026fMain \u00266Foundry \u0026fComponents",
+    "translation": "\u0026f鑄造爐主要元件",
+    "context": "chapters/technology.snbt / quest 1BFDE3507411C116",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1CC15C703CEC4190.quest_desc": {
+    "original": "\u0026eImmersive Engineering\u0026r (\u0026eI.E\u0026r) is a realism-inspired tech-mod with many fun and useful multiblocks.\n\nTo get started, craft an \u0026aEngineer's Hammer\u0026r, which will be used throughout the mod for crafting recipes and activating multiblocks.\n\nThe \u0026aEngineer's Manual\u0026r will be your best friend when showing you how to set up these multiblock machines.",
+    "translation": "\u0026e《沉浸工程》\u0026r（\u0026eI.E\u0026r）是一款受現實主義啟發的科技模組，擁有許多有趣且實用的多方塊結構。\n\n若要開始深入這款模組，請製作一把\u0026a工程師錘子\u0026r，它將貫穿整個模組，用於合成配方與啟動多方塊結構。\n\n\u0026a工程師指南手冊\u0026r將是你展示如何建立這些多方塊機器時最好的夥伴。",
+    "context": "chapters/technology.snbt / quest 1CC15C703CEC4190",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1CC15C703CEC4190.title": {
+    "original": "\u0026eImmersive Engineering",
+    "translation": "\u0026e《沉浸工程》",
+    "context": "chapters/technology.snbt / quest 1CC15C703CEC4190",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1E2A91B73A752B3B.quest_desc": {
+    "original": "The \u0026aBiometric Identifier\u0026r is a requirement for making the \u0026dForcefield\u0026r and the \u0026eInterdiction Matrix\u0026r function on an individual level, such as being able to sneak to walk through field blocks.\n\nAny player not sneaking inside a field block will take instantaneous \u0026cinfinite damage\u0026r.\u0026r\n\nYou will need an \u0026bIdentification Card\u0026r registered to yourself and one per any relevant players. These registered \u0026bcards\u0026r are placed into slots in the \u0026aIdentifier\u0026r machine.\n\nOther players can be registered by sneak + right-clicking them with the \u0026bcard\u0026r.\n{@pagebreak}\nGUI Breakdown:\n\nThe first slot is for allowing/disallowing various \"rights\" to the \u0026bcard's\u0026r registered player.\n\nThe second slot will copy the rights of a \u0026bcard\u0026r in the first slot onto any \u0026bcard\u0026r placed into the second.\n\nThe third slot grants all rights to the \u0026bcard's\u0026r registered player. The \u0026aIdentifier\u0026r will \u0026lnot\u0026r turn on without a card in this slot.\n\nThe remaining 9 slots will apply the defined rights to the relevant player when a \u0026bcard\u0026r is placed inside.",
+    "translation": "\u0026a生物識別儀\u0026r是讓\u0026d力場\u0026r與\u0026e攔截矩陣\u0026r，在個人層面上運作的必要條件，例如能夠讓玩家在潛行時穿過力場方塊。\n\n任何不在力場方塊內潛行的玩家，都會受到瞬間的\u0026c無限傷害\u0026r。\u0026r\n\n你需要為你自己，以及每位相關玩家，各註冊一張\u0026b身分卡\u0026r。這些註冊過的\u0026b身分卡\u0026r會被置於\u0026a生物識別儀\u0026r的欄位中。\n\n可以透過對其他玩家「潛行 + 點擊右鍵」，來將其註冊至\u0026b身分卡\u0026r中。\n{@pagebreak}\n介面說明：\n\n第一個欄位用於允許／拒絕\u0026b身分卡\u0026r註冊玩家的各種「權限」。\n\n第二個欄位會將第一個欄位中的\u0026b身分卡\u0026r權限，複製到置於第二個欄位中的任何\u0026b身分卡\u0026r。\n\n第三個欄位可授予\u0026b身分卡\u0026r註冊玩家的所有權限。\u0026a生物識別儀\u0026r在該欄位沒有卡片時「\u0026l不會\u0026r」啟動。\n\n剩下的 9 個欄位則會在放入\u0026b身分卡\u0026r時，將定義的權限套用至對應玩家。",
+    "context": "chapters/technology.snbt / quest 1E2A91B73A752B3B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1E2A91B73A752B3B.title": {
+    "original": "\u0026aBiometric Identifier",
+    "translation": "\u0026a生物識別儀",
+    "context": "chapters/technology.snbt / quest 1E2A91B73A752B3B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.206987FC6B1524F8.quest_desc": {
+    "original": "The \u0026aAtomic Reconstructor\u0026r is used to crystalize materials and is one of the main machines used in \u0026eActually Additions\u0026r.\n\nWhen provided with power, it will shoot a laser beam up to ten blocks away, or until the laser comes into contact with another block.\n\nIt will crystalize any dropped items or blocks placed on either side of the laser.",
+    "translation": "\u0026a原子重構機\u0026r是用來將材料結晶化的機器，也是\u0026e《實用拓展》\u0026r模組中最核心的機器之一。\n\n當提供能量時，它會射出一道最遠十格的雷射光束，直到雷射接觸到另一個方塊為止。\n\n它將結晶化雷射路徑上的任何掉落物或放置的方塊。",
+    "context": "chapters/technology.snbt / quest 206987FC6B1524F8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.206987FC6B1524F8.title": {
+    "original": "\u0026aAtomic Reconstructor",
+    "translation": "\u0026a原子重構機",
+    "context": "chapters/technology.snbt / quest 206987FC6B1524F8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.210753664AB84703.quest_desc": {
+    "original": "The \u0026aAlloy Smelter\u0026r will be your most used machine in \u0026eEnderIO\u0026r as most Machines and Gizmos require some kind of Alloy produced here! oh and it can be upgraded with \u0026bCapacitors\u0026r.\n\nIn the \u0026aAlloy Smelter's\u0026r interface, you can configure it in many different ways to improve your automation. It allows for side input/output configuration, redstone configuration, and swapping between three modes:\n{@pagebreak}\n\u0026eAlloy only mode\u0026r: Only allows the Alloy Smelter to create alloys.\n\n\u0026eFurnace only mode\u0026r: Treats the Alloy Smelter as a furnace\n\n\u0026eAlloying and Smelting\u0026r: This mode will do both alloying and smelting, which can be bad when automating as some items will be smelted before turning into alloys.",
+    "translation": "\u0026a合金爐\u0026r將會是你在\u0026e《Ender IO》\u0026r模組中最常用的機器：\n各種機器和小東西都會用到某些合金！這台機器可以使用\u0026b電容\u0026r升級。\n\n在\u0026a合金爐\u0026r的介面之中，你可以用各種方式來設定它，藉以改善你的自動化。它能夠為每一面單獨設定輸入／輸出、紅石設定，並有著三種不同的熔煉模式：\n\n\u0026e僅合金模式\u0026r：讓合金爐只能用來製造合金。\n\n\u0026e僅熔煉模式\u0026r：將合金爐當成熔爐使用。\n\n\u0026e合金與熔煉\u0026r：\n\n此模式結合了上述兩種模式，但用來自動化不太方便：\n\n可能有些合金的原料會被熔煉掉，就沒辦法製造出該合金了。",
+    "context": "chapters/technology.snbt / quest 210753664AB84703",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.210753664AB84703.title": {
+    "original": "\u0026aAlloy Smelter",
+    "translation": "\u0026a合金爐",
+    "context": "chapters/technology.snbt / quest 210753664AB84703",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.22103051C3EE2BA0.quest_desc": {
+    "original": "The \u0026aSAG Mill\u0026r crushes items into dusts, and can be used to increase ore yields.\n\n\u0026bGrinding Balls\u0026r can be used to improve machine power usage, and item process output. There are many tiers of Grinding Balls, but you can always use \u00263Flint\u0026r when just starting out.",
+    "translation": "\u0026a半自動研磨機\u0026r能夠將物品碾碎為粉末，並且能夠提高礦物產量。\n\n\u0026b研磨珠\u0026r能夠用來改善機器的能量使用率，並提高物品的產出。有很多不同階級的研磨珠，但你永遠可以使用\u00263燧石\u0026r作為開始。",
+    "context": "chapters/technology.snbt / quest 22103051C3EE2BA0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22103051C3EE2BA0.title": {
+    "original": "\u0026fSAG Mill",
+    "translation": "\u0026f半自動研磨機",
+    "context": "chapters/technology.snbt / quest 22103051C3EE2BA0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.269DC26776DD377D.quest_desc": {
+    "original": "The \u0026dAdvanced Empowerer\u0026f is an improved multiblock version of the \u00262Empowerer\u0026f.\n\nIt can take up to a stack of \u0026eMekanism \u0026aSpeed Upgrades\u0026r to process recipes at tick-speed, making it ideal for late-game recipes.\n\n\u0026e\u0026nNote\u0026r: Some recipes differ from the standard \u00262Empowerer\u0026r, so be sure to check your automation.",
+    "translation": "\u0026d進階充能台\u0026f是\u00262充能台\u0026f的改良版多方塊結構。\n\n它最多可以安裝一組\u0026e《通用機械》\u0026r的\u0026a速度升級\u0026r，以刻為單位的速度，處理遊戲後期的配方。\n\n\u0026e\u0026n注意\u0026r：部分配方與標準\u00262充能台\u0026r不同，因此請務必檢查你的自動化流程。",
+    "context": "chapters/technology.snbt / quest 269DC26776DD377D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.283EA4E7BA93DA11.quest_desc": {
+    "original": "The \u0026aEmpowerer\u0026r will consume four surrounding items to empower your crystals.\n\nYou'll need to set up each \u0026aDisplay Stand\u0026r three blocks away (two block gap) on each side of the \u0026aEmpowerer\u0026r.\n\nThe position of items on the \u0026aDisplay Stands\u0026r do not matter, but you will need to power them.",
+    "translation": "\u0026a充能台\u0026r會消耗周圍的四個物品來為你的晶體充能。\n\n你需要在\u0026a充能台\u0026r的每一側，距離三格（中間間隔兩格）的位置放置\u0026a物品展示台\u0026r。\n\n物品在\u0026a物品展示台\u0026r上的位置並不重要，但你需要為它們供能。",
+    "context": "chapters/technology.snbt / quest 283EA4E7BA93DA11",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.283EA4E7BA93DA11.title": {
+    "original": "\u0026fEmpowering Crystals",
+    "translation": "\u0026f晶體充能",
+    "context": "chapters/technology.snbt / quest 283EA4E7BA93DA11",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2AD996C548EBF4A4.quest_desc": {
+    "original": "Your \u00266Foundry\u0026r can also be used to extract matter from the following living entities:\n\n- Players: \u0026cMolten Meat\n- Enderman: \u00263Molten Ender\n- Villager/Market Merchant: \u00262Molten Emerald\n- Witch: \u0026dMolten Amethyst\n- Bee: \u00266Honey\n- Blaze: \u0026cMolten Blaze",
+    "translation": "你的\u00266鑄造爐\u0026r也可以用於從以下實體中提取物質：\n\n- 玩家：\u0026c肉湯\n- 終界使者：\u00263熔融終界\n- 村民／流浪商人：\u00262熔融綠寶石\n- 女巫：\u0026d熔融紫水晶\n- 蜜蜂：\u00266蜂蜜\n- 烈焰使者：\u0026c熔融烈焰",
+    "context": "chapters/technology.snbt / quest 2AD996C548EBF4A4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2AD996C548EBF4A4.title": {
+    "original": "Mob Melting",
+    "translation": "\u00266實體熔化",
+    "context": "chapters/technology.snbt / quest 2AD996C548EBF4A4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2BC86AF57781BE63.quest_desc": {
+    "original": "The \u0026aSlice'N'Splice\u0026r is used to convert mob heads into special machine parts.\n\nIt requires two tools in order to function: an \u0026aAxe\u0026r and \u0026aShears\u0026r. Each operation will take off one durability from each tool. The \u0026aAxe\u0026r must be at least iron, and some \u0026aShears\u0026r from other mods may work.",
+    "translation": "\u0026a頭顱裝配機\u0026r是用來將生物頭顱變成特殊機器零件的一台機器。\n\n它會需要一把\u0026a斧\u0026r和一把\u0026a剪刀\u0026r才能運作。每次操作會讓每把工具扣除一點耐久度。\u0026a斧\u0026r至少要是鐵製的，且也能夠使用其他模組的某些\u0026a剪刀\u0026r。",
+    "context": "chapters/technology.snbt / quest 2BC86AF57781BE63",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2BC86AF57781BE63.title": {
+    "original": "\u0026fSlice'N'Splice",
+    "translation": "\u0026f頭顱裝配機",
+    "context": "chapters/technology.snbt / quest 2BC86AF57781BE63",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2CA74676EAC1A040.quest_desc": {
+    "original": "\u0026eModular Force Field System\u0026r (\u0026eMFFS\u0026r for short) is a tech mod that adds force fields and other defensive measures to protect your base.\n\nTo get started, craft the \u0026aCoercion Deriver\u0026r.\n\n\u00267\u0026oMFFS machines require a redstone signal to run by default, most of which can be inverted in the upper left corner of the interface.\n{@pagebreak}\nThe \u0026aCoercion Deriver\u0026r has two modes:\n\n\u0026eDerive Mode\u0026r converts energy from other mods or dischargeable items in its inventory to generate \u00263Fortron\u0026r.\n\n\u0026eIntegrate Mode\u0026r converts \u00263Fortron\u0026r into energy at a slight loss.\n\nPlacing \u00262Lapis\u0026r or \u00262Nether Quartz\u0026r inside will triple the \u0026aCoercion Deriver's\u0026r conversion rate when consumed.",
+    "translation": "\u0026e《模組化力場系統》\u0026r（簡稱 \u0026eMFFS\u0026r）是一款科技模組，\n加入了力場以及其他防禦措施來保護你的基地。\n\n若要開始深入這款模組，請合成一個\u0026a力場子衍生儀\u0026r。\n\n\u00267\u0026oMFFS 的機器預設需要紅石訊號才能運作，\n\n\u00267\u0026o大多數機器都可以在介面的左上角反轉此設定。\n{@pagebreak}\n\u0026a力場子衍生儀\u0026r有兩種模式：\n\n\u0026e衍生模式\u0026r可將來自其他模組的能量，或其內部物品的能量釋放，以轉換成\u00263力場子\u0026r。\n\n\u0026e整合模式\u0026r則會將\u00263力場子\u0026r轉換成能量，但會有少許損耗。\n\n消耗內部的\u00262青金石\u0026r或\u00262地獄石英\u0026r，會使\u0026a力場子衍生儀\u0026r的轉換效率提升為三倍。",
+    "context": "chapters/technology.snbt / quest 2CA74676EAC1A040",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2CA74676EAC1A040.title": {
+    "original": "\u0026eModular Force Field System\u0026r",
+    "translation": "\u0026e《模組化力場系統》",
+    "context": "chapters/technology.snbt / quest 2CA74676EAC1A040",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2CB37185A7FAF348.quest_desc": {
+    "original": "\u0026eMFFS\u0026r machines need to be part of a system in order to run. Machines on the same \u0026bFrequency\u0026r will become part of the same system.\n\nThe \u0026bFrequency\u0026r can be set in the interface, or via right clicking the block with a \u0026aFrequency Card\u0026r, which can copy a machine's \u0026bFrequency\u0026r when placed in the corresponding interface slot.",
+    "translation": "\u0026eMFFS\u0026r 的機器需要成為系統的一部分才能運轉。\n\n擁有相同\u0026b頻率\u0026r的機器將成為同一系統的一部分。\n\n\u0026b頻率\u0026r可以在介面中設定，或者對著機器右鍵使用\u0026a頻率卡\u0026r來設定。將\u0026a頻率卡\u0026r置於介面對應的欄位時，它也可以複製機器的\u0026b頻率\u0026r。",
+    "context": "chapters/technology.snbt / quest 2CB37185A7FAF348",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2CB37185A7FAF348.title": {
+    "original": "\u0026aSystem Frequency",
+    "translation": "\u0026a系統頻率",
+    "context": "chapters/technology.snbt / quest 2CB37185A7FAF348",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.340D7F25B5EB0D33.quest_desc": {
+    "original": "The next tier of Goo is called \u0026dVoidshimmer Goo\u0026r, and allows you to convert \u0026bDiamond Blocks\u0026r into \u0026bCelestigems\u0026r.\n\nTo activate it, you'll need to feed it either Sculk, Chorus Fruit, or an Ender Pearl.\n\nJust like previous tiers, this Goo can also produce the previous resources, and at a faster rate.",
+    "translation": "下一階級的凝漿被稱為\u0026d虛輝凝漿\u0026r，它允許你將\u0026b鑽石方塊\u0026r轉化為\u0026b天體寶石\u0026r。\n\n要啟動它，你需要餵食它伏聆振測器、歌萊果或終界珍珠。\n\n與之前的階級一樣，這種凝漿也可以生產之前的資源，且速度更快。",
+    "context": "chapters/technology.snbt / quest 340D7F25B5EB0D33",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.340D7F25B5EB0D33.title": {
+    "original": "\u0026fMaking \u0026dCelestigems",
+    "translation": "\u0026f製作\u0026d天體寶石",
+    "context": "chapters/technology.snbt / quest 340D7F25B5EB0D33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3435641A78B90D97.quest_desc": {
+    "original": "A \u0026bDisintegration Module\u0026r can be used on its own to break any existing blocks where the field would generate and drop them into the world as items. When a \u0026bCollection Module\u0026r is also present, the \u0026dprojector\u0026r can place those items into an adjacent chest or other inventory.\n\n\u0026bStabilization Modules\u0026r will cause a \u0026dprojector\u0026r to take block items from an adjacent chest/inventory and replace the field with said blocks.\n\n\u0026bSponge Modules\u0026r affect the \u0026lentire\u0026r space enclosed by a mode's field, evaporating all fluids present within.",
+    "translation": "\u0026b崩解模組\u0026r可以單獨使用，用來破壞力場空間內的任何方塊，並將其作為物品掉落在世界上。當同時存在\u0026b收集模組\u0026r時，\u0026d力場投影儀\u0026r可以將這些物品放入相鄰的箱子或其他容器中。\n\n\u0026b穩定模組\u0026r會使\u0026d力場投影儀\u0026r，從相鄰的箱子／容器中取出方塊物品，並用該方塊替換力場。\n\n\u0026b海綿模組\u0026r會影響該模式力場所包圍的\u0026l整個\u0026r空間，蒸發其中的所有流體。",
+    "context": "chapters/technology.snbt / quest 3435641A78B90D97",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3435641A78B90D97.title": {
+    "original": "\u0026fAffecting the Area",
+    "translation": "\u0026f影響區域",
+    "context": "chapters/technology.snbt / quest 3435641A78B90D97",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.36DD75256D280C4A.quest_desc": {
+    "original": "Machines can be upgraded by installing \u0026aAddons\u0026r.\n\nThere are different types of addons, most just increasing the speed or efficiency of the machine.\n\n\u0026aRange Upgrades\u0026r will increase the effective range of certain machines, like \u0026aMob Crushers\u0026r.",
+    "translation": "機器可以透過安裝\u0026a升級\u0026r來強化。\n\n升級有各種類型，大多數只是增加機器的速度或效率。\n\n\u0026a範圍升級\u0026r可以增加某些機器的運作範圍，例如\u0026a生物屠殺裝置\u0026r。",
+    "context": "chapters/technology.snbt / quest 36DD75256D280C4A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.36DD75256D280C4A.title": {
+    "original": "\u0026bMachine Addons",
+    "translation": "\u0026b機器升級",
+    "context": "chapters/technology.snbt / quest 36DD75256D280C4A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.36E0D875AA8E2F66.quest_desc": {
+    "original": "The final tier of Goo is called \u00265Shadowpulse Goo\u0026r.\n\nThis Goo can convert \u00266Netherite Blocks\u0026r into \u00265Eclipse Alloy Ore\u0026r.\n\nTo activate it, you'll need to feed it either Ender Pearls or Chorus Fruit.\n\nJust like previous tiers, this can also convert all previous ingot blocks at an increased rate.",
+    "translation": "最終階級的凝漿被稱為\u00265影脈凝漿\u0026r。\n\n這種凝漿可以將\u00266獄髓方塊\u0026r轉化為\u00265日蝕合金礦簇\u0026r。\n\n要啟動它，你需要餵食它終界珍珠或歌萊果。\n\n與之前的階級一樣，這也能以更快的速度，轉化所有之前的金屬方塊。",
+    "context": "chapters/technology.snbt / quest 36E0D875AA8E2F66",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.36E0D875AA8E2F66.title": {
+    "original": "\u0026dOre of the Eclipse",
+    "translation": "\u0026d日蝕合金礦",
+    "context": "chapters/technology.snbt / quest 36E0D875AA8E2F66",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.376227602F2E3DA4.quest_desc": {
+    "original": "\u0026zTime Crystals\u0026r are advanced materials that bend reality itself when inside your inventory.\n\nThese crystals are made in the \u00266World Engine\u0026r, which requires the \u0026dResonant Void\u0026r and \u0026cAdvanced Machine Block\u0026r upgrades.",
+    "translation": "\u0026z時間水晶\u0026r是進階材料，當放在你的物品欄中，可以扭曲現實本身。\n\n這些水晶需要在\u00266世界引擎\u0026r中製作，且需要\u0026d迴盪虛空\u0026r與\u0026c高級機器方塊\u0026r升級。",
+    "context": "chapters/technology.snbt / quest 376227602F2E3DA4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.376227602F2E3DA4.title": {
+    "original": "\u0026zTime Crystals\u0026r",
+    "translation": "\u0026z時間水晶\u0026r",
+    "context": "chapters/technology.snbt / quest 376227602F2E3DA4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.381B55C984A8BD33.quest_desc": {
+    "original": "\u00262Scale Modules\u0026r add one block along the specified axis, which is mirrored in some \u0026aModes\u0026r and directional in others.\n\n\u00262Translation Modules\u0026r shift the origin of the projection by one block per module in the specified direction relative to the \u0026dProjector\u0026r, starting at itself.\n\n\u00262Rotation Modules\u0026r will rotate the projected area by 2° per module in the specified direction.",
+    "translation": "\u00262擴展模組\u0026r會沿著指定的方向軸增加一格，這在某些\u0026a模式\u0026r中是鏡像的，而在其他模式中則是有方向性的。\n\n\u00262平移模組\u0026r會將投影的原點沿著指定方向偏移，\n每個模組偏移一格（相對於\u0026d力場投影儀\u0026r的位置）。\n\n\u00262旋轉模組\u0026r則會將投影區域沿指定方向旋轉，\n每個模組旋轉 2°。",
+    "context": "chapters/technology.snbt / quest 381B55C984A8BD33",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.381B55C984A8BD33.title": {
+    "original": "\u0026fA Matter of \u0026bSize",
+    "translation": "\u0026f尺寸問題",
+    "context": "chapters/technology.snbt / quest 381B55C984A8BD33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.38E2176886386133.quest_desc": {
+    "original": "The \u0026aAlloy Kiln\u0026r is an early-game multiblock used to make alloys like: constantan, invar, electrum, and bronze.\n\nTo build this, build a 2x2x2 cube out of \u0026aKiln Bricks\u0026r, then right click on a face with the \u0026aEngineer's Hammer\u0026r.",
+    "translation": "\u0026a合金窯\u0026r是一種遊戲前期的多方塊結構，用於製作如：康銅、不變鋼、琥珀金與青銅等合金。\n\n若要建造它，請使用\u0026a窯磚\u0026r建造一個 2x2x2 的立方體，\n然後使用\u0026a工程師錘子\u0026r，右鍵點擊其中一面。",
+    "context": "chapters/technology.snbt / quest 38E2176886386133",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.38E2176886386133.title": {
+    "original": "\u0026fAlloy Kiln",
+    "translation": "\u0026f合金窯",
+    "context": "chapters/technology.snbt / quest 38E2176886386133",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3CE848B7CB98859F.quest_desc": {
+    "original": "\u0026dDeployers\u0026r are used to mimic player interactions and process item recipes.\n\n\u0026dDeployers\u0026r can milk cows, shear sheep, create farmland, attack monsters, and much more.",
+    "translation": "\u0026d機械手\u0026r用於模擬玩家互動與處理物品配方。\n\n\u0026d機械手\u0026r可以擠牛奶、剪羊毛、開墾耕地、攻擊怪物以及更多功能。",
+    "context": "chapters/technology.snbt / quest 3CE848B7CB98859F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D0CD724F9302BDD.quest_desc": {
+    "original": "The \u0026zSlowmelter 9000\u0026r is a basic machine that melts items. The speed will shock you.\n\nIt can create molten metals and alloys using power. If you attach a \u0026aFoundry Tap\u0026r from \u00266Productive Metalworks\u0026r to the side of it, you can pour the metal out onto a \u0026aCasting Table\u0026r or \u0026aCasting Basin\u0026r as well.\n\nOnce you have the appropriate \u0026aCast\u0026r, you can use this to make plates, ingots, and more!\n\n\u0026eNote\u0026r: This can only hold one type of fluid at a time.",
+    "translation": "\u0026z慢速冶煉爐 9000\u0026r 是一款用於熔化物品的基礎機器。\n其速度絕對會令你「大吃一驚」。\n\n它可以消耗能量來製造熔融金屬與合金。\n若你將來自\u0026e《高效金屬加工》\u0026r的\u0026a鑄造爐澆注口\u0026r安裝在其側面，\n你也可以將金屬澆注到\u0026a鑄造桌\u0026r或\u0026a鑄造盆\u0026r中。\n\n一旦你擁有了合適的\u0026a鑄模\u0026r，\n你就可以使用它來製作板材、錠與更多內容！\n\n\u0026e注意\u0026r：此機器一次只能容納一種流體。",
+    "context": "chapters/technology.snbt / quest 3D0CD724F9302BDD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D0CD724F9302BDD.title": {
+    "original": "The \u0026zSlowMelter 9000\u0026r",
+    "translation": "\u0026z慢速冶煉爐 9000\u0026r",
+    "context": "chapters/technology.snbt / quest 3D0CD724F9302BDD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3EB56937CCDFCB2A.quest_desc": {
+    "original": "\u0026bCasts\u0026r are used to shape your metals for tools, weapons and armor, or ingots and other forms. They are created by pouring \u00263Molten Steel\u0026r onto an item of similar shape.\n\nYou can select which fluid gets poured out by selecting it within the \u0026aController\u0026r, then simply click a drain with the \u00262Casting Basin\u0026r below to get out your material.\n\n\u00267\u0026oThis process can be automated with redstone.",
+    "translation": "\u0026b鑄模\u0026r用於將金屬塑造成工具、武器、盔甲、錠或其他形式。\n透過將\u00263熔融鋼\u0026r澆淋在形狀相似的物品上製作而成的。\n\n你可以在\u0026a控制器\u0026r中選擇要澆注哪種流體，然後只需點擊下方放有\u00262鑄造盆\u0026r的排液口，即可獲取你的材料。\n\n\u00267\u0026o此過程可以透過紅石實現自動化。",
+    "context": "chapters/technology.snbt / quest 3EB56937CCDFCB2A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3EB56937CCDFCB2A.title": {
+    "original": "Casting",
+    "translation": "\u00266澆鑄",
+    "context": "chapters/technology.snbt / quest 3EB56937CCDFCB2A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.400EF0F598308431.quest_desc": {
+    "original": "Now that we have \u00267Latex\u0026r, we can make the \u0026aLatex Processing Unit\u0026r.\n\nWhen powered, this machine takes in fluid latex and converts it into dry rubber, which can be smelted to get \u0026aPlastic\u0026r.\n\nYou can use generators from other mods for this.",
+    "translation": "既然我們有了\u00267乳膠\u0026r，我們就可以製作\u0026a乳膠加工機\u0026r。\n\n當供電時，這台機器會吸入液態乳膠並將其轉換為乾橡膠塊，乾橡膠塊可以透過熔煉獲得\u0026a塑膠片\u0026r。\n\n你可以使用來自其他模組的發電機來為其供電。",
+    "context": "chapters/technology.snbt / quest 400EF0F598308431",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.400EF0F598308431.title": {
+    "original": "\u0026fProcessing \u00267Latex \u0026fInto \u0026aPlastic",
+    "translation": "\u0026f將\u00267乳膠\u0026f加工成\u0026a塑膠",
+    "context": "chapters/technology.snbt / quest 400EF0F598308431",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.417573A657CAED05.quest_desc": {
+    "original": "Once you've gathered some materials from the \u0026cNether\u0026r ring, you can upgrade to the next tier of Goo.\n\n\u0026cBlazebloom Goo\u0026r will allow you to create a new tier of metal call \u00266Blazegold\u0026r by converting \u0026eBlocks of Gold\u0026r, just like we did with Iron.\n\nTo activate it, you'll need to feed it either Nether Wart or Blaze Powder.\n\nIt also retains the ability to create \u0026aFerricore Ore\u0026r, so no need to make another Primogel Goo just for Iron. Not only that, it converts Iron faster than Primogel!",
+    "translation": "一旦你從\u0026c地獄\u0026r環帶中收集到一些材料，你就可以升級到下一階級的凝漿。\n\n\u0026c烈蕾凝漿\u0026r將允許你透過轉化\u0026e金方塊\u0026r，來創造一種\n更高階的金屬：\u00266烈焰金\u0026r，就像我們對鐵方塊所做的一樣。\n\n要啟動它，你需要餵食它地獄疙瘩或烈焰粉。\n\n它還保留了創造\u0026a核鐵礦簇\u0026r的能力，因此不需要僅為了鐵而製作另一個原初凝漿。\n\n不僅如此，它轉化鐵的速度比原初凝漿更快！",
+    "context": "chapters/technology.snbt / quest 417573A657CAED05",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.417573A657CAED05.title": {
+    "original": "\u0026fCreating \u0026cBlazegold",
+    "translation": "\u0026f創造\u0026c烈焰金",
+    "context": "chapters/technology.snbt / quest 417573A657CAED05",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44599533471DFDCB.quest_desc": {
+    "original": "The \u0026dStasis Chamber\u0026r is an advanced machine used to keep mobs above it incapacitated, but also tries to keep them healed and alive.\n\nThis is mostly used to trap \u0026dWithers\u0026r to extract \u0026bEther Gas\u0026r from them, or \u00263Wardens\u0026r for their \u00263Souls\u0026r.",
+    "translation": "\u0026d靜滯室\u0026r是一款用於讓其上方的生物動彈不得的進階機器，同時也會嘗試對其進行治療並使其存活。\n\n這主要用於困住\u0026d凋零怪\u0026r來從中提取\u0026b乙醚氣體\u0026r，或困住\u00263伏守者\u0026r來提取其\u00263靈魂\u0026r。",
+    "context": "chapters/technology.snbt / quest 44599533471DFDCB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.44599533471DFDCB.title": {
+    "original": "\u0026fThe \u0026dStasis Chamber",
+    "translation": "\u0026f靜滯室",
+    "context": "chapters/technology.snbt / quest 44599533471DFDCB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4468BC270F100F27.quest_desc": {
+    "original": "\u0026eEnderIO\u0026r is a tech-mod with machines, inventory and automation tools, and many more features!\n\nTo get started, you'll need to obtain some \u0026aGrains of Infinity\u0026r.\n\nIn this pack, you can obtain some \u0026aGrains of Infinity\u0026r by throwing \u0026aGravel\u0026r into fire.",
+    "translation": "\u0026e《Ender IO》\u0026r模組，是一個有著機器、物流、自動化工具.....\\n等諸多功能的科技模組！\n\n你會需要取得一些\u0026a基岩粉\u0026r作為開頭。\n\n在本模組包中，你可以將\u0026a礫石\u0026r丟入火中取得\u0026a基岩粉\u0026r。",
+    "context": "chapters/technology.snbt / quest 4468BC270F100F27",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4468BC270F100F27.title": {
+    "original": "\u0026aEnderIO",
+    "translation": "\u0026a《Ender IO》",
+    "context": "chapters/technology.snbt / quest 4468BC270F100F27",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.469C88B6CEC1F9E7.quest_desc": {
+    "original": "\u00262Cognition\u0026r is a mod that expands on the use, storage, and production of \u00262experience\u0026r.\n\nTo get started in the mod, there will be a few entry-level materials that will be easier to make once a few of the devices are set up. We'll provide some extras.",
+    "translation": "\u00262《認知》\u0026r是一款擴展\u00262經驗值\u0026r用途、儲存與生產的模組。\n\n要開始使用此模組，會有一些入門材料。在設置好幾台裝置後，這些材料會變得更容易製作。我們會提供一些額外的材料。",
+    "context": "chapters/technology.snbt / quest 469C88B6CEC1F9E7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.469C88B6CEC1F9E7.title": {
+    "original": "\u00262Cognition\u0026f: Using your Knowledge",
+    "translation": "\u00262《認知》\u0026f：使用你的知識",
+    "context": "chapters/technology.snbt / quest 469C88B6CEC1F9E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47547FC5591CE0D3.quest_desc": {
+    "original": "\u0026eActually Additions\u0026r mainly revolves around creating and empowering crystals by zapping them with LASERS!\n\nTo get started, you'll need to level a \u00262Geologist\u0026r to at least level 2 and have them brush \u00263Soul Sand\u0026r for you.",
+    "translation": "\u0026e《實用拓展》\u0026r主要圍繞著透過雷射來製作與充能晶體！\n\n若要開始深入這款模組，\n你需要將一位\u00262地質學家\u0026r提升到至少 2 級，\n並讓他們為你刷掃\u00263靈魂砂\u0026r。",
+    "context": "chapters/technology.snbt / quest 47547FC5591CE0D3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.47547FC5591CE0D3.title": {
+    "original": "\u0026eActually Additions",
+    "translation": "\u0026e實用拓展",
+    "context": "chapters/technology.snbt / quest 47547FC5591CE0D3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4BB6832FE4685131.quest_desc": {
+    "original": "To use your \u00263Souls\u0026r, point the \u0026aSoul Surge\u0026r at the block you want to accelerate and connect it to the \u0026dSoul Laser Base\u0026r using \u0026aSoul Pipes\u0026r.",
+    "translation": "要使用你的\u00263靈魂\u0026r，請將\u0026a靈魂湧動器\u0026r對準你想要加速的方塊，並使用\u0026a靈魂管道\u0026r將其連結至\u0026d靈魂雷射基座\u0026r。",
+    "context": "chapters/technology.snbt / quest 4BB6832FE4685131",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4BB6832FE4685131.title": {
+    "original": "\u00263Transporting Souls",
+    "translation": "\u00263傳輸靈魂",
+    "context": "chapters/technology.snbt / quest 4BB6832FE4685131",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4DABDC2484C732AC.quest_desc": {
+    "original": "The \u0026dArc Furnace\u0026r is a massive machine used to quickly alloy metals and smelt ores.\n\nThe \u0026dArc Furnace\u0026r can smelt batches of many items at once at the cost of larger amounts of power.\n\nThe next pages break down the \u0026dArc Furnace's\u0026r interface and automation.\n\nMake sure to check out the \u0026bEngineer's Manual\u0026r to help you build the multiblock!\n{@pagebreak}\n\u0026lInterface:\n\nThe top three slots are for \u0026dGraphite Electrodes\u0026r, which will degrade with use.\n\nThe twelve left slots are for item inputs, with the temperature bars representing the smelting progress of each individual item.\n\nThe button in the top left changes whether items are spread across the twelve slots or not.\n\nThe four right slots are for additive materials that can be used for certain recipes.\n{@pagebreak}\n\u0026lAutomation:\u0026r\n\nInput and additives are inserted through the left and right hatches at the top of the structure.\n\nThe bottom slot in the back will output slag, and the front one will output the main process.\n\nEnergy can be inserted through the three connectors at the back.",
+    "translation": "\u0026d電弧爐\u0026r是一種巨大的機器，用於快速製作合金與熔煉礦物。\n\n\u0026d電弧爐\u0026r可以一次熔煉大批物品，代價是消耗大量能量。\n\n以下幾頁將詳細介紹\u0026d電弧爐\u0026r的介面與自動化。\n\n請務必查閱\u0026b工程師指南手冊\u0026r來協助你建造此多方塊結構！\n{@pagebreak}\n\u0026l介面：\n\n上方三個欄位用於放置\u0026d石墨電極\u0026r，它們會隨著使用而損耗。\n\n左側十二個欄位用於放入物品，溫度條則顯示每個物品的熔煉進度。\n\n左上角的按鈕可切換物品是否平均分配到這十二個欄位中。\n\n右側四個欄位用於放置某些配方所需的添加物。\n{@pagebreak}\n\u0026l自動化：\u0026r\n\n原料與添加物可透過結構頂部的左右取物艙口放入。\n\n後方底部的欄位將輸出爐渣，前方欄位則輸出主要產物。\n\n能量可從後方的三個接線器輸入。",
+    "context": "chapters/technology.snbt / quest 4DABDC2484C732AC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4DABDC2484C732AC.title": {
+    "original": "\u0026dArc Furnace",
+    "translation": "\u0026d電弧爐",
+    "context": "chapters/technology.snbt / quest 4DABDC2484C732AC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4FE945C26EDB2A53.quest_desc": {
+    "original": "\u00263Souls\u0026r allow you to speed up almost any machine by accelerating its tickrate for 15 seconds per \u00263Soul\u0026r.\n\nThese \u00263Souls\u0026r can be extracted from a \u0026dWarden\u0026r by setting up a \u0026bSoul Laser Base\u0026r above it, and powering it with \u0026aLaser Drills\u0026r. Then, place your \u0026bBlue Laser Lens\u0026r inside it to begin extraction.\n\nA \u0026dStasis Chamber\u0026r underneath the \u0026dWarden\u0026r will not only freeze it in place, but will also heal it over time (improved with addons).",
+    "translation": "\u00263靈魂\u0026r允許你加速幾乎任何機器，每份\u00263靈魂\u0026r能加速其刻速率 15 秒。\n\n這些\u00263靈魂\u0026r可以透過在\u0026d伏守者\u0026r正上方架設\u0026b靈魂雷射基座\u0026r，並在周圍放置\u0026a雷射鑽\u0026r並為其供能，最後在基座內放入\u0026b藍色雷射透鏡\u0026r即可開始提取。\n\n在\u0026d伏守者\u0026r下方放置一個\u0026d靜滯室\u0026r，不僅能將其凍結在原地，還能使其生命隨時間回復（可透過升級來增強）。",
+    "context": "chapters/technology.snbt / quest 4FE945C26EDB2A53",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4FE945C26EDB2A53.title": {
+    "original": "\u00263Soul Laser Base",
+    "translation": "\u00263靈魂雷射基座",
+    "context": "chapters/technology.snbt / quest 4FE945C26EDB2A53",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.53E949B1A0D04290.quest_desc": {
+    "original": "You'll need at least 21 \u0026cFire Bricks\u0026r to set up the outer walls of the smallest sized \u00266Foundry\u0026r.\n\n\u00267\u0026oThese can be dyed to match your base aesthetics.",
+    "translation": "你需要至少 21 個\u0026c耐火磚\u0026r來搭建最小尺寸\u00266鑄造爐\u0026r的外牆。\n\n\u00267\u0026o這些方塊可以被染色，以符合你的基地美學。",
+    "context": "chapters/technology.snbt / quest 53E949B1A0D04290",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.53E949B1A0D04290.title": {
+    "original": "\u00266Foundry \u0026fOuter Structure",
+    "translation": "\u00266鑄造爐外部結構",
+    "context": "chapters/technology.snbt / quest 53E949B1A0D04290",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.56519A6A39FA9430.quest_desc": {
+    "original": "Via the \u0026dField Projector's\u0026r matrix slots, additional tweaks can be applied to the field's area. You can insert more than one of each, but most will not stack.\n\nOne \u0026bSilence Module\u0026r will silence the \u0026dField Projector\u0026r while it's running.\n\nThe \u0026bDome Module\u0026r tweaks the projected mode to only generate at and above the \u0026dField Projector\u0026r.\n\nA \u0026bCamouflage Module\u0026r will cause the projected field to copy the appearance of a block left of it in the Matrix slots. \u0026oNote: some non-standard blocks don't appreciate being copied. Mimic other modded machines at your own risk.\u0026r\n{@pagebreak}\nAdding \u0026bShock Modules\u0026r to your \u0026dField Projector\u0026r will cause the shield to deal damage to entities that contact it at 1 damage/module.\n\n\u0026bGlow Modules\u0026r will cause the field blocks to emit light, brightness increasing by 1 every 4 modules up to the level of glowstone.",
+    "translation": "透過\u0026d力場投影儀\u0026r的矩陣欄位，可以對力場區域進行額外的微調。你可以放入多個相同的模組，但大多數都不會疊加功能。\n\n一個\u0026b靜音模組\u0026r就可以讓運作中的\u0026d力場投影儀\u0026r安靜下來。\n\n\u0026b圓頂模組\u0026r會微調投影模式，使其僅在\u0026d力場投影儀\u0026r所在高度及其上方生成。\n\n\u0026b偽裝模組\u0026r會使投影出的力場複製矩陣欄位中左側方塊的外觀。\n\u0026o注意：某些非標準方塊不喜歡被複製。模仿其他模組的機器請自擔風險。\u0026r\n{@pagebreak}\n將\u0026b電擊模組\u0026r加入你的\u0026d力場投影儀\u0026r，會使力場對接觸到的實體造成傷害，\n每安裝一個模組增加 1 點傷害。\n\n\u0026b發光模組\u0026r則會使力場方塊產生照明，\n每安裝 4 個模組，亮度會增加 1 級，最高可達螢光石的亮度。",
+    "context": "chapters/technology.snbt / quest 56519A6A39FA9430",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.56519A6A39FA9430.title": {
+    "original": "\u0026fFunctional Forcefields",
+    "translation": "\u0026f多功能力場",
+    "context": "chapters/technology.snbt / quest 56519A6A39FA9430",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.56E9C123DD727E46.quest_desc": {
+    "original": "The \u0026eInterdiction Matrix\u0026r has 8 slots available for \u0026bModules\u0026r that work off the registration and rights defined in a system's \u0026aBiometric Identifier\u0026r.\n\n\u0026bWarning Modules\u0026r will increase the additional warning range of the \u0026eMatrix\u0026r by 1 block/module. By default, there is a 3 block radius beyond the range of other \u0026bmodules\u0026r that alerts unregistered players that they may be affected by the \u0026eMatrix's\u0026r actions. This is the only module that has a stacking effect.\n\n\u0026bBlock Access Modules\u0026r prevent interaction with levers, machines, and the like for players without the right to bypass it.\n\n\u0026bBlock Alter Modules\u0026r act similarly to the above module, but disallow the breaking and placement of blocks altogether.\n\n{@pagebreak}\n\u0026bConfiscation Modules\u0026r can be \u00264very nasty\u0026r in multiplayer. Using the other 9 slots in the \u0026eMatrix\u0026r, up to 9 items can be selected to take from or leave in the inventory of unregistered players, with anything taken being dropped at the \u0026ematrix\u0026r or placed in adjacent inventories. This applies to armor as well. \u00264Be mindful\u0026r when using this on normally \u0026afriendly\u0026r servers...\n\n\u0026bAnti-Friendly\u0026r, \u0026b-Hostile\u0026r, and \u0026b-Personnel Modules\u0026r will cause the matrix to kill animals, hostile creatures, and unregistered players respectively with extremely high damage.\n\nAn \u0026bAnti-Spawn Module\u0026r will prevent any and all mobs from spawning in the working radius of the \u0026ematrix\u0026r.",
+    "translation": "\u0026e攔截矩陣\u0026r有 8 個可用於\u0026b模組\u0026r的欄位，\n這些模組根據系統\u0026a生物識別儀\u0026r中定義的註冊身分與權限來運作。\n\n\u0026b警告模組\u0026r將使\u0026e攔截矩陣\u0026r的額外警告範圍增加 1 格／模組。\n\n預設情況下，在其他\u0026b模組\u0026r範圍之外有 3 格的半徑，\n用於提醒未註冊玩家他們可能會受到\u0026e攔截矩陣\u0026r行為的影響。這是唯一具有堆疊效果的模組。\n\n\u0026b方塊存取模組\u0026r防止沒有繞過權限的玩家與拉桿、機器等進行互動。\n\n\u0026b方塊變更模組\u0026r動作與上述模組類似，但完全禁止放置或破壞方塊。\n\n{@pagebreak}\n\u0026b沒收模組\u0026r在遊玩多人生存模式時，可能會令人\u00264非常討厭\u0026r。\n\n使用\u0026e攔截矩陣\u0026r中的其餘 9 個欄位，\n最多可以選擇 9 種物品，從未註冊玩家的物品欄中拿走或留著，\n\n任何被拿走的物品都會掉落在\u0026e攔截矩陣\u0026r處或放入相鄰的容器中。這也適用於盔甲。在通常\u0026a友好的\u0026r伺服器上使用此模組時請\u00264務必留意\u0026r...\n\n\u0026b反友好生物\u0026r、\u0026b反敵對生物\u0026r與\u0026b反玩家模組\u0026r將使矩陣分別以極高的傷害殺死動物、敵對生物與未註冊玩家。\n\n\u0026b反生怪模組\u0026r則會防止任何及所有生物在\u0026e攔截矩陣\u0026r的運作半徑內生成。",
+    "context": "chapters/technology.snbt / quest 56E9C123DD727E46",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.56E9C123DD727E46.title": {
+    "original": "\u0026aMatrix Motivators",
+    "translation": "\u0026a矩陣動力",
+    "context": "chapters/technology.snbt / quest 56E9C123DD727E46",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5964573222E4FA19.quest_desc": {
+    "original": "This questline shows general tech mods.",
+    "translation": "這些任務線是一些常用的科技模組。",
+    "context": "chapters/technology.snbt / quest 5964573222E4FA19",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5964573222E4FA19.title": {
+    "original": "General Technology",
+    "translation": "常用科技",
+    "context": "chapters/technology.snbt / quest 5964573222E4FA19",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D96F0CE1154B9B8.quest_desc": {
+    "original": "\u0026eCreate\u0026r is a mod that offers a variety of tools and blocks for building, decorating, and aesthetic automation with cool-looking steampunky contraptions.\n\n\u0026eCreate\u0026r's visual in-game documentation, called \u0026bPonder\u0026r, will teach you how most blocks work. Hover over an item in JEI or in your inventory to see if it has a \u0026bPonder\u0026r.\n\nTo get started, craft some \u0026aAndesite Alloys\u0026r. You'll need a lot of these.\n{@pagebreak}\nThe \u0026aWrench\u0026r is a multipurpose tool for working with \u0026eCreate\u0026r contraptions.\n\nIt can rotate, configure, and dismantle blocks, contraptions, and more!",
+    "translation": "\u0026e《動力機械》\u0026r是一款提供多種用於建築、裝飾和美學自動化的工具與方塊的模組，並擁有酷炫的蒸氣龐克風裝置。\n\n\u0026e《動力機械》\u0026r的視覺化遊戲內文件稱為\u0026b思索\u0026r，它將教你大多數方塊的運作方式。將游標懸停在 JEI ，或物品欄中的物品上\n，查看它是否具有\u0026b教學\u0026r情境。\n\n若要開始深入這款模組，請製作一些\u0026a安山合金\u0026r。你會需要很多這些。\n{@pagebreak}\n\u0026a扳手\u0026r是一種用於操作\u0026e《動力機械》\u0026r裝置的多功能工具。\n\n它可以旋轉、設定和拆卸方塊、裝置以及更多內容！",
+    "context": "chapters/technology.snbt / quest 5D96F0CE1154B9B8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5D96F0CE1154B9B8.title": {
+    "original": "\u0026aCreate",
+    "translation": "\u0026a《動力機械》",
+    "context": "chapters/technology.snbt / quest 5D96F0CE1154B9B8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5E5BDCBF185E48E3.quest_desc": {
+    "original": "The \u0026aEngineer's Workbench\u0026r is the main crafting table for all of your engineering needs!\n\nTo make items using the \u0026aEngineer's Workbench\u0026r, you will need different types of \u0026bBlueprints\u0026r to craft different types of items.\n\nWhen you place a \u0026bBlueprint\u0026r on the top-left slot, it will show what recipes are available to craft on the right side of the workbench. You can then place in the items for the recipe, then pull the crafted item out.",
+    "translation": "\u0026a工程師作業台\u0026r是滿足你所有工程需求的主要合成台！\n\n要使用\u0026a工程師作業台\u0026r製作物品，你需要不同類型的\u0026b藍圖\u0026r來合成各種類型的物品。\n\n當你將\u0026b藍圖\u0026r放置在左上角的欄位時，它會在作業台右側顯示可供製作的配方。接著你可以放入配方所需的物品，並從中取出成品。",
+    "context": "chapters/technology.snbt / quest 5E5BDCBF185E48E3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E5BDCBF185E48E3.title": {
+    "original": "\u0026fEngineer's Workbench",
+    "translation": "\u0026f工程師作業台",
+    "context": "chapters/technology.snbt / quest 5E5BDCBF185E48E3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.609DF15D870AE2C0.quest_desc": {
+    "original": "\u0026eSoulplied Energistics\u0026r is an addon mod for \u0026eIF Souls\u0026r that allows the transferring of souls using \u0026eAE2\u0026r.\n\nAttaching a \u0026aStorage Bus\u0026r to the \u0026dSoul Laser Base\u0026r will allow your network to access the \u00263Warden Souls\u0026r inside it. Then, Right-click any \u0026eIF Souls\u0026r item on an \u0026aInterface Filter\u0026r to request \u00263Souls\u0026r stored in your system.\n\nFinally, attach a \u0026bSoul Pipe\u0026r to the \u0026aInterface\u0026r and it will use its \u00263Warden Souls\u0026r to power \u0026bSoul Surges\u0026r.",
+    "translation": "《\u0026e靈魂能源\u0026r》是《\u0026e工業先鋒：靈魂\u0026r》的附屬模組，能讓你透過 \u0026eAE2\u0026r 傳輸靈魂。\n\n將 \u0026aME 儲存匯流排\u0026r接上\u0026d靈魂雷射基座\u0026r後，你的網路就能存取\n其中的\u00263伏守者靈魂\u0026r。\n\n接著在 \u0026aME 介面\u0026r的篩選介面中，使用《\u0026e工業先鋒：靈魂\u0026r》物\n品，對著篩選欄位按下右鍵，即可請求系統內儲存的\u00263靈魂\u0026r。\n\n最後將\u0026b靈魂管道\u0026r接上 \u0026aME 介面\u0026r，\n\n它就會消耗\u00263伏守者靈魂\u0026r來驅動\u0026b靈魂湧動器\u0026r。",
+    "context": "chapters/technology.snbt / quest 609DF15D870AE2C0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.609DF15D870AE2C0.title": {
+    "original": "\u0026eSoulplied Energistics",
+    "translation": "\u0026e靈魂能源",
+    "context": "chapters/technology.snbt / quest 609DF15D870AE2C0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.637CDD290456F2B2.quest_desc": {
+    "original": "The \u0026aDissolution Chamber\u0026r is the main crafting machine in the mod. This machine combines fluids like \u00262Latex\u0026r with items to create new items.\n\nWhile you'll be getting into some more advanced liquids later on, \u00262Latex\u0026r will be used for most recipes for now!",
+    "translation": "\u0026a溶解室\u0026r是該模組中的主要合成機器。這台機器可以將\u00262乳膠\u0026r等流體與物品結合，以製造新的物品。\n\n雖然稍後你會接觸到一些更進階的流體，但目前大多數配方都會用到\u00262乳膠\u0026r！",
+    "context": "chapters/technology.snbt / quest 637CDD290456F2B2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.637CDD290456F2B2.title": {
+    "original": "\u0026aCrafting With Fluids",
+    "translation": "\u0026a使用流體合成",
+    "context": "chapters/technology.snbt / quest 637CDD290456F2B2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.63B7AC676FC1EE7F.quest_desc": {
+    "original": "Using \u00263Creosote Oil\u0026r, you can combine it with planks to create \u0026aTreated Wood\u0026r.\n\n\u0026aTreated Wood\u0026r is used to craft various \u00266I.E\u0026r workstations, such as the \u0026aEngineer's Workbench\u0026r.",
+    "translation": "使用\u00263雜酚油\u0026r，你可以將其與木材結合來製作\u0026a防腐木\u0026r。\n\n\u0026a防腐木\u0026r用於製作各種 \u00266I.E\u0026r 作業台，例如\u0026a工程師作業台\u0026r。",
+    "context": "chapters/technology.snbt / quest 63B7AC676FC1EE7F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63B7AC676FC1EE7F.title": {
+    "original": "\u0026fTreated Wood Planks",
+    "translation": "\u0026f防腐木材",
+    "context": "chapters/technology.snbt / quest 63B7AC676FC1EE7F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6600E26635FD3D0E.quest_desc": {
+    "original": "\u00262Speed Modules\u0026r can be used to upgrade many \u0026eMFFS\u0026r machines, generally speeding up their performance.\n\nIt can also increase the generation rate of the \u0026aCoercion Deriver\u0026r and the \u00263Fortron\u0026r transfer limit of the \u0026aFortron Capacitor\u0026r.\n\n\u00262Capacity Modules\u0026r increase the amount of \u00263Fortron\u0026r a machine can hold at once.",
+    "translation": "\u00262速度模組\u0026r可用於升級許多 \u0026eMFFS\u0026r 機器，\n通常可以加快它們的效率。\n\n它還可以增加\u0026a力場子衍生儀\u0026r的產出速率，以及\u0026a力場子容庫\u0026r的\u00263力場子\u0026r傳輸上限。\n\n\u00262容量模組\u0026r則會增加機器一次可以容納的\u00263力場子\u0026r數量。",
+    "context": "chapters/technology.snbt / quest 6600E26635FD3D0E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6600E26635FD3D0E.title": {
+    "original": "\u0026aMachine Upgrades",
+    "translation": "\u0026a機器升級",
+    "context": "chapters/technology.snbt / quest 6600E26635FD3D0E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67396087E1916115.quest_desc": {
+    "original": "A \u0026aMolecular Metamorpher\u0026r is a device that uses experience from a bound \u0026eObelisk\u0026r to infuse materials. This can make certain recipes for the mod cheaper, but is also a required method of crafting for some of \u00262Cognition's\u0026r resources.\n\nThis is further expanded on with a \u0026aTransforming Focus\u0026r, converting various vanilla items into niche variants.\n\n\u00267All xp levels listed in crafting use point values, and will not take any more experience levels than needed.\n\n\u00267Item slots can also be locked to enable external automation.",
+    "translation": "\u0026a分子重組儀\u0026r是一種利用來自\u0026e方尖碑\u0026r的經驗來注入材料的裝置。這可以讓本模組的某些配方變得更便宜，\n同時也是製作某些\u00262《認知》\u0026r資源的必要手段。\n\n配合\u0026a轉化之心\u0026r可以進一步擴展其功能，將各種原版物品轉化為特殊的變體。\n\n\u00267合成中列出的所有經驗等級均使用點數值，且不會消耗超過所需的經驗等級。\n\n\u00267可以透過鎖定物品欄位，來方便自動化。",
+    "context": "chapters/technology.snbt / quest 67396087E1916115",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.67DE9E103F50E3F1.quest_desc": {
+    "original": "\u0026aAndesite Casings\u0026r are used to craft most early-game blocks and machines.\n\nThey can also be used to cover up several \u0026eCreate\u0026r components to make your decoration prettier.",
+    "translation": "\u0026a安山機殼\u0026r用於製作大多數遊戲前期的方塊和機器。\n\n它們也可以用來遮蓋\u0026e《動力機械》\u0026r的元件設施，讓你的裝飾更加漂亮。",
+    "context": "chapters/technology.snbt / quest 67DE9E103F50E3F1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.68258EA281734B4A.quest_desc": {
+    "original": "The \u0026bFortron Capacitor\u0026r is required in every \u0026eMFFS\u0026r system to act as a \u00263Fortron\u0026r buffer and transfers it throughout the registered \u0026bFrequency\u0026r. The large button in the middle of the UI adjusts how the \u0026bCapacitor\u0026r distributes \u00263Fortron\u0026r throughout a system.\n\nEach \u00262Speed Module\u0026r increases its transfer rate.\n\nEach \u00262Scale Module\u0026r increases the base working range from a 15 block radius by 1 per module.\n\nEach \u00262Capacity Modules\u0026r increases the storage capacity.",
+    "translation": "每個 \u0026eMFFS\u0026r 系統都需要一個\u0026b力場子容庫\u0026r，\n來充當\u00263力場子\u0026r緩衝區，並在註冊的\u0026b頻率\u0026r中進行傳輸。\n\n介面中間的大按鈕，可以調整\u0026b力場子容庫\u0026r如何在系統中分配\u00263力場子\u0026r。\n\n每個\u00262速度模組\u0026r都會增加其傳輸速率。\n\n每個\u00262擴展模組\u0026r都會使基礎 15 格的運作半徑增加 1 格。\n\n每個\u00262容量模組\u0026r則會增加儲存容量。",
+    "context": "chapters/technology.snbt / quest 68258EA281734B4A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.68258EA281734B4A.title": {
+    "original": "\u0026fStoring \u00263Fortron",
+    "translation": "\u0026f儲存\u00263力場子",
+    "context": "chapters/technology.snbt / quest 68258EA281734B4A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.68668718B414B6E4.quest_desc": {
+    "original": "A \u0026aFoundry Drain\u0026r (or most other modded \u00262Tanks\u0026f) with a \u0026aFoundry Tap\u0026r on it can extract the molten metals you create onto a \u00262Casting Table\u0026r.\n\nThe molten metals will need some type of \u0026bCast\u0026r before they can be poured out onto the table.\n\nThe \u00262Casting Basin\u0026r can be used to store and create metal blocks.\n\n\u00267\u0026oThese can be dyed to match your base aesthetics.",
+    "translation": "在\u0026a鑄造爐排液口\u0026r上安裝\u0026a鑄造爐澆注口\u0026r，可以將你製造的熔融金屬抽取至\u00262鑄造桌\u0026r上。\n\n熔融金屬需要特定類型的\u0026b鑄模\u0026r才能澆注在桌子上。\n\n\u00262鑄造盆\u0026r可用於儲存與製造金屬方塊。\n\n\u00267\u0026o這些方塊可以被染色，以符合你的基地美學。",
+    "context": "chapters/technology.snbt / quest 68668718B414B6E4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.68668718B414B6E4.title": {
+    "original": "\u00266Foundry \u0026fDrains",
+    "translation": "\u00266鑄造爐排液口",
+    "context": "chapters/technology.snbt / quest 68668718B414B6E4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6C25708068B5197C.quest_desc": {
+    "original": "The \u0026aPrecision Dispeller\u0026r allows the selective stripping of unwanted enchantments from items and can remove curses at the cost of 30 levels.\n\n\u00267Binding this device to an Obelisk allows the XP gains and costs to use the Obelisk's storage instead of the player's when able to.\n\nOnce bound to an \u0026eExperience Obelisk\u0026r, an \u0026aExperience Fountain\u0026r can be activated with redstone to spill XP from the Obelisk into the world at certain rates. This also happens whenever a player stands on top.\n\nRight clicking a bound Fountain with certain items can infuse them with XP.",
+    "translation": "\u0026a精密驅散器\u0026r允許從物品中，選擇性地移除不需要的附魔，並可以消耗 30 級經驗來移除詛咒。\n\n\u00267將裝置綁定至方尖碑後，在取得或消耗經驗時，會優先使用方尖碑的儲存空間，而非玩家自身的經驗。\n\n在與\u0026e經驗方尖碑\u0026r綁定後，\u0026a經驗噴泉\u0026r便可以透過紅石啟動，以特定的速率，將方尖碑中的經驗噴灑到世界中。當玩家站在其上方時也會觸發此效果。\n\n對著已綁定方尖碑的噴泉，手持特定物品對其點擊右鍵，可以將經驗注入物品。",
+    "context": "chapters/technology.snbt / quest 6C25708068B5197C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6C25708068B5197C.title": {
+    "original": "Experience Extras",
+    "translation": "經驗附加功能",
+    "context": "chapters/technology.snbt / quest 6C25708068B5197C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.708CFC310C5408B6.quest_desc": {
+    "original": "Lenses are placed on an \u0026eAtomic Reconstructor\u0026r to change its functionality.\n\nThe basic \u0026aLens\u0026r is only used as a crafting material for other lenses.",
+    "translation": "透鏡可以放置在\u0026a原子重構機\u0026r上來改變其功能。\n\n基礎的\u0026a透鏡\u0026r僅作為其他透鏡的合成材料。",
+    "context": "chapters/technology.snbt / quest 708CFC310C5408B6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.711E7B6204708BD7.quest_desc": {
+    "original": "\u0026dForce Field Projectors\u0026r consume \u00263Fortron\u0026r to create a procedurally regenerating area of blocks. It doesn't do much without a \u00262Mode\u0026r to work from, but it's what makes all the \u0026mmagic\u0026r technology happen!\n\nEach change in the interface will cause the \u0026dProjector\u0026r to delete the current projection and rebuild the new one, so be mindful of how often you make changes.\n\n\u00267\u0026oLarger Force Fields will negatively affect performance.\n{@pagebreak}\n\u0026eMatrix Slots\u0026r accept various \u00262Modules\u0026r that add to/tweak how the \u0026dProjector\u0026r and shield blocks function, such as making them silent, filling the affected area, or destroying terrain.\n\nThe red \u0026eMode Slot\u0026r in the center defines the basic shape of the projected area.\n\nThe 12 \u0026eField Slots\u0026r are for \u00262Scale\u0026r, \u00262Translation\u0026r, and \u00262Rotation Modules\u0026r, which help define the area your \u0026dProjector\u0026r will build on each of the three axis: N/S, E/W, Up/Down.",
+    "translation": "\u0026d力場投影儀\u0026r會消耗\u00263力場子\u0026r來建立一個程序化生成的方塊區域。沒有\u00262模式\u0026r它就起不了太大作用，但它正是讓所有科技\u0026m魔法\u0026r發生的核心！\n\n介面中的每一項更改都會導致\u0026d力場投影儀\u0026r刪除目前的投影並重新構建新的投影，因此請留意你更改設定的頻率。\n\n\u00267\u0026o較大的力場會對遊戲效能產生負面影響。\n{@pagebreak}\n\u0026e矩陣欄位\u0026r可放置各種\u00262模組\u0026r，用來增加或微調\u0026d力場投影儀\u0026r與力場方塊的功能，例如使其靜音、填滿受影響區域或破壞地形。\n\n中心的紅色\u0026e模式欄位\u0026r定義了投影區域的基本形狀。\n\n12 個\u0026e力場欄位\u0026r，則用於放置\u00262擴展\u0026r、\u00262平移\u0026r與\u00262旋轉模組\u0026r，\n這些模組有助於定義\u0026d力場投影儀\u0026r在三個軸（南／北、東／西、上／下）上構建的區域。",
+    "context": "chapters/technology.snbt / quest 711E7B6204708BD7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.711E7B6204708BD7.title": {
+    "original": "\u0026dForce Field Projector",
+    "translation": "\u0026d力場投影儀",
+    "context": "chapters/technology.snbt / quest 711E7B6204708BD7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.726891EAC51F5F70.quest_desc": {
+    "original": "To upgrade to the final tier of machine frames, we'll need to extract \u0026bEther Gas\u0026r from the \u0026dWither\u0026r.\n\nTo do this, you'll need the \u0026dFluid Laser Base\u0026r and some \u0026aLaser Drills\u0026r. You might also want to look into making the \u0026dStasis Chamber\u0026r to keep it from exploding!\n\nThe Laser Base is placed in the center above the Wither and needs the \u0026aLaser Drills\u0026r and \u00265Purple Laser Lens\u0026r to work. \n{@pagebreak}\nThe \u0026aLaser Drills\u0026r are the main \"work\" machines in this setup. The Drills are placed connecting to either the Laser Base or another Laser Drill.\n\nThe easiest way to place this is by looking directly at the side of the Laser Base, then sneak-right click to place the Drill. The animated face should be pointing to you in placed properly.\n\nYou can open up the interface of one of the Laser Drills to see if it is connected to the base!\n{@pagebreak}\nInside of the \u0026dFluid Laser Base\u0026r, make sure to place in the \u00265Purple Laser Lens\u0026r to tell it what type of fluid to extract.\n\nYou'll also need to adjust the \u0026bY Level\u0026r to match up with the Wither. If done properly, you'll start extracting \u0026dEther Gas\u0026r!",
+    "translation": "要升級到機械框架的最終階段，我們需要從\u0026d凋零怪\u0026r身上提取\u0026b乙醚氣體\u0026r。\n\n若要做到這一點，你需要一個\u0026d流體雷射基座\u0026r與一些\u0026a雷射鑽\u0026r。你也許還想考慮製作\u0026d靜滯室\u0026r，以防止他產生爆炸！\n\n雷射基座需放置在凋零怪正上方的中心位置，且需要\u0026a雷射鑽\u0026r與\u00265紫色雷射透鏡\u0026r才能運作。 \n{@pagebreak}\n\u0026a雷射鑽\u0026r是此配置中的主要「工作」機器。雷射鑽被放置在與雷射基座或另一個雷射鑽連結的位置。\n\n最簡單的放置方式，是先手持雷射鑽，然後對著雷射基座\n「潛行並點擊右鍵」放置。\n\n若放置得當，有動畫效果的那一面應該會對著你。\n\n你可以開啟其中一台雷射鑽的介面，查看它是否已連結至基座！\n{@pagebreak}\n在\u0026d流體雷射基座\u0026r的內部，請務必放入\u00265紫色雷射透鏡\u0026r，來告訴它要提取哪種類型的流體。\n\n你還需要調整\u0026b Y 軸高度\u0026r來對準凋零怪。\n\n若配置得當，你就會開始提取\u0026b乙醚氣體\u0026r！",
+    "context": "chapters/technology.snbt / quest 726891EAC51F5F70",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.726891EAC51F5F70.title": {
+    "original": "\u0026dFluid Lasers",
+    "translation": "\u0026d流體雷射",
+    "context": "chapters/technology.snbt / quest 726891EAC51F5F70",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.75D124AF83D637A8.quest_desc": {
+    "original": "\u0026eIndustrial Foregoing\u0026r (\u0026eI.F\u0026r) is all about using machines to do your work for you.\n\nTo get started, you'll need to make a \u0026aPity Machine Frame\u0026r. This machine frame is used for all early game machines, and some cheaper machines like the Block Breaker and Block Placer.\n\nLet's use the \u0026aPity Machine Frame\u0026r to get into creating \u00267Plastic\u0026r next!",
+    "translation": "\u0026e《工業先鋒》\u0026r（\u0026eI.F\u0026r）主要圍繞著使用機器來替你完成工作。\n\n若要開始深入這款模組，你需要製作一個\u0026a初級機械框架\u0026r。此機械框架用於製作早期機器，以及部分較便宜的機器，例如方塊破壞器與方塊放置器。\n\n讓我們接著使用\u0026a初級機械框架\u0026r來製作\u00267塑膠\u0026r吧！",
+    "context": "chapters/technology.snbt / quest 75D124AF83D637A8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75D124AF83D637A8.title": {
+    "original": "\u0026eIndustrial Foregoing",
+    "translation": "\u0026e《工業先鋒》",
+    "context": "chapters/technology.snbt / quest 75D124AF83D637A8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.75D3AC9CCA5A82E4.quest_desc": {
+    "original": "\u0026dMechanical Crafters\u0026r are gigantic crafting tables that can be automated in several different ways.\n\n\u0026aCrafter Slot Covers\u0026r can be used to cover up any slots that are not used in autocrafting. However, you can also use a redstone signal to force-start a crafting recipe.\n\n\n\u0026c\u0026lFTB Notice\u0026r: Due to impact on load times, general crafting is currently disabled. We apologize for the inconvenience.",
+    "translation": "\u0026d機械合成器\u0026r是巨大的合成台，可以透過幾種不同的方式實現自動化。\n\n\u0026a合成器蓋板\u0026r可用於遮蓋任何未在自動合成中使用的欄位。\n\n不過，你也可以使用紅石訊號來強制開始合成配方。\n\n\n\u0026c\u0026lFTB 通知\u0026r：\n\n由於對遊戲載入時間的影響，目前已停用通用合成。\n\n對此造成不便我們深表歉意。",
+    "context": "chapters/technology.snbt / quest 75D3AC9CCA5A82E4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75D3AC9CCA5A82E4.title": {
+    "original": "\u0026dMechanical Crafter",
+    "translation": "\u0026d機械合成器",
+    "context": "chapters/technology.snbt / quest 75D3AC9CCA5A82E4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7983727D0EE456FD.quest_desc": {
+    "original": "\u0026eJust Dire Things\u0026r (\u0026eJDT\u0026r) is a cool tech mod that despite the name, actually adds some \u0026oimpressive\u0026r and slightly overpowered \u00262Gadgets\u0026r, \u0026aTools\u0026r and \u00269Armors\u0026r!\n\n\u0026eJDT\u0026r has a very unique mechanic for acquiring its materials.\n\nIt starts by making \u0026bGoo\u0026r which will spread onto other blocks to convert them over time.\n\nThe first \u0026bGoo\u0026r that you'll make is called \u0026aPrimogel Goo\u0026r, which takes only a few basic materials.",
+    "translation": "\u0026eJust Dire Things\u0026r (\u0026eJDT\u0026r) 是一款酷炫的科技模組，\n雖然名字看起來平淡無奇，但該模組其實增加了不少\u0026o令人印象深刻\u0026r，且稍微過於強大的\u00262科技小玩意\u0026r、\u0026a工具\u0026r以及\u00269盔甲\u0026r！\n\n\n\u0026eJDT\u0026r 有一種非常獨特的機制來獲取其材料。\n\n它從製作\u0026b凝漿\u0026r開始，凝漿會擴散到其他方塊上，並隨著時間推移將其轉化。\n\n你會製作的第一個\u0026b凝漿\u0026r被稱為\u0026a原初凝漿\u0026r，它只需要幾種基礎材料即可製作。",
+    "context": "chapters/technology.snbt / quest 7983727D0EE456FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7983727D0EE456FD.title": {
+    "original": "\u0026eJust Dire Things",
+    "translation": "\u0026e《Just Dire Things》",
+    "context": "chapters/technology.snbt / quest 7983727D0EE456FD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7B5B32A08ADB5E76.quest_desc": {
+    "original": "The \u0026dPrecision Mechanism\u0026r is an important crafting component used for some of the best tools and machines \u0026eCreate\u0026r has to offer.\n\n\u0026eNote\u0026r: This recipe has a 20% chance to fail, so make sure to have a filter in place to account for this.\n\nYou can also buy these from the \u0026zShop\u0026r!",
+    "translation": "\u0026d精密構件\u0026r是\u0026e《動力機械》\u0026r中，一些頂級工具和機器所使用的重要合成元件。\n\n\u0026e注意\u0026r：此配方有 20% 的機率失敗，\n因此請務必設定篩選器以應對此情況。\n\n你也可以從\u0026z商店\u0026r購買這些！",
+    "context": "chapters/technology.snbt / quest 7B5B32A08ADB5E76",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7FBA170218539BE8.quest_desc": {
+    "original": "Cognition has a unique method of XP generation by way of \u0026aBibliophages\u0026r: tiny constructs that steadily break down bookshelves into XP orbs until only \u00267Forgotten Dust\u0026r is left behind.\n\n\u0026aInfected Bookshelves\u0026r can spread the phages onto other bookshelves, allowing for a single use of a Bibliophage to affect as many connected bookshelves as available. This process can be halted by using a \u0026eStaff of Attunement\u0026r on the infected shelf.\n\n\u0026aSpecial bookshelves\u0026r made using written books and enchanted books can also be infected, producing more XP value over their decay than regular shelves.\n{@pagebreak}\nA 'nest' for phages can be made if bookshelves are not in ready supply. \u0026aFluorescent Agar\u0026r is made using the dust left behind by decayed bookshelves, and then placed among infected bookshelves to allow phages to convert it into proper \u0026aNutrient Agar\u0026r, which can passively spread phage infection onto the 26 blocks surrounding it if able.\n\nThis Agar can be broken and picked back up to further enhance it:\n\u00266Insightful Agar\u0026r will increase the rate of infection and decay.\n\u0026dExtravagant Agar\u0026r will increase rate of infection and the XP value gained from decay.",
+    "translation": "《\u00262認知\u0026r》有一種獨特的經驗生產方式，那就是透過\u0026a書蟲\u0026r：\n這是一種細小的構造體，會穩定地將書櫃分解成經驗球，直到最後只剩下\u00267遺忘粉\u0026r。\n\n\u0026a受侵染的書櫃\u0026r可以將書蟲擴散至其他書櫃，這表示只要使用一次書蟲，就能影響所有相連的書櫃。\n此過程可以透過對\u0026a受侵染的書櫃\u0026r，使用\u0026e調和之杖\u0026r來暫停。\n\n使用完成的書與附魔書製作的\u0026a特殊書櫃\u0026r也可以被侵染，在分解過程中產出的經驗值比普通書櫃更高。\n{@pagebreak}\n若沒有充足的書櫃供應，可以製作一個書蟲「巢穴」。\n\u0026a螢光瓊脂\u0026r是使用腐朽書櫃留下的粉末製作的，然後放置在受侵染的書櫃之間，讓書蟲將其轉化為正式的\u0026a營養瓊脂\u0026r，侵染範圍最大可擴散至周圍 26 個方塊。\n\n這種瓊脂可以被破壞並重新拾取以進一步增強：\n\u00266洞察瓊脂\u0026r會增加侵染與腐朽的速度。\n\u0026d奢華瓊脂\u0026r會增加侵染速度，並從腐朽過程中獲得經驗值。",
+    "context": "chapters/technology.snbt / quest 7FBA170218539BE8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.0E023EF28D4D86F3.title": {
+    "original": "\u0026bRange Upgrades",
+    "translation": "\u0026b範圍升級",
+    "context": "chapters/technology.snbt / task 0E023EF28D4D86F3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.27F04FD03BB1682C.title": {
+    "original": "Empowered Crystals",
+    "translation": "充能晶體",
+    "context": "chapters/technology.snbt / task 27F04FD03BB1682C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.435C5B6B77C3D7B4.title": {
+    "original": "Reconstructed Materials",
+    "translation": "重構材料",
+    "context": "chapters/technology.snbt / task 435C5B6B77C3D7B4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.55C6BE7CD74598FA.title": {
+    "original": "Casts",
+    "translation": "鑄模",
+    "context": "chapters/technology.snbt / task 55C6BE7CD74598FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5B51C00265B54937.title": {
+    "original": "Technology Chapter",
+    "translation": "科技章節",
+    "context": "chapters/technology.snbt / task 5B51C00265B54937",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5DEDD864CB2276F1.title": {
+    "original": "\u0026bEfficiency Upgrades",
+    "translation": "\u0026b效率升級",
+    "context": "chapters/technology.snbt / task 5DEDD864CB2276F1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7BDED38E6532CB94.title": {
+    "original": "Processing Upgrades",
+    "translation": "加工升級",
+    "context": "chapters/technology.snbt / task 7BDED38E6532CB94",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7C552DAEA902AA13.title": {
+    "original": "Speed Upgrades",
+    "translation": "速度升級",
+    "context": "chapters/technology.snbt / task 7C552DAEA902AA13",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

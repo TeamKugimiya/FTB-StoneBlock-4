@@ -1,0 +1,96 @@
+schema_version = 1
+
+[project]
+slug = "ftb-stoneblock-4"
+name = "FTB StoneBlock 4"
+source_locale = "en_us"
+target_locale = "zh_tw"
+
+[upstream]
+platform = "curseforge"
+project_id = "1373378"
+minecraft_version = "1.21.1"
+loader = "neoforge"
+release_channel = "release"
+
+[paratranz]
+project_id = 16802
+
+[source]
+archive_roots = ["overrides", "."]
+include = [
+  "config/ftbquests/quests/**/*.snbt",
+]
+
+[[convert.sources]]
+name = "ftbquests"
+type = "ftb-quests-lang-splitter"
+snbt_adapter = "canonical-snbt-json"
+snbt_multiline_list_policy = "join_with_lf"
+source_root = "./source/config/ftbquests/quests/lang"
+quest_data_root = "./source/config/ftbquests/quests"
+translation_root = "./translation/config/ftbquests/quests/lang"
+paratranz_root = "ftbquests"
+source_locale = "{source_locale}"
+target_locale = "{target_locale}"
+[build.client]
+type = "zip"
+include = [
+  "LICENSE",
+  "translation/config/**",
+  "translation/kubejs/**",
+  "translation/mods/**",
+]
+exclude = [
+  "translation/config/ftbquests/quests/lang/{target_locale}/**",
+  "translation/config/ftbquests/quests/lang/{target_locale}.snbt",
+  "translation/config/ftbquests/quests/lang/{target_locale}_source.snbt",
+]
+strip_prefix = ["translation/"]
+output_filename = "FTB-StoneBlock-4-Patches-Client.zip"
+allow_empty = false
+
+[[build.client.generated]]
+type = "ftb-quests-lang-merge"
+source = "ftbquests"
+output_path = "config/ftbquests/quests/lang/{target_locale}.snbt"
+
+[[build.client.generated]]
+type = "build-target-zip"
+source = "overrides"
+output_path = "resourcepacks/FTB-StoneBlock-4-Patches.zip"
+
+[build.server]
+type = "zip"
+include = [
+  "LICENSE",
+  "translation/config/ftbquests/**",
+  "translation/kubejs/data/**",
+  "translation/kubejs/server_scripts/**",
+]
+exclude = [
+  "translation/config/ftbquests/quests/lang/{target_locale}/**",
+  "translation/config/ftbquests/quests/lang/{target_locale}.snbt",
+  "translation/config/ftbquests/quests/lang/{target_locale}_source.snbt",
+]
+strip_prefix = ["translation/"]
+output_filename = "FTB-StoneBlock-4-Patches-Server.zip"
+allow_empty = false
+
+[[build.server.generated]]
+type = "ftb-quests-lang-merge"
+source = "ftbquests"
+output_path = "config/ftbquests/quests/lang/{target_locale}.snbt"
+
+[build.overrides]
+type = "resourcepack"
+include = [
+  "LICENSE",
+  "translation/overrides/assets/**",
+]
+strip_prefix = ["translation/overrides/"]
+pack_meta.pack_format = 34
+pack_meta.description = "§6FTB SB4 中文化補丁§r\n由 §cTeam Kugimiya 釘宮翻譯組§r 製作"
+pack_meta.icon = "translation/overrides/pack.png"
+output_filename = "FTB-StoneBlock-4-Patches.zip"
+allow_empty = true

@@ -1,0 +1,2333 @@
+{
+  "chapter.2EF5133328945047.title": {
+    "original": "Gearing Up",
+    "translation": "整裝待發",
+    "context": "chapters/gearing_up.snbt / chapter 2EF5133328945047",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.007CD364F96C2912.quest_desc": {
+    "original": "\u0026aFree Runner\u0026r boots provide little protection, but prevent all fall damage.",
+    "translation": "\u0026a自由助跑器\u0026r提供的防護不高，但可完全免疫摔落傷害。",
+    "context": "chapters/gearing_up.snbt / quest 007CD364F96C2912",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.00A7C1FE54F86429.quest_desc": {
+    "original": "\u0026eApotheosis\u0026r overhauls the vanilla enchanting system with three new values, allowing for high-level enchants with upgradable progression. You will want to manage these values as you progress through upgrading your enchanting setup:\n\n\u0026aEterna\u0026r: The power of the enchanting table, capped based on the tier of your bookshelves. This stat determines the maximum level of enchants.\n\n\u0026cQuanta\u0026r: The chaos inherent when enchanting at higher power. This determines the randomness of enchants.\n\n\u0026dArcana\u0026r: The overall quality and quantity of the enchantments. This determines the rarity of enchants, as well as how many enchants are applied per use.",
+    "translation": "《\u0026e神化\u0026r》澈底改造了原版的附魔系統，讓你能在可持續升級的進度中，追求更高等級附魔。\n\n你在強化附魔設置時，必須同時管理這三項全新數值：\n\n\u0026a位階\u0026r：附魔台的基礎強度，上限取決於你使用的書櫃階級。此數值決定附魔的最高等級。\n\n\u0026c量子化\u0026r：高強度附魔時伴隨的混沌值。此數值決定附魔結果的隨機性。\n\n\u0026d阿卡那\u0026r：附魔的整體品質與數量。此數值決定附魔稀有度，以及每次可附加的附魔數量。",
+    "context": "chapters/gearing_up.snbt / quest 00A7C1FE54F86429",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.00A7DEFCF07BC63A.quest_desc": {
+    "original": "The \u0026zRed Katar\u0026r is the ultimate weapon from \u00266ProjectE\u0026r.\n\nSet a keybind to ProjectE's Extra Function and it will deal 25 damage to everything around you with each activation.",
+    "translation": "\u0026z紅物質拳刃\u0026r是來自《\u00266等價交換\u0026r》終極武器。\n\n請為《\u00266等價交換\u0026r》的「額外功能」綁定快捷鍵（預設 C）；\n\n每次發動能力時，都會對周遭的所有目標造成 25 點傷害。",
+    "context": "chapters/gearing_up.snbt / quest 00A7DEFCF07BC63A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.00A7DEFCF07BC63A.title": {
+    "original": "\u0026cRed Katar",
+    "translation": "\u0026c紅物質拳刃",
+    "context": "chapters/gearing_up.snbt / quest 00A7DEFCF07BC63A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.011DBD2652E49B97.quest_desc": {
+    "original": "\u00266Apotheosis\u0026r has a new \u0026bWorld Tier\u0026r system that can be accessed using \"CTRL + T\" by default.\n\n[\"You start at \", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" upon acquiring your first \", {\"text\": \"Affix Item\", \"color\": \"#55FF55\"}, \", and unlock more tiers as you advance in the mod.\"]\n\nHigher tiers increase the difficulty and rewards across all dimensions. These rewards can be checked in the Tiers menu (\"CTRL + T\").\n\nIn order to progress your \u0026bWorld Tier\u0026r, you can check the \u00266Apotheosis\u0026r advancements using \"L\" by default, and going to the tab with a skull to guide you through the progression.\n\nYou can also check the next page on this quest for all of the requirements.\n{@pagebreak}\n\u0026bWorld Tiers\u0026r\n\n[\"\", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" - Acquire your first \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear.\"]\n\n[\"\", {\"text\": \"Frontier\", \"color\": \"#55FF55\"}, \" - Equip a full set of \", {\"text\": \"Common\", \"color\": \"#7E7E7E\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear.\"]\n\n[\"\", {\"text\": \"Ascent\", \"color\": \"#5454FC\"}, \" - Equip a full set of \", {\"text\": \"Uncommon\", \"color\": \"#55FF55\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay an \", {\"text\": \"Apotheosis\", \"color\": \"#FFAA00\"}, \" boss monster.\"]\n\n[\"\", {\"text\": \"Summit\", \"color\": \"#B900B9\"}, \" - Equip a full set of \", {\"text\": \"Rare\", \"color\": \"#5454FC\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay the Wither\"]\n\n[\"\", {\"text\": \"Pinnacle\", \"color\": \"#EA6F14\"}, \" - Equip a full set of \", {\"text\": \"Epic\", \"color\": \"#B900B9\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay the Chicken Jockey Boss\"]\n\nChanges for each tier can be checked in the \u0026bWorld Tiers\u0026r menu (\"CTRL + T\" by default).",
+    "translation": "《\u00266神化\u0026r》新增了\u0026b世界階級\u0026r系統，預設可用「CTRL + T」開啟。\n\n[\"當你取得第一件\", {\"text\": \"詞綴物品\", \"color\": \"#55FF55\"}, \"時，會從\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \"開始，並隨著模組進度逐步解鎖更高階級。\"]\n\n更高的階級會提升所有維度的難度與獎勵。獎勵內容可在階級選單（CTRL + T）中查看。\n\n要推進你的\u0026b世界階級\u0026r，可用預設鍵「L」查看《\u00266神化\u0026r》進度，並切到骷髏圖示分頁來依序完成。\n\n此任務下一頁也整理了所有需求。\n{@pagebreak}\n\u0026b世界階級\u0026r\n\n[\"\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \" - 取得第一件\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備。\"]\n\n[\"\", {\"text\": \"邊境\", \"color\": \"#55FF55\"}, \" - 裝備全套\", {\"text\": \"普通\", \"color\": \"#7E7E7E\"},\"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備。\"]\n\n[\"\", {\"text\": \"攀升\", \"color\": \"#5454FC\"}, \" - 裝備全套\", {\"text\": \"罕見\", \"color\": \"#55FF55\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺一隻\", {\"text\": \"神化\", \"color\": \"#FFAA00\"}, \"入侵者。\"]\n\n[\"\", {\"text\": \"高峰\", \"color\": \"#B900B9\"}, \" - 裝備全套\", {\"text\": \"稀有\", \"color\": \"#5454FC\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺凋零怪。\"]\n\n[\"\", {\"text\": \"頂點\", \"color\": \"#EA6F14\"}, \" - 裝備全套\", {\"text\": \"史詩\", \"color\": \"#B900B9\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺雞騎士 Boss。\"]\n\n每個階級的詳細變化可在\u0026b世界階級\u0026r選單中查看（預設「CTRL + T」）。",
+    "context": "chapters/gearing_up.snbt / quest 011DBD2652E49B97",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.011DBD2652E49B97.title": {
+    "original": "\u0026fApothic World Tiers",
+    "translation": "\u0026f《神化》世界階級",
+    "context": "chapters/gearing_up.snbt / quest 011DBD2652E49B97",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.012AEBFDB1F1512E.quest_desc": {
+    "original": "\u0026eJust Dire Things\u0026r armor can be tiered up via \u0026aSmithing Templates\u0026r and accept more \u00262Upgrades\u0026r as they rank up to armor better than netherite.",
+    "translation": "《\u0026eJust Dire Things\u0026r》的盔甲能透過\u0026a鍛造模板\u0026r升階，\n且隨階級提升可安裝更多\u00262升級\u0026r，最終性能會超越獄髓盔甲。",
+    "context": "chapters/gearing_up.snbt / quest 012AEBFDB1F1512E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.012AEBFDB1F1512E.title": {
+    "original": "\u0026fJust Dire's Armor",
+    "translation": "《\u0026eJust Dire Things\u0026r》盔甲",
+    "context": "chapters/gearing_up.snbt / quest 012AEBFDB1F1512E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0191028C1E2EAA31.quest_desc": {
+    "original": "\u0026eMalum's \u0026aScythes\u0026r allow you to reap \u0026bSpirits\u0026r from your enemies.\n\nThe \u0026dEdge of Deliverance\u0026r can be exceptional for early bosses with its critical enhancement passive effect and increased attack reach.",
+    "translation": "《\u0026e靈災\u0026r》的\u0026a鐮刀\u0026r能讓你從敵人身上收穫\u0026b精魂\u0026r。\n\n\u0026d挽魂鋒鐮\u0026r具備強化暴擊的被動效果與更長攻擊距離，對前期 Boss 特別好用。",
+    "context": "chapters/gearing_up.snbt / quest 0191028C1E2EAA31",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0191028C1E2EAA31.title": {
+    "original": "\u0026eMalum \u0026fScythes",
+    "translation": "《\u0026e靈災\u0026f》鐮刀",
+    "context": "chapters/gearing_up.snbt / quest 0191028C1E2EAA31",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.01D2CEAF59872C33.quest_desc": {
+    "original": "The \u0026aGem Cutting Table\u0026r is used to upgrade \u0026bGems\u0026r.\n\nUpgrading a \u0026bGem\u0026r costs \u0026aGem Dust\u0026r, rarity materials, and a second \u0026bGem\u0026r of the same rarity. The material and dust cost of upgrading a \u0026bGem\u0026r increases with its rarity.\n\nThe exact upgrade costs will be shown in the table's interface.",
+    "translation": "\u0026a寶石切割台\u0026r用於升級\u0026b寶石\u0026r。\n\n升級\u0026b寶石\u0026r需消耗\u0026a寶石粉\u0026r、稀有度材料，以及另一顆同稀有度\u0026b寶石\u0026r。稀有度越高，所需粉末與材料越多。\n\n確切升級成本會顯示在切割台介面中。",
+    "context": "chapters/gearing_up.snbt / quest 01D2CEAF59872C33",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.01D2CEAF59872C33.title": {
+    "original": "\u0026aGem Cutting Table",
+    "translation": "\u0026a寶石切割台",
+    "context": "chapters/gearing_up.snbt / quest 01D2CEAF59872C33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.056990503617C147.quest_desc": {
+    "original": "\u0026dWyvern\u0026r tools consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.\n\n\u0026eNote\u0026r: To craft this, you must have the \u0026cAdvanced Machine Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "\u0026d雙足飛龍工具\u0026r以能量取代耐久，並可透過其內建模組欄位進行高度客製化。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 056990503617C147",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.056990503617C147.title": {
+    "original": "\u0026dWyvern \u0026fTools",
+    "translation": "\u0026d雙足飛龍\u0026f工具",
+    "context": "chapters/gearing_up.snbt / quest 056990503617C147",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.05C3502C9F7BB7A3.quest_desc": {
+    "original": "The \u00266MekaSuit\u0026r can be crafted with some polonium and other high-end \u0026eMekanism\u0026r materials. These powered pieces of gear are very strong on their own, but can be vastly augmented with various \u0026bModules\u0026r from fortune to flight!\n\nSimply place the crafted \u0026bModule\u0026r of choice in the similarly designed slot of the \u0026aModification Station\u0026r, and the piece of gear it applies to in the slot pointed to by the arrow.",
+    "translation": "\u00266Meka 套裝\u0026r能使用釙與其他高階《\u0026e通用機械\u0026r》材料製作。\n\n這套耗能裝備本身就很強大，還能透過各種\u0026b模組\u0026r大幅強化，從幸運到飛行都有！\n\n只要把你要安裝的\u0026b模組\u0026r，放進\u0026a改裝站\u0026r的對應欄位，再把對應裝備放入箭頭指向的欄位即可。",
+    "context": "chapters/gearing_up.snbt / quest 05C3502C9F7BB7A3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.05C3502C9F7BB7A3.title": {
+    "original": "\u00266Meka-Suit",
+    "translation": "\u00266Meka 套裝",
+    "context": "chapters/gearing_up.snbt / quest 05C3502C9F7BB7A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0628BC9A79EA0FDE.title": {
+    "original": "Useful Items",
+    "translation": "實用道具",
+    "context": "chapters/gearing_up.snbt / quest 0628BC9A79EA0FDE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0AD2F3DB33241628.quest_desc": {
+    "original": "\u0026eArs \u0026aSpell Books\u0026r are versatile tools that can create and cast spells.\n\n\u0026eArs \u00262Tools\u0026r become accessible after completing \u0026dThe Magician's\u0026r \u00263Source Upgrade\u0026r. These magical tools can provide a vast amount of customization via spell-imbuement.",
+    "translation": "《\u0026e新生魔藝\u0026r》的\u0026a法術書\u0026r是非常多樣化的工具，可用來創造與施放各種法術。\n\n在你完成\u0026d魔法長老\u0026r的\u00263魔源升級\u0026r之後，就能開始使用《\u0026e新生魔藝\u0026r》的\u00262魔法工具\u0026r。\n\n這些工具能透過寫入法術，提供極大程度的客製化功能。",
+    "context": "chapters/gearing_up.snbt / quest 0AD2F3DB33241628",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0AD2F3DB33241628.title": {
+    "original": "\u0026eArs \u0026fTools",
+    "translation": "《\u0026e新生魔藝\u0026r》工具",
+    "context": "chapters/gearing_up.snbt / quest 0AD2F3DB33241628",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0ADBBF7BA99D2811.quest_desc": {
+    "original": "\u0026eActually Additions' \u0026aAll-In-One-Tools\u0026r are handy additions to save you hotbar space, as they act as every tool at once!",
+    "translation": "《\u0026e實用拓展\u0026r》的\u0026a全能工具\u0026r非常便利，能同時作為所有工具使用，為你節省快捷欄的空間！",
+    "context": "chapters/gearing_up.snbt / quest 0ADBBF7BA99D2811",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0ADBBF7BA99D2811.title": {
+    "original": "\u0026fAll In One Tools",
+    "translation": "\u0026f全能工具",
+    "context": "chapters/gearing_up.snbt / quest 0ADBBF7BA99D2811",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B65713A23351790.quest_desc": {
+    "original": "The \u0026dWyvern Sword\u0026r is a powered sword that allows for a ton of customization options.\n\n\u00266Draconic Evolution\u0026r gear has its own interface that can store modular upgrades inside of each item.\n\nThis allows you to upgrade any of the mod's items in many different ways using \u0026dModules\u0026r.",
+    "translation": "\u0026d雙足飛龍武器\u0026r以能量取代耐久，並可透過其內建模組欄位進行高度客製化。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 0B65713A23351790",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B65713A23351790.title": {
+    "original": "\u0026dWyvern \u0026fWeapons",
+    "translation": "\u0026d雙足飛龍\u0026f武器",
+    "context": "chapters/gearing_up.snbt / quest 0B65713A23351790",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0CA6DA721A97542F.quest_desc": {
+    "original": "There are hundreds of items you can place in your \u0026eCurio Slots\u0026r which can be accessible by clicking this small button in your inventory:\n\n{image:curios:textures/gui/curios/button_small.png width:25 height:25 align:center}\n\nYou can look up a specific slot item in JEI by typing in 'Slot: ' before the slot name, for example: \u0026aSlot: Head\u0026r or \u0026aSlot: Feet\u0026r.",
+    "translation": "在 \u0026eCurio 飾品欄\u0026r中，有數百種物品可供你裝備。\n\n點擊物品欄介面中的這顆小按鈕，來開啟你的飾品欄：\n\n{image:curios:textures/gui/curios/button_small.png width:25 height:25 align:center}\n\n若你想在 \u0026eJEI\u0026f 中搜尋特定部位的飾品，可以在部位名稱前\n輸入「欄位：」，例如：\u0026a欄位： 頭飾\u0026r或\u0026a欄位： 足飾\u0026r。\n\n\u0026e譯者註\u0026f：由於《\u0026eCurios\u0026f》模組的問題，搜尋時請務必在\n冒號「：」後方加一個\u0026n空格\u0026r（例如：\u0026a欄位：\u0026n \u0026r\u0026a頭飾\u0026r）。\n\n這是因為這空格被寫死在程式碼裡，沒留空格會搜不到東西。",
+    "context": "chapters/gearing_up.snbt / quest 0CA6DA721A97542F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0CA6DA721A97542F.title": {
+    "original": "\u0026eCurio\u0026r Items",
+    "translation": "\u0026eCurio\u0026r 飾品",
+    "context": "chapters/gearing_up.snbt / quest 0CA6DA721A97542F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0D38D67E3FD120CB.quest_desc": {
+    "original": "[\"\", {\"text\": \"Chaotic\", \"color\": \"rainbow\"}, \" weapons are the final upgrades to \", {\"text\": \"Draconic\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5388B67410670702\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Draconic Weapons Quest\"}}, \" weapons, with the most room for \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and maximum customizability.\"]\n\nYou can also upgrade into or craft the \u0026zChaotic Staff of Power\u0026r, an All-In-One tool and weapon.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "[\"\", {\"text\": \"混沌武器\", \"color\": \"rainbow\"}, \"是\", {\"text\": \"神龍武器\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5388B67410670702\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神龍武器任務\"}}, \"的最終升級，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與最高自訂性。\"]\n\n你也可以升級或直接製作\u0026z混沌力量權杖\u0026r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。",
+    "context": "chapters/gearing_up.snbt / quest 0D38D67E3FD120CB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D38D67E3FD120CB.title": {
+    "original": "\u0026zChaotic \u0026fWeapons",
+    "translation": "\u0026z混沌\u0026f武器",
+    "context": "chapters/gearing_up.snbt / quest 0D38D67E3FD120CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0EE35D6E57FAD973.quest_desc": {
+    "original": "One of the most useful items for any enchanting setup!\n\nThe \u00266Enchantment Library\u0026r acts as a storage for enchantments. With enough low level enchants, it can also create books of higher level enchants for you.\n\n\u0026eNote\u0026r: This is a \u0026zShop Only Item\u0026r!",
+    "translation": "這是任何附魔設置中最實用的配備之一！\n\n\u00266附魔圖書館\u0026r可儲存附魔。只要累積足夠的低等附魔，也能合成更高等級的附魔書。\n\n\u0026e備註\u0026r：這是\u0026z商店限定物品\u0026r！",
+    "context": "chapters/gearing_up.snbt / quest 0EE35D6E57FAD973",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11A35E8F97ACA240.quest_desc": {
+    "original": "[\"\", {\"text\": \"Draconic\", \"color\": \"gold\"}, \" tools are upgraded versions of \", {\"text\": \"Wyvern\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Tools Quest\"}}, \" tools, with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and better customizability.\"]\n\nYou can also craft the \u00266Draconic Staff of Power\u0026r, an All-In-One tool and weapon.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.\n\n\u0026eNote\u0026r: To craft these, you must have the \u0026cAdvanced Machine Block\u0026r and the \u0026dDraconic Energy\u0026r \u00266World Engine Upgrades\u0026r.",
+    "translation": "[\"\", {\"text\": \"神龍工具\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍工具\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍工具任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與更高自訂性。\"]\n\n你也可以製作\u00266神龍力量權杖\u0026r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 11A35E8F97ACA240",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11A35E8F97ACA240.title": {
+    "original": "\u00266Draconic \u0026fTools",
+    "translation": "\u00266神龍\u0026f工具",
+    "context": "chapters/gearing_up.snbt / quest 11A35E8F97ACA240",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.11CC48D772573E73.quest_desc": {
+    "original": "\u0026zInfinity Weapons\u0026r deal an infinite amount of damage.\n\n\u00267\u0026oLiterally performs the '/kill' command on mobs.",
+    "translation": "\u0026z無盡武器\u0026r能造成無限的傷害。\n\n\u00267\u0026o實際上就是對目標執行了「/kill」指令。",
+    "context": "chapters/gearing_up.snbt / quest 11CC48D772573E73",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11CC48D772573E73.title": {
+    "original": "\u0026zInfinity Weapons",
+    "translation": "\u0026z無盡武器",
+    "context": "chapters/gearing_up.snbt / quest 11CC48D772573E73",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.137039009E8EBA03.quest_desc": {
+    "original": "\u00266ProjectE\u0026r has several very strong tools that can be made once you have your hands on enough EMC and a \u0026cNetherite Smithing Template\u0026r.\n\nThese tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.\n\n\u0026eNote\u0026r: To craft these, you must have the \u0026aMachine Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "當你取得足夠的 EMC 與\u0026c獄髓鍛造模板\u0026r後，《\u00266等價交換\u0026r》\n可製作多種非常強力的工具。\n\n這些工具可消耗 EMC 進行充能（預設鍵：「V」），\n讓你在右鍵使用時發動強力的範圍效果能力。\n\n\u0026e注意\u0026r：要製作這些工具，你必須先有\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 137039009E8EBA03",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.137039009E8EBA03.title": {
+    "original": "ProjectE Tools",
+    "translation": "《等價交換》工具",
+    "context": "chapters/gearing_up.snbt / quest 137039009E8EBA03",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.137EC884018376A1.quest_desc": {
+    "original": "\u0026cNetherite\u0026r gear makes for some great armor once you have your hands on \u0026aAncient Debris\u0026r and a \u0026cNetherite Smithing Template\u0026r..\n\n[\"You may get \", {\"text\": \"Ancient Debris\", \"color\": \"green\"}, \" early by going to the \", { \"text\": \"Nether Dungeon\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Nether Dungeon Quest\"}}, \", which can spawn in the Deepslate Ring.\" ]",
+    "translation": "當你取得\u0026a遠古遺骸\u0026r與\u0026c獄髓鍛造模板\u0026r後，\u0026c獄髓\u0026r裝備會是非常優秀的盔甲選擇。\n\n[\"你可以提早前往\", {\"text\": \"地獄地牢\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往地獄地牢任務\"}}, \"取得\", {\"text\": \"遠古遺骸\", \"color\": \"green\"}, \"，該地牢會生成於深板岩環帶中。\"]",
+    "context": "chapters/gearing_up.snbt / quest 137EC884018376A1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.137EC884018376A1.title": {
+    "original": "\u0026fVanilla Netherite Armor",
+    "translation": "\u0026f原版獄髓盔甲",
+    "context": "chapters/gearing_up.snbt / quest 137EC884018376A1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1666835CA3297C7D.quest_desc": {
+    "original": "There are 2 special \u0026aArtisan Scrolls\u0026r that will teach you how to craft \u00266Duality\u0026r jewelry.\n\nThis jewelry takes both the attributes from the \u0026eMetal\u0026r and the \u0026dGem\u0026r, and has a higher quality overall.\n\n\u0026eNote\u0026r: Both of these recipes need the \u0026dEnchanting\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "有 2 種特殊的\u0026a工匠卷軸\u0026r，可讓你學會製作\u00266雙生\u0026r飾品。\n\n這類飾品會同時繼承\u0026e金屬\u0026r與\u0026d寶石\u0026r的屬性，整體品質也更高。\n\n\u0026e注意\u0026r：這兩種配方都需要\u0026d附魔\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 1666835CA3297C7D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1666835CA3297C7D.title": {
+    "original": "\u00266Duality\u0026r \u0026aJewelry\u0026r",
+    "translation": "\u00266雙生\u0026r\u0026a飾品\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 1666835CA3297C7D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.17DE59BAD714DE63.quest_desc": {
+    "original": "Lots of cooking recipes require \u0026bMilk\u0026r.\n\nThat's why you should just shove a \u00266Cow in a Jar\u0026r. When added to the \u0026bKitchen Multiblock\u0026r, this will provide recipes with Milk Buckets if they call for it.\n\nBut how do you get one? First, you need to make a \u0026aMilk Jar\u0026r. This can store milk by itself, but you'll want a renewable source of Milk for your kitchen.\n{@pagebreak}\nNext, you'll need to place the Milk Jar in a hole that's big enough where a Cow can fit in.\n\nLure a Cow into the hole where it is directly on top of the Milk Jar, then drop an Anvil into the hole. This will smoosh the Cow into the Jar!\n\nThis will provide milk slowly overtime for your Kitchen.\n\n\u0026eNote:\u0026r This same thing can be done for Fluid Cows!",
+    "translation": "許多烹飪配方都需要用到\u0026b鮮奶\u0026r。\n\n這就是為什麼你應該直接把一隻\u00266罐中乳牛\u0026r塞進廚房！\n\n當它加入\u0026a廚房多方塊結構\u0026r後，只要配方需要鮮奶桶，它就能直接提供。\n\n但該如何獲得這一罐「乳牛」呢？首先，你需要製作一個\u0026a牛奶罐\u0026r。\n\n它本身就能儲存鮮奶，但為了你的廚房，你會需要一個可再生的鮮奶來源。\n{@pagebreak}\n接下來，你需要將牛奶罐放在一個足以容納一隻牛的深坑底部。\n\n將牛引誘進坑中，使其直接踩在牛奶罐上方，接著使一個鐵砧墜落到坑內。這會直接把牛「擠」進罐子裡！\n\n這能為你的廚房持續提供鮮奶。\n\n\u0026e注意\u0026r：同樣的方法也適用於流體牛！",
+    "context": "chapters/gearing_up.snbt / quest 17DE59BAD714DE63",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.17DE59BAD714DE63.title": {
+    "original": "\u0026fFree Milk!",
+    "translation": "\u0026f免費鮮奶！",
+    "context": "chapters/gearing_up.snbt / quest 17DE59BAD714DE63",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1A89ACDC528588D5.quest_desc": {
+    "original": "\u0026bCelestigem\u0026r is the next tier for armor from \u00266Just Dire Things\u0026r.\n\nInstead of using durability, this armor uses \u0026cenergy\u0026r instead, and can have even more upgrades that can be installed.\n\nThese can be made once you've made a trip out to the \u0026dAncient City\u0026r and made \u0026dVoidshimmer Goo\u0026r. ",
+    "translation": "\u0026b天體寶石\u0026r是《\u00266Just Dire Things\u0026r》的下一階盔甲。\n\n這套盔甲以\u0026c能量\u0026r取代耐久，並可安裝更多升級。\n\n前往\u0026d遠古城市\u0026r並製作出\u0026d虛輝凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 1A89ACDC528588D5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1A89ACDC528588D5.title": {
+    "original": "\u0026bCelestigem Armor",
+    "translation": "\u0026b天體寶石\u0026f盔甲",
+    "context": "chapters/gearing_up.snbt / quest 1A89ACDC528588D5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1B20BEE2BE4476A7.quest_desc": {
+    "original": "\u0026eOritech's \u0026aCybernetic Upgrades\u0026r allow you to go full cyberpunk and install toggleable upgrades directly to your character.\n\nThese upgrades may require certain research stations, and range from things like increasing your movement speed or attack damage to making your player permanently invisible, or granting you creative flight.",
+    "translation": "《\u0026e起源科技\u0026r》的\u0026a賽博生化改造\u0026r，能讓你化身賽博龐克，在身上安裝可開關的改造插件。\n\n這些改造可能需要特定研究站，效果從提升移動速度、攻擊傷害，到永久隱形，甚至賦予創造模式飛行的能力都有。",
+    "context": "chapters/gearing_up.snbt / quest 1B20BEE2BE4476A7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1B20BEE2BE4476A7.title": {
+    "original": "\u00266Cybernetic Augments\u0026r",
+    "translation": "\u00266賽博生化改造\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 1B20BEE2BE4476A7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1B3B2B9697D7AEA6.quest_desc": {
+    "original": "\u0026dEclipse Alloy\u0026r tools are the final tier of tools from \u00266Just Dire Things\u0026r.\n\nThese are powered tools that can use the best upgrades from the mod.\n\nThese can be made once you've defeated the \u0026dChicken Jockey\u0026r and made \u0026dShadowpulse Goo\u0026r. ",
+    "translation": "\u0026d日蝕合金\u0026r工具是《\u00266Just Dire Things\u0026r》的最終工具階級。\n\n這些是耗能工具，可使用模組中最頂級的升級。\n\n擊敗\u0026d雞騎士\u0026r並製作出\u0026d影脈凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 1B3B2B9697D7AEA6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1B3B2B9697D7AEA6.title": {
+    "original": "\u0026dEclipse Alloy \u0026fTools",
+    "translation": "\u0026d日蝕合金\u0026f工具",
+    "context": "chapters/gearing_up.snbt / quest 1B3B2B9697D7AEA6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1C6508B8B2C94CAF.quest_desc": {
+    "original": "These power-consuming tools can be upgraded within a \u0026aModification Table\u0026r.\n\nUpgrades can be installed to increase mining reach and speed, or apply silk-touch or fortune.",
+    "translation": "這把耗能工具可以在\u0026a改造台\u0026r中，透過安裝升級進一步擴充功能。\n\n像是延伸方塊的互動距離、挖掘速度，以及套用絲綢之觸或幸運效果。",
+    "context": "chapters/gearing_up.snbt / quest 1C6508B8B2C94CAF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1C6508B8B2C94CAF.title": {
+    "original": "\u0026eMining Gadgets",
+    "translation": "\u0026e挖掘小幫手",
+    "context": "chapters/gearing_up.snbt / quest 1C6508B8B2C94CAF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.213FE1D19D589513.quest_desc": {
+    "original": "\u0026eBaubley Heart Crystals\u0026r allows you to increase your maximum health by up to 80 hearts (160 health points). This can be done by placing up to 20 canisters of each tier inside the \u0026aHeart Amulet\u0026r.\n\n\u0026cRed Hearts\u0026r can drop when killing hostile mobs.\n\n\u0026eYellow Hearts\u0026r are dropped by most bosses.\n\n\u0026aGreen Hearts\u0026r are dropped by the \u0026dWarden\u0026r and \u0026cIgnis\u0026r.\n\n\u00269Blue Hearts\u0026r are dropped by \u0026zMighty Ender Chicken\u0026r, \u00266Leviathan\u0026r, \u00266Tyros\u0026r, and \u0026cMaledictus\u0026r.",
+    "translation": "《\u0026e心形墜飾\u0026r》能讓你增加最大生命值，最高可額外提升 80 顆心（160 點血量）。\n只要在\u0026a心形墜飾\u0026r中，放入各階級最多 20 個心罐即可達成。\n\n\u0026c紅心\u0026r：擊殺敵對生物時有機率掉落。\n\n\u0026e黃心\u0026r：大多數的 Boss 都會掉落。\n\n\u0026a綠心\u0026r：由\u0026d伏守者\u0026r與\u0026c熾焰魔\u0026r掉落。\n\n\u00269藍心\u0026r：由\u0026z偉大終界雞\u0026r、\u00266利維坦\u0026r、\u00266提洛斯\u0026r，以及\u0026c咒翼靈骸\u0026r掉落。",
+    "context": "chapters/gearing_up.snbt / quest 213FE1D19D589513",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.213FE1D19D589513.title": {
+    "original": "\u00266Baubley Heart Crystals",
+    "translation": "\u00266心形墜飾",
+    "context": "chapters/gearing_up.snbt / quest 213FE1D19D589513",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.226E5BD0BEB1BA75.quest_desc": {
+    "original": "These are unique shelves that provide certain bonuses like adding 100% \u0026cQuanta\u0026r, or removing \u0026cQuanta\u0026r and \u00265Arcana\u0026r.",
+    "translation": "這些特殊書櫃可提供特定加成，例如增加 100% \u0026c量子化\u0026r，\n或降低\u0026c量子化\u0026r與\u00265阿卡那\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 226E5BD0BEB1BA75",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.226E5BD0BEB1BA75.title": {
+    "original": "\u0026aMiscellaneous Shelves",
+    "translation": "\u0026a特殊功能書櫃",
+    "context": "chapters/gearing_up.snbt / quest 226E5BD0BEB1BA75",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.23562C59CEDE9879.quest_desc": {
+    "original": "\u0026eDeus Ex Machina\u0026f empowers you when fighting off against countless monsters within this stone world.\n\nEach death against the same boss grants you damage resistance and increased damage dealt against your killer.",
+    "translation": "《\u0026e機械降神\u0026f》會在你位於這個石頭世界中，對抗無數怪物時強化你的能力。\n\n每當你被同一個 Boss 擊敗時，你都會獲得額外的傷害抗性\n，並提高對該 Boss 造成的傷害。",
+    "context": "chapters/gearing_up.snbt / quest 23562C59CEDE9879",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.23562C59CEDE9879.title": {
+    "original": "\u00266Deus Ex Machina",
+    "translation": "\u00266機械降神",
+    "context": "chapters/gearing_up.snbt / quest 23562C59CEDE9879",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25023C87AA259688.quest_desc": {
+    "original": "While not offering much protection in the form of armor, holding down \"Shift\" while wearing a full set of this armor will turn you into a cardboard box small enough to avoid being detected by mobs.\n\n\u00267\u0026oThis could be handy for looting.",
+    "translation": "雖然這套盔甲提供的保護效果不強，\n\n但穿著整套盔甲時，按住「Shift」潛行，你就會變成紙箱，體型小到足以避開生物偵測。\n\n\u00267\u0026o這在搜刮戰利品時可能非常方便。",
+    "context": "chapters/gearing_up.snbt / quest 25023C87AA259688",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.25023C87AA259688.quest_subtitle": {
+    "original": "\u0026oSneaky Sneaky",
+    "translation": "\u0026oSneaky Sneaky",
+    "context": "chapters/gearing_up.snbt / quest 25023C87AA259688",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25023C87AA259688.title": {
+    "original": "\u0026fCardboard Armor",
+    "translation": "\u0026f紙板盔甲",
+    "context": "chapters/gearing_up.snbt / quest 25023C87AA259688",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25C6F433BD3128C4.quest_desc": {
+    "original": "This ranged 6-shot revolver from \u0026eImmersive Engineering\u0026r can be loaded up with different types of bullets and addons.",
+    "translation": "這把來自《\u0026e沉浸工程\u0026r》的左輪手槍，同時能填裝 6 發不同\n類型的子彈，還能透過安裝升級套件來擴充功能。",
+    "context": "chapters/gearing_up.snbt / quest 25C6F433BD3128C4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.25C6F433BD3128C4.title": {
+    "original": "\u0026eI.E \u0026fRevolver",
+    "translation": "《\u0026e沉浸工程\u0026f》左輪手槍",
+    "context": "chapters/gearing_up.snbt / quest 25C6F433BD3128C4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.268CC540E5B605A9.quest_desc": {
+    "original": "The final tier of bookshelves is locked behind the infusion of \u0026dDragon's Breath\u0026r.\n\nTo do this, you will need \u0026a80\u0026r \u00266Eterna\u0026r, between \u0026a15\u0026r to \u0026a30\u0026r \u0026cQuanta\u0026r, and at least \u0026a60\u0026r \u0026dArcana\u0026r.\n\nIf you don't have enough \u0026dArcana,\u0026r you can use candles, which provide a small boost.\n\n\u0026eNote\u0026r: \u0026dDragon's Breath\u0026r can be obtained from the \u0026dChicken Jockey\u0026r fight.",
+    "translation": "最終階級書櫃，需要先完成對\u0026d龍之吐息\u0026r的灌注才會解鎖。\n\n要進行注入，你需要 \u0026a80\u0026r \u00266位階\u0026r、介於 \u0026a15%\u0026r 至 \u0026a30%\u0026r 的\u0026c量子化\u0026r，以及至少 \u0026a60%\u0026r 的\u0026d阿卡那\u0026r。\n\n若\u0026d阿卡那\u0026r不足，可用蠟燭提供小幅補強。\n\n\u0026e備註\u0026r：\u0026d龍之吐息\u0026r可在與\u0026d雞騎士\u0026r的戰鬥中取得。",
+    "context": "chapters/gearing_up.snbt / quest 268CC540E5B605A9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.268CC540E5B605A9.title": {
+    "original": "\u0026eAchieving Enlightenment",
+    "translation": "\u0026e邁向啟悟",
+    "context": "chapters/gearing_up.snbt / quest 268CC540E5B605A9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26B74124E89189F7.quest_desc": {
+    "original": "The base shelf for the final tier of enchanting.\n\nBesides being locked behind \u0026dInfused Dragon's Breath\u0026r, Endshelves are relatively cheap.",
+    "translation": "最終附魔階級所使用的基礎書櫃。\n\n除了受限於\u0026d灌注龍息\u0026r的解鎖條件外，終界書櫃整體造價其實不高。",
+    "context": "chapters/gearing_up.snbt / quest 26B74124E89189F7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26B74124E89189F7.title": {
+    "original": "\u0026eEndshelf",
+    "translation": "\u0026e終界書櫃",
+    "context": "chapters/gearing_up.snbt / quest 26B74124E89189F7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26CE741ECA36BBC5.quest_desc": {
+    "original": "\u0026eJust Dire Things\u0026r tools can be tiered up via \u0026aSmithing Templates\u0026r and accept more \u00262Upgrades\u0026r as they rank up to tools better than netherite.\n\n\u0026bFerricore\u0026r and \u0026cBlazegold\u0026r are the first two tiers of tools available.",
+    "translation": "《\u0026eJust Dire Things\u0026r》的工具，能透過\u0026a鍛造模板\u0026r升階，\n且隨階級提升可安裝更多\u00262升級\u0026r，最終性能會超越獄髓工具。\n\n\u0026b核鐵\u0026r與\u0026c烈焰金\u0026r是前期可取得的兩種工具階級。",
+    "context": "chapters/gearing_up.snbt / quest 26CE741ECA36BBC5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26CE741ECA36BBC5.title": {
+    "original": "\u0026eJust Dire Things \u0026fTools",
+    "translation": "《\u0026eJust Dire Things\u0026r》工具",
+    "context": "chapters/gearing_up.snbt / quest 26CE741ECA36BBC5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26D7C5298D95C69A.quest_desc": {
+    "original": "When crafting \u0026bJewelry\u0026r, \u0026aBanding Materials\u0026r can be used by themselves to grant effects and/or stat increases.\n\nTheir main use, however, is to multiply \u0026aGem\u0026r effects with their quality multiplier.\n\nWhile most vanilla gems will work, you can also search for \u0026ajewelry_metal\u0026r in JEI for a list.",
+    "translation": "製作\u0026b飾品\u0026r時，\u0026a戒指材料\u0026r本身就能提供效果或屬性提升。\n\n不過它們的主要用途，是透過品質倍率放大\u0026a寶石\u0026r效果。\n\n雖然大多數原版金屬都能使用，你也可以在 JEI 搜尋「\u0026ajewelry_metal\u0026r」查看完整清單。",
+    "context": "chapters/gearing_up.snbt / quest 26D7C5298D95C69A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26D7C5298D95C69A.title": {
+    "original": "\u0026aBanding Materials",
+    "translation": "\u0026a戒指材料",
+    "context": "chapters/gearing_up.snbt / quest 26D7C5298D95C69A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2722C0E2E8993658.quest_desc": {
+    "original": "The centerpiece of a fully completed enchanting setup. \n\nThe \u0026dDraconic Endshelf\u0026r provides no additional stats, but will boost your \u0026aEterna\u0026r by 20, allowing you to hit a max of \u00266100\u0026r.\n\nThe \u0026dPearlescent Endshelf\u0026r is the best general-purpose bookshelf, providing significant amounts of both \u0026cQuanta\u0026r and \u0026dArcana\u0026r.",
+    "translation": "完整附魔設置的核心組成元件。 \n\n\u0026d龍族終界書櫃\u0026r不提供額外屬性，\n但可額外增加 20 \u0026a位階\u0026r，讓你達到最高的 \u00266100\u0026r。\n\n\u0026d璀璨終界書櫃\u0026r是最泛用的高階書櫃，可同時提供大量\u0026c量子化\u0026r與\u0026d阿卡那\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 2722C0E2E8993658",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2722C0E2E8993658.title": {
+    "original": "\u0026eLevel 100 Enchanting",
+    "translation": "\u0026e100 級附魔",
+    "context": "chapters/gearing_up.snbt / quest 2722C0E2E8993658",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.276D2B384F21AC10.quest_desc": {
+    "original": "\u0026eJust Dire Things\u0026r weapons can be tiered up via \u0026aSmithing Templates\u0026r and accept more \u00262Upgrades\u0026r as they rank up to tools better than netherite.",
+    "translation": "《\u0026eJust Dire Things\u0026r》的武器，能透過\u0026a鍛造模板\u0026r升階，\n且隨階級提升可安裝更多\u00262升級\u0026r，最終性能會超越獄髓武器。",
+    "context": "chapters/gearing_up.snbt / quest 276D2B384F21AC10",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.276D2B384F21AC10.title": {
+    "original": "\u0026fJust Dire's Weaponry",
+    "translation": "《\u0026eJust Dire Things\u0026r》武器",
+    "context": "chapters/gearing_up.snbt / quest 276D2B384F21AC10",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.28E63B302DFCF6D9.quest_desc": {
+    "original": "Depending on your enchanting setup, you might need a little boost of \u0026dArcana\u0026r.\n\nCandles placed around the \u0026dEnchanting Table\u0026r work great for this!",
+    "translation": "依你的附魔設置不同，你可能會需要額外補一些\u0026d阿卡那\u0026r。\n\n在\u0026d附魔台\u0026r周圍擺放蠟燭就是很好的做法！",
+    "context": "chapters/gearing_up.snbt / quest 28E63B302DFCF6D9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.28E63B302DFCF6D9.title": {
+    "original": "\u0026dArcana\u0026r Items",
+    "translation": "\u0026d阿卡那\u0026r物品",
+    "context": "chapters/gearing_up.snbt / quest 28E63B302DFCF6D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2C40123DF5EBA846.title": {
+    "original": "Armors",
+    "translation": "盔甲",
+    "context": "chapters/gearing_up.snbt / quest 2C40123DF5EBA846",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2DF77DA2ED65FBAC.quest_desc": {
+    "original": "The \u0026dWyvern Chestpiece\u0026r is a powered piece of armor that allows for a ton of customization options.\n\n\u00266Draconic Evolution\u0026r gear has its own interface that can store modular upgrades inside each piece of gear which can be accessed via a keybind (\u0026eTool Modules\u0026r).\n\nThis allows you to upgrade this chestpiece in many different ways using \u0026aUpgrade Modules\u0026r.",
+    "translation": "\u0026d雙足飛龍護胸\u0026r是一種耗能盔甲，並可透過其內建模組欄位進行高度客製化。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 2DF77DA2ED65FBAC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2DF77DA2ED65FBAC.title": {
+    "original": "\u0026dWyvern \u0026fChestpiece",
+    "translation": "\u0026d雙足飛龍\u0026f護胸",
+    "context": "chapters/gearing_up.snbt / quest 2DF77DA2ED65FBAC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2F2DC018DD6A2A23.quest_desc": {
+    "original": "\u0026aGems\u0026r are the part of most \u0026bJewelry\u0026r that grants effects or attributes.\n\nDifferent pieces of \u0026bJewelry\u0026r are affected by \u0026aGems\u0026r in different ways, so be sure to check each piece carefully before crafting.\n\nWhile most vanilla gems will work, you can also search for \u0026ajewelry_gem\u0026r in JEI for a list.",
+    "translation": "\u0026a寶石\u0026r是多數\u0026b飾品\u0026r中提供效果或屬性的部件。\n\n不同的\u0026b飾品\u0026r受\u0026a寶石\u0026r影響的方式各不相同，製作前請先仔細確認每一件。\n\n雖然大多數原版寶石都能使用，你也可以在 JEI 搜尋「\u0026ajewelry_gem\u0026r」查看完整清單。",
+    "context": "chapters/gearing_up.snbt / quest 2F2DC018DD6A2A23",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2F2DC018DD6A2A23.title": {
+    "original": "\u0026aGems",
+    "translation": "\u0026a寶石",
+    "context": "chapters/gearing_up.snbt / quest 2F2DC018DD6A2A23",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3208AF90091D1B6B.quest_desc": {
+    "original": "Using the \u0026aSimple Reforging Table\u0026r, you can now reforge an item with brand new affixes.\n\nReforging is not limited to items that already have \u0026bAffixes\u0026r, and can be performed with any valid item, any number of times.\n\nThe \u0026aSimple Reforging Table\u0026r allows you to reforge items up to \u00269Rare\u0026r rarity. You'll need to upgrade this table if you wish to reforge higher rarity items.\n{@pagebreak}\nReforging Tables have three input slots:\n\n- The center slot holds the item you wish to reforge;\n\n- The top-left slot holds the rarity materials for the rarity you would like to reforge with;\n\n- The bottom-right slot holds \u0026aSigils of Rebirth\u0026r, which are used as fuel during reforging.\n\nThere is a base cost of experience, sigils, and materials for reforges of each rarity, which can be doubled or tripled if choosing the other two options.",
+    "translation": "使用\u0026a簡易重鑄台\u0026r，你可以為物品重鑄出全新的詞綴。\n\n重鑄不限於已有\u0026b詞綴\u0026r的物品，任何符合條件的物品都可反覆重鑄。\n\n\u0026a簡易重鑄台\u0026r最多只能重鑄到\u00269稀有\u0026r等級。若要重鑄更高稀有度，需升級此工作台。\n{@pagebreak}\n重鑄台有三個輸入欄位：\n\n- 中央欄位放置要重鑄的物品；\n\n- 左上欄位放置你要重鑄到該稀有度所需的材料；\n\n- 右下欄位放置\u0026a重生咒符\u0026r，作為重鑄材料。\n\n每個稀有度重鑄都有基礎經驗、咒符與材料成本；\n\n若選擇其他兩種結果，成本可能會提升至 2 或 3 倍。",
+    "context": "chapters/gearing_up.snbt / quest 3208AF90091D1B6B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3208AF90091D1B6B.title": {
+    "original": "\u0026aSimple Reforging Table",
+    "translation": "\u0026a簡易重鑄台",
+    "context": "chapters/gearing_up.snbt / quest 3208AF90091D1B6B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3382AC7FEFE0B76E.quest_desc": {
+    "original": "[\"You may get \", {\"text\": \"Ancient Debris\", \"color\": \"green\"}, \" early by going to the \", { \"text\": \"Nether Dungeon\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Nether Dungeon Quest\"}}, \", which can spawn in the Deepslate Ring.\" ]",
+    "translation": "[\"你可以提早前往\", {\"text\": \"地獄地牢\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往地獄地牢任務\"}}, \"取得\", {\"text\": \"遠古遺骸\", \"color\": \"green\"}, \"，該地牢會生成於深板岩環帶中。\"]",
+    "context": "chapters/gearing_up.snbt / quest 3382AC7FEFE0B76E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3382AC7FEFE0B76E.title": {
+    "original": "\u0026fVanilla Netherite Weapons",
+    "translation": "\u0026f原版獄髓武器",
+    "context": "chapters/gearing_up.snbt / quest 3382AC7FEFE0B76E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.353F6C94B5D5FF0B.quest_desc": {
+    "original": "To push your \u00266Eterna\u0026r even higher, you will need to create and infuse \u00263Deepshelves\u0026r.\n\nThese shelves can push your \u00266Eterna\u0026r to a max of \u0026a75\u0026r. \n\nYou can also use a \u0026zDeepshelf of Arcane Treasures\u0026r to allow your enchanting table to enchant \u0026zTreasure Enchantments\u0026r.\n\n\u0026eNote\u0026r: Deepshelves can be used for a \u00266World Engine Upgrade\u0026r.",
+    "translation": "若要把\u00266位階\u0026r再往上提升，你需要製作並灌注\u00263深板岩書櫃\u0026r。\n\n這類書櫃可將\u00266位階\u0026r上限提升至 \u0026a75\u0026r。 \n\n你還能使用\u0026z祕寶深板岩書櫃\u0026r，讓附魔台能附出\u0026z寶藏附魔\u0026r。\n\n\u0026e備註\u0026r：深板岩書櫃可用於\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 353F6C94B5D5FF0B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.353F6C94B5D5FF0B.title": {
+    "original": "Shelves of the Deep",
+    "translation": "深板岩書櫃",
+    "context": "chapters/gearing_up.snbt / quest 353F6C94B5D5FF0B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.371D1FEFBD49CCFF.quest_desc": {
+    "original": "\u0026bCelestigem\u0026r is the next tier for weapons from \u00266Just Dire Things\u0026r.\n\nInstead of using durability, these weapons use \u0026cenergy\u0026r instead, and can have even more upgrades that can be installed.\n\nThese can be made once you've made a trip out to the \u0026dAncient City\u0026r and made \u0026dVoidshimmer Goo\u0026r. ",
+    "translation": "\u0026b天體寶石\u0026r是《\u00266Just Dire Things\u0026r》的下一階武器。\n\n這些武器以\u0026c能量\u0026r取代耐久，並可安裝更多升級。\n\n前往\u0026d遠古城市\u0026r並製作出\u0026d虛輝凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 371D1FEFBD49CCFF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.371D1FEFBD49CCFF.title": {
+    "original": "\u0026bCelestigem \u0026fWeapons",
+    "translation": "\u0026b天體寶石\u0026f武器",
+    "context": "chapters/gearing_up.snbt / quest 371D1FEFBD49CCFF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.37F99696A47264FD.quest_desc": {
+    "original": "This chapter is all about teaching you some of the different ways to craft, enhance, and enchant any gear you might need on your adventures!",
+    "translation": "本章節將以不同方式，教你如何合成、強化以及附魔在冒險途中，所需的各種裝備。",
+    "context": "chapters/gearing_up.snbt / quest 37F99696A47264FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.37F99696A47264FD.title": {
+    "original": "\u0026fGearing Up For Adventure!",
+    "translation": "\u0026f為冒險做好準備！",
+    "context": "chapters/gearing_up.snbt / quest 37F99696A47264FD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3900E67C8B833980.quest_desc": {
+    "original": "\u0026aArtisan Scrolls\u0026r can be found as loot or from buying them from \u0026zShops\u0026r.\n\nTo learn a \u0026bJewel\u0026r blueprint simply right-click with an \u0026aArtisan Scroll\u0026r in hand.",
+    "translation": "\u0026a工匠卷軸\u0026r可透過戰利品取得，或在\u0026z商店\u0026r直接購買。\n\n要學習\u0026b飾品\u0026r藍圖，只要手持\u0026a工匠卷軸\u0026r並按下右鍵即可。",
+    "context": "chapters/gearing_up.snbt / quest 3900E67C8B833980",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3900E67C8B833980.title": {
+    "original": "\u0026aArtisan Scrolls",
+    "translation": "\u0026a工匠卷軸",
+    "context": "chapters/gearing_up.snbt / quest 3900E67C8B833980",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.39758AAD01EEB3C8.quest_desc": {
+    "original": "Depending on the route you take for shelves, you might need some extra \u0026cQuanta\u0026r to hit infusion levels.\n\n\u0026cSkulls\u0026r work great and provide a \u0026a+5\u0026r boost to \u0026cQuanta\u0026r!",
+    "translation": "依你選擇的書櫃路線不同，可能會需要額外補充\u0026c量子化\u0026r才能達到灌注門檻。\n\n\u0026c骷髏頭顱\u0026r很好用，可提供 \u0026a+5%\u0026r 的\u0026c量子化\u0026r加成！",
+    "context": "chapters/gearing_up.snbt / quest 39758AAD01EEB3C8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.39F10D110D7E77B7.quest_desc": {
+    "original": "\u0026cNetherite\u0026r tools are great to use once you have your hands on  some \u0026aAncient Debris\u0026r and a \u0026cNetherite Smithing Template\u0026r.\n\n[\"You may get \", {\"text\": \"Ancient Debris\", \"color\": \"green\"}, \" early by going to the \", { \"text\": \"Nether Dungeon\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Nether Dungeon Quest\"}}, \", which can spawn in the Deepslate Ring.\"]",
+    "translation": "當你取得\u0026a遠古遺骸\u0026r與\u0026c獄髓鍛造模板\u0026r後，\u0026c獄髓\u0026r工具會是非常實用的選擇。\n\n[\"你可以提早前往\", {\"text\": \"地獄地牢\", \"color\": \"red\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"21A521011401074F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往地獄地牢任務\"}}, \"取得\", {\"text\": \"遠古遺骸\", \"color\": \"green\"}, \"，該地牢會生成於深板岩環帶中。\"]",
+    "context": "chapters/gearing_up.snbt / quest 39F10D110D7E77B7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.39F10D110D7E77B7.title": {
+    "original": "\u0026fVanilla Netherite Tools",
+    "translation": "\u0026f原版獄髓工具",
+    "context": "chapters/gearing_up.snbt / quest 39F10D110D7E77B7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3A1424B69AD511BD.quest_desc": {
+    "original": "The \u0026eActually Additions \u0026aDrill\u0026r consumes power to function and can be upgraded with several different augments.\n\nA fully-charged drill is available from the \u0026dMachinist's\u0026r shop.",
+    "translation": "《\u0026e實用拓展\u0026r》的\u0026a鑽頭\u0026r是一把耗能工具，能透過安裝升級來進一步擴充功能。\n\n你可以在\u0026d機械前輩\u0026r的商店，買到一把滿電的鑽頭。",
+    "context": "chapters/gearing_up.snbt / quest 3A1424B69AD511BD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3A1424B69AD511BD.title": {
+    "original": "\u0026eActually Additions \u0026fDrill",
+    "translation": "《\u0026e實用拓展\u0026r》鑽頭",
+    "context": "chapters/gearing_up.snbt / quest 3A1424B69AD511BD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3A53BB7A6B708966.quest_desc": {
+    "original": "Once you hit \u0026a45\u0026r \u00266Eterna\u0026r, you will be able to infuse shelves!\n\nMaking \u0026cInfused Hellshelves\u0026r requires at least \u0026a30\u0026r \u0026cQuanta\u0026r, while \u0026bInfused Seashelves\u0026r require \u0026a15\u0026r \u0026cQuanta\u0026r and \u0026a10\u0026r \u0026dArcana\u0026r.\n\nUsing \u0026dInfused Bookshelves\u0026r, you'll be able to hit a max of \u0026a60\u0026r \u00266Eterna\u0026r for the next upgrade.",
+    "translation": "當你達到 \u0026a45\u0026r \u00266位階\u0026r後，就能開始灌注書櫃！\n\n製作\u0026c地獄灌注書櫃\u0026r需要至少 \u0026a30%\u0026r \u0026c量子化\u0026r；\n\n\u0026b海洋灌注書櫃\u0026r則需要 \u0026a15%\u0026r \u0026c量子化\u0026r與 \u0026a10%\u0026r \u0026d阿卡那\u0026r。\n\n透過\u0026d灌注書櫃\u0026r，你可將\u00266位階\u0026r提升至下一階段所需上限 \u0026a60\u0026r 。",
+    "context": "chapters/gearing_up.snbt / quest 3A53BB7A6B708966",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3A53BB7A6B708966.title": {
+    "original": "Infused Shelves",
+    "translation": "灌注書櫃",
+    "context": "chapters/gearing_up.snbt / quest 3A53BB7A6B708966",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3A7774F5F0FD174E.quest_desc": {
+    "original": "To get to the next upgrade, you want to get your \u00266Eterna\u0026r to \u0026a45\u0026r. This can be done with upgraded shelves.\n\nThe \u0026cHellshelf\u0026r is easier to craft, and focuses on boosting \u0026cQuanta\u0026r.\n\n\u0026bSeashelves\u0026r will require some fishing to get started, but instead builds up your \u0026dArcana\u0026r values instead.\n\n\u0026dSpirit Attuned Crystals\u0026r from \u00266Occultism\u0026r also work great for hitting the 45 mark.",
+    "translation": "要進入下一階段，你需要把\u00266位階\u0026r提高至 \u0026a45\u0026r。\n這能透過擺放進階書櫃達成。\n\n\u0026c地獄書櫃\u0026r較容易製作，重點在提升\u0026c量子化\u0026r。\n\n\u0026b海洋書櫃\u0026r起步需要先釣魚取得材料，但能有效拉高\u0026d阿卡那\u0026r。\n\n來自《\u00266神祕學\u0026r》的\u0026d魔靈同調水晶\u0026r也很適合拿來補足 45 門檻。",
+    "context": "chapters/gearing_up.snbt / quest 3A7774F5F0FD174E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3A7774F5F0FD174E.title": {
+    "original": "Upgraded Shelves",
+    "translation": "進階書櫃",
+    "context": "chapters/gearing_up.snbt / quest 3A7774F5F0FD174E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3CFDFFDCDC306A83.quest_desc": {
+    "original": "There are several extra items that you can craft to upgrade your \u0026aKitchen Multiblock\u0026r!\n\n\u0026aRacks\u0026r will add tools to be used for your multiblock.\n\nYou can also store fruits in the \u0026aFruit Basket\u0026r.",
+    "translation": "你還可以製作幾種額外物品，來升級你的\u0026a廚房多方塊結構\u0026r：\n\n\u0026a廚具架\u0026r：可用於掛載並提供多方塊結構使用的工具。\n\n你也可以將水果儲存在\u0026a水果籃\u0026r中。",
+    "context": "chapters/gearing_up.snbt / quest 3CFDFFDCDC306A83",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3CFDFFDCDC306A83.title": {
+    "original": "Kitchen Extras",
+    "translation": "廚房小物",
+    "context": "chapters/gearing_up.snbt / quest 3CFDFFDCDC306A83",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3D0DC34C36A173F5.quest_desc": {
+    "original": "\u0026eOritech's \u00262Exo Suit\u0026r provides very useful effects for exploring the world, but provide no protection against the dangers of leaving your home.",
+    "translation": "《\u0026e起源科技\u0026r》的\u00262外骨骼套裝\u0026r能提供非常實用的探索能力，但對外出冒險時的危險並不提供防護。",
+    "context": "chapters/gearing_up.snbt / quest 3D0DC34C36A173F5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D0DC34C36A173F5.title": {
+    "original": "\u00262Exo Suit",
+    "translation": "\u00262外骨骼套裝",
+    "context": "chapters/gearing_up.snbt / quest 3D0DC34C36A173F5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3E3A7F72F835E497.quest_desc": {
+    "original": "To encourage exploring a variety of food, foods in this pack will grant you \u00266extra health\u0026r the more you try!\n\nTo keep up with what foods you’ve eaten and your next culinary threshold, you can always look in the \u0026aFood Book\u0026r.",
+    "translation": "為了鼓勵你嘗試各式各樣的美食，\n\n在本模組包中，隨著你品嚐的食物種類增加，你會獲得額外的\u00266生命值上限\u0026r。\n\n為了記錄你已品嚐過的食物，以及準備下一個烹飪挑戰，建議你隨時查看\u0026a食物手冊\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 3E3A7F72F835E497",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3E3A7F72F835E497.title": {
+    "original": "\u0026fFood Diversity",
+    "translation": "\u0026f食物多樣性",
+    "context": "chapters/gearing_up.snbt / quest 3E3A7F72F835E497",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3E50C85AFC627BDC.quest_desc": {
+    "original": "Oritech's \u0026#fcd205Prometheum \u0026rtools are powerful unbreakable tools.\n\nThe \u0026#fcd205Pickaxe\u0026r has a regular, single-block mode with built-in silk touch, and an area mode that mines a 3x3 area.\n\nThe \u0026#fcd205Battleaxe\u0026r instantly breaks trees and deals a LOT of damage.\n\n\u0026eNote\u0026r: To craft these, you will need the \u0026aMachine Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "《\u00266起源科技\u0026r》的\u0026#fcd205普羅米修斯\u0026r工具，既強大且不會損壞。\n\n\u0026#fcd205鎬\u0026r具備一般單方塊模式（內建絲綢之觸），也有可挖掘 3x3 的範圍模式。\n\n\u0026#fcd205戰斧\u0026r可瞬間砍倒整棵樹，並造成非常高的傷害。\n\n\u0026e注意\u0026r：要製作這些工具，你需要先有\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 3E50C85AFC627BDC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3E50C85AFC627BDC.title": {
+    "original": "\u0026#fcd205Prometheum Tools",
+    "translation": "\u0026#fcd205普羅米修斯工具",
+    "context": "chapters/gearing_up.snbt / quest 3E50C85AFC627BDC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3FE863C60B2D2719.quest_desc": {
+    "original": "The \u0026dDisenchanter\u0026r from \u00266Draconic Evolution\u0026r can be used to strip enchantments off an item at the cost of experience and some durability damage to the item.\n\nThe damage can be reduced by placing bookshelves around the \u0026dDisenchanter\u0026r, similar to a regular enchanting setup.",
+    "translation": "來自《\u00266龍族進化\u0026r》的\u0026d附魔拆解台\u0026r可以用來分離物品上的附魔，\n代價是消耗經驗值，並會對物品造成一定的耐久度損耗。\n\n這種損耗可以透過在\u0026d附魔拆解台\u0026r周圍放置書櫃來減輕，擺放方式與一般的附魔台設置類似。",
+    "context": "chapters/gearing_up.snbt / quest 3FE863C60B2D2719",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4080C053E58A8B55.quest_desc": {
+    "original": "\u00266Baubley Heart Canisters'\u0026r weapons add +1 base damage for each \u0026bHeart Canister\u0026r inserted into them, for up to +96 base damage.\n\n\u0026eNote\u0026r: To craft these, you will need the \u0026dSpirit\u0026r and \u0026aMachine Block\u0026r \u00266World Engine Upgrades\u0026r. \n\n\u00267\u0026oHearts must be inserted via their interfaces.",
+    "translation": "《\u00266心形墜飾\u0026r》的武器，每當你安裝一個\u0026b心罐\u0026r，就能為武器增加 1 點攻擊力，最多可疊加至「96」點。\n\n\u0026e注意\u0026r：要製作這些武器，你必須先有\u0026d魂銀\u0026r和\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r。 \n\n\u00267\u0026o心罐只能透過介面安裝。",
+    "context": "chapters/gearing_up.snbt / quest 4080C053E58A8B55",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4080C053E58A8B55.title": {
+    "original": "\u0026aVitality Weapons",
+    "translation": "\u0026a活力武器",
+    "context": "chapters/gearing_up.snbt / quest 4080C053E58A8B55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4111541EAEF0E4FC.quest_desc": {
+    "original": "The \u0026dQuantum\u0026r armor provides netherite-tier protection, with the ability to be upgraded with a variety of \u0026bModules\u0026r via a keybind.\n\nThe \u0026eOpen Quantum Armor Configuration\u0026r key isn't bound by default.",
+    "translation": "\u0026d量子\u0026r盔甲能提供獄髓級別的保護，且能藉由安裝\u0026b模組\u0026r，獲得各式各樣的能力。\n\n\n「\u0026e開啟量子盔甲設定介面\u0026r」快捷鍵，預設為未綁定狀態。",
+    "context": "chapters/gearing_up.snbt / quest 4111541EAEF0E4FC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4111541EAEF0E4FC.title": {
+    "original": "\u0026dQuantum \u0026fArmor",
+    "translation": "\u0026d量子\u0026f盔甲",
+    "context": "chapters/gearing_up.snbt / quest 4111541EAEF0E4FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4119A43052DB5E3E.quest_desc": {
+    "original": "The \u0026eRelics\u0026r mod adds 25 new and unique items, each with the ability to level up and grant unique abilities for those who wish to use them!\n\nThese can be found in loot, but can also be bought from the shop!",
+    "translation": "《\u0026e遺物\u0026r》模組新增了 25 種獨一無二的新飾品，\n每一件都具備升級能力，並能為使用者提供獨特的特殊能力！\n\n你可以在戰利品中找到這些遺物，也可以直接從商店購買！",
+    "context": "chapters/gearing_up.snbt / quest 4119A43052DB5E3E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4119A43052DB5E3E.title": {
+    "original": "\u0026zRelics",
+    "translation": "\u0026z遺物",
+    "context": "chapters/gearing_up.snbt / quest 4119A43052DB5E3E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.427682661459BB4F.quest_desc": {
+    "original": "\u0026cQuanta\u0026r adds randomness to your enchanting rolls, and at max chaos, you will end up with either +100% or -100% power.\n\n\u0026eStabilization\u0026r cancels out the negative effects, meaning you get all the upside, and none of the downside.",
+    "translation": "\u0026c量子化\u0026r會增加附魔結果的隨機性；在混沌值拉滿時，\n你可能得到 +100% 或 -100% 的強度結果。\n\n\u0026e穩定化\u0026r可抵銷負面影響，讓你保留加成、避免減損。",
+    "context": "chapters/gearing_up.snbt / quest 427682661459BB4F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4498E3F4B2DC24FC.quest_desc": {
+    "original": "To get started on getting your ultimate \u0026eApotheosis\u0026r gear, you'll need to fight monsters and explore the world for \u0026bGems\u0026r!\n\n\u0026bGems\u0026r are crystals that provide powerful bonuses when applied to \u0026bAffix\u0026r items.\n{@pagebreak}\nTo apply a \u0026bGem\u0026r to an item, you must combine it with the item in a \u0026aSmithing Table\u0026r. The item must have an open \u0026aGem Socket\u0026r for this to work.\n\nGems give different bonuses when slotted in different item types, and can be upgraded in the \u0026aGem Cutting Table\u0026r.\n\n\u0026cUnique Gems\u0026r can only be socketed once per item, while most other gems can be socketed multiple times for stacking bonuses.\n\nThere are a variety of \u0026eApotheosis\u0026r \u0026bGems\u0026r, which you can get by killing mobs and bosses.\n{@pagebreak}\n\u0026bGems\u0026r can also be crushed by an anvil to create \u0026aGem Dust\u0026r.\n\nYou can use \u0026aGem Dust\u0026r for a variety of things, but the first thing you'll want to make is a \u0026aSalvaging Table\u0026r!",
+    "translation": "想打造你的終極《\u0026e神化\u0026r》裝備，第一步就是狩獵怪物、探索世界，並收集\u0026b寶石\u0026r！\n\n\u0026b寶石\u0026r是能鑲嵌在\u0026b詞綴\u0026r物品上的水晶，能提供強力加成。\n{@pagebreak}\n要把\u0026b寶石\u0026r鑲嵌在物品上，必須在\u0026a鍛造台\u0026r中將兩者合成，且該物品需有可用的\u0026a寶石鑲嵌槽\u0026r。\n\n寶石在不同裝備類型上，會提供不同加成，並可在\u0026a寶石切割台\u0026r中進一步升級。\n\n\u0026c獨特寶石\u0026r表示每件物品只能鑲嵌一次；多數其他寶石則可多次鑲嵌以疊加效果。\n\n《\u0026e神化\u0026r》有多種\u0026b寶石\u0026r，可透過擊殺怪物與 Boss 取得。\n{@pagebreak}\n\u0026b寶石\u0026r也可用鐵砧壓碎，製成\u0026a寶石粉\u0026r。\n\n\u0026a寶石粉\u0026r有許多用途，而你最優先該做的是\u0026a分解台\u0026r！",
+    "context": "chapters/gearing_up.snbt / quest 4498E3F4B2DC24FC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4498E3F4B2DC24FC.title": {
+    "original": "\u0026aGems",
+    "translation": "\u0026a寶石",
+    "context": "chapters/gearing_up.snbt / quest 4498E3F4B2DC24FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44C341DE3BCD64CC.quest_desc": {
+    "original": "This upgraded version of the \u0026dEnchantment Library\u0026r can store enchantments values up to level 31.\n\n\u00267\u0026oPlease note that the actual enchanted books are still capped at normal pack limits.\u0026r",
+    "translation": "這個強化版的\u0026d附魔圖書館\u0026r，可儲存最高到 31 級的附魔。\n\n\u00267\u0026o請注意，實際附魔書仍受本模組包的附魔上限限制。\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 44C341DE3BCD64CC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.44C341DE3BCD64CC.title": {
+    "original": "\u0026zLibrary of Alexandria",
+    "translation": "\u0026z亞歷山大圖書館",
+    "context": "chapters/gearing_up.snbt / quest 44C341DE3BCD64CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.464AED8311A32476.quest_desc": {
+    "original": "Before we dive into \u0026eApotheosis\u0026r, we need to cover what an \u0026bAffix\u0026r is!\n\nAn \u0026bAffix\u0026r is the driving force behind all \u0026eApotheosis\u0026r gear. Each \u0026bAffix\u0026r is very similar to an enchantment, providing a bonus to the item it is attached to.\n{@pagebreak}\n\u0026bAffix\u0026r items can be found when exploring the world and their effects vary based on the item's rarity. They are more commonly dropped from \u0026eApotheosis\u0026r boss monsters which can be found in underground caves or have a chance to randomly appear during the night.\n\nThere are a few different types of \u0026bAffixes\u0026r, each affecting a specific part of the item such as: Stats, Effects, Durability, and \u0026bGem Sockets\u0026r, which will be covered in the \u0026bGems\u0026r section.",
+    "translation": "在開始深入《\u0026e神化\u0026r》前，先了解什麼是\u0026b詞綴\u0026r！\n\n\u0026b詞綴\u0026r是所有《\u0026e神化\u0026r》裝備的核心。每個詞綴都類似附魔，會為刻寫的物品提供額外加成。\n{@pagebreak}\n\u0026b詞綴\u0026r物品可在探索世界時取得，效果會隨稀有度而變化。它們更常由《\u0026e神化\u0026r》Boss 怪掉落；這些 Boss 會在地下洞窟出現，或在夜晚隨機刷新。\n\n\u0026b詞綴\u0026r有多種類型，分別影響裝備的不同面向，例如：屬性、效果、耐久與\u0026b寶石鑲嵌槽\u0026r；寶石鑲嵌槽會在\u0026b寶石\u0026r章節中詳細說明。",
+    "context": "chapters/gearing_up.snbt / quest 464AED8311A32476",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.464AED8311A32476.title": {
+    "original": "\u0026fUnderstanding \u0026aAffix \u0026fitems",
+    "translation": "\u0026f認識\u0026a詞綴\u0026f物品",
+    "context": "chapters/gearing_up.snbt / quest 464AED8311A32476",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.496903AB7E8A0A92.quest_desc": {
+    "original": "\u0026eIron's Gems \\\u0026\\ Jewelry\u0026r is a mod that focus on combining materials and \u0026bJewels\u0026r to provide the player with special effects or stat increases.\n\nYou will need to craft a \u0026aJewelcrafting Station\u0026r to begin making some basic \u0026bJewelry\u0026r.\n\nTo learn more advanced \u0026bJewelry\u0026r, you will need to find their blueprints by trading with villagers, or making a purchase from the \u00266Shop\u0026r.\n\nMost \u0026bJewelry\u0026r consists of a \u0026aBand Metal\u0026r and a \u0026aGem\u0026r.",
+    "translation": "《\u0026e艾倫的珠寶與首飾\u0026r》是一款著重於結合材料與\u0026b寶石\u0026r，為玩家提供特殊效果或屬性提升的模組。\n\n你需要先製作\u0026a珠寶飾品工作台\u0026r，才能開始製作基礎\u0026b飾品\u0026r。\n\n若要學習更進階的\u0026b飾品\u0026r，需要與村民交易取得藍圖，或直接在\u00266商店\u0026r購買。\n\n大多數\u0026b飾品\u0026r由\u0026a戒指材料\u0026r與\u0026a寶石\u0026r組成。",
+    "context": "chapters/gearing_up.snbt / quest 496903AB7E8A0A92",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.496903AB7E8A0A92.title": {
+    "original": "\u0026eIron's Gems \\\u0026\\ Jewelry\u0026f!",
+    "translation": "\u0026e艾倫的珠寶與首飾\u0026f！",
+    "context": "chapters/gearing_up.snbt / quest 496903AB7E8A0A92",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4BCA8A5C3F80D375.quest_desc": {
+    "original": "The \u0026aSigil of Unnaming\u0026r removes the Affix name of an item, reverting it to its normal item name.\n\nFor example: \u0026dEndawn the Ogre Slayer's Windswept Burnt Shoes of the Spellwarden\u0026r will be renamed to \u0026dBurnt Shoes\u0026r.",
+    "translation": "\u0026a除名咒符\u0026r可移除物品名稱中的詞綴，讓名稱恢復為物品原始名稱。\n\n例如：\u0026d森亞琉琉歌的疊高高冰淇淋《我的母親》\u0026r會還原為\u0026d冰淇淋\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 4BCA8A5C3F80D375",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4D64F277A4330749.quest_desc": {
+    "original": "\u00266B.E.E.R. (Bookshelf Extended Enchanting Reach)\u0026r allows you to modify the range that enchanting tables scan for bookshelves!\n\nNormally, enchanting tables only look for bookshelves in a 5x5x3 area around them. With \u00266B.E.E.R.\u0026r, you can extend this out further!\n\nTo modify an enchanting table's range, you just need to hold a \u0026amodifier block\u0026r in your main hand and Sneak + Right-click it on the table.\n\nHolding a piece of \u0026anether quartz\u0026r in your offhand will decrease the range instead.",
+    "translation": "《\u00266B.E.E.R.\u0026r》讓你可以修改附魔台偵測書櫃的範圍！\n\n一般情況下，附魔台只會偵測周圍 5x5x3 區域內的書櫃。\n\n有了《\u00266B.E.E.R.\u0026r》之後，你可以將這個範圍擴張到更遠！\n\n要修改附魔台的範圍，你只需要在慣用手上拿著\u0026a修改用方塊\u0026r，對著附魔台「Shift + 點擊右鍵」即可。\n\n若非慣用手上還拿著\u0026a地獄石英\u0026r，則會改為縮小範圍。",
+    "context": "chapters/gearing_up.snbt / quest 4D64F277A4330749",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4D64F277A4330749.quest_subtitle": {
+    "original": "BEER for short",
+    "translation": "可縮寫成「BEER」",
+    "context": "chapters/gearing_up.snbt / quest 4D64F277A4330749",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4D64F277A4330749.title": {
+    "original": "Bookshelf Extended Enchantment Reach",
+    "translation": "書櫃偵測範圍擴張",
+    "context": "chapters/gearing_up.snbt / quest 4D64F277A4330749",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4DE483256F9E1D4F.quest_desc": {
+    "original": "The \u0026aSigil of Withdrawal\u0026r will remove all socketed \u0026bGems\u0026r on an item without damaging your item.\n\nThese can also be bought from the \u0026zShop\u0026r!",
+    "translation": "\u0026a卸除咒符\u0026r可移除物品上已鑲嵌的所有\u0026b寶石\u0026r，且不會損壞物品本體。\n\n這也可以在\u0026z商店\u0026r購買！",
+    "context": "chapters/gearing_up.snbt / quest 4DE483256F9E1D4F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.511B01F40006FC4B.quest_desc": {
+    "original": "\u0026zInfinity Tools\u0026r are unbreakable tools that can instantly break blocks.\n\nThe \u0026zPickaxe\u0026r and \u0026zShovel\u0026r can be 'Shift + Right-Clicked' to toggle modes, instantly vaporizing large areas of your world.",
+    "translation": "\u0026z無盡工具\u0026r本身不會損壞，且能夠瞬間破壞方塊。\n\n\u0026z鎬子\u0026r與\u0026z鏟子\u0026r可以透過「Shift + 右鍵」來切換模式，\n\n讓你所在世界的大範圍區域，瞬間消失殆盡。",
+    "context": "chapters/gearing_up.snbt / quest 511B01F40006FC4B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.511B01F40006FC4B.title": {
+    "original": "\u0026zInfinity Tools",
+    "translation": "\u0026z無盡工具",
+    "context": "chapters/gearing_up.snbt / quest 511B01F40006FC4B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51EBCDC63A047562.quest_desc": {
+    "original": "There are 3 sets of armor available through \u0026eMalum\u0026r.\n\n\u0026aSoulhunter Armor\u0026r provides slightly more than leather-tier protection.\n\n\u0026bSoulstained Armor\u0026r provides diamond-tier protection.\n\n\u0026dMalignant Stronghold Armor\u0026r provides netherite-tier protection.",
+    "translation": "\u0026e靈災\u0026r提供三套可用盔甲。\n\n\u0026a靈魂獵手盔甲\u0026r的防護力略高於皮革盔甲。\n\n\u0026b魂染鋼盔甲\u0026r具備鑽石盔甲等級的防護力。\n\n\u0026d惡念要塞盔甲\u0026r具備獄髓盔甲等級的防護力。",
+    "context": "chapters/gearing_up.snbt / quest 51EBCDC63A047562",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.51EBCDC63A047562.title": {
+    "original": "\u0026eMalum \u0026fArmor",
+    "translation": "《\u0026e靈災\u0026f》盔甲",
+    "context": "chapters/gearing_up.snbt / quest 51EBCDC63A047562",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5388B67410670702.quest_desc": {
+    "original": "[\"\", {\"text\": \"Draconic\", \"color\": \"gold\"}, \" weapons are upgraded versions of \", {\"text\": \"Wyvern\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C141655079AC173\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \" weapons, with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and better customizability.\"]\n\nYou can also craft the \u00266Draconic Staff of Power\u0026r, an All-In-One tool and weapon.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "[\"\", {\"text\": \"神龍武器\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍武器\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0B65713A23351790\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍武器任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與更高自訂性。\"]\n\n你也可以製作\u00266神龍力量權杖\u0026r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 5388B67410670702",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5388B67410670702.title": {
+    "original": "\u00266Draconic \u0026fWeapons",
+    "translation": "\u00266神龍\u0026f武器",
+    "context": "chapters/gearing_up.snbt / quest 5388B67410670702",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.57DF1A1F0556B970.quest_desc": {
+    "original": "\u00266Industrial Foregoing\u0026r has several machines that can help you when dealing with enchantments.\n\nThe \u0026dEnchantment Applicator\u0026r works like a mechanical anvil. Instead of using experience to enchant items, it will use \u0026aEssence\u0026r instead.\n\nThe \u0026dEnchantment Sorter\u0026r will filter enchanted items from non-enchanted items, placing anything that's enchanted in the top output. You can send these to different sides for extraction via pipes.\n{@pagebreak}\nThe \u0026dEnchantment Extractor\u0026r will strip down enchanted books from enchanted items when provided with books, effectively harvesting enchants off unused gear.\n\nThe \u0026dEnchantment Factory\u0026r will automatically enchant books with enchantment level of 30 using a good amount of \u0026aEssence\u0026r.",
+    "translation": "《\u00266工業先鋒\u0026r》提供多種機器來協助你處理附魔相關事務：\n\n\u0026d自動附魔鐵砧\u0026r：運作方式類似機械化的鐵砧。它不消耗經驗值，而是使用\u0026a精華液\u0026r來為物品附魔。\n\n\u0026d附魔物品分類器\u0026r：會將有附魔與沒附魔的物品分開，並將任何帶有附魔的物品從上方輸出。你可以透過管道，從機器的不同側，分別將它們提取出來。\n{@pagebreak}\n\u0026d附魔提取器\u0026r：只要提供書，它就能將附魔從物品上分離並轉移至書上，讓你有效回收沒用到的裝備附魔。\n\n\u0026d電動附魔台\u0026r：會消耗大量的\u0026a精華液\u0026r，自動為書附上相當於 30 級的附魔。",
+    "context": "chapters/gearing_up.snbt / quest 57DF1A1F0556B970",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.57DF1A1F0556B970.title": {
+    "original": "Enchantment Machines",
+    "translation": "附魔機器",
+    "context": "chapters/gearing_up.snbt / quest 57DF1A1F0556B970",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.58DDBF43D54AF67F.quest_desc": {
+    "original": "\u0026eMalum\u0026r weapons often have special abilities that synergize very well with other features of the mod, dealing significant amounts of damage.",
+    "translation": "\u0026e靈災\u0026r的武器通常具備特殊能力，能和模組內其他機制形成良好連動，打出可觀傷害。",
+    "context": "chapters/gearing_up.snbt / quest 58DDBF43D54AF67F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.58DDBF43D54AF67F.title": {
+    "original": "\u0026eMalum \u0026fWeapons",
+    "translation": "《\u0026e靈災\u0026f》武器",
+    "context": "chapters/gearing_up.snbt / quest 58DDBF43D54AF67F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.59CBFA5583139A3B.quest_desc": {
+    "original": "The \u0026dReforging Table\u0026r is an improved version of the \u0026aSimple Reforging Table\u0026r, allowing you to reforge items of all rarities, including \u0026zMythic\u0026r items.",
+    "translation": "\u0026d重鑄台\u0026r是\u0026a簡易重鑄台\u0026r的進階版本，可重鑄所有稀有度物品，包含\u0026z神話\u0026r稀有度。",
+    "context": "chapters/gearing_up.snbt / quest 59CBFA5583139A3B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.59CBFA5583139A3B.title": {
+    "original": "\u0026dReforging Table\u0026r",
+    "translation": "\u0026d重鑄台\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 59CBFA5583139A3B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5AC7EEC3D69AF032.quest_desc": {
+    "original": "\u0026bCelestigem\u0026r tools are the next tier of tools from \u00266Just Dire Things\u0026r.\n\nInstead of using durability, these tools use \u0026cenergy\u0026r instead, and can have even more upgrades that can be installed.\n\nThese can be made once you've made a trip out to the \u0026dAncient City\u0026r and made \u0026dVoidshimmer Goo\u0026r. ",
+    "translation": "\u0026b天體寶石\u0026r工具是《\u00266Just Dire Things\u0026r》的下一階工具。\n\n這些工具以\u0026c能量\u0026r取代耐久，並可安裝更多升級。\n\n前往\u0026d遠古城市\u0026r並製作出\u0026d虛輝凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 5AC7EEC3D69AF032",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5AC7EEC3D69AF032.title": {
+    "original": "\u0026bCelestigem Tools",
+    "translation": "\u0026b天體寶石工具",
+    "context": "chapters/gearing_up.snbt / quest 5AC7EEC3D69AF032",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5B7448EEC26FF0E3.quest_desc": {
+    "original": "The \u0026aCooking Table\u0026r is the first big craft you'll want to make to get started making your kitchen!\n\nThis block acts as the main crafting table for foods, and is the centerpiece of your \u0026aKitchen Multiblock\u0026r. When opened, it will show you every food you can make based on what you have stored in the multiblock and what appliances you have connected.\n\nYou can expand your kitchen by adding \u0026aCabinets\u0026r or \u0026aCounters\u0026r.\n\n\u0026eNote\u0026r: Certain mods won't connect with it, like the \u0026bFarmer's Delight Cooking Pot\u0026r. Make sure to always check JEI for specific recipes! ",
+    "translation": "\u0026a烹飪台\u0026r是你在打造廚房時，第一個需要製作的大型物件！\n\n這個方塊是食物的主要工作台，也是你\u0026a廚房多方塊結構\u0026r的核心。\n\n開啟後，它會根據你儲存在結構中的食材，以及連接的設備，顯示出所有你可以製作的料理。\n\n你可以透過加入\u0026a廚房櫃\u0026r或\u0026a流理台\u0026r來擴張你的廚房。\n\n\u0026e注意\u0026r：某些模組的設備無法與其連接，例如\u0026b《農夫樂事》的烹飪鍋\u0026r。\n請務必查看 JEI，以確認特定配方的製作方式！",
+    "context": "chapters/gearing_up.snbt / quest 5B7448EEC26FF0E3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5B7448EEC26FF0E3.title": {
+    "original": "The \u0026aKitchen Multiblock\u0026r",
+    "translation": "\u0026a廚房多方塊結構\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 5B7448EEC26FF0E3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D20790BCDE45CF9.quest_desc": {
+    "original": "The \u0026dEnderic Railgun\u0026r from \u00266Oritech\u0026r is a powerful ranged weapon that fires a high-speed projectile, dealing significant damage to enemies and breaking blocks at a distance.\n\nLeft mouse button can fire a continuous beam that damages any entities in its path and can also mine the first block in line. Energy will be transferred to an energy containing block instead of breaking it. It can also transform mined blocks, similar to the \u0026aEnderic Laser\u0026r.\n{@pagebreak}\nMining-Mode can be toggled by Sneak + Right-Clicking with the item in hand.\n\nUsing the right mouse button fires a powerful projectile that explodes at the target location, destroying nearby blocks and entities.",
+    "translation": "《\u00266起源科技\u0026r》的\u0026d終界雷射砲\u0026r，是一把強力遠程武器，可發射高速彈體，對敵人造成可觀傷害，並能遠距離破壞方塊。\n\n左鍵可發射持續光束，會傷害路徑上的任何實體，也能挖掘前方第一個方塊。\n\n若目標方塊可儲存能量，會優先傳輸能量而非破壞。\n\n它也能像\u0026a終界雷射\u0026r一樣轉化挖掘出的方塊。\n{@pagebreak}\n手持此物品時，可用「潛行 + 右鍵」切換挖掘模式。\n\n右鍵會發射強力彈體，於目標位置爆炸並摧毀周遭方塊與實體。",
+    "context": "chapters/gearing_up.snbt / quest 5D20790BCDE45CF9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5DF92F096DB91299.quest_desc": {
+    "original": "The \u0026dMeka-Tool\u0026r is a power-consuming tool that can be upgraded and customized in a \u0026aModification Station\u0026r with a variety of \u0026bModules\u0026r to improve its performance.\u0026r",
+    "translation": "\u0026dMeka-工具\u0026r是一把耗能工具，你能在\u0026a改裝站\u0026r中，安裝各種\u0026b模組\u0026r進行升級與客製化，進一步提升性能。",
+    "context": "chapters/gearing_up.snbt / quest 5DF92F096DB91299",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5DF92F096DB91299.title": {
+    "original": "\u0026dMeka-Tool",
+    "translation": "\u0026dMeka 工具",
+    "context": "chapters/gearing_up.snbt / quest 5DF92F096DB91299",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5E2F4A6147694D5C.quest_desc": {
+    "original": "[\"\", {\"text\": \"Chaotic\", \"color\": \"rainbow\"}, \" tools are the final upgrades to \", {\"text\": \"Draconic\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"11A35E8F97ACA240\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Draconic Tools Quest\"}}, \" tools, with the most room for \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and maximum customizability.\"]\n\nYou can also upgrade into or craft the \u0026zChaotic Staff of Power\u0026r, an All-In-One tool and weapon.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "[\"\", {\"text\": \"混沌工具\", \"color\": \"rainbow\"}, \"是\", {\"text\": \"神龍工具\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"11A35E8F97ACA240\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神龍工具任務\"}}, \"的最終升級，擁有最多的\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與最高自訂性。\"]\n\n你也可以升級或直接製作\u0026z混沌力量權杖\u0026r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。",
+    "context": "chapters/gearing_up.snbt / quest 5E2F4A6147694D5C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E2F4A6147694D5C.title": {
+    "original": "\u0026zChaotic \u0026fTools",
+    "translation": "\u0026z混沌\u0026f工具",
+    "context": "chapters/gearing_up.snbt / quest 5E2F4A6147694D5C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5ED10C54AE06DB40.quest_desc": {
+    "original": "\u0026zInfinity Armor\u0026r negates all damage to the player and provides jump boost and movement speed.\n\n\u0026eNote\u0026r: You will need the entire set to prevent damage.",
+    "translation": "\u0026z無盡盔甲\u0026r能為玩家抵銷所有傷害，並提供跳躍與移動速度加成。\n\n\u0026e注意\u0026r：你需要裝備整套盔甲才能完全免疫傷害。",
+    "context": "chapters/gearing_up.snbt / quest 5ED10C54AE06DB40",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5ED10C54AE06DB40.title": {
+    "original": "\u0026zInfinity Armor",
+    "translation": "\u0026z無盡盔甲",
+    "context": "chapters/gearing_up.snbt / quest 5ED10C54AE06DB40",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5FFC80176D33E4E1.quest_desc": {
+    "original": "\u00266ProjectE\u0026r gear negates a percentage of damage when equipped, with \u0026cRed Matter\u0026r gear having the strongest reduction of damage overall.\n\n\u0026eNote\u0026r: To craft these, you must have the \u0026aMachine Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "裝備《\u00266等價交換\u0026r》的裝備時，可減免一定比例傷害，其中\u0026c紅物質\u0026r裝備的減傷效果最強。\n\n\u0026e注意\u0026r：要製作這些裝備，你必須先有\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 5FFC80176D33E4E1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5FFC80176D33E4E1.title": {
+    "original": "ProjectE Armors",
+    "translation": "《等價交換》盔甲",
+    "context": "chapters/gearing_up.snbt / quest 5FFC80176D33E4E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.60FDF616DEDE5E73.quest_desc": {
+    "original": "\u0026eApotheosis\u0026r overhauls exploration and combat by creating a more RPG-like experience.\n\nItems and mobs you can find in the world can have special \u0026bAffixes\u0026r on them, making them much stronger, and sometimes giving them special abilities to make things even more fun!\n\nIf you feel lost, you can always refer to the \u0026aChronicle of Shadows\u0026r, which is the guidebook for the mod.",
+    "translation": "《\u0026e神化\u0026r》改造了探索與戰鬥流程，帶來更接近 RPG 的體驗。\n\n你在世界中遇到的物品與怪物，都可能帶有特殊\u0026b詞綴\u0026r，讓它們更強，甚至擁有額外能力，戰鬥也更有變化！\n\n若你一時摸不著頭緒，可以隨時查閱本模組的指南手冊《\u0026a闇影編年史\u0026r》。",
+    "context": "chapters/gearing_up.snbt / quest 60FDF616DEDE5E73",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.60FDF616DEDE5E73.title": {
+    "original": "\u0026eApothic Gems\u0026f!",
+    "translation": "\u0026e神化寶石\u0026f！",
+    "context": "chapters/gearing_up.snbt / quest 60FDF616DEDE5E73",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.620F29613800DC94.quest_desc": {
+    "original": "The \u0026aRune Inscribed Ring\u0026r pattern allows you to inscribe \u0026dRunes\u0026r from the \u00266Iron's Spells\u0026r mod.\n\nThese \u0026dRunes\u0026r will empower the ring with different powers. Make sure to experiment!\n\n\u0026eNote\u0026r: This can only be bought from the \u0026dEnchanter's\u0026r \u0026zShop\u0026r.",
+    "translation": "\u0026a銘刻符文之戒\u0026r的卷軸，可讓你刻印來自《\u00266艾倫的法術\u0026r》模組的\u0026d符文\u0026r。\n\n這些\u0026d符文\u0026r會為戒指賦予不同能力，記得多嘗試各種搭配！\n\n\u0026e注意\u0026r：此卷軸只能在\u0026d附魔道長\u0026r的\u0026z商店\u0026r購買。",
+    "context": "chapters/gearing_up.snbt / quest 620F29613800DC94",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.620F29613800DC94.title": {
+    "original": "Inscribing Runes",
+    "translation": "銘刻符文",
+    "context": "chapters/gearing_up.snbt / quest 620F29613800DC94",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.64B237B611F88036.quest_desc": {
+    "original": "\u0026dEclipse Alloy\u0026r is the final tier from \u00266Just Dire Things\u0026r.\n\nThese are powered armors that can use the best upgrades from the mod.\n\nThese can be made once you've defeated the \u0026dChicken Jockey\u0026r and made \u0026dShadowpulse Goo\u0026r. ",
+    "translation": "\u0026d日蝕合金\u0026r是《\u00266Just Dire Things\u0026r》的最終盔甲階級。\n\n這些是耗能盔甲，可使用模組中最頂級的升級。\n\n擊敗\u0026d雞騎士\u0026r並製作出\u0026d影脈凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 64B237B611F88036",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.64B237B611F88036.title": {
+    "original": "\u0026dEclipse Alloy \u0026fArmor",
+    "translation": "\u0026d日蝕合金\u0026f盔甲",
+    "context": "chapters/gearing_up.snbt / quest 64B237B611F88036",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.67012432915196A3.title": {
+    "original": "Weapons",
+    "translation": "武器",
+    "context": "chapters/gearing_up.snbt / quest 67012432915196A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.689F96B63A0455D9.title": {
+    "original": "Tools",
+    "translation": "工具",
+    "context": "chapters/gearing_up.snbt / quest 689F96B63A0455D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6B584FB6F2EEBCD0.quest_desc": {
+    "original": "\u0026dArcane Essence\u0026r can be useful in making your first magic armor set from \u00266Iron's Spells\u0026r.\n\nWhen combined with a piece of leather armor, it creates a piece of the \u0026aWandering Magician Set\u0026r.\n\nOnce you have a good bit of essence, you can create the \u0026dWizard\u0026r set using \u0026dArcane Cloth\u0026r.\n\nThese are both great starting sets for slinging spells.",
+    "translation": "\u0026d奧術源質\u0026r可用來製作你在《\u00266艾倫的法術\u0026r》的第一套魔法盔甲。\n\n將它與皮革盔甲結合，可製作\u0026a流浪法師套裝\u0026r的部件。\n\n當你累積到足夠源質後，就能使用\u0026d奧術布匹\u0026r製作\u0026d巫師套裝\u0026r。\n\n這兩套都是非常適合前期施法的起手裝備。",
+    "context": "chapters/gearing_up.snbt / quest 6B584FB6F2EEBCD0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6B584FB6F2EEBCD0.title": {
+    "original": "\u0026eIron's Spells \u0026fBasic Armor",
+    "translation": "《\u0026e艾倫的法術\u0026f》基礎盔甲",
+    "context": "chapters/gearing_up.snbt / quest 6B584FB6F2EEBCD0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6C7F31673B12795D.quest_desc": {
+    "original": "\u0026dEclipse Alloy\u0026r is the final tier from \u00266Just Dire Things\u0026r.\n\nThese are powered weapons that can use the best upgrades from the mod.\n\nThese can be made once you've defeated the \u0026dChicken Jockey\u0026r and made \u0026dShadowpulse Goo\u0026r. ",
+    "translation": "\u0026d日蝕合金\u0026r是《\u00266Just Dire Things\u0026r》的最終武器階級。\n\n這些是耗能武器，可使用模組中最頂級的升級。\n\n擊敗\u0026d雞騎士\u0026r並製作出\u0026d影脈凝漿\u0026r後即可製作。",
+    "context": "chapters/gearing_up.snbt / quest 6C7F31673B12795D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6C7F31673B12795D.title": {
+    "original": "\u0026dEclipse Alloy \u0026fWeapons",
+    "translation": "\u0026d日蝕合金\u0026f武器",
+    "context": "chapters/gearing_up.snbt / quest 6C7F31673B12795D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6EE1C1B7FFB86C6C.quest_desc": {
+    "original": "\u0026aSigils of Socketing\u0026r are used to increase the number of \u0026bGem Sockets\u0026r of an \u0026bAffix\u0026r item.\n\nThese can also be bought from the \u0026zShop\u0026r!",
+    "translation": "\u0026a鑲嵌咒符\u0026r可增加\u0026b詞綴\u0026r物品的\u0026b寶石鑲嵌槽\u0026r數量。\n\n這也可以在\u0026z商店\u0026r購買！",
+    "context": "chapters/gearing_up.snbt / quest 6EE1C1B7FFB86C6C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.700716B4ACCBD4F4.quest_desc": {
+    "original": "[\"The \", {\"text\": \"Draconic Chestpiece\", \"color\": \"gold\"}, \" is an upgraded versions of the \", {\"text\": \"Wyvern Chestpiece\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"69997DAB93184551\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Chestpiece Quest\"}}, \", with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \".\"]\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "translation": "[\"\", {\"text\": \"神龍護胸\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍護胸\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"464C0012A47EFDE4\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍護胸任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間。\"]\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。\n\n\u0026e注意\u0026r：要製作此物品，你必須先擁有\u0026c高級機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 700716B4ACCBD4F4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.700716B4ACCBD4F4.title": {
+    "original": "\u00266Draconic \u0026fChestpiece",
+    "translation": "\u00266神龍\u0026f護胸",
+    "context": "chapters/gearing_up.snbt / quest 700716B4ACCBD4F4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.70D5BEA5CC437AB6.quest_desc": {
+    "original": "Got a lot of random enchanted gear? Using a \u0026dTome of Scrapping\u0026r, you can break it down and extract some of the enchantments from it.\n\nThe \u0026dTome of Extraction\u0026r will also remove all enchants, but will keep the item from being destroyed, allowing you to remove and replace any number of enchantments on an item at will.\n\nIf you're looking for a specific enchantment for a specific tool, you can use \u0026dTomes\u0026r which can be crafted to only support a certain class of enchantments.",
+    "translation": "手上有一堆隨機附魔的裝備嗎？使用\u0026d拆解寶典\u0026r，可分解裝備並從中取出部分附魔。\n\n\u0026d提取寶典\u0026r同樣可移除所有附魔，但不會破壞物品，讓你能自由替換同一件裝備上的附魔。\n\n若你要替特定工具找特定附魔，也可製作只支援特定附魔類型的\u0026d寶典\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 70D5BEA5CC437AB6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.722901B4259D8AEC.quest_desc": {
+    "original": "The next goal will be to hit \u0026a60\u0026r \u00266Eterna\u0026r, \u0026a40\u0026r \u0026cQuanta\u0026r, and \u0026a40\u0026r \u0026dArcana\u0026r.\n\nThis will require upgrading the \u0026dInfused Bookshelves\u0026r. ",
+    "translation": "下一個目標是達到 \u0026a60\u0026r \u00266位階\u0026r、\u0026a40%\u0026r \u0026c量子化\u0026r 與 \u0026a40%\u0026r \u0026d阿卡那\u0026r。\n\n這需要進一步升級\u0026d灌注書櫃\u0026r。 ",
+    "context": "chapters/gearing_up.snbt / quest 722901B4259D8AEC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7244348CAB8356E0.quest_desc": {
+    "original": "[\"The \", {\"text\": \"Chaotic Chestpiece\", \"color\": \"rainbow\"}, \" is the final upgrade to the \", {\"text\": \"Draconic Chestpiece\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5388B67410670702\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Draconic Chestpiece Quest\"}}, \", with the most room for \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and maximum customizability.\"]\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't set by default.",
+    "translation": "[\"\", {\"text\": \"混沌護胸\", \"color\": \"rainbow\"}, \"是\", {\"text\": \"神龍護胸\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"700716B4ACCBD4F4\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神龍護胸任務\"}}, \"的最終升級，擁有最多的\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與最高自訂性。\"]\n\n其模組欄位可透過「\u0026e升級模組介面\u0026r」快捷鍵開啟，預設為\n「Shift + C」。",
+    "context": "chapters/gearing_up.snbt / quest 7244348CAB8356E0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7244348CAB8356E0.title": {
+    "original": "\u0026zChaotic Chestpiece",
+    "translation": "\u0026z混沌護胸",
+    "context": "chapters/gearing_up.snbt / quest 7244348CAB8356E0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7244D5DADCF0D7A2.quest_desc": {
+    "original": "The \u0026bSeashelf of Aquatic Filtration\u0026r can be loaded with up to six enchanted books, and will block those enchantments from showing up again.\n\nWorks with \u0026cCursed Enchants\u0026r as well!",
+    "translation": "\u0026b海洋篩選書櫃\u0026r最多可放入六本附魔書，並阻止這些附魔再次出現在附魔結果中。\n\n對\u0026c詛咒附魔\u0026r也同樣有效！",
+    "context": "chapters/gearing_up.snbt / quest 7244D5DADCF0D7A2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.73871351B8E5775B.quest_desc": {
+    "original": "If you are more of a spellcaster and want to power up your spells, \u00266Iron's Spells\u0026r has plenty of options for gearing up.\n\nThere are many different armor sets that provide powerful buffs to different spell schools.",
+    "translation": "若你有偏好的法術學派、想強化你的施法能力，《\u00266艾倫的法術\u0026r》提供了很多裝備選擇。\n\n這裡有許多不同的盔甲套裝，能為各種學派提供強力增益。",
+    "context": "chapters/gearing_up.snbt / quest 73871351B8E5775B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.73871351B8E5775B.title": {
+    "original": "\u0026eIron's Spells \u0026fElemental Armor",
+    "translation": "《\u0026e艾倫的法術\u0026f》元素盔甲",
+    "context": "chapters/gearing_up.snbt / quest 73871351B8E5775B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.744120E37CD03AE0.quest_desc": {
+    "original": "The \u0026aAtomic Disassembler\u0026r from \u00266Mekanism\u0026r is an unbreakable tool that consumes power to break blocks.\n\nIt functions as a pickaxe, axe, and shovel simultaneously.",
+    "translation": "《\u00266通用機械\u0026r》的\u0026a原子分解機\u0026r是一把不會損壞、以能量破壞方塊的工具。\n\n它同時具備鎬、斧與鏟的功能。",
+    "context": "chapters/gearing_up.snbt / quest 744120E37CD03AE0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.744120E37CD03AE0.title": {
+    "original": "\u0026fAtomic Disassembler",
+    "translation": "\u0026f原子分解機",
+    "context": "chapters/gearing_up.snbt / quest 744120E37CD03AE0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.749634B68269401A.quest_desc": {
+    "original": "\u00266ProjectE\u0026r has several very strong weapons that can be made once you have your hands on enough EMC and a \u0026cNetherite Smithing Template\u0026r.\n\nThese weapons have different modes that can be used to empower them to do even more damage or increase the AoE range.\n\n\u0026eNote\u0026r: To craft these, you must have the \u0026aMachine Block\u0026r \u00266World Engine Upgrade\u0026r.",
+    "translation": "當你取得足夠的 EMC 與\u0026c獄髓鍛造模板\u0026r後，《\u00266等價交換\u0026r》\n可製作多種非常強力的武器。\n\n這些武器擁有不同的模式，可用於強化攻擊威力，或擴大攻擊範圍。\n\n\u0026e注意\u0026r：要製作這些武器，你必須先有\u0026a機器方塊\u0026r\u00266世界引擎升級\u0026r。",
+    "context": "chapters/gearing_up.snbt / quest 749634B68269401A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.749634B68269401A.title": {
+    "original": "ProjectE Weapons",
+    "translation": "《等價交換》武器",
+    "context": "chapters/gearing_up.snbt / quest 749634B68269401A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7552BF792403EF44.quest_desc": {
+    "original": "\u00263Enchanting Clues\u0026r give you more text on the enchanting table, letting you see more of what's going to be put onto your books and items before you click the button.",
+    "translation": "\u00263附魔提示\u0026r可在附魔台顯示更多提示文字，讓你在按下按鈕前，先看到更多即將附到書本與裝備上的內容。",
+    "context": "chapters/gearing_up.snbt / quest 7552BF792403EF44",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75DB0E723089281E.quest_desc": {
+    "original": "There are several appliances you can connect to your \u0026aKitchen Multiblock\u0026r!\n\nThe \u0026aSink\u0026r will provide access to recipes that require Water. You will need to provide water to the Sink; it is not infinite.\n\nThe \u0026aFridge\u0026r is the perfect place to store cold items, and can be upgraded to provide more recipes for your \u0026bKitchen Multiblock\u0026r!\n\nThe \u0026aOven\u0026r will provide access to recipes that require the use of a furnace or smoker as long as it has fuel.",
+    "translation": "你可以為你的\u0026a廚房多方塊結構\u0026r連接多種設備：\n\n\u0026a水槽\u0026r：提供需要用到「水」的配方。你需要手動為水槽供水，它並非無限水源。\n\n\u0026a冰箱\u0026r：儲存低溫物品的絕佳地點，升級後還能為你的\u0026b廚房多方塊結構\u0026r提供更多配方！\n\n\u0026a烤箱\u0026r：只要放入燃料，就能提供需要使用熔爐，或煙燻爐進行烹飪的配方。",
+    "context": "chapters/gearing_up.snbt / quest 75DB0E723089281E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75DB0E723089281E.title": {
+    "original": "Kitchen Appliances",
+    "translation": "廚房設備",
+    "context": "chapters/gearing_up.snbt / quest 75DB0E723089281E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.777F76601D213DF2.quest_desc": {
+    "original": "The \u0026eSimply Swords\u0026r mod adds a wide range of weapons that you can choose to craft.\n\n\u0026dRunic Weapons\u0026r require \u0026dRunic Tablets\u0026r found by exploring the world.\n\n\u00266Unique Weapons\u0026r can also be rarely found during your explorations, though some may also be crafted.",
+    "translation": "《\u0026e簡易刀劍\u0026r》模組加入了多樣化的武器供你選擇與製作。\n\n\u0026d符文武器\u0026r需要消耗探索世界取得的\u0026d符文石板\u0026r來進行製作。\n\n在探索過程中也有極低機率發現\u00266獨特武器\u0026r，不過其中一部分也可以透過合成獲得。",
+    "context": "chapters/gearing_up.snbt / quest 777F76601D213DF2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.777F76601D213DF2.title": {
+    "original": "\u0026eSimply Swords",
+    "translation": "\u0026e簡易刀劍",
+    "context": "chapters/gearing_up.snbt / quest 777F76601D213DF2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.78C4840B377E14FD.quest_desc": {
+    "original": "The \u0026aEnchanter\u0026r from \u00266EnderIO\u0026r is an \u0026dEnchantment Table\u0026r that allows you to pick which enchantment you want to make.\n\nWhen provided with specific items and \u00262Experience\u0026r, you can enchant \u0026aBook \\\u0026\\ Quills\u0026r with an enchantment of your choice.\n\nTo see which enchantments you can make, make sure to check out the uses in JEI!",
+    "translation": "來自《\u00266EnderIO\u0026r》的\u0026a附魔器\u0026r，是一種可以讓你自由挑選想要製作哪種附魔的設備。\n\n只要提供特定的物品與\u00262經驗值\u0026r，你就可以將\u0026a書和羽毛筆\u0026r附魔成你指定的附魔書。\n\n想知道可以製作哪些附魔，請透過 JEI 查看此機器的用途！",
+    "context": "chapters/gearing_up.snbt / quest 78C4840B377E14FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7ACCC2EECD9883FD.quest_desc": {
+    "original": "\u0026eCognition\u0026r tools are as good as diamond gear with an extra block interaction range.",
+    "translation": "來自《\u0026e認知\u0026r》的工具，具有鑽石級別的性能，且附帶更遠的方塊互動距離。",
+    "context": "chapters/gearing_up.snbt / quest 7ACCC2EECD9883FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7ACCC2EECD9883FD.title": {
+    "original": "\u0026eCognition \u0026fTools",
+    "translation": "《\u0026e認知\u0026r》工具",
+    "context": "chapters/gearing_up.snbt / quest 7ACCC2EECD9883FD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7B496376BC7B399A.quest_desc": {
+    "original": "\u0026aThe Ender\u0026r is a diamond-tier sword that specializes in beheading your enemies.",
+    "translation": "\u0026a終結之劍\u0026r是一把鑽石級別的劍，其特別之處在於能用來斬你的敵人首級。",
+    "context": "chapters/gearing_up.snbt / quest 7B496376BC7B399A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B496376BC7B399A.title": {
+    "original": "\u0026fThe Ender",
+    "translation": "\u0026f終結之劍",
+    "context": "chapters/gearing_up.snbt / quest 7B496376BC7B399A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7B6A17901EC8180C.quest_desc": {
+    "original": "The \u0026zRed Morningstar\u0026r is the ultimate all-in-one tool from \u00266ProjectE\u0026r.",
+    "translation": "\u0026z紅物質釘頭錘\u0026r是來自《\u00266等價交換\u0026r》的終極全能工具。",
+    "context": "chapters/gearing_up.snbt / quest 7B6A17901EC8180C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B6A17901EC8180C.title": {
+    "original": "\u0026cRed Morningstar\u0026r",
+    "translation": "\u0026c紅物質釘頭錘\u0026r",
+    "context": "chapters/gearing_up.snbt / quest 7B6A17901EC8180C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E685EAD7FB60B45.quest_desc": {
+    "original": "The \u0026aSalvaging Table\u0026r is used to break down affix items into their corresponding rarity materials:\n\n{\"text\": \"Common - Mysterious Scrap Metal\", \"color\": \"#7E7E7E\"}\n{\"text\": \"Uncommon - Timeworn Fabric\", \"color\": \"#55FF55\"}\n{\"text\": \"Rare - Luminous Crystal Shard\", \"color\": \"#5454FC\"}\n{\"text\": \"Epic - Arcane Sands\", \"color\": \"#B900B9\"}\n\nThe \u0026aSalvaging Table\u0026r can be automated by sending items in from the top or sides, and extracting them from the bottom of the table. Don't lose any items!\n\n\u0026eNote\u0026f: \u0026#EA6F14Godforged Pearls \u0026cCANNOT\u0026r be salvaged in this pack. You will have to craft them via the \u00266World Engine\u0026r after unlocking the \u00263Draconic Upgrade\u0026r.",
+    "translation": "\u0026a分解台\u0026r可將詞綴物品拆解為對應稀有度材料：\n\n{\"text\": \"普通 - 神秘金屬廢料\", \"color\": \"#7E7E7E\"}\n{\"text\": \"罕見 - 沉舊布料\", \"color\": \"#55FF55\"}\n{\"text\": \"稀有 - 發光水晶碎片\", \"color\": \"#5454FC\"}\n{\"text\": \"史詩 - 奧術沙\", \"color\": \"#B900B9\"}\n\n\u0026a分解台\u0026r可自動化：\n從上方或側面輸入物品，並從底部抽出。小心別把重要物品送進去了！\n\n\u0026e備註\u0026f：在本模組包中，\u0026#EA6F14神鑄珍珠\u0026c無法\u0026r透過分解取得。\n\n你必須在解鎖\u00263龍族升級\u0026r後，透過\u00266世界引擎\u0026r合成。",
+    "context": "chapters/gearing_up.snbt / quest 7E685EAD7FB60B45",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7E685EAD7FB60B45.title": {
+    "original": "\u0026fThe \u0026aSalvaging Table",
+    "translation": "\u0026f\u0026a分解台",
+    "context": "chapters/gearing_up.snbt / quest 7E685EAD7FB60B45",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E88C7654F281E43.quest_desc": {
+    "original": "The \u0026#EA6F14Augmenting Table\u0026r is an end-game crafting station used to augment the individual affixes on an item.\n\nIt can upgrade an existing Affix at the cost of two \u0026#EA6F14Sigils of Enhancement\u0026r, or can reroll affixes at the cost of 1 \u0026#EA6F14Sigil of Enhancement\u0026r.",
+    "translation": "\u0026#EA6F14詞綴改造台\u0026r是遊戲後期的工作站，用來強化物品上的單一詞綴。\n\n可消耗兩個\u0026#EA6F14強化咒符\u0026r來升級現有詞綴，或消耗一個\u0026#EA6F14強化咒符\u0026r來重洗詞綴。",
+    "context": "chapters/gearing_up.snbt / quest 7E88C7654F281E43",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7E88C7654F281E43.title": {
+    "original": "The \u0026#EA6F14Augmenting Table",
+    "translation": "\u0026#EA6F14詞綴改造台",
+    "context": "chapters/gearing_up.snbt / quest 7E88C7654F281E43",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.01AB71CC57E2057D.title": {
+    "original": "Any #minecraft:candles",
+    "translation": "任何 #minecraft:candles",
+    "context": "chapters/gearing_up.snbt / task 01AB71CC57E2057D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.04FA10D12C67E713.title": {
+    "original": "Netherite Vanilla Tools",
+    "translation": "獄髓原版工具",
+    "context": "chapters/gearing_up.snbt / task 04FA10D12C67E713",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.05118382686E3B7F.title": {
+    "original": "Malum Weapons",
+    "translation": "《靈災》武器",
+    "context": "chapters/gearing_up.snbt / task 05118382686E3B7F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0879C32890B7363C.title": {
+    "original": "\u0026dRunic Weapons",
+    "translation": "\u0026d符文武器",
+    "context": "chapters/gearing_up.snbt / task 0879C32890B7363C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.08D1694DFD199F2E.title": {
+    "original": "Modifier Items",
+    "translation": "修改用物品",
+    "context": "chapters/gearing_up.snbt / task 08D1694DFD199F2E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.08F70556D06E7B86.title": {
+    "original": "Bookshelf Extended Enchantment Reach",
+    "translation": "書櫃偵測範圍擴張",
+    "context": "chapters/gearing_up.snbt / task 08F70556D06E7B86",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.09842F1F80A0B5A9.title": {
+    "original": "Extraction Tomes",
+    "translation": "提取寶典",
+    "context": "chapters/gearing_up.snbt / task 09842F1F80A0B5A9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.09DE0D0E04573900.title": {
+    "original": "Kitchen Counters",
+    "translation": "廚房流理台",
+    "context": "chapters/gearing_up.snbt / task 09DE0D0E04573900",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0AAA6FAB20E74E5F.title": {
+    "original": "Upgraded Hellshelves",
+    "translation": "升級地獄書櫃",
+    "context": "chapters/gearing_up.snbt / task 0AAA6FAB20E74E5F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0AFBB94C24406DAD.title": {
+    "original": "Heart Canisters",
+    "translation": "心罐",
+    "context": "chapters/gearing_up.snbt / task 0AFBB94C24406DAD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0D2B50FDF033C966.title": {
+    "original": "Iron's Armor",
+    "translation": "《艾倫的法術》盔甲",
+    "context": "chapters/gearing_up.snbt / task 0D2B50FDF033C966",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0D88BFCD6CDC0266.title": {
+    "original": "weapons",
+    "translation": "武器",
+    "context": "chapters/gearing_up.snbt / task 0D88BFCD6CDC0266",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.11F49F841465DAAD.title": {
+    "original": "Ferricore Weapons",
+    "translation": "核鐵武器",
+    "context": "chapters/gearing_up.snbt / task 11F49F841465DAAD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1464DA1D0A45EF99.title": {
+    "original": "Wizard Armor",
+    "translation": "巫師盔甲",
+    "context": "chapters/gearing_up.snbt / task 1464DA1D0A45EF99",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.16D5556D98667242.title": {
+    "original": "Ferricore Armor",
+    "translation": "核鐵盔甲",
+    "context": "chapters/gearing_up.snbt / task 16D5556D98667242",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1A946F253A4AB3D2.title": {
+    "original": "Blazegold Tools",
+    "translation": "烈焰金工具",
+    "context": "chapters/gearing_up.snbt / task 1A946F253A4AB3D2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1B441EA3D74396D8.title": {
+    "original": "Draconic Tools",
+    "translation": "神龍工具",
+    "context": "chapters/gearing_up.snbt / task 1B441EA3D74396D8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1F45D65E053E1701.title": {
+    "original": "Mining Gadgets",
+    "translation": "挖掘小幫手",
+    "context": "chapters/gearing_up.snbt / task 1F45D65E053E1701",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.22DC2FE65941A0AB.title": {
+    "original": "Appliance Addons",
+    "translation": "設備升級",
+    "context": "chapters/gearing_up.snbt / task 22DC2FE65941A0AB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.251CDFF26C59DD32.title": {
+    "original": "Dark Matter Armor",
+    "translation": "暗物質盔甲",
+    "context": "chapters/gearing_up.snbt / task 251CDFF26C59DD32",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2672BC5E75CFBDEC.title": {
+    "original": "Upgraded Seashelves",
+    "translation": "升級海洋書櫃",
+    "context": "chapters/gearing_up.snbt / task 2672BC5E75CFBDEC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.27D0428BD5B59E54.title": {
+    "original": "Eclipse Alloy Tools",
+    "translation": "日蝕合金工具",
+    "context": "chapters/gearing_up.snbt / task 27D0428BD5B59E54",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.287D976A94ACDE7C.title": {
+    "original": "Blazegold Weapons",
+    "translation": "烈焰金武器",
+    "context": "chapters/gearing_up.snbt / task 287D976A94ACDE7C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2A0C5609613F2557.title": {
+    "original": "Kitchen Cabinets",
+    "translation": "廚房櫃",
+    "context": "chapters/gearing_up.snbt / task 2A0C5609613F2557",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2AF40F8B8B4E480D.title": {
+    "original": "\u0026aGems\u0026r",
+    "translation": "\u0026a寶石\u0026r",
+    "context": "chapters/gearing_up.snbt / task 2AF40F8B8B4E480D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.329BA2B5EB3185FC.title": {
+    "original": "Salvaged Materials",
+    "translation": "分解後的材料",
+    "context": "chapters/gearing_up.snbt / task 329BA2B5EB3185FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3384D1EE66D61464.title": {
+    "original": "Hellshelf of Sight",
+    "translation": "視界地獄書櫃",
+    "context": "chapters/gearing_up.snbt / task 3384D1EE66D61464",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.33877DBF6AC0BF78.title": {
+    "original": "Upgraded Deepshelves",
+    "translation": "升級深板岩書櫃",
+    "context": "chapters/gearing_up.snbt / task 33877DBF6AC0BF78",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.339585B853B7012C.title": {
+    "original": "Basic Weapons",
+    "translation": "基礎武器",
+    "context": "chapters/gearing_up.snbt / task 339585B853B7012C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3448255A410B8F99.title": {
+    "original": "Wyvern Tools",
+    "translation": "雙足飛龍工具",
+    "context": "chapters/gearing_up.snbt / task 3448255A410B8F99",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.36E4280D3F1F4D95.title": {
+    "original": "\u0026bCelestigem Armor",
+    "translation": "\u0026b天體寶石盔甲",
+    "context": "chapters/gearing_up.snbt / task 36E4280D3F1F4D95",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.39A8645834696943.title": {
+    "original": "Cognition Tools",
+    "translation": "《認知》工具",
+    "context": "chapters/gearing_up.snbt / task 39A8645834696943",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3A0AA4ECFE92B8F8.title": {
+    "original": "Curio Items",
+    "translation": "Curio 飾品",
+    "context": "chapters/gearing_up.snbt / task 3A0AA4ECFE92B8F8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3A831AEACF765BB4.title": {
+    "original": "\u0026cQuanta\u0026r Items",
+    "translation": "\u0026c量子化\u0026r物品",
+    "context": "chapters/gearing_up.snbt / task 3A831AEACF765BB4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3CB07FD3F54AFA92.title": {
+    "original": "\u0026zRelics\u0026r",
+    "translation": "\u0026z遺物\u0026r",
+    "context": "chapters/gearing_up.snbt / task 3CB07FD3F54AFA92",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3F1ABCF8325A90C9.title": {
+    "original": "\u0026zInfinity Tools",
+    "translation": "\u0026z無盡工具",
+    "context": "chapters/gearing_up.snbt / task 3F1ABCF8325A90C9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.411B145BAD8AA622.title": {
+    "original": "Tools",
+    "translation": "工具",
+    "context": "chapters/gearing_up.snbt / task 411B145BAD8AA622",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.44F14FF1208B0B03.title": {
+    "original": "AIOTs",
+    "translation": "全能工具",
+    "context": "chapters/gearing_up.snbt / task 44F14FF1208B0B03",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5123D0CFBA53F360.title": {
+    "original": "Added Metals",
+    "translation": "已加入的金屬",
+    "context": "chapters/gearing_up.snbt / task 5123D0CFBA53F360",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.52E6F8489C66A549.title": {
+    "original": "Soulstained Armor",
+    "translation": "魂染鋼盔甲",
+    "context": "chapters/gearing_up.snbt / task 52E6F8489C66A549",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.546F475B57F686A3.title": {
+    "original": "Red Matter Armor",
+    "translation": "紅物質盔甲",
+    "context": "chapters/gearing_up.snbt / task 546F475B57F686A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.574A44FBE14704F6.title": {
+    "original": "Red Matter Tools",
+    "translation": "紅物質工具",
+    "context": "chapters/gearing_up.snbt / task 574A44FBE14704F6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5926E51F4409C90C.title": {
+    "original": "extras",
+    "translation": "extras",
+    "context": "chapters/gearing_up.snbt / task 5926E51F4409C90C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.59454DA41C1C27D5.title": {
+    "original": "Any Rune",
+    "translation": "任何符文",
+    "context": "chapters/gearing_up.snbt / task 59454DA41C1C27D5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5A652535811A2B66.title": {
+    "original": "Quantum Armor",
+    "translation": "量子盔甲",
+    "context": "chapters/gearing_up.snbt / task 5A652535811A2B66",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5AFEC71F18BD2D1B.title": {
+    "original": "Drill Upgrades",
+    "translation": "鑽頭升級",
+    "context": "chapters/gearing_up.snbt / task 5AFEC71F18BD2D1B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5E4795D98A4F96E5.title": {
+    "original": "Celestigem Tools",
+    "translation": "天體寶石工具",
+    "context": "chapters/gearing_up.snbt / task 5E4795D98A4F96E5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5FFDD210AFD0055D.title": {
+    "original": "Specialized Tomes",
+    "translation": "特化寶典",
+    "context": "chapters/gearing_up.snbt / task 5FFDD210AFD0055D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6017B56A0165C534.title": {
+    "original": "Ferricore Tools",
+    "translation": "核鐵工具",
+    "context": "chapters/gearing_up.snbt / task 6017B56A0165C534",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.61D894B195259EFE.title": {
+    "original": "Netherite Armor",
+    "translation": "獄髓盔甲",
+    "context": "chapters/gearing_up.snbt / task 61D894B195259EFE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.623C40B073B6326E.title": {
+    "original": "Eclipse Alloy Armor",
+    "translation": "日蝕合金盔甲",
+    "context": "chapters/gearing_up.snbt / task 623C40B073B6326E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.699DED933E4DC61C.title": {
+    "original": "Spell Books",
+    "translation": "法術書",
+    "context": "chapters/gearing_up.snbt / task 699DED933E4DC61C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.69AAE2EC36ADE0C3.title": {
+    "original": "Malignant Armor",
+    "translation": "惡念要塞盔甲",
+    "context": "chapters/gearing_up.snbt / task 69AAE2EC36ADE0C3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.69C17D93099B4E1D.title": {
+    "original": "Wandering Magician Armor",
+    "translation": "流浪法師盔甲",
+    "context": "chapters/gearing_up.snbt / task 69C17D93099B4E1D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.72426E00128EBE6D.title": {
+    "original": "Soulhunter Armor",
+    "translation": "靈魂獵手盔甲",
+    "context": "chapters/gearing_up.snbt / task 72426E00128EBE6D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.72566E6107743A29.title": {
+    "original": "armor",
+    "translation": "盔甲",
+    "context": "chapters/gearing_up.snbt / task 72566E6107743A29",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.75A4019E3778367A.title": {
+    "original": "\u00266Unique Weapons",
+    "translation": "\u00266獨特武器",
+    "context": "chapters/gearing_up.snbt / task 75A4019E3778367A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.766D48135EA53798.title": {
+    "original": "Ammo",
+    "translation": "子彈",
+    "context": "chapters/gearing_up.snbt / task 766D48135EA53798",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7695C5FDA30F4196.title": {
+    "original": "Blazegold Armor",
+    "translation": "烈焰金盔甲",
+    "context": "chapters/gearing_up.snbt / task 7695C5FDA30F4196",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.78F8128005EE1240.title": {
+    "original": "Added Gems",
+    "translation": "已加入的寶石",
+    "context": "chapters/gearing_up.snbt / task 78F8128005EE1240",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7921E8D54B0095CE.title": {
+    "original": "Dark Matter Tools",
+    "translation": "暗物質工具",
+    "context": "chapters/gearing_up.snbt / task 7921E8D54B0095CE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.79B0BA2223437C7E.title": {
+    "original": "Chaotic Tools",
+    "translation": "混沌工具",
+    "context": "chapters/gearing_up.snbt / task 79B0BA2223437C7E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7CECE0F1C53701B6.title": {
+    "original": "Magical Tools",
+    "translation": "魔法工具",
+    "context": "chapters/gearing_up.snbt / task 7CECE0F1C53701B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

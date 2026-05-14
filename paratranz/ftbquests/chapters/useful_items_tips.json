@@ -1,0 +1,479 @@
+{
+  "chapter.3B99F85218D37371.title": {
+    "original": "Useful Items \\\u0026\\ Tips",
+    "translation": "實用道具 \\\u0026\\ 小撇步",
+    "context": "chapters/useful_items_tips.snbt / chapter 3B99F85218D37371",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.05A6946A5AF26684.quest_desc": {
+    "original": "If you're looking for wireless redstone, \u00266Create\u0026r has a simple \u0026aRedstone Link\u0026r that can connect up to any other link for wireless redstone. Using a \u0026aCreate Wrench\u0026r, you can toggle which link will transmit the redstone signal.\n\n\u00266RFTools\u0026r has something similar, but in two separate blocks. ",
+    "translation": "若你正在尋找無線紅石方案，《\u00266動力機械\u0026r》提供了一個簡單的\u0026a無線紅石訊號終端\u0026r，與其他終端連接之後，可以無線傳遞紅石訊號。\n\n使用\u0026a動力機械扳手\u0026r對著終端點擊右鍵，可以將終端設定為接收端。\n\n\u00266RFTools\u0026r 也有類似的東西，但分為兩個獨立的方塊。",
+    "context": "chapters/useful_items_tips.snbt / quest 05A6946A5AF26684",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.05A6946A5AF26684.title": {
+    "original": "Wireless Redstone",
+    "translation": "無線紅石",
+    "context": "chapters/useful_items_tips.snbt / quest 05A6946A5AF26684",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.09DE55D4265E6E9D.quest_desc": {
+    "original": "Tired of ugly cables dangling around your base?\n\n\u0026eCable Facades\u0026r (the mod) provides a one-size-fits-all solution to hiding all of your cables.\n{@pagebreak}\nTo set up an empty \u0026bFacade\u0026r, place it in a crafting grid with the block you wish to change it to. This will \"consume\" the block, but this process can be reverted by placing the \u0026bFacade\u0026r back in a crafting grid and extracting the block.\n\nOnce set up, simply place the \u0026bFacade\u0026r over your ugly cables and voilà, your cables are gone!\n\nThe \u0026aFacade Wrench\u0026r can be used to toggle facade transparency by Sneak + Right-clicking it.",
+    "translation": "厭倦了基地周遭懸掛的醜陋線纜嗎？\n\n《\u0026e線纜偽裝板\u0026r》模組為隱藏所有線纜，提供了一個萬精油的解決方案。\n{@pagebreak}\n若要設定一個空的\u0026b偽裝板\u0026r，請將其放入合成欄，並放入你希望將其變成的方塊。\n\n這將「消耗」該方塊，但此過程可以透過將\u0026b偽裝板\u0026r放回合成欄，並從其中取出方塊來還原。\n\n設定完成後，只需將\u0026b偽裝板\u0026r放置在醜陋的線纜上，快看，線纜就這麼消失了！\n\n使用\u0026a偽裝板扳手\u0026r對著空氣「點擊右鍵」，可切換偽裝板在世界上顯示的透明度。",
+    "context": "chapters/useful_items_tips.snbt / quest 09DE55D4265E6E9D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.09DE55D4265E6E9D.title": {
+    "original": "\u0026eCable Facades",
+    "translation": "\u0026e線纜偽裝板",
+    "context": "chapters/useful_items_tips.snbt / quest 09DE55D4265E6E9D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0AFF8E28FC51B123.quest_desc": {
+    "original": "Need to swap two simple blocks with as little hassle as possible? Try the \u0026cSwapper Wand\u0026r!\n\nNeed to grab a block and place it somewhere else with as little hassle as possible? Try the Picker Wand!",
+    "translation": "想要盡可能輕鬆地，將兩個簡單的方塊對調位置嗎？試試\u0026c交換法杖\u0026r吧！\n\n想要盡可能輕鬆地，將一個方塊搬起，並放置在其他地方嗎？試試搬運法杖\u0026r吧！",
+    "context": "chapters/useful_items_tips.snbt / quest 0AFF8E28FC51B123",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.215E7EB95A7C64A3.quest_desc": {
+    "original": "Every second matters, and that's why you should shove them in the \u00266Temporal Pouch\u0026r.\n\nThis pouch stores time, as long as it is in your inventory. This time can be used to increase the ticks of pretty much anything by sneak-using the pouch on it.\n\nIf something is too slow, use some of your stored time to make it faster!\n\n\u00267\u0026oWho says you can't buy time?",
+    "translation": "每分每秒都至關重要，這就是為什麼你應該把它們塞進\u00266時間錦囊\u0026r裡。\n\n只要這個錦囊在你的物品欄中，它就會儲存時間。\n\n這些時間可以透過使用錦囊，對任何機器「潛行+點擊右鍵」\n來增加其刻速率。\n\n若某些機器跑得太慢，就使用你儲存的一些時間來讓它變得更快！\n\n\u00267\u0026o誰說時間是買不到的？",
+    "context": "chapters/useful_items_tips.snbt / quest 215E7EB95A7C64A3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.215E7EB95A7C64A3.title": {
+    "original": "\u0026zTime In A Bag",
+    "translation": "\u0026z時間錦囊",
+    "context": "chapters/useful_items_tips.snbt / quest 215E7EB95A7C64A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2682A911828C2D88.quest_desc": {
+    "original": "\u0026eFramed Blocks\u0026r allow you to create custom blocks and shapes that uses the texture of almost any other block in the pack!\n\nTo do this, place down a framed block, and then use the block with the desired texture on the framed block to copy the texture over.\n\nThere are also some cool features for these blocks, like using \u00266Glowstone Dust\u0026r on a framed block to make it glow!",
+    "translation": "\u0026e鑲框方塊\u0026r能讓你創造並自訂方塊及形狀，並使用模組包中幾乎所有的方塊的紋理！\n\n若要使用這些功能，請放置一個鑲框方塊，然後對著該鑲框方塊，使用具有所需紋理的方塊來複製紋理。\n\n這些方塊還有一些很酷的功能，例如在鑲框方塊上使用\u00266螢石粉\u0026r使其擁有照明效果！",
+    "context": "chapters/useful_items_tips.snbt / quest 2682A911828C2D88",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2682A911828C2D88.title": {
+    "original": "\u00262Framed Blocks",
+    "translation": "\u0026e鑲框方塊",
+    "context": "chapters/useful_items_tips.snbt / quest 2682A911828C2D88",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26F18323EB6EFCA0.quest_desc": {
+    "original": "\u0026bSNAD\u0026r blocks allow you to create farms of Cactus or Sugarcane easily. These can also be given a redstone signal to increase the growth rate of the crop.",
+    "translation": "\u0026b子沙\u0026r方塊讓你能輕鬆建立仙人掌或甘蔗農場。\n\n還可以透過給予紅石連閃，提高作物的生長速度。",
+    "context": "chapters/useful_items_tips.snbt / quest 26F18323EB6EFCA0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26F18323EB6EFCA0.title": {
+    "original": "\u0026fSNAD",
+    "translation": "\u0026f子沙",
+    "context": "chapters/useful_items_tips.snbt / quest 26F18323EB6EFCA0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2BB6C51E445A1C95.quest_desc": {
+    "original": "\u00266Entangled\u0026r allows you to bind two blocks together, allowing you to interact with them as if they were the same block!\n\nThis allows you to transfer items, energy, fluids, and more instantly.\n\n\u0026cImportant\u0026r: It will be worth using this on the \u00266World Engine\u0026r to give you more sides to interface with!",
+    "translation": "\u00266纏結方塊\u0026r會將兩個方塊綁定在一起，讓你能夠對該兩個方塊進行完全一樣的互動！\n\n你可以使用它立即傳輸物品、能量、流體或其他東西。\n\n\u0026c重要事項\u0026r：對\u00266世界引擎\u0026r使用此方塊會讓你能夠對它進行更多的互動！",
+    "context": "chapters/useful_items_tips.snbt / quest 2BB6C51E445A1C95",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2BB6C51E445A1C95.title": {
+    "original": "\u0026zEntangling Blocks\u0026r",
+    "translation": "\u0026z纏結方塊\u0026r",
+    "context": "chapters/useful_items_tips.snbt / quest 2BB6C51E445A1C95",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2C1649AE3DADD71D.quest_desc": {
+    "original": "\u0026eConstruction Sticks\u0026r is a mod all about making the building process much faster.\n\nWhile holding a \u0026eConstruction Stick\u0026r in your hand, you can extend blocks in any direction with just one click!\n\nThere are also some cool upgrades that you can add to the \u0026eSticks\u0026r, like making it use power instead of durability.",
+    "translation": "\u0026e建築棒\u0026r是一款致力於讓建築過程變得更快捷的模組。\n\n手持\u0026e建築棒\u0026r時，只需右鍵一下，即可向任何方向延伸方塊！\n\n你還可以為這些\u0026e建築棒\u0026r安裝一些酷炫的升級，例如改裝成消耗能量，而不是耐久度。",
+    "context": "chapters/useful_items_tips.snbt / quest 2C1649AE3DADD71D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2C1649AE3DADD71D.title": {
+    "original": "\u0026bFaster Building",
+    "translation": "\u0026b快速建築",
+    "context": "chapters/useful_items_tips.snbt / quest 2C1649AE3DADD71D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2C8099E185CA2B60.quest_desc": {
+    "original": "The \u0026aCoffee Maker\u0026r is used to make a potion-like drink that provides several buffs when consumed.\n\nThis machine requires power to work, and mixes water and \u0026aCoffee Beans\u0026r into an \u0026aEmpty Cup\u0026r to make a \u0026aCoffee Cup\u0026r.\n\nYou can add up to 8 items within the GUI to provide special buffs.\n{@pagebreak}\nNote: The small numbers on the GUI represent the order in which the items will be consumed, so make sure you have the correct order of buffs.\n\n\nYou can brew the following buffs:\n\nPufferfish: Provides \u00269Water Breathing\u0026r (up to 2).\n\nMagma Cream: Provides \u00266Fire Resistance\u0026r (up to 2).\n\nGolden Carrot: Provides \u0026eNight Vision\u0026r (up to 2).\n{@pagebreak}\nFermented Spider Eye: Provides \u00267Invisibility\u0026r (up to 2).\n\nGhast Tear: Provides \u0026cRegeneration\u0026r (up to 3).\n\nBlaze Powder: Provides \u0026dStrength\u0026r (up to 4).\n\nSugar: Provides \u0026bSpeed\u0026r (up to 4).\n\nMilk Bottle/Bucket: Adds 1min to a buff, but reduce its level by 1.",
+    "translation": "\u0026a咖啡機\u0026r用於調配類似藥水的飲料，飲用後可提供多種增益效果。\n\n這台機器需要能量才能運作，並將水與\u0026a咖啡豆\u0026r混合到\u0026a空杯\u0026r中，製成\u0026a杯裝咖啡\u0026r。\n\n你可以在介面中，加入最多 8 個物品以提供特殊的增益效果。\n{@pagebreak}\n注意：介面上的小數字代表物品被消耗的順序，因此請確保增益效果的順序正確。\n\n\n你可以用來調配以下增益效果：\n\n河豚：提供\u00269水下呼吸\u0026r（最高 2 級）。\n\n岩漿球：提供\u00266抗火\u0026r（最高 2 級）。\n\n金胡蘿蔔：提供\u0026e夜視\u0026r（最高 2 級）。\n{@pagebreak}\n發酵蜘蛛眼：提供\u00267隱形\u0026r（最高 2 級）。\n\n幽靈眼淚：提供\u0026c回復\u0026r（最高 3 級）。\n\n烈焰粉：提供\u0026d力量\u0026r（最高 4 級）。\n\n糖：提供\u0026b速度\u0026r（最高 4 級）。\n\n牛奶瓶／桶：使增益時間延長 1 分鐘，但會使效果降低 1 級。",
+    "context": "chapters/useful_items_tips.snbt / quest 2C8099E185CA2B60",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2EEE782146096F9C.quest_desc": {
+    "original": "Probably one of the best mods out there for builders, the \u0026eBuilding Gadgets\u0026r mod adds several new gadgets that are a must have to make building better!",
+    "translation": "大概是建築師們最喜歡的模組之一，\u0026e建築小幫手\u0026r模組新增了幾種新的工具，是改善建築體驗的必備之選！",
+    "context": "chapters/useful_items_tips.snbt / quest 2EEE782146096F9C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2EEE782146096F9C.title": {
+    "original": "\u0026eBuilding Gadgets",
+    "translation": "\u0026e建築小幫手",
+    "context": "chapters/useful_items_tips.snbt / quest 2EEE782146096F9C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4126A470077923D2.quest_desc": {
+    "original": "The \u0026aCardboard Box\u0026r is a super useful item that can be used to move block entities like chests, spawners, and more!\n\nUsing a box on a block will cover it, allowing you to break and pick it up as an item. Placing this item down and then sneak-right clicking on it will remove the box.",
+    "translation": "\u0026a紙箱\u0026r是一個超級實用的物品，可用於移動方塊實體，如儲物箱、生怪磚等等！\n\n對一個方塊使用紙箱會將其包裝起來，讓你能夠將其挖掘並拾起。\n\n將裝有方塊的紙箱重新放回世界，\n\n並對其「潛行 + 點擊右鍵」即可拆除紙箱。",
+    "context": "chapters/useful_items_tips.snbt / quest 4126A470077923D2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45CB3F325010A5AD.quest_desc": {
+    "original": "Need a place to store all of your experience so you don't lose it when you die?\n\nThe \u0026aExperience Holder\u0026r from \u00266Just Dire Things\u0026r is easy to use, and can also be used to collect experience around it in a configurable range.\n\nThe \u0026aExperience Obelisk\u0026r from \u00266Cognition\u0026r works the same way!\n\n\u00267Even if you think you aren't going to die when going to the Arcane Grove, you probably should be safe and store your experience anyway.\u0026r",
+    "translation": "需要一個地方來儲存你所有的經驗，以免在死亡時丟失嗎？\n\n來自《\u00266Just Dire Things\u0026r》的\u0026a經驗儲存器\u0026r非常易於使用，\n還可用於在指定範圍內收集周圍的經驗球。\n\n來自《\u00266認知\u0026r》的\u0026a經驗方尖碑\u0026r也有相同的功能！\n\n\u00267即使你認為去秘法源林時不會發生意外，\u0026r\n\n\u00267但為了保險起見，還是建議你把經驗儲存起來。\u0026r",
+    "context": "chapters/useful_items_tips.snbt / quest 45CB3F325010A5AD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.48C1A1BB346B7D07.quest_desc": {
+    "original": "Using \u00266Time Crystals\u0026r, you can make the \u00266Time Wand\u0026r.\n\nThis uses \u00266Time Fluid\u0026r to speed up any block it's used on, similar to the Time in a Bottle or Temporal Pouch.",
+    "translation": "使用\u00266時間水晶\u0026r，你可以製作\u00266時間法杖\u0026r。\n\n這支法杖使用\u00266時間流體\u0026r來為你的機器加速，類似於時間瓶或時間錦囊。",
+    "context": "chapters/useful_items_tips.snbt / quest 48C1A1BB346B7D07",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.48C1A1BB346B7D07.title": {
+    "original": "\u0026zTime Wands",
+    "translation": "\u0026z時間法杖",
+    "context": "chapters/useful_items_tips.snbt / quest 48C1A1BB346B7D07",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4B6154D6F9B7C7BF.quest_desc": {
+    "original": "\u0026aCrafting Stations\u0026r can pick up items stored in adjacent inventories and will also hold items in their crafting grids.\n\nThey function like their \u0026eTinker's Construct\u0026r version, for those who remember that.",
+    "translation": "\u0026a工作站\u0026r可以取用儲存在相鄰容器中的物品，並且也會將物品保留在其合成欄中。\n\n對於那些還記得的人來說，它的功能與\u0026e匠魂\u0026r版本類似。",
+    "context": "chapters/useful_items_tips.snbt / quest 4B6154D6F9B7C7BF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4B6154D6F9B7C7BF.title": {
+    "original": "\u0026fCrafting Stations",
+    "translation": "\u0026f工作站",
+    "context": "chapters/useful_items_tips.snbt / quest 4B6154D6F9B7C7BF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51804232265672A9.quest_desc": {
+    "original": "The \u0026aTrash Slot\u0026r mod allows you to open a slot in any inventory to delete unwanted items.\n\n[\"The slot in the inventory can be toggled with the keybind \", { \"keybind\": \"key.trashslot.toggle\", \"color\": \"green\" }, \".\"]\n\n[\"You can also quickly delete items once the slot is open by using the keybind \", { \"keybind\": \"key.trashslot.delete\", \"color\": \"green\" }, \".\"]\n\nThere is also the \u0026aTrash Bin\u0026r icon in the top left of your inventory that you can use as well. This can also be accessed by using the \u0026a/trashcan\u0026r command.",
+    "translation": "\u0026a《垃圾桶欄位》\u0026r模組在物品欄新增了一個能夠讓你刪除任何不需要物品的欄位。\n\n[\"你可以透過按下「\", { \"keybind\": \"key.trashslot.toggle\", \"color\": \"green\" }, \"」開關此欄位。\"]\n\n[\"你也可以在該欄位開啟時按下「\", { \"keybind\": \"key.trashslot.delete\", \"color\": \"green\" }, \"」鍵快速刪除物品。\"]\n\n在物品欄的左上角也有一個\u0026a垃圾桶\u0026r圖示，它具有相同的功能。使用「\u0026a/trashcan\u0026r」指令也能開啟這個垃圾桶。",
+    "context": "chapters/useful_items_tips.snbt / quest 51804232265672A9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.51804232265672A9.title": {
+    "original": "\u0026fInventory Trashcan!",
+    "translation": "\u0026f物品欄垃圾桶！",
+    "context": "chapters/useful_items_tips.snbt / quest 51804232265672A9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.59A6D7B544F1AE06.quest_desc": {
+    "original": "Want an easy way to travel to different levels of your base? Make an \u0026dElevator\u0026r!\n\nThese can also copy the texture of another block by using that block directly on the \u0026dElevator\u0026r.",
+    "translation": "想要一種輕鬆穿梭基地不同樓層的方式嗎？製作一個\u0026d電梯\u0026r吧！\n\n它們還可以透過直接在\u0026d電梯\u0026r上使用另一個方塊來複製該方塊的紋理。",
+    "context": "chapters/useful_items_tips.snbt / quest 59A6D7B544F1AE06",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.59A6D7B544F1AE06.title": {
+    "original": "\u0026fElevators",
+    "translation": "\u0026f電梯",
+    "context": "chapters/useful_items_tips.snbt / quest 59A6D7B544F1AE06",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5BBA51F8FE4D6C3B.quest_desc": {
+    "original": "A solid block that you can choose whether you want to walk through it or not! Right-click it to toggle its current state\n\nWhile mobs don't know how to walk through this in its non-solid state, they can still be pushed or fall through.",
+    "translation": "這是一種固體方塊，你可以選擇是否能穿越它！對其點擊右鍵來切換其目前狀態。\n\n雖然生物不知道如何在非固體狀態下穿越它，但它們仍然可以被推過或掉下去。",
+    "context": "chapters/useful_items_tips.snbt / quest 5BBA51F8FE4D6C3B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6323068C93CF7DCE.quest_desc": {
+    "original": "The \u0026dWand of Symmetry\u0026r can set up layouts that will automatically place blocks mirroring the blocks you place.",
+    "translation": "\u0026d對稱之杖\u0026r可以設定佈局，自動鏡像放置你所放置的方塊。",
+    "context": "chapters/useful_items_tips.snbt / quest 6323068C93CF7DCE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6FB2393F2348D59E.quest_desc": {
+    "original": "The \u0026aMob Imprisonment Tool\u0026r is a simple reusable device that snatches up mobs so you can place them down anywhere you want.\n\nThe \u0026aCreature Catcher\u0026r works the same way, but requires you to throw the item at the mob... like a certain other game that shall not be named.",
+    "translation": "\u0026a生物捕捉工具\u0026r是一種簡單且可重複使用的工具，可以捕捉生物，讓你能夠將它們放置在任何你想要的地方。\n\n\u0026a生物捕捉儀\u0026r的運作方式大致相同，但需要你右鍵使用物品，將其扔向生物......就像某款不能提及名字的遊戲一樣。",
+    "context": "chapters/useful_items_tips.snbt / quest 6FB2393F2348D59E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7804E97C7772403E.quest_desc": {
+    "original": "Want a portable crafting table? Make a \u0026aCrafting Table on a Stick\u0026r!\n\nYou can put this in a \u0026bCurio Slot\u0026r that you can even set a keybind for quick access.",
+    "translation": "想要隨時隨地合成嗎？製作一個\u0026a攜帶式工作台\u0026r吧！\n\n你可以將它放入\u0026b飾品欄\u0026r中，甚至可以為其設定快捷鍵以進行快速使用。",
+    "context": "chapters/useful_items_tips.snbt / quest 7804E97C7772403E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7804E97C7772403E.title": {
+    "original": "\u0026fOn A STICK!",
+    "translation": "\u0026f行動工作台！",
+    "context": "chapters/useful_items_tips.snbt / quest 7804E97C7772403E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7A06D08AC7C65D20.quest_desc": {
+    "original": "Have some enchants you want, but they are stuck to items you don't want to use?\n\nYou can easily separate enchants using the \u0026bAnvil\u0026r method.\n\nFirst, place down a block of \u0026dDraconium\u0026r, then throw down an item with enchants on it. For every enchant you want to remove, you'll need to throw down an empty book as well.\n\nTo separate them, drop an \u0026bAnvil\u0026r onto the pile of items!",
+    "translation": "有一些你想要的附魔，但它們黏在你不想使用的物品上嗎？\n\n你可以使用\u0026b鐵砧\u0026r來輕鬆分離附魔。\n\n首先，放置一個\u0026d龍金屬\u0026r方塊，然後扔下一件帶有附魔的物品。根據你想要分離的每個附魔，你也需要扔下相應數量的書。\n\n要將附魔分離，請將一個\u0026b鐵砧\u0026r掉落到這堆物品上！",
+    "context": "chapters/useful_items_tips.snbt / quest 7A06D08AC7C65D20",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7A06D08AC7C65D20.title": {
+    "original": "\u0026fEasy Disenchanting",
+    "translation": "\u0026f簡單祛魔",
+    "context": "chapters/useful_items_tips.snbt / quest 7A06D08AC7C65D20",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7A8D31482AB1FCAA.quest_desc": {
+    "original": "\u00266Compact Machines\u0026r allow you to create your own room in a pocket dimension!\n\nThis can be great for building farms that might cause FPS drops.\n\n\u0026eNote\u0026r: These are \u0026zShop Only\u0026r items!",
+    "translation": "\u00266壓縮空間機械\u0026r讓你能建立屬於你自己的口袋維度房間！\n\n這對於建造可能導致 FPS 下降的農場來說非常棒。\n\n\u0026e注意\u0026r：這些物品只有\u0026z商店\u0026r有在賣哦！",
+    "context": "chapters/useful_items_tips.snbt / quest 7A8D31482AB1FCAA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B20023BE78887DA.quest_desc": {
+    "original": "Other mods may add their own types, but \u0026eSimple Magnets\u0026r keeps it...simple. Just craft a \u0026aMagnet\u0026r, activate it with right click, and while it's on your person any items in range will be swiftly pulled to your person to get picked up!\n\nThe \u0026dAdvanced Magnet\u0026r has a larger range and a filter menu opened by sneak + right clicking.\n\nDon't want your magnet to pull items in a particular area? Check out the \u00262Demagnetization Coils\u0026r!\n\nAny items in their range will ignore \u0026aSimple Magnets\u0026r pulling on them.",
+    "translation": "其他模組可能會增加自己的類型，但《\u0026e簡易磁鐵\u0026r》模組維持了......簡單風格。\n\n製作一個\u0026a磁鐵\u0026r，點擊右鍵將其啟用，只要帶著磁鐵，範圍內的任何物品都會迅速被吸引到你身邊以便拾起！\n\n\u0026d進階磁鐵\u0026r具有更大的吸引範圍，並且可以透過「潛行 + 點擊右鍵」開啟篩選選單。\n\n不想讓你的磁鐵在特定區域吸引物品嗎？看看\u00262消磁線圈\u0026r吧！\n\n其運作範圍內的任何物品都會無視\u0026a簡易磁鐵\u0026r的吸引力。",
+    "context": "chapters/useful_items_tips.snbt / quest 7B20023BE78887DA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B20023BE78887DA.title": {
+    "original": "\u0026aSimple Magnets",
+    "translation": "\u0026a簡易磁鐵",
+    "context": "chapters/useful_items_tips.snbt / quest 7B20023BE78887DA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7C0FD2B2589BC66D.quest_desc": {
+    "original": "Build a 3x3x3 of \u0026bFurnaces\u0026r to create the \u0026bJumbo Furnace\u0026r.\n\nThe \u0026bJumbo Furnace\u0026r allows multiple recipes to be processed at the same time, and it can be upgraded with more \u0026bJumbo Furnaces\u0026r in the bottom-right slot (up to 64), each one representing the number of items it can smelt at once.",
+    "translation": "建造一座 3x3x3 的\u0026b熔爐\u0026r，即可組成\u0026b巨無霸熔爐\u0026r。\n\n\u0026b巨無霸熔爐\u0026r能同時處理多個配方，並且能在右下角的欄位中，\n\n使用更多\u0026b巨無霸熔爐\u0026r進行升級（最多 64 個），\n\n每放入 1 個，一次可熔煉的物品數量也會增加 1 個。",
+    "context": "chapters/useful_items_tips.snbt / quest 7C0FD2B2589BC66D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7C0FD2B2589BC66D.title": {
+    "original": "\u0026bBigger \\\u0026\\ Better",
+    "translation": "\u0026b更大且更好",
+    "context": "chapters/useful_items_tips.snbt / quest 7C0FD2B2589BC66D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F4E7C687E7D8707.quest_desc": {
+    "original": "There are several ways to keep items from piling up on the ground from your farms!\n\nEach of these are configurable, allowing you to set the range for item collection.",
+    "translation": "有很多能夠自動將你農場的掉落物直接吸起來的方式！\n\n每一種都能夠進行設定，設定它們能夠吸起物品的範圍。",
+    "context": "chapters/useful_items_tips.snbt / quest 7F4E7C687E7D8707",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7F4E7C687E7D8707.title": {
+    "original": "Item Collectors",
+    "translation": "物品收集器",
+    "context": "chapters/useful_items_tips.snbt / quest 7F4E7C687E7D8707",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.06483FBA8021FDEF.title": {
+    "original": "Moving Mobs",
+    "translation": "移動生物",
+    "context": "chapters/useful_items_tips.snbt / task 06483FBA8021FDEF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2CBD12BA944BB6A7.title": {
+    "original": "Wireless Redstone",
+    "translation": "無線紅石",
+    "context": "chapters/useful_items_tips.snbt / task 2CBD12BA944BB6A7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3D00D0A8A61617EA.title": {
+    "original": "SNAD Type Blocks",
+    "translation": "子沙類型方塊",
+    "context": "chapters/useful_items_tips.snbt / task 3D00D0A8A61617EA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4309B43CD4447705.title": {
+    "original": "Construction Sticks",
+    "translation": "建築棒",
+    "context": "chapters/useful_items_tips.snbt / task 4309B43CD4447705",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.576F9DD2957EB18A.title": {
+    "original": "Experience Holders",
+    "translation": "經驗儲存裝置",
+    "context": "chapters/useful_items_tips.snbt / task 576F9DD2957EB18A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.57A5CC881C60B69D.title": {
+    "original": "Time Wands",
+    "translation": "時間法杖",
+    "context": "chapters/useful_items_tips.snbt / task 57A5CC881C60B69D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.64439911825F80B2.title": {
+    "original": "Block Wands",
+    "translation": "方塊法杖",
+    "context": "chapters/useful_items_tips.snbt / task 64439911825F80B2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6B9EDB6F4966725F.title": {
+    "original": "Building Gadgets",
+    "translation": "建築小幫手",
+    "context": "chapters/useful_items_tips.snbt / task 6B9EDB6F4966725F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.739AFA2E85FD2354.title": {
+    "original": "Compact Machines",
+    "translation": "壓縮空間機械",
+    "context": "chapters/useful_items_tips.snbt / task 739AFA2E85FD2354",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.78869974512F8AD0.title": {
+    "original": "Elevators",
+    "translation": "電梯",
+    "context": "chapters/useful_items_tips.snbt / task 78869974512F8AD0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

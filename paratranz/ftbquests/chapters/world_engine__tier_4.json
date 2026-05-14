@@ -1,0 +1,947 @@
+{
+  "chapter.7ECE17AB1DD3E736.title": {
+    "original": "Tier 4: Oblivion",
+    "translation": "階級 4：忘卻",
+    "context": "chapters/world_engine__tier_4.snbt / chapter 7ECE17AB1DD3E736",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.012DF07A81C69AAA.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 012DF07A81C69AAA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.012DF07A81C69AAA.title": {
+    "original": "\u0026dResonant Void\u0026r",
+    "translation": "\u0026d迴盪虛空\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 012DF07A81C69AAA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.03E48CD6E5DB806F.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Wyrmwright\u0026r.\n\nWork with them to unlock the \u0026dDraconic Energy\u0026r upgrade for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo wyrmwright\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d飛龍傳人之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u0026d龍族能量\u0026r升級吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo wyrmwright\u00267」。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 03E48CD6E5DB806F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.03E48CD6E5DB806F.title": {
+    "original": "\u0026fMeet \u0026dThe Wyrmwright",
+    "translation": "\u0026f初訪\u0026d飛龍傳人",
+    "context": "chapters/world_engine__tier_4.snbt / quest 03E48CD6E5DB806F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.068C117DD3DD10C2.title": {
+    "original": "Guidance Check 3",
+    "translation": "Guidance Check 3",
+    "context": "chapters/world_engine__tier_4.snbt / quest 068C117DD3DD10C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B3FD3C2AD980AD7.title": {
+    "original": "Ancient Meet",
+    "translation": "Ancient Meet",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0B3FD3C2AD980AD7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0BD2630DFA958C65.title": {
+    "original": "Twilight Meet",
+    "translation": "Twilight Meet",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0BD2630DFA958C65",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0CE3C7A6DE787371.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0CE3C7A6DE787371",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0CE3C7A6DE787371.title": {
+    "original": "\u0026fLocating The \u00263Lich",
+    "translation": "\u0026f定位：\u00263巫妖",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0CE3C7A6DE787371",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0EAEEF79436FDFA7.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0EAEEF79436FDFA7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0EAEEF79436FDFA7.title": {
+    "original": "\u0026fLocating The \u00263Hydra",
+    "translation": "\u0026f定位：\u00263九頭蛇",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0EAEEF79436FDFA7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0F48353EDD296510.quest_desc": {
+    "original": "Speak to \u0026dThe Wyrmwright\u0026r once you have crafted the \u0026dResonant Void\u0026r and they will show you how to install this \u00263World Engine Upgrade\u0026r.",
+    "translation": "當你合成出了\u0026d迴盪虛空\u0026r後，是時候該回訪\u0026d飛龍傳人\u0026r，並向他學習該如何安裝這項\u00263世界引擎升級\u0026r了。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 0F48353EDD296510",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.14537A63D3BDC09B.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 14537A63D3BDC09B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.14537A63D3BDC09B.title": {
+    "original": "\u0026fAuto-Build The \u00263Euphonium Upgrade",
+    "translation": "\u0026f自動建造\u00263低吟金屬升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 14537A63D3BDC09B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.15DE76B303680F79.quest_desc": {
+    "original": "The \u0026dWyrmwright\u0026r knows a lot about dragons. At this point, you should have some \u0026dDraconic Dust\u0026r.\n\nThat's dragon dust right?\n\nReturn to the \u0026dEcho of The Wyrmwright\u0026r once you've made a few draconic items to find out how to install this \u00263Upgrade\u0026r.",
+    "translation": "\u0026d飛龍傳人\u0026r知曉許多龍族的知識。事實上，你現在應該擁有一些\u0026d龍塵\u0026r。\n\n先不管那是不是從龍身上掉下來的，至少它是龍塵，對吧？\n\n當你做出一些龍族物品後，返回\u0026d飛龍傳人\u0026r處，並學習該如何安裝這項\u00263升級\u0026r。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 15DE76B303680F79",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.15DE76B303680F79.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 15DE76B303680F79",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.15DE76B303680F79.title": {
+    "original": "\u0026dDraconic Core\u0026r",
+    "translation": "\u0026d龍族核心\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 15DE76B303680F79",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1E077BC4B8832C98.quest_desc": {
+    "original": "Found within the upper levels of the \u0026bTwilight Forest\u0026r ring, the vault of the \u0026aYeti\u0026r is the second Twilight boss to fight.",
+    "translation": "出現於\u0026b暮光森林\u0026r環帶較高處的\u0026a雪怪\u0026r寶庫之中，他將會是你要擊敗的第二位暮光頭目。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 1E077BC4B8832C98",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1E077BC4B8832C98.title": {
+    "original": "\u0026fThe Yeti's Cave",
+    "translation": "\u0026f雪怪洞窟",
+    "context": "chapters/world_engine__tier_4.snbt / quest 1E077BC4B8832C98",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1F0F37429F1177DF.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of Twilight\u0026r.\n\nWork with them to unlock the \u00263Twilight Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo twilight\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d暮光族裔之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263暮光升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo twilight\u00267」。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 1F0F37429F1177DF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1F0F37429F1177DF.title": {
+    "original": "\u0026fMeet \u0026dTwilight",
+    "translation": "\u0026f初訪\u0026d暮光族裔",
+    "context": "chapters/world_engine__tier_4.snbt / quest 1F0F37429F1177DF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.27439A8D79B21B73.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Ancient\u0026r.\n\nWork with them to learn the secrets of the \u0026dDeep Dark\u0026r to unlock the \u00263Euphonium Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo ancient\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d遠古族裔之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r一同揭開\u0026d深暗之域\u0026r的秘密，並協力為你的\u00266世界引擎\u0026r解鎖\u00263低吟金屬升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo ancient\u00267」。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 27439A8D79B21B73",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.27439A8D79B21B73.title": {
+    "original": "\u0026fMeet \u0026dThe Ancient",
+    "translation": "\u0026f初訪\u0026d遠古族裔",
+    "context": "chapters/world_engine__tier_4.snbt / quest 27439A8D79B21B73",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.30453DA99EE2BCBF.title": {
+    "original": "Wyrmwright Meet",
+    "translation": "Wyrmwright Meet",
+    "context": "chapters/world_engine__tier_4.snbt / quest 30453DA99EE2BCBF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.30902357747A64F1.quest_desc": {
+    "original": "With the \u00262Yeti\u0026r defeated, you will have access to 2 new vaults to find.\n\nFound within the upper levels of the \u0026bTwilight Forest\u0026r ring, you can run into a vault of the \u0026aSnow Queen's Castle\u0026r.",
+    "translation": "當你擊敗了\u00262雪怪首領\u0026r之後，你現在有著兩座全新寶庫能夠探索。\n\n她會出現於\u0026b暮光森林\u0026r環帶較高處的\u0026a冰雪女王城堡\u0026r之中。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 30902357747A64F1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.30902357747A64F1.title": {
+    "original": "\u0026fThe Snow Queen's Palace",
+    "translation": "\u0026f冰雪女王宮殿",
+    "context": "chapters/world_engine__tier_4.snbt / quest 30902357747A64F1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.32653261B16850B3.quest_desc": {
+    "original": "Once both the \u0026aSnow Queen\u0026r and the \u00262Hydra\u0026r have been defeated, there is one final vault that unlocks.\n\nThe vault of the \u0026dKnight Phantoms\u0026r will be your final puzzle and fight within the \u0026bTwilight Forest\u0026r ring.",
+    "translation": "當\u0026a冰雪女王\u0026r和\u00262九頭蛇\u0026r雙雙被擊敗之後，最終寶庫已被解鎖。\n\n\u0026d幻影騎士\u0026r寶庫將會是你在\u0026b暮光森林\u0026r環帶中經歷的最後一道謎題和最後一場戰鬥。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 32653261B16850B3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.32653261B16850B3.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 32653261B16850B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.32653261B16850B3.title": {
+    "original": "\u0026fThe Final Twilight Vault",
+    "translation": "\u0026f最後一座暮光寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / quest 32653261B16850B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.37499343396BC372.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 37499343396BC372",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.37499343396BC372.title": {
+    "original": "\u0026fLocating \u0026dThe Wyrmwright",
+    "translation": "\u0026f定位：\u0026d飛龍傳人",
+    "context": "chapters/world_engine__tier_4.snbt / quest 37499343396BC372",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.383DAD591823C746.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 383DAD591823C746",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.383DAD591823C746.title": {
+    "original": "\u0026fAuto-Build The \u00263Twilight Upgrade",
+    "translation": "\u0026f自動建造\u00263暮光升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 383DAD591823C746",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3D0CE267A8FD95CD.quest_desc": {
+    "original": "With the \u00262Yeti\u0026r defeated, you will have access to 2 new vaults to find.\n\nFound within the lower levels of the \u0026bTwilight Forest\u0026r ring, you can find the \u0026aHydra's Lair Vault\u0026r.\n\n\u0026eNote\u0026r: The \u0026cHydra\u0026r failed to make rent, and new tenants have taken its place.",
+    "translation": "當你擊敗了\u00262雪怪首領\u0026r之後，你現在有著兩座全新寶庫能夠探索。\n\n牠會出現於\u0026b暮光森林\u0026r環帶較低處的\u0026a九頭蛇巢穴寶庫\u0026r之中。\n\n\u0026e備註\u0026r：\u0026c九頭蛇\u0026r繳不起房租，所以現在那裡有位新的租客。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 3D0CE267A8FD95CD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D0CE267A8FD95CD.title": {
+    "original": "\u0026fThe Hydra's Lair",
+    "translation": "\u0026f九頭蛇巢穴",
+    "context": "chapters/world_engine__tier_4.snbt / quest 3D0CE267A8FD95CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3DCD6DC36B31EEF4.quest_desc": {
+    "original": "With these \u00263World Engine Upgrades\u0026r installed, you feel as though you are finally starting to master the \u00266World Engine\u0026r.\n\nHead back to the \u0026dEcho of Guidance\u0026r to see what comes next and unlock even more \u00266Archives\u0026r!",
+    "translation": "當你安裝了這麼多\u00263世界引擎升級\u0026r之後，你感覺你終於開始精通\u00266世界引擎\u0026r了。\n\n返回\u0026d指引嚮導之回聲\u0026r處，看看下一步該做什麼，並解鎖更多的\u00266檔案庫\u0026r吧！",
+    "context": "chapters/world_engine__tier_4.snbt / quest 3DCD6DC36B31EEF4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3DCD6DC36B31EEF4.title": {
+    "original": "\u0026fUnlocking \u0026dOblivion",
+    "translation": "\u0026f解鎖\u0026d「忘卻」",
+    "context": "chapters/world_engine__tier_4.snbt / quest 3DCD6DC36B31EEF4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.43A632369D0E2CE0.title": {
+    "original": "Guidance Completed 4.1",
+    "translation": "Guidance Completed 4.1",
+    "context": "chapters/world_engine__tier_4.snbt / quest 43A632369D0E2CE0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.45A3E686E32AB95D.quest_desc": {
+    "original": "Found within the \u0026bTwilight Forest\u0026r ring, the vault of the \u0026aLich\u0026r is the first of five Twilight bosses you need to find.",
+    "translation": "出現於\u0026b暮光森林\u0026r環帶的\u0026a巫妖\u0026r寶庫之中，他會是你總共要尋找的五位暮光頭目的第一位。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 45A3E686E32AB95D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45A3E686E32AB95D.title": {
+    "original": "\u0026fThe Lair of the Lich",
+    "translation": "\u0026f巫妖巢穴",
+    "context": "chapters/world_engine__tier_4.snbt / quest 45A3E686E32AB95D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.45BA73F16B7AE681.quest_desc": {
+    "original": "Found within lower deepslate, the \u00263Ancient City\u0026r holds a giant portal that can finally be activated, allowing you to defeat the boss within.\n\nUpon entering the portal you will receive a blindness effect that can only be cured by filling your \u0026dSoul Cage\u0026r with mob souls dropped from killing strengthened enemies inside the \u00263Vault\u0026r.\n\n\u0026cYou must hold the \u0026dSoul Cage \u0026cin your offhand to charge it!\n\nOnce you have filled your \u0026dSoul Cage\u0026r, you may start the boss fight by taking the elevator in the starting room.\n\n\u0026eNote\u0026r: Killing mobs with the \u00266Reaper\u0026r enchantment will fill your Cage quicker (+1 per Level)",
+    "translation": "在深板岩環帶的較低處，\u00263遠古之城\u0026r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。\n\n當你進入傳送門之後，你會受到失明效果的影響。只能透過殺死\u00263寶庫\u0026r內的強大敵人，利用他們的靈魂填滿你的\u0026d靈魂牢籠\u0026r，來逐步減緩失明效果。\n\n\u0026c你必須要將\u0026d靈魂牢籠\u0026c放在你的副手才能收集到靈魂！\n\n當你填滿你的\u0026d靈魂牢籠\u0026r之後，你就可以搭上起始房間之中的電梯開啟頭目戰了。\n\n\u0026e備註\u0026r：使用\u00266收割者\u0026r附魔殺死怪物能夠讓你的牢籠滿的更快。（每等級 +1）",
+    "context": "chapters/world_engine__tier_4.snbt / quest 45BA73F16B7AE681",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45BA73F16B7AE681.title": {
+    "original": "\u00263An Ancient Portal",
+    "translation": "\u00263一座遠古傳送門",
+    "context": "chapters/world_engine__tier_4.snbt / quest 45BA73F16B7AE681",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4B92EBBA1F2BBFEA.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4B92EBBA1F2BBFEA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4B92EBBA1F2BBFEA.title": {
+    "original": "\u0026fLocating \u0026dThe Ancient",
+    "translation": "\u0026f定位：\u0026d遠古族裔",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4B92EBBA1F2BBFEA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4BAD7359CF074014.quest_desc": {
+    "original": "Before you can harness the power of the void, you'll need to create a machine to craft on an atomic level.\n\nThe \u0026dAtomic Forge\u0026r is perfect for this, and can craft an ingot strong enough to hold in the void.\n\n\u0026eNote\u0026r: The \u0026dAtomic Forge\u0026r must be powered by the \u0026dEnderic Laser\u0026r.",
+    "translation": "在你嘗試駕馭虛空之力之前，你需要一台能夠以原子維度進行合成的機器。\n\n\u0026d原子鍛造廠\u0026r就是一台很適合的機器，它能夠合成出一種足以承受虛空的金屬錠。\n\n\u0026e備註\u0026r：\u0026d原子鍛造廠\u0026r必須透過\u0026d終界雷射\u0026r進行充能。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4BAD7359CF074014",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4BAD7359CF074014.title": {
+    "original": "Making \u00266Prometheum\u0026r",
+    "translation": "製造\u00266普羅米修斯錠\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4BAD7359CF074014",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4D6D066B0855586D.quest_desc": {
+    "original": "Within the Ocean ring, there is a creature that has been touched by the void.\n\nGood luck.\n\n\u0026eNote\u0026r: You will need an \u0026dAbyssal Sacrifice\u0026r to activate the altar. The items required to craft it can be acquired from the \u00269Coralssus\u0026r \u0026aGateway of Eternity\u0026r.",
+    "translation": "在海洋環帶之中，有著一隻曾被虛空觸碰過的生物。\n\n祝你好運。\n\n\u0026e備註\u0026r：你會需要一個\u0026d深淵祭品\u0026r才能啟動祭壇。用來合成它的物品能夠透過\u00269深淵\u0026r\u0026a傳送門珍珠\u0026r獲得。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4D6D066B0855586D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4D6D066B0855586D.title": {
+    "original": "\u0026dAbyssal Sacrifice\u0026r",
+    "translation": "\u0026d深淵獻祭\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 4D6D066B0855586D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51B3EF0BCEB804A4.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 51B3EF0BCEB804A4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.51B3EF0BCEB804A4.title": {
+    "original": "\u0026fAuto-Build The \u00263Draconic Upgrade",
+    "translation": "\u0026f自動建造\u00263龍族升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 51B3EF0BCEB804A4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.56FB1BC5711CC4F9.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 56FB1BC5711CC4F9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.56FB1BC5711CC4F9.title": {
+    "original": "\u0026fLocating The \u00263Vault",
+    "translation": "\u0026f定位：\u00263冰雪女王",
+    "context": "chapters/world_engine__tier_4.snbt / quest 56FB1BC5711CC4F9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.586C935010D2FE74.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 586C935010D2FE74",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.586C935010D2FE74.title": {
+    "original": "\u0026fLocating \u0026dTwilight",
+    "translation": "\u0026f定位：\u0026d暮光族裔",
+    "context": "chapters/world_engine__tier_4.snbt / quest 586C935010D2FE74",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5FDB9EC42FE936C6.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 5FDB9EC42FE936C6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5FDB9EC42FE936C6.title": {
+    "original": "\u0026fAuto-Build The \u00263Resonant Void Upgrade",
+    "translation": "\u0026f自動建造\u00263迴盪虛空升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 5FDB9EC42FE936C6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.665C261B98E4D20B.quest_desc": {
+    "original": "Speak to \u0026dTwilight\u0026r once you have returned triumphantly from your adventure so they can show you how to install the \u00263Twilight World Engine Upgrade\u0026r.",
+    "translation": "當你從這段征程凱旋而歸後，與\u0026d暮光族裔\u0026r談談，他會教你該如何安裝\u00263暮光世界引擎升級\u0026r。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 665C261B98E4D20B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.67181BD1F2434E2C.title": {
+    "original": "Wyrmwright Check 1",
+    "translation": "Wyrmwright Check 1",
+    "context": "chapters/world_engine__tier_4.snbt / quest 67181BD1F2434E2C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6781D1A7A53A5F1D.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6781D1A7A53A5F1D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6781D1A7A53A5F1D.title": {
+    "original": "\u0026fLocating The \u00263Vault",
+    "translation": "\u0026f定位：\u00263幻影騎士",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6781D1A7A53A5F1D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6D0C1811DA909BBD.quest_desc": {
+    "original": "The \u0026dAncient City Vault\u0026r is filled with loot, but the most important item comes from the boss.\n\n3-4 \u0026bCursium Ingots\u0026r will drop on each kill. These ingots can be transformed into a usable upgrade in the \u00266World Engine\u0026r.",
+    "translation": "縱使\u0026d遠古之城寶庫\u0026r中有著大量戰利品，但最重要的物品來自於那裡的頭目。\n\n每次殺死牠都會掉落 3~4 個\u0026b咒靈錠\u0026r。\\n這種金屬錠能夠被轉化為一項可用於\u00266世界引擎\u0026r之中的升級。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6D0C1811DA909BBD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6D0C1811DA909BBD.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6D0C1811DA909BBD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6D0C1811DA909BBD.title": {
+    "original": "\u0026dEuphonium",
+    "translation": "\u0026d低吟金屬",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6D0C1811DA909BBD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6F258F4C7BE2EE44.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6F258F4C7BE2EE44",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6F258F4C7BE2EE44.title": {
+    "original": "\u0026fLocating The \u00263Yeti",
+    "translation": "\u0026f定位：\u00263雪怪首領",
+    "context": "chapters/world_engine__tier_4.snbt / quest 6F258F4C7BE2EE44",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.775BE99DF402AF0D.quest_desc": {
+    "original": "Speak to \u0026dThe Ancient\u0026r once you have returned from the \u00263Vault\u0026r.\n\nThey'll be able to show you how to install the \u00263Euphonium World Engine Upgrade\u0026r.",
+    "translation": "當你從這座\u00263寶庫\u0026r成功歸來後，與\u0026d遠古族裔\u0026r談話。\n\n他會教你該如何安裝\u00263低吟金屬世界引擎升級\u0026r。",
+    "context": "chapters/world_engine__tier_4.snbt / quest 775BE99DF402AF0D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.77DE3D57E5B58948.quest_desc": {
+    "original": "No \u0026eCompass \u0026rthis time!\n\nHead out to the Ocean Ring and use your \u0026bExplorer's Compass\u0026r to find the Water Orb arena where you can summon the \u0026dLeviathan\u0026r!",
+    "translation": "這次沒有\u0026e羅盤\u0026r了！\n\n動身前往海洋環帶，並使用你的\u0026b探索者羅盤\u0026r找到「冥海之珠」競技場以召喚出\u0026d利維坦\u0026r！",
+    "context": "chapters/world_engine__tier_4.snbt / quest 77DE3D57E5B58948",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.77DE3D57E5B58948.title": {
+    "original": "\u0026fLocating The \u00263Leviathan",
+    "translation": "\u0026f定位：\u00263利維坦",
+    "context": "chapters/world_engine__tier_4.snbt / quest 77DE3D57E5B58948",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0C0AB23B4929400B.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_4.snbt / reward 0C0AB23B4929400B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.11F46FD8EC5EE6C8.title": {
+    "original": "Assemble The \u00263Euphonium Upgrade",
+    "translation": "安裝\u00263低吟金屬升級",
+    "context": "chapters/world_engine__tier_4.snbt / reward 11F46FD8EC5EE6C8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.12E34C33B113C643.title": {
+    "original": "Assemble The \u00263Draconic Upgrade",
+    "translation": "安裝\u00263龍族升級",
+    "context": "chapters/world_engine__tier_4.snbt / reward 12E34C33B113C643",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.2055D6F4DA444002.title": {
+    "original": "\u0026dTwilight \u0026fWaypoint",
+    "translation": "\u0026d暮光族裔\u0026f定位點",
+    "context": "chapters/world_engine__tier_4.snbt / reward 2055D6F4DA444002",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.30CB65204A6F6DFE.title": {
+    "original": "\u00263Yeti Vault Compass",
+    "translation": "\u00263雪怪首領寶庫羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / reward 30CB65204A6F6DFE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.32A31D445DC7FF87.title": {
+    "original": "\u00263Ocean Shards",
+    "translation": "\u00263海洋碎片",
+    "context": "chapters/world_engine__tier_4.snbt / reward 32A31D445DC7FF87",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3C14C643B8F3E2E6.title": {
+    "original": "\u00263Knight Vault Compass",
+    "translation": "\u00263幻影騎士寶庫羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / reward 3C14C643B8F3E2E6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3F7CFC203230D314.title": {
+    "original": "\u00263Hydra Vault Compass",
+    "translation": "\u00263九頭蛇寶庫羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / reward 3F7CFC203230D314",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4348C140262F1176.title": {
+    "original": "Assemble The \u00263Twilight Upgrade",
+    "translation": "安裝\u00263暮光升級",
+    "context": "chapters/world_engine__tier_4.snbt / reward 4348C140262F1176",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.437C0250BD2823D8.title": {
+    "original": "Assemble The \u00263Resonant Void Upgrade",
+    "translation": "安裝\u00263迴盪虛空升級",
+    "context": "chapters/world_engine__tier_4.snbt / reward 437C0250BD2823D8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.4AE89E9586399F31.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_4.snbt / reward 4AE89E9586399F31",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.52BCACF7F3F4A767.title": {
+    "original": "\u0026dAncient \u0026fWaypoint",
+    "translation": "\u0026d遠古族裔\u0026f定位點",
+    "context": "chapters/world_engine__tier_4.snbt / reward 52BCACF7F3F4A767",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5BE998C2C023AB29.title": {
+    "original": "\u0026dWyrmwright \u0026fWaypoint",
+    "translation": "\u0026d飛龍傳人\u0026f定位點",
+    "context": "chapters/world_engine__tier_4.snbt / reward 5BE998C2C023AB29",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7FE6F3BEF5E57A43.title": {
+    "original": "\u00263Lich Vault Compass",
+    "translation": "\u00263巫妖寶庫羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / reward 7FE6F3BEF5E57A43",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7FF100558F845196.title": {
+    "original": "\u00263Snow Queen Vault Compass",
+    "translation": "\u00263冰雪女王寶庫羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / reward 7FF100558F845196",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0284D9E486F445FC.title": {
+    "original": "\u0026fLocate the Hydra Vault",
+    "translation": "\u0026f尋找九頭蛇寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / task 0284D9E486F445FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.21F1C6036A37CED9.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dTwilight",
+    "translation": "\u0026e尋找\u0026f：\u0026d暮光族裔",
+    "context": "chapters/world_engine__tier_4.snbt / task 21F1C6036A37CED9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.236F4615115C9D2E.title": {
+    "original": "\u0026fLocate the Knight Vault",
+    "translation": "\u0026f尋找幻影騎士寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / task 236F4615115C9D2E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.24B4FAC2831477B4.title": {
+    "original": "\u0026eLocate\u0026f: \u00263Ancient City",
+    "translation": "\u0026e尋找\u0026f：\u00263遠古之城",
+    "context": "chapters/world_engine__tier_4.snbt / task 24B4FAC2831477B4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.25EB772A7B06594D.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_4.snbt / task 25EB772A7B06594D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2B4A71FE904A1A6D.title": {
+    "original": "Speak With The \u0026dEcho of Guidance",
+    "translation": "與\u0026d指引嚮導之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_4.snbt / task 2B4A71FE904A1A6D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2FF95590BE56EE26.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of Twilight",
+    "translation": "\u0026f與\u0026d暮光族裔之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_4.snbt / task 2FF95590BE56EE26",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.31D5BD1ADD14C2BB.title": {
+    "original": "\u0026fLocate the Twilight Lich Vault",
+    "translation": "\u0026f尋找暮光巫妖寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / task 31D5BD1ADD14C2BB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.35458B29D8F8E353.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Ancient",
+    "translation": "\u0026f與\u0026d遠古族裔之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_4.snbt / task 35458B29D8F8E353",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.383794D054B8E0E1.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / task 383794D054B8E0E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4404D4CA07F1B536.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / task 4404D4CA07F1B536",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4AEB443222A345F9.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_4.snbt / task 4AEB443222A345F9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4FC80BE367960541.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dAncient",
+    "translation": "\u0026e尋找\u0026f：\u0026d遠古族裔",
+    "context": "chapters/world_engine__tier_4.snbt / task 4FC80BE367960541",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5707D25BF97D42CD.title": {
+    "original": "\u0026fLocate the Alpha Yeti Vault",
+    "translation": "\u0026f尋找雪怪首領寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / task 5707D25BF97D42CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5CCC981194E6AD26.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dWyrmwright",
+    "translation": "\u0026e尋找\u0026f：\u0026d飛龍傳人",
+    "context": "chapters/world_engine__tier_4.snbt / task 5CCC981194E6AD26",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5E1DA99A3C6FAB9B.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / task 5E1DA99A3C6FAB9B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.62B8DF25CDC4F6E7.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / task 62B8DF25CDC4F6E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.63FA6779F7687346.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_4.snbt / task 63FA6779F7687346",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6CE5E7F652E0E5B8.title": {
+    "original": "\u0026fLocate the Snow Queen Vault",
+    "translation": "\u0026f尋找冰雪女王寶庫",
+    "context": "chapters/world_engine__tier_4.snbt / task 6CE5E7F652E0E5B8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.70DC330B1BB5FE90.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Wyrmwright",
+    "translation": "\u0026f與\u0026d飛龍傳人之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_4.snbt / task 70DC330B1BB5FE90",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.769744CFA9DB671F.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_4.snbt / task 769744CFA9DB671F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

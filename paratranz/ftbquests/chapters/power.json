@@ -1,0 +1,1046 @@
+{
+  "chapter.391B65CD04A90459.title": {
+    "original": "Power",
+    "translation": "能量",
+    "context": "chapters/power.snbt / chapter 391B65CD04A90459",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.00EF9BD860108718.quest_desc": {
+    "original": "You can convert your \u0026aIron Furnace\u0026r into a generator using the \u0026aAugment: Generator\u0026r!\n\nBy itself, this allows you to burn items like coal or wood to generate power depending on the tier of furnace you have. You can couple this generator with a \u0026aBlasting Augment\u0026r to allow you to burn metals like Iron or Diamond for even more power.",
+    "translation": "你可以使用\u0026a熔爐套件：發電機升級\u0026r，將你的\u0026a鐵熔爐\u0026r改造成發電機！\n\n單獨使用時，它可依照熔爐等級燃燒煤炭、木材等物品來發電。\n\n你也可以搭配\u0026a熔爐套件：高爐\u0026r，改為燃燒鐵、鑽石等金屬，獲得更高產出。",
+    "context": "chapters/power.snbt / quest 00EF9BD860108718",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.018B19721F4404FF.quest_desc": {
+    "original": "Generates power by consuming Ender Pearls or Eyes of Ender.",
+    "translation": "透過消耗「終界珍珠」或「終界之眼」產生能量。",
+    "context": "chapters/power.snbt / quest 018B19721F4404FF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.030F1F8A4B0C1EBF.quest_desc": {
+    "original": "\u0026cReactor Heat Vents\u0026r remove heat from the hottest neighboring component (\u00263Fuel Rods\u0026r or \u0026cHeat Pipes\u0026r) and vent it out of the \u0026dReactor\u0026r.\n\nThe amount of heat removed is based on the temperature of the neighboring component. Hotter components will result in more heat removed.\n\n\u0026cReactor Heat Pipes\u0026r take heat from \u00263Fuel Rods\u0026r and spread it among neighboring \u0026cHeat Vents\u0026r.\n\nThe maximum transferred heat amount from a neighboring component is based on the temperature difference between them.",
+    "translation": "\u0026c反應爐散熱器\u0026r會從最熱的相鄰元件（\u00263燃料棒\u0026r或\u0026c熱導管\u0026r）移除熱量，並將其排出\u0026d反應爐\u0026r。\n\n移除熱量的多寡取決於相鄰元件的溫度；元件越熱，移除量越高。\n\n\u0026c反應爐熱導管\u0026r會從\u00263燃料棒\u0026r吸收熱量，並分散到鄰近的\u0026c散熱器\u0026r。\n\n相鄰元件之間可傳遞的最大熱量，取決於兩者的溫差。",
+    "context": "chapters/power.snbt / quest 030F1F8A4B0C1EBF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.030F1F8A4B0C1EBF.title": {
+    "original": "\u0026cHeat Vents \u0026f\\\u0026\\ \u0026cHeat Pipes",
+    "translation": "\u0026c散熱器 \u0026f\\\u0026\\ \u0026c熱導管",
+    "context": "chapters/power.snbt / quest 030F1F8A4B0C1EBF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.04013A6813F80EF7.quest_desc": {
+    "original": "If you think the Simple Coal Generator is good, you should try out the \u0026aSimple Fuel Generator\u0026r.\n\nInstead of burning coal, this burns the special \u00266Fuels\u0026r from \u00266Just Dire Things\u0026r, with the highest tier producing 4k RF/t.",
+    "translation": "如果你覺得簡易煤炭發電機不錯，那你應該試試\u0026a簡易燃料發電機\u0026r。\n\n它不燒煤，而是燃燒來自《\u00266Just Dire Things\u0026r》的\n\n特殊\u00266流體燃料\u0026r，最高階可達 4k RF/t。",
+    "context": "chapters/power.snbt / quest 04013A6813F80EF7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.04ABB8DD43099429.quest_desc": {
+    "original": "The \u0026aMagmator\u0026r burns \u0026cLava\u0026r and other hot fluids to generate power over time.\n\nThis is a great early generator if you have a good way of generating lava, but gets even better once you can automate \u0026emore advanced fuels\u0026r!",
+    "translation": "\u0026a熔岩發電機\u0026r會消耗\u0026c熔岩\u0026r與其他高溫流體，持續產生能量。\n\n若你有穩定的熔岩來源，它會是很優秀的前期發電機；等你能自動化\u0026e更進階的燃料\u0026r後，效率會更高！",
+    "context": "chapters/power.snbt / quest 04ABB8DD43099429",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0533C0C07AE600FD.quest_desc": {
+    "original": "\u0026eMekanism \u0026dFission Reactors\u0026r take fissile fuel and coolant, and convert them into \u00266nuclear waste\u0026r and \u0026bhot coolant\u0026r. \n\n\u0026dFission Reactors\u0026r do not generate power by themselves. They can produce steam that can be pumped into a \u00266Turbine\u0026r.\n{@pagebreak}\nThe \u0026dReactor\u0026r accepts two forms of coolants which can be piped directly into the multiblock via a port. \u0026bWater Cooling\u0026r is simpler but less effective, while \u00266Sodium Cooling\u0026r is stronger but requires an additional multiblock.\n\nFailing to provide coolant will not stop a running reactor, but will cause it to \u0026coverheat\u0026r, \u0026ctake internal damage\u0026r, and eventually \u0026cexplode\u0026r, releasing \u0026cradioactive material\u0026r. Failing to empty the waste will cause it to also \u0026cleak out into the environment\u0026r and accumulate as \u0026eradiation\u0026r.\n\nThe smaller the build, the slower and fewer things can go wrong. Take your time and test it out.\n\n\u00267\u0026oBuilding and operation are on the following pages.\u0026r\n{@pagebreak}\nThe smallest functioning \u0026dFission Reactor\u0026r is a 3x4x3 multiblock, which can scale up to 18x18x18. The edges of all \u0026dReactors\u0026r must be \u0026aReactor Casings\u0026r, but the faces can also include reactor glass, logic adapters, and/or ports.\n\nThe \u0026dReactor\u0026r multiblock will form once the cuboid is fully built and at least one \u00262Fission Fuel Assembly\u0026r is inside with a \u0026aControl Rod Assembly\u0026r on top.\n\nAt least 4 \u0026aFission Reactor Ports\u0026r are needed to supply a \u0026dFission Reactor\u0026r: one for inputting \u0026bWater\u0026r, one for \u00262Fuel\u0026r, one set to output \u00267Steam\u0026r, and one set to output \u0026cWaste\u0026r. \u0026dReactor Ports\u0026r can be toggled by Sneak + Right-Clicking them with a \u00269Configurator\u0026r.\n\n\u0026dReactors\u0026r can also accept \u0026aFission Reactor Logic Adaptors\u0026r for reading different information about its multiblock or for turning it on/off automatically.\n{@pagebreak}\n\u0026dReactors\u0026r can burn fuel at a max rate of 1mB * (number of \u00263Fuel Assemblies\u0026r) per tick, down to 0.01mB/tick.\n\nThis rate also adjusts coolant demand, and the production of \u00267Steam\u0026r and \u0026cnuclear waste\u0026r. Check the recipes and make sure your pipes can handle all these rates, as well as your coolant production.\n\n{image:ftb:textures/quests/mekanism/fission_reactor_open.png width:100 height:100 align:center}",
+    "translation": "《\u0026e通用機械\u0026r》的\u0026d核分裂反應爐\u0026r消耗易裂變燃料和冷卻液，產生\u00266核廢料\u0026r和\u0026b過熱冷卻液\u0026r。\n\n\u0026d核分裂反應爐\u0026r本身並沒有發電的功能，但是能夠製造蒸汽輸進\u00266渦輪\u0026r。\n{@pagebreak}\n\u0026d反應爐\u0026r多方塊結構透過連接埠，能輸入的冷卻液有兩種，\u0026b用水冷卻\u0026r的方式效率較差，但建造較為簡單；\u00266用鈉冷卻\u0026r的方式比較有效率，但需要多蓋一個多方塊結構。\n\n缺少冷卻液並不會使反應爐停止，反應爐會\u0026c過熱\u0026r，開始\u0026c損壞\u0026r，最後發生\u0026c爆炸\u0026r，並釋出\u0026c放射性物質\u0026r。若核廢料不及時輸出也有可能會\u0026c洩漏到環境\u0026r當中。兩者皆會使\u0026e輻射\u0026r增加。\n\n反應爐越小，問題就越少。你需要花時間測試一下。\n\n\u00267\u0026o後續將會介紹如何建造和操作反應爐。\u0026r\n{@pagebreak}\n最小的\u0026d核分裂反應爐\u0026r尺寸是 3x4x3，最大為 18x18x18。\n\u0026d反應爐\u0026r邊緣必須是\u0026a反應爐外殼\u0026r，其餘的面可以替換成強化玻璃、邏輯適配器或連接埠。\n\n如果\u0026d反應爐\u0026r內至少有一個\u00262核分裂燃料組件\u0026r和一個\u0026a控制棒組件\u0026r在其上方，則當\u0026d反應爐\u0026r完全圍成一個長方體時就會成型。\n\n\u0026d核分裂反應爐\u0026r至少需要四個\u0026a核分裂反應爐連接埠\u0026r，一個輸入\u0026b水\u0026r，一個輸入\u00262燃料\u0026r，一個輸出\u00267水蒸汽\u0026r，一個輸出\u0026c核廢料\u0026r。拿著\u00269調整器\u0026r對\u0026d反應爐連接埠\u0026r潛行 + 點擊右鍵能夠進行調整。\n\n可以透過\u0026a核分裂反應爐邏輯適配器\u0026r讀取\u0026d反應爐\u0026r的各種資訊，自動開關\u0026d反應爐\u0026r。\n{@pagebreak}\n反應爐消耗燃料的速率最高為（\u00263燃料組件\u0026r數量）mB/tick，\n最低為 0.01mB/tick。\n\n消耗燃料的速率同時影響冷卻液需求量，以及\u00267蒸汽\u0026r和\u0026c核廢料\u0026r的生產量。查看配方確認這些數據，檢查你的管道傳輸速度是否夠快，以及確認冷卻液是否足夠。\n\n{image:ftb:textures/quests/mekanism/fission_reactor_open.png width:100 height:100 align:center}",
+    "context": "chapters/power.snbt / quest 0533C0C07AE600FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0533C0C07AE600FD.title": {
+    "original": "\u0026aMekanism\u0026r \u0026dFission Reactor\u0026r",
+    "translation": "\u0026a通用機械\u0026r\u0026d核分裂反應爐\u0026r",
+    "context": "chapters/power.snbt / quest 0533C0C07AE600FD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.06C9E9DBE25887D9.quest_desc": {
+    "original": "The \u0026aLava Generator\u0026r from \u00266Oritech\u0026r generates RF by consuming lava. RF generation can be increased with \u0026bAddons\u0026r.",
+    "translation": "來自《\u00266起源科技\u0026r》的\u0026a熔岩發電機\u0026r，會透過消耗熔岩產生 RF，\n並可用\u0026b升級插件\u0026r提升發電量。",
+    "context": "chapters/power.snbt / quest 06C9E9DBE25887D9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0826EF3E7B15B219.quest_desc": {
+    "original": "Generates power by consuming Pink Items.",
+    "translation": "透過消耗「粉紅色的物品」產生能量。",
+    "context": "chapters/power.snbt / quest 0826EF3E7B15B219",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D57D3662EB40CE3.quest_desc": {
+    "original": "\u0026aCapacitor Banks\u0026r from \u0026eEnderIO\u0026r are used to store energy!\n\nThese are easily configurable within the interface. You can also stack these together to make multiblock power banks.",
+    "translation": "\u0026eEnderIO\u0026r 的 \u0026a電容庫\u0026r 用來儲存能量！\n\n可在介面中輕鬆調整設定。你也能把它們堆疊組成多方塊能量庫。",
+    "context": "chapters/power.snbt / quest 0D57D3662EB40CE3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D57D3662EB40CE3.title": {
+    "original": "\u0026aCapacitor Banks\u0026r",
+    "translation": "\u0026a電容庫\u0026r",
+    "context": "chapters/power.snbt / quest 0D57D3662EB40CE3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E0B4F549B42AF63.quest_desc": {
+    "original": "\u0026aReactor Fuel Rods\u0026r are interior components that need to be supplied with \u00266Uranium\u0026r or \u0026dPlutonium\u0026r \u00266Pellets\u0026r from \u0026aReactor Fuel Ports\u0026r to generate heat.\n\nThe \u0026aFuel Port\u0026r will be placed on the ceiling of the Reactor. This Port will need \u0026aFuel Rods\u0026r connecting it all the way to the bottom of the Reactor.\n\nTo create \u00266Uranium Pellets\u0026r, you'll need access to the \u00266Atomic Forge\u0026r to create \u00266Uranium Gems\u0026r.\n{@pagebreak}\nWhen burning fuel, \u0026aFuel Rods\u0026r will generate neutron pulses that create a specific amount of energy, the more pulses a rod receives, the more energy it also creates. However, if a neighboring component is also a \u0026aFuel Rod\u0026r, it will also hit the neighboring component with a pulse.\n\nThe amount of heat generated is based on the total pulses of a rod (internal + external pulses).\n\nA \u0026aSingle Rod\u0026r will generate 1 internal pulse, a \u0026aDouble Rod\u0026r 4, and a \u0026aQuad Rod\u0026r 12. \n{@pagebreak}\n\u0026eNeutron Reflectors\u0026r can be used to send a pulse back to its origin, acting as a similar rod type to its neighbor, increasing its efficiency.\n\nEach \u0026aFuel Rod\u0026r will consume a fixed amount of fuel from the \u0026bReactor Fuel Ports\u0026r above the stack. Each fuel pellet has a capacity, and each rod will use 1 capacity unit, a double rod uses 2, and a quad rod uses 4.",
+    "translation": "\u0026a反應爐燃料棒\u0026r是內部核心元件，\n\n需要由\u0026a反應爐燃料埠\u0026r供應\u00266鈾\u0026r或\u0026d鈽\u0026r的\u00266燃料顆粒\u0026r來產生熱量。\n\n\u0026a燃料埠\u0026r應設置在反應爐頂部，並確保下方一路連接到最底層的\u0026a燃料棒\u0026r。\n\n要製作\u00266鈾燃料顆粒\u0026r，你需要先使用\u00266原子鍛造廠\u0026r製作\u00266鈾寶石\u0026r。\n{@pagebreak}\n燃料燃燒時，\u0026a燃料棒\u0026r會產生中子脈衝來生成能量。單支燃料棒接收的脈衝越多，產能越高；\n\n若鄰近元件也是燃料棒，脈衝也會傳遞給它。\n\n產生的熱量取決於燃料棒的總脈衝數（內部 + 外部脈衝）。\n\n\u0026a單聯燃料棒\u0026r產生 1 次內部脈衝，\u0026a雙聯\u0026r為 4 次，\u0026a四聯\u0026r為 12 次。\n{@pagebreak}\n\u0026e中子反射器\u0026r可將脈衝反射回來源端，等同於提供鄰近燃料棒同類型的加成，進一步提升效率。\n\n每支\u0026a燃料棒\u0026r都會從其上方的\u0026b反應爐燃料埠\u0026r消耗固定量燃料。\n\n每顆燃料顆粒有容量值：單聯消耗 1、雙聯消耗 2、四聯消耗 4。",
+    "context": "chapters/power.snbt / quest 0E0B4F549B42AF63",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0E0B4F549B42AF63.title": {
+    "original": "\u0026aReactor Rods",
+    "translation": "\u0026a反應爐燃料棒",
+    "context": "chapters/power.snbt / quest 0E0B4F549B42AF63",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E610A03BB4007B6.quest_desc": {
+    "original": "Generates power by consuming some Mob Drops.",
+    "translation": "透過消耗「不死生物掉落物」產生能量。",
+    "context": "chapters/power.snbt / quest 0E610A03BB4007B6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0EFA11536D00E653.quest_desc": {
+    "original": "\u00262Bio Fuel\u0026r can be used as a great power source in the early game when pumped into a \u0026aBio-Generator\u0026r.\n\nNote: You can only extract power from it on the front face with the big square on it.",
+    "translation": "在前期，將\u00262生物燃料\u0026r輸入\u0026a生物能發電機\u0026r，是相當優秀的能量來源。\n\n注意：只能從正面帶有方框的那一面輸出能量。",
+    "context": "chapters/power.snbt / quest 0EFA11536D00E653",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0EFA11536D00E653.title": {
+    "original": "Bio-Generator",
+    "translation": "生物能發電機",
+    "context": "chapters/power.snbt / quest 0EFA11536D00E653",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0FFC6CBB213B30AD.quest_desc": {
+    "original": "Generates power by consuming Milk and Slimy Items.",
+    "translation": "透過消耗「鮮奶」與「史萊姆」相關物品產生能量。",
+    "context": "chapters/power.snbt / quest 0FFC6CBB213B30AD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.12CB62610FEAADA0.quest_desc": {
+    "original": "Generates power by consuming Dragon's Breath.",
+    "translation": "透過消耗「龍之吐息」產生能量。",
+    "context": "chapters/power.snbt / quest 12CB62610FEAADA0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13EC7C64DFBD1556.quest_desc": {
+    "original": "The \u0026aBasic Generator\u0026r from \u00266Oritech\u0026r is a starter generator that burns any type of furnace fuel to generate a small amount of power.\n\nYou can transfer the power out using \u0026cEnergy Pipes\u0026r from the mod, or any other type of energy cable works as well.",
+    "translation": "來自《\u00266起源科技\u0026r》的\u0026a基礎發電機\u0026r是入門發電機，可燃燒各類熔爐燃料來產生少量能量。\n\n你可以使用本模組的\u0026c能量管道\u0026r將能量輸出，也可搭配其他模組的能量線纜。",
+    "context": "chapters/power.snbt / quest 13EC7C64DFBD1556",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13EC7C64DFBD1556.title": {
+    "original": "\u0026fOritech Starter Generator",
+    "translation": "\u0026f《起源科技》基礎發電機",
+    "context": "chapters/power.snbt / quest 13EC7C64DFBD1556",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.17D5EB0E89BC10D7.quest_desc": {
+    "original": "The \u0026aEndergenic\u0026r generator setup is one of the most complicated energy generators that doesn't require a degree in nuclear physics.\n\nThese generators extract power from \u0026dender pearls\u0026r by 'throwing' the pearls between each other (targeted via \u0026eSmart Wrench\u0026r) and canceling their teleportation effect, absorbing the stifled energy.\n\nContinuing to hold onto a stifled pearl uses energy however and \u0026aEndergenics\u0026r enter a \u00263cool-down state\u0026r after throwing a pearl, so proper timing using redstone is crucial to efficiency. The process isn't perfect, so sometimes pearls will shatter in the machines after being thrown.",
+    "translation": "\u0026a終界能發電機\u0026r的設置，是少數不需要核物理學位，卻依然很複雜的發電系統之一。\n\n這類發電機會將\u0026d終界珍珠\u0026r，在彼此之間「拋送」（用\u0026e智慧扳手\u0026r設定目標），\n並取消其傳送效果，藉此吸收被抑制的能量。\n\n不過抑制珍珠的過程會消耗能量，且\u0026a終界能發電機\u0026r在拋送後會進入\u00263冷卻狀態\u0026r，\n所以用紅石精準控制時序非常重要。\n\n此流程也非完美，珍珠有時會在機器中破碎。",
+    "context": "chapters/power.snbt / quest 17D5EB0E89BC10D7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1CFBFD1CE648772F.quest_desc": {
+    "original": "If you want to tap into your power storage wirelessly, you should pump your power into an \u0026dEnder Cell\u0026r.\n\nThese are used to store a massive amount of power into a \u0026bfrequency\u0026r, which can be accessed from any dimension using another Ender Cell or \u00266Ender Gate\u0026r.",
+    "translation": "若你想無線存取能量，應該先把能量存入\u0026d終界單元\u0026r。\n\n終界單元可把大量能量，儲存在同一個\u0026b頻道\u0026r中，並可透過另一個終界單元或\u00266終界門\u0026r，從任意維度存取。",
+    "context": "chapters/power.snbt / quest 1CFBFD1CE648772F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1EEC74B18B1BFBB5.quest_desc": {
+    "original": "\u0026aBatteries\u0026r are a good way to store energy to move around. They can be charged with any wired or wireless charging method.\n\nWhen holding them in hand, they can be sneak-right-clicked to put them into discharge mode, charging other items in your inventory.",
+    "translation": "\u0026a電池\u0026r是隨身攜帶能量的好方法，可透過任何有線或無線方式充能。\n\n手持電池時，「潛行 + 右鍵」可切換為放電模式，\n\n替物品欄內的其他物品充能。",
+    "context": "chapters/power.snbt / quest 1EEC74B18B1BFBB5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.212600F8D3C1E1EB.quest_desc": {
+    "original": "If you run \u0026eBrine\u0026r through another Thermal Evaporation Tower, it'll convert it into \u00266Liquid Lithium\u0026r.\n\nWe can't do much with Liquid Lithium, so we'll need to convert it into a gas using a \u0026aRotary Condensentrator\u0026r.\n\nTo make the best power storage in \u0026aMekanism\u0026r, we'll need to convert Lithium into \u00266Lithium Dust\u0026r using a \u0026aChemical Crystallizer\u0026r. The Crystallizer requires \u0026dUltimate Control Circuits\u0026r to craft!",
+    "translation": "\u0026e鹽水\u0026r在經過熱力蒸餾塔處理過後會變成\u00266液態鋰\u0026r。\n\n液態鋰我們用不上，要先經過\u0026a迴旋式氣液轉換機\u0026r將其轉成氣體。\n\n要製作機械動力最能儲存能量的材料，我們要將鋰經過\u0026a化學結晶器\u0026r進行處理，製成\u00266鋰粉\u0026r。結晶器要用\u0026d終極控制電路\u0026r製作。",
+    "context": "chapters/power.snbt / quest 212600F8D3C1E1EB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.212600F8D3C1E1EB.title": {
+    "original": "\u0026dLithium Dust",
+    "translation": "\u0026d鋰粉",
+    "context": "chapters/power.snbt / quest 212600F8D3C1E1EB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.231726AD865A945F.quest_desc": {
+    "original": "\u00266Mekanism\u0026r offers simple energy storage using \u0026aEnergy Cubes\u0026r and \u0026aEnergy Tablets\u0026r. The Tablets are batteries for your inventory!\n\n\u0026aEnergy Cubes\u0026r can also charge items by placing them in the right slot of the interface.",
+    "translation": "《\u00266通用機械\u0026r》提供簡單的能量儲存方案：\u0026a能量立方\u0026r與\u0026a能量板\u0026r。能量板就是電池！\n\n把物品放進介面的右側欄位，\u0026a能量立方\u0026r也能替這些物品充能。",
+    "context": "chapters/power.snbt / quest 231726AD865A945F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2341297707B00E93.quest_desc": {
+    "original": "The rest of the generators in this chapter are considered \u0026aEnd Game Generators\u0026r.\n\nThese generators are customizable, and can generate some of the highest amounts of power in the pack.\n\n\u0026eNote\u0026r: Reactors from \u00266Oritech\u0026r have been massively buffed.",
+    "translation": "本章其餘發電機都屬於\u0026a後期發電機\u0026r。\n\n這些發電機可高度自訂，並能提供本模組包中最高級別的能量產出。\n\n\u0026e注意\u0026r：《\u00266起源科技\u0026r》的反應爐已被大幅強化。",
+    "context": "chapters/power.snbt / quest 2341297707B00E93",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.24401E59D87AC23A.quest_desc": {
+    "original": "The \u00266Fusion Reactor\u0026r is \u0026eMekanism's\u0026r final energy generator. Fueled by \u0026aDeuterium\u0026r and \u00262Tritium\u0026r, or a mixture of both\u0026r, it is capable of producing vast amounts of power and/or heat for relatively little upkeep. Both fuel components are produced using just water and energy!\n\nThe \u00266Fusion Reactor\u0026r itself requires a (un)healthy amount of \u0026bPost-Fission\u0026r materials to create, both to justify this level of power and contain it.\n{image:ftb:textures/quests/mekanism/fusion_reactor.png width:100 height:100 align:center}\n\n{@pagebreak}\nTo build the \u00266Fusion Reactor\u0026r, place three 5x5 squares of building material that connect with each other at their mid points, replace the corners of the squares with \u00262Fusion Reactor Casing\u0026r, and add four \u00262Casings\u0026r around the midpoints.\n\nThen, replace the top mid-point with the \u00266Fusion Reactor Controller\u0026r, and all other remaining building blocks can be replaced with reactor glass, ports, or the laser focus matrix.\n\nTo start the \u00266Reactor\u0026r, a small amount of \u0026aD-T Fuel\u0026r in a \u0026eHohlraum\u0026r will be needed inside the \u00262Controller\u0026r, with fuel supplied to the \u00266Reactor\u0026r. A disabled \u0026bLaser Amplifier\u0026r will then need to collect energy from other lasers before firing a single beam containing 400 million FE or more into the \u00263Laser Focus Matrix\u0026r on the \u00266Reactor\u0026r.\n\nFrom here energy, steam, or heat can be extracted from a \u0026aFusion Reactor Port\u0026r set to output mode.",
+    "translation": "\u00266核融合反應爐\u0026r是\u0026e通用機械\u0026r的終極發電機，以\u0026a氘\u0026r和\u00262氚\u0026r（或兩者的混合物）作為燃料。只需要維持少量的消耗就能產生巨量的電力或熱量，更別提兩種燃料僅需水和能量來製作。\n\n核融合發電非常強力，為了限制，\u00266核融合反應爐\u0026r需要大量的\u0026b核分裂\u0026r材料來製作。\n{image:ftb:textures/quests/mekanism/fusion_reactor.png width:100 height:100 align:center}\n\n{@pagebreak}\n要建造\u00266核分裂反應爐\u0026r，先用任意建材搭出三個 5x5 的方形框架，並使其相互在中點連接。將框架的角落替換成\u00262核融合反應爐框架\u0026r，並在六面中點周圍四角補上\u00262反應爐框架\u0026r。\n\n接著將頂面中點替換成\u00266核融合反應爐控制器\u0026r，剩下的建材方塊可以替換成強化玻璃、連接埠以及雷射聚焦矩陣。\n\n要啟動\u00266反應爐\u0026r，\u00262控制器\u0026r內需要一個含有少量\u0026a氘氚燃料\u0026r的\u0026e黑體輻射腔\u0026r。還需要用雷射來為\u0026b雷射增幅器\u0026r充能，射出一發至少帶有 400MFE  的光束至\u00263雷射聚焦矩陣\u0026r上。\n\n能量、蒸汽或是熱量可以透過輸出模式下的\u0026a核融合反應爐連接埠\u0026r來輸出。",
+    "context": "chapters/power.snbt / quest 24401E59D87AC23A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.24401E59D87AC23A.title": {
+    "original": "Fusion Reactor",
+    "translation": "核融合反應爐",
+    "context": "chapters/power.snbt / quest 24401E59D87AC23A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25B9F4FD7CA67A0B.quest_desc": {
+    "original": "\u0026aDimensional Cells\u0026r are energy storage blocks that are capable of sharing their storage with each other wirelessly via \u0026aPowercell Card\u0026r channels. There is a small amount of loss in this process based on the distance, improved by \u0026binfusing\u0026r the cell that's drawing the energy.\n\nTo insert or extract energy, configure a side of the cell using a \u0026eSmart Wrench\u0026r. Blue sides will allow energy into the cell, yellow will allow energy to be pushed out.\n\nTo configure a \u0026aPowercell Card\u0026r and create a \u0026bwireless energy channel\u0026r, simply place an unlinked card in the leftmost slot of an unlinked \u0026aDimensional Cell\u0026r. This will register a new channel on the card to transfer power over. To add cards to this channel, place an unlinked card in the slot to the right of it.",
+    "translation": "\u0026a維度能量單元\u0026r是可透過\u0026a維度標記卡\u0026r頻道，彼此無線共享能量的方塊。\n\n此過程會依距離產生少量損耗，可對取電端的單元進行「\u0026b注能\u0026r」以降低損耗。\n\n要輸入或輸出能量，請用\u0026e智慧扳手\u0026r設定單元側面。藍色面為輸入，黃色面為輸出。\n\n若要設定\u0026a維度標記卡\u0026r，並建立\u0026b無線能量頻道\u0026r，只要把未連結的卡片，\n\n放入未連結的\u0026a維度能量單元\u0026r最左側欄位，卡片會註冊新頻道以傳輸能量。\n\n若要把更多卡片加入此頻道，將未連結的卡放入其右側欄位即可。",
+    "context": "chapters/power.snbt / quest 25B9F4FD7CA67A0B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.25B9F4FD7CA67A0B.title": {
+    "original": "Dimensional Cells",
+    "translation": "維度能量單元",
+    "context": "chapters/power.snbt / quest 25B9F4FD7CA67A0B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.269EE6FF35CA9857.quest_desc": {
+    "original": "Most of \u00266Oritech's\u0026r generators can accept the \u0026aSteam Boiler Addon\u0026r. This allows you to pump water into the addon, which will convert the power output of the generator into \u0026bSteam.\n\nThis can then be pumped into a \u0026aSteam Engine\u0026r to generate RF. The energy produced is added with the energy produced from the base generator that is using the \u0026aSteam Boiler Addon\u0026r.\n\nA \u0026aSteam Engine's\u0026r speed varies based on the stored steam. More steam results in more pressure, making it operate faster. The speed is scaled linearly based on the tank's fill percentage, with a maximum multiplier of 10 when the tank is full.\n{@pagebreak}\nHowever, the \u0026aSteam Engine's\u0026r efficiency varies based on the speed. Higher efficiency results in more RF per steam unit produced. The machine's efficiency is highest when operating at around 700% speed. Anything lower or higher than that will result in a less ideal yield.\n\nEnergy can be extracted from the red machine slots, while Fluid ports are marked blue.",
+    "translation": "《\u00266起源科技\u0026r》大多數發電機都可安裝\u0026a蒸汽鍋爐升級\u0026r。\n\n安裝後可向升級輸入水，將發電機的產出轉為\u0026b蒸汽\u0026r。\n\n再把蒸汽輸送到\u0026a蒸汽引擎\u0026r來發電，且其產出會與裝有蒸汽鍋爐升級的原發電機輸出疊加。\n\n\u0026a蒸汽引擎\u0026r的運轉速度會隨儲存蒸汽量而變化。\n\n蒸汽越多、壓力越高，運轉越快；速度會依蒸汽的填充比例線性提升，佔滿時最高為 10 倍。\n{@pagebreak}\n不過\u0026a蒸汽引擎\u0026r的效率也會隨速度改變。\n\n效率越高，每單位蒸汽可轉換更多 RF。\n\n機器在約 700% 速度時效率最佳，低於或高於此值都會降低\n收益。\n\n能量可從機器上的紅色埠輸出，流體埠則以藍色標示。",
+    "context": "chapters/power.snbt / quest 269EE6FF35CA9857",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.28F636FAA3397479.quest_desc": {
+    "original": "The \u0026aBasic Coal Generator\u0026r from \u00266RFTools\u0026r is a simple-to-use generator that burns furnace fuel items to generate power.",
+    "translation": "《\u00266RFTools\u0026r》的\u0026a基礎煤炭發電機\u0026r，能透過燃燒熔爐燃料物品來發電。",
+    "context": "chapters/power.snbt / quest 28F636FAA3397479",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.28F636FAA3397479.title": {
+    "original": "\u0026fBasic Coal Generator",
+    "translation": "\u0026f基礎煤炭發電機",
+    "context": "chapters/power.snbt / quest 28F636FAA3397479",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2B2BB685DE246BCC.quest_desc": {
+    "original": "Generates power by consuming Lava (and optionally redstone).",
+    "translation": "透過消耗「熔岩」與「紅石（可選）」產生能量。",
+    "context": "chapters/power.snbt / quest 2B2BB685DE246BCC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2CEF038B5DA1FF25.quest_desc": {
+    "original": "Generates power by consuming Fireworks.",
+    "translation": "透過消耗「煙火」產生能量。",
+    "context": "chapters/power.snbt / quest 2CEF038B5DA1FF25",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.308D9819EA67D3F0.quest_desc": {
+    "original": "The generators in this row are considered \u0026aEarly Game Generators\u0026r!\n\nThese generators are fairly easy to make and can scale well as you create your power network.",
+    "translation": "這一排發電機屬於\u0026a前期發電機\u0026r！\n\n這些發電機製作難度低，且可隨你的供電網路穩定擴充。",
+    "context": "chapters/power.snbt / quest 308D9819EA67D3F0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.31C83D9253FFF685.quest_desc": {
+    "original": "\u00263Industrial Turbines\u0026r are vertical multiblock structures that turn \u00267Steam\u0026r into energy, and optionally back into \u0026bWater\u0026r using \u00269Saturating Condensers\u0026r. Be careful if a turbine is full of energy, as it will stop or dump steam.\n\nThe minimum size for this multiblock is a 5x5x5 structure, but adding just one layer to the height (5x6x5) \u00266quadruples\u0026r its power production capacity. So, this quest will treat these dimensions (5x6x5) as the minimum. The largest size of turbine is a 17x18x17, as turbine widths need to be odd for the spinning blades.\n\nWhile \u00263Industrial Turbines\u0026r are more complex than \u0026dFission Reactors\u0026r, they can handle plenty of \u00267Steam\u0026r flow.\n{@pagebreak}\nThe multiblock needs a frame of \u0026aTurbine Casings\u0026r, with the bottom face filled with \u0026aStructural Glass\u0026r or more \u0026aCasings\u0026r.\n\n\u0026bTurbine Rotors\u0026r are stacked on the center block at the bottom, with two \u00263Turbine Blades\u0026r applied to each.\n\nOnly \u0026aStructural Glass\u0026r, \u00263Turbine Valves\u0026r, and \u0026aCasings\u0026r can fill in the faces up to the top of the rotors.\n\n{image:ftb:textures/quests/mekanism/turbine1transp.png width:100 height:100 align:center}\n{@pagebreak}\nThe \u00263Rotational Complex\u0026r goes above the rotors, and surrounded by \u00262Pressure Dispersers\u0026r to close off the multiblock's bottom section.\n\n\u0026dElectromagnetic Coils\u0026r go above the complex, at least one must touch it, and all must be connected if using more than one.\n\n\u00263Saturating Condensers\u0026r can then fill in the remaining space depending on how much water needs to be recycled.\n\n{image:ftb:textures/quests/mekanism/turbine2transp.png width:100 height:100 align:center}\n{@pagebreak}\nThe remaining empty spaces can now be filled with \u0026aGlass\u0026r, \u0026aCasings\u0026r, or \u00262Turbine Vents\u0026r. The multiblock only needs 1 \u00262Vent\u0026r to form, but they help with \u00267Steam\u0026r flow so the more the better.\n\nOnce formed, the multiblock can be interacted with to check its current rates and status. The \u0026eStats Menu\u0026r can list what parts of the build are limiting the \u00267Steam\u0026r flow and production rates.\n\n\u0026dFission Reactor \u0026aSteam Ports\u0026r can export into \u0026aTurbine Valves\u0026r, and \u00262Turbine Vents\u0026r can export \u0026bWater\u0026r into the \u0026dReactor\u0026r input ports, allowing for a cycle with zero pipes!\n\n{image:ftb:textures/quests/mekanism/turbine3transp.png width:100 height:100 align:center}",
+    "translation": "\u00263工業渦輪\u0026r是一種能將\u00267蒸汽\u0026r轉成能量的直立多方塊結構，如果需要的話，還能用\u00269飽和冷凝器\u0026r將蒸汽變回\u0026b水\u0026r。要注意當渦輪的能量滿了之後，渦輪就會停止處理蒸汽。\n\n渦輪最小的尺寸為 5x5x5，若是加高一層（5x6x5）發電量會變\u00266四倍\u0026r，\n因此任務將會以 5x6x5 的尺寸為最小標準。\n\n渦輪最大尺寸為 17x18x17，由於刀片會旋轉的原因，結構長寬須為奇數。\n\n雖然\u00263工業渦輪\u0026r比\u0026d核分裂反應爐\u0026r複雜得多，但是兩台機器都能承受大量的\u00267蒸汽\u0026r流量。\n{@pagebreak}\n此多方塊結構需要\u0026a渦輪外殼\u0026r作為框架，底面必須為\u0026a結構玻璃\u0026r或外殼。\n\n\u0026b渦輪轉子\u0026r從底部開始堆疊，立在渦輪的正中間。每一層轉子都需要安裝兩個\u00263渦輪刀片\u0026r。\n\n側面能擺放\u0026a結構玻璃\u0026r、\u00263渦輪閥門\u0026r和\u0026a渦輪外殼\u0026r，但是最高只能到轉子的高度。\n\n{image:ftb:textures/quests/mekanism/turbine1transp.png width:100 height:100 align:center}\n{@pagebreak}\n將\u00263旋轉裝置\u0026r放在轉子上面，用\u00262分壓元件\u0026r把旋轉裝置圍起來，將渦輪下層隔開。\n\n接著將\u0026d電磁線圈\u0026r放在旋轉裝置上。如果擺放多個線圈，則線圈需要相連並接觸到旋轉裝置。\n\n上層剩下的空間根據需要回收的水量，填充數個\u00263飽和冷凝器\u0026r。\n\n{image:ftb:textures/quests/mekanism/turbine2transp.png width:100 height:100 align:center}\n{@pagebreak}\n現在還剩下來的空間就填上\u0026a結構玻璃\u0026r、\u0026a渦輪外殼\u0026r或\u00262渦輪排氣口\u0026r。雖然渦輪只需要一個\u00262排氣口\u0026r就能成形，但是越多排氣口\u00267蒸汽\u0026r流量就越大，所以建議多加幾個。\n\n一旦結構成形，就能夠查看當前的流量和狀態。工業渦輪的\u0026e狀態介面\u0026r可以查看當前的最大\u00267蒸汽\u0026r流量和發電量。\n\n\u0026d核分裂反應爐\u0026r的\u0026a蒸汽連接埠\u0026r能直接貼著\u0026a渦輪閥門\u0026r輸出\u00267蒸汽\u0026r，\u00262渦輪排氣口\u0026r能直接對著\u0026d反應爐\u0026r的輸入端輸出\u0026b水\u0026r，從而實現零管道的循環。\n\n{image:ftb:textures/quests/mekanism/turbine3transp.png width:100 height:100 align:center}",
+    "context": "chapters/power.snbt / quest 31C83D9253FFF685",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.31C83D9253FFF685.title": {
+    "original": "\u0026aMekanism\u0026r \u0026eTurbine\u0026r",
+    "translation": "\u0026a通用機械\u0026r\u0026e渦輪\u0026r",
+    "context": "chapters/power.snbt / quest 31C83D9253FFF685",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.323A230EB571C4CA.quest_desc": {
+    "original": "\u0026aReactors\u0026r are where generating power starts to get serious!\n\nThese will burn up \u00266Uraninite\u0026r using \u0026bCoal\u0026r and \u0026cRedstone\u0026r to generate a ton of power.\n\n\u0026eReactors will not accept water in this pack!\n\nTo build one, you'll need \u0026a36 Reactor Blocks\u0026r in your inventory. Right clicking to place it down will automatically build out the 3x4x3 structure if it has room.\n\n\u0026aNote\u0026r: \u00266Uraninite\u0026r is made in the \u0026aEnergizing Orb\u0026r, which requires the \u0026cHeat\u0026r \u00266World Engine\u0026r upgrade.\n\nWater is not a good enough coolant. You can see which coolants you can use by hitting \u0026aU\u0026r on a reactor block in JEI.",
+    "translation": "\u0026a反應爐\u0026r是你邁向大規模發電的起點！\n\n它會消耗\u00266晶質鈾燃料\u0026r，並搭配\u0026b煤炭\u0026r與\u0026c紅石\u0026r來產生大量能量。\n\n\u0026e注意\u0026r：本模組包中的反應爐不接受水作為冷卻。\n\n要建造反應爐，你背包中需先有 \u0026a36 個反應爐方塊\u0026r。\n\n若空間足夠，右鍵放置會自動搭出 3x4x3 的結構。\n\n\u0026a補充\u0026r：\u00266晶質鈾燃料\u0026r需在\u0026a充能室\u0026r製作，而這需要\u0026c熱能\u0026r\u00266世界引擎\u0026r升級。\n\n水不是足夠好的冷卻液。你可在 JEI 對反應爐方塊按「\u0026aU\u0026r」查看可用\n的冷卻液。",
+    "context": "chapters/power.snbt / quest 323A230EB571C4CA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.333E8FBE15AE980D.quest_desc": {
+    "original": "\u0026cNuclear Waste\u0026r can be safely dumped into \u0026aRadioactive Waste Barrels\u0026r to slowly decay, but a \u0026dReactor\u0026r produces a lot of waste from which we can still extract some new useful products.\n\nCentrifuging radioactive waste will create \u00263Plutonium\u0026r, while further radiating it with a \u00266Neutron Activator\u0026r will produce \u00269Polonium\u0026r, both processes heavily reducing the amount of radioactive chemicals.\n{@pagebreak}\nThese chemicals can be further converted into \u00262Pellets\u0026r, removing any final few chemical impurities that will still ultimately need to decay.\n\nThese \u00262Pellets\u0026r are used in crafting high tier gear, as well as the ultimate power generator from the mod: the \u0026dFusion Reactor\u0026r.",
+    "translation": "你可以將\u0026c核廢料\u0026r安全的存放在\u0026a放射性廢料桶\u0026r等它衰變，不過核廢料並非毫無用處，裡面還能提取出一些有用的東西。\n\n將放射性廢料離心後可以得到\u00263鈽\u0026r，或經過\u00266中子活化器\u0026r處理後能夠得到\u00269釙\u0026r，處理過程會大大減少放射性物質的含量。\n{@pagebreak}\n這兩種化學物質可以轉換成\u00262顆粒\u0026r，去除剩下的放射性物質。\n\n而這兩種\u00262顆粒\u0026r能夠用來製作高階的設備，\n像是本模組最強的發電裝置——\u0026d核融合反應爐\u0026r。",
+    "context": "chapters/power.snbt / quest 333E8FBE15AE980D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.333E8FBE15AE980D.title": {
+    "original": "\u0026fYou say Polonium, I say Plutonium",
+    "translation": "你說的是釙，我說的是鈽",
+    "context": "chapters/power.snbt / quest 333E8FBE15AE980D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.34D191F76AA69707.quest_desc": {
+    "original": "\u0026eFlux Networks\u0026r is the ultimate wireless power solution!\n\n\u0026aFlux Dust\u0026r is the main crafting material for crafting all blocks within the mod.\n\n\u0026eNote\u0026r: \u0026eFlux Dust\u0026r requires the \u0026aMachine Block\u0026r and \u0026cEnder Cell\u0026r \u00266World Engine Upgrades\u0026r to craft.",
+    "translation": "《\u0026e通量網路\u0026r》是終極的無線傳電方案！\n\n\u0026a通量粉\u0026r是此模組各種方塊的主要合成材料。\n\n\u0026e注意\u0026r：\u0026e通量粉\u0026r需要解鎖\u0026a機器方塊\u0026r與\u0026c終界單元\u0026r\u00266世界引擎升級\u0026r後才能合成。",
+    "context": "chapters/power.snbt / quest 34D191F76AA69707",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.34D191F76AA69707.title": {
+    "original": "Flux Networks",
+    "translation": "通量網路",
+    "context": "chapters/power.snbt / quest 34D191F76AA69707",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.39A6CE8A1D5B2D8F.quest_desc": {
+    "original": "The \u0026aSimple Coal Generator\u0026r from \u00266Just Dire Things\u0026r can burn regular burnable items like coal or wood, but it can also burn the different tiers of coal from the mod itself, like \u0026aPrimal Coal\u0026r!\n\nUsing these special coals will produce more power, with the higher tiers producing up to 960 RF/t.\n\nThe \u0026aPocket Generator\u0026r will do the same thing, but in your inventory to charge your items.",
+    "translation": "《\u00266Just Dire Things\u0026r》的\u0026a簡易煤炭發電機\u0026r，\n可燃燒一般可燃物（如煤炭、木材），也能燒模組內不同階級的煤，例如\u0026a原初煤炭\u0026r！\n\n使用這些特殊煤炭，能帶來更高的能量產出，最高階可達 960 RF/t。\n\n\u0026a隨身發電機\u0026r也是同樣原理，但可在物品欄內為你的物品充能。",
+    "context": "chapters/power.snbt / quest 39A6CE8A1D5B2D8F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3B2B26B1AD947CC5.quest_desc": {
+    "original": "The \u0026aLarge Energy Storage\u0026r holds a base value of 20M RF which can be upgraded with \u0026bAddons\u0026r.\n\nThe \u0026aLarge Energy Storage\u0026r accepts energy from all green ports but can only output through the single red port. A redstone signal will disable all energy output.",
+    "translation": "\u0026a大型能量儲存器\u0026r基礎可儲存 20M RF，\n\n並可透過\u0026b升級插件\u0026r擴充。\n\n\u0026a大型能量儲存器\u0026r可從所有綠色埠輸入能量，但只能由單一紅色埠輸出；輸入紅石訊號會停用所有能量輸出。",
+    "context": "chapters/power.snbt / quest 3B2B26B1AD947CC5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3CADD463CFC2FE32.quest_desc": {
+    "original": "The \u0026aThermoelectric Generator\u0026r uses the temperature differential between the blocks on either side of it to generate \u0026aLV\u0026r power.\n\nThis means that you need to place one cold block/fluid and one hot block/fluid on opposite sides of the block to generate power.\n\nYou can check the \u0026aEngineer's Manual\u0026r or JEI for a list of compatible blocks.\n\n\u0026eNote\u0026r: This is a store only item.",
+    "translation": "\u0026a熱電發電機\u0026r會利用兩側方塊間的溫差來產生\u0026a低壓\u0026r能量。\n\n也就是說，你需要在方塊兩側分別放置一個低溫方塊/流體，與一個高溫方塊/流體才能發電。\n\n可在\u0026a工程師指南手冊\u0026r或 JEI 查看相容的方塊清單。\n\n\u0026e注意\u0026r：此物品僅能透過商店取得。",
+    "context": "chapters/power.snbt / quest 3CADD463CFC2FE32",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3F75F781DE5123F4.quest_desc": {
+    "original": "\u00266Oritech Reactors\u0026r are a great way to generate large amounts of power!\n\nThe Reactor is a large custom multiblock made up of many different parts, with the \u00266Nuclear Reactor Control Panel\u0026r being the main interface block.\n\nThis interface shows the current status of the reactor, along with the temperatures of the components and statistics. It also only shows the first layer of the interior.\n\n\u00266Reactors\u0026r generate power by consuming Uranium or Plutonium Pellets, and the amount of power is based on the number of \u0026aReactor Rods\u0026r and \u0026bNeutron Reflectors\u0026r next to the rods. \n\n\u0026cIt is important to keep Reactors sufficiently cooled!\u0026r Reactors like to make big holes.",
+    "translation": "\u00266《起源科技》反應爐\u0026r是產生大量能量的絕佳方式！\n\n反應爐是由多種零件組成的大型自訂多方塊結構，其中\u00266核反應爐控制面板\u0026r是主要的控制介面。\n\n此介面會顯示反應爐目前狀態、各元件溫度與統計資訊，並僅顯示內部第一層。\n\n\u00266反應爐\u0026r透過消耗鈾或鈽燃料顆粒發電，發電量取決於\u0026a反應爐燃料棒\u0026r，與其鄰近的\u0026b中子反射器\u0026r設置。\n\n\u0026c務必確保反應爐冷卻充足！\u0026r否則它們很容易在地圖上炸出大坑。",
+    "context": "chapters/power.snbt / quest 3F75F781DE5123F4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4348C9D795E92FCE.quest_desc": {
+    "original": "This \u0026aPortable Energy Storage\u0026r can hold up to 1M RF and will retain energy when broken.\n\nThe \u0026aPortable Energy Storage\u0026r accepts energy from all sides through a green port and can only output through the single red port. A redstone signal will disable all energy output.",
+    "translation": "這個\u0026a攜帶式能量儲存器\u0026r最多可儲存 1M RF，\n\n破壞後仍會保留內部能量。\n\n\u0026a攜帶式能量儲存器\u0026r可透過綠色埠從任意側面輸入能量，並僅能從單一紅色埠輸出；\n\n輸入紅石訊號會停用所有能量輸出。",
+    "context": "chapters/power.snbt / quest 4348C9D795E92FCE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.456030ECDFA9CE3B.quest_desc": {
+    "original": "\u0026bReactor Heat Absorbers\u0026r remove a fixed amount of heat from all neighboring components making it more efficient when surrounded by components that need to be cooled.\n\nIt requires a constant supply of coolant in the form of ice (or blue/packed ice), which can be inserted via the \u0026bCoolant Port\u0026r above the \u0026bAbsorber\u0026r stack.\n\nThe amount of coolant used is fixed, and does not increase with more sides being cooled. Each tick, 16 units of heat are removed from each neighbor.\n\nA \u0026bReactor Coolant Port\u0026r must be placed on the outer ceiling of the \u0026dReactor\u0026r, with \u0026bHeat Absorbers\u0026r beneath it.",
+    "translation": "\u0026b反應爐熱吸收器\u0026r每刻會從所有相鄰元件移除固定熱量，因此周圍需要冷卻的元件越多，效益越高。\n\n它需要持續供應冰類冷卻劑（冰、藍冰或冰磚），可由吸收器堆疊上方的\u0026b冷卻劑埠\u0026r輸入。\n\n冷卻劑消耗量固定，不會因同時冷卻更多側面而增加。每刻會從每個相鄰元件移除 16 單位熱量。\n\n\u0026b反應爐冷卻劑吸收埠\u0026r必須設置於\u0026d反應爐\u0026r外層頂部，並在其下方配置\u0026b熱吸收器\u0026r。",
+    "context": "chapters/power.snbt / quest 456030ECDFA9CE3B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.456030ECDFA9CE3B.title": {
+    "original": "\u0026bReactor Heat Absorbers",
+    "translation": "\u0026b反應爐熱吸收器",
+    "context": "chapters/power.snbt / quest 456030ECDFA9CE3B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.45B2C8BD2ACBA46D.quest_desc": {
+    "original": "The \u0026dReactor\u0026r needs to be made of rectangular walls, where the frame is made of \u0026aReactor Wall\u0026r blocks. The max size of a Reactor is 64 blocks per direction. Its interior needs to be identical in the vertical (y) axis.\n\nSomewhere on the walls, you'll need the \u00266Nuclear Reactor Control Panel\u0026r, as well as any \u0026cEnergy Ports\u0026r that you wish to use.\n\nWhile it's possible to make a small 3x3x3 Reactor, it's best to start with a 5x5x5 to properly cool it down.\n\nEven though the \u0026dReactor\u0026r allows for some heat build-up, a properly cooled design should not produce any leaking heat.\n{@pagebreak}\nYou can design your \u0026dReactors\u0026r as you wish. In general, \u0026aDual/Quad Rods\u0026r use fuel more efficiently, generating more total RF per pellet, but are also much harder to cool.\n\nYou can use active cooling with the \u0026bHeat Absorbers\u0026r, or passive cooling with just \u0026cHeat Vents\u0026r.\n\nIf a \u0026aFuel Rod\u0026r contains a temperature of over 2000°C for a long period of time, it will overheat and trigger a \u0026cNUCLEAR MELTDOWN\u0026r!\n\nWarning sirens will engage before it reaches those temperatures. Depending on the size of the \u0026dReactor\u0026r and the number of \u0026aFuel Rods\u0026r, the meltdown will result in a bigger or smaller explosion.",
+    "translation": "\u0026d反應爐\u0026r 必須由長方體牆面構成，外框使用 \u0026a反應爐牆體\u0026r。每個方向最大尺寸為 64 格，且其內部在垂直（Y 軸）上必須保持一致。\n\n牆面上至少需要放置一個 \u00266核反應爐控制面板\u0026r，以及你要使用的 \u0026c能量埠\u0026r。\n\n雖然可以建成 3x3x3 的小型反應爐，但建議從 5x5x5 起步，較容易做好冷卻。\n\n即使 \u0026d反應爐\u0026r 允許一定程度的熱量累積，良好冷卻的設計仍不應出現外溢熱量。\n{@pagebreak}\n你可以自由設計 \u0026d反應爐\u0026r。一般來說，\u0026a雙聯/四聯燃料棒\u0026r 的燃料效率更高、每顆燃料顆粒總發電量更多，但冷卻難度也更高。\n\n你可使用 \u0026b熱吸收器\u0026r 進行主動冷卻，或僅用 \u0026c散熱器\u0026r 做被動冷卻。\n\n若 \u0026a燃料棒\u0026r 長時間超過 2000°C，將會過熱並引發 \u0026c核熔毀\u0026r！\n\n在達到危險溫度前，警報器會先啟動。熔毀爆炸規模會依 \u0026d反應爐\u0026r 體積與 \u0026a燃料棒\u0026r 數量而不同。",
+    "context": "chapters/power.snbt / quest 45B2C8BD2ACBA46D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45B2C8BD2ACBA46D.title": {
+    "original": "Designing The Reactor",
+    "translation": "設計反應爐",
+    "context": "chapters/power.snbt / quest 45B2C8BD2ACBA46D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4843F5564CA5810C.quest_desc": {
+    "original": "The \u0026aDiesel Generator\u0026r generates \u0026dHV\u0026r power by consuming fuels like \u00262Diesel\u0026r.\n\nDepending on the fuel used, certain fuels will burn for longer inside the generator, creating more power.\n\nFor a full list of fuels check the \u0026bEngineer's Manual\u0026r or JEI.\n\nTo learn more about building and using them, refer to the \u0026aElectrical Grids\u0026r section of the \u0026bEngineer's Manual\u0026r.",
+    "translation": "\u0026a柴油發電機\u0026r透過消耗像\u00262柴油\u0026r這類燃料來產生\u0026d高壓\u0026r能量。\n\n依使用的燃料不同，有些燃料會在發電機內燃燒更久，進而產生更多能量。\n\n完整燃料清單，請查閱\u0026b工程師指南手冊\u0026r或 JEI。\n\n若要進一步了解建造與使用方式，請參考\u0026b工程師指南手冊\u0026r的\u0026a電網\u0026r章節。",
+    "context": "chapters/power.snbt / quest 4843F5564CA5810C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4843F5564CA5810C.title": {
+    "original": "Diesel Generator",
+    "translation": "柴油發電機",
+    "context": "chapters/power.snbt / quest 4843F5564CA5810C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4887C8EA4441F62B.quest_desc": {
+    "original": "The \u0026cFuel Generator\u0026r is a 3x3x2 multiblock generator that consumes oil-like fluids to generate power.\n\nHigher tier fuels provide the same RF/t, but lasts a lot longer!\n\n\u0026eNote\u0026r: Hitting \u0026aU\u0026r on the Fuel Generator will show a full list of fuels that can be used.",
+    "translation": "\u0026c燃油發電機\u0026r是 3x3x2 的多方塊發電機，透過消耗燃油來發\n電。\n\n更高階燃油雖然 RF/t 相同，但可持續運作更久！\n\n\u0026e注意\u0026r：在 JEI 對燃油發電機按「\u0026aU\u0026r」，可查看完整可用燃油\n清單。",
+    "context": "chapters/power.snbt / quest 4887C8EA4441F62B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4A5FD3641E0A566E.quest_desc": {
+    "original": "The \u00262Reactor Energy Port\u0026r is used to output the energy generated by the \u0026dReactor\u0026r, and it needs to be placed on one of its outer walls.\n\nEach port may output up to 25,000 RF/t.\n\nThe \u0026cReactor Redstone Port\u0026r can disable the intake of new fuels, but will finish burning any pellet that has already started burning before the reactor is fully shut off.\n\nIt can also be used with a comparator to output data. It has 3 modes which can be cycled by right-clicking the port: Energy, Active Rod Count, and Temperature.",
+    "translation": "\u00262反應爐能量埠\u0026r用來輸出\u0026d反應爐\u0026r產生的能量，必須設置在外層牆面上。\n\n每個能量埠最高可輸出 25,000 RF/t。\n\n\u0026c反應爐紅石埠\u0026r可停用新燃料輸入，但已開始燃燒的燃料顆粒仍會燒完，反應爐才會完全停機。\n\n它也可搭配比較器輸出資料。共有 3 種模式可透過右鍵切換：\n\n能量、啟用燃料棒數量、溫度。",
+    "context": "chapters/power.snbt / quest 4A5FD3641E0A566E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4A5FD3641E0A566E.title": {
+    "original": "\u00262Energy \u0026f\\\u0026\\ \u0026cRedstone \u0026fPorts",
+    "translation": "\u00262能量 \u0026f\\\u0026\\ \u0026c紅石\u0026f埠",
+    "context": "chapters/power.snbt / quest 4A5FD3641E0A566E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4A68D2CD7437589E.quest_desc": {
+    "original": "Generates power by consuming Potions.",
+    "translation": "透過消耗「藥水」產生能量。",
+    "context": "chapters/power.snbt / quest 4A68D2CD7437589E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4AC8D1AEFCED24FD.quest_desc": {
+    "original": "This section refers to the different ways to transmit power \u0026aWirelessly\u0026r.",
+    "translation": "本節介紹各種以 \u0026a無線\u0026r 方式傳輸能量的方法。",
+    "context": "chapters/power.snbt / quest 4AC8D1AEFCED24FD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4E6EC6E1A507A52B.quest_desc": {
+    "original": "\u0026dEnder Gates\u0026r can be placed down on any machine to transfer power wirelessly.\n\n[\"These will only work if you have enough power in your \", {\"text\": \"Ender Cell\", \"color\": \"dark_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"1CFBFD1CE648772F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Ender Cells Quest\"}}, \" network.\" ]",
+    "translation": "\u0026d終界門\u0026r放在任意機器上，可進行無線供電。\n\n[\"只有當你的\", {\"text\": \"終界單元\", \"color\": \"dark_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"1CFBFD1CE648772F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往終界單元任務\"}}, \"網路中有足夠能量時，終界門才會運作。\"]",
+    "context": "chapters/power.snbt / quest 4E6EC6E1A507A52B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4E6EC6E1A507A52B.title": {
+    "original": "\u0026dEnder\u0026r Gates",
+    "translation": "\u0026d終界\u0026r門",
+    "context": "chapters/power.snbt / quest 4E6EC6E1A507A52B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4E9EBB1268DEF8A6.quest_desc": {
+    "original": "Generates power by consuming TNT.\n\n\u00267\u0026oWhen working, this block generates explosions that deal significant player damage, but has no effect on terrain.",
+    "translation": "透過消耗「TNT」產生能量。\n\n\u00267\u0026o機器運作時會產生爆炸，對玩家造成大量傷害，但不會對地形造成任何影響。",
+    "context": "chapters/power.snbt / quest 4E9EBB1268DEF8A6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.52B46D49B5C4A7F2.quest_desc": {
+    "original": "The \u0026dGas-Burning Generator\u0026r can burn \u0026dEthene\u0026r to produce power at a very high rate! You can expect each full generator to produce ~8k RF/t.",
+    "translation": "\u0026d燃氣發電機\u0026r可藉由燃燒\u0026d乙烯\u0026r，以極高效率發電！\n\n每台發電機在滿載時，約可產出 8k RF/t。",
+    "context": "chapters/power.snbt / quest 52B46D49B5C4A7F2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.534F1C46873C1358.quest_desc": {
+    "original": "The generators in this row are considered \u0026aMid Game Generators\u0026r!\n\nThese generators start to become available once you have some progress and unlock several of the \u00266World Engine Upgrades\u0026r.\n\nSome of them can also be upgraded or scaled up well into the late game, like the \u00266Powah\u0026r \u0026dReactors\u0026r.",
+    "translation": "這一排發電機屬於\u0026a中期發電機\u0026r！\n\n當你有一定進度並解鎖數個\u00266世界引擎升級\u0026r後，就能開始使用這些發電機。\n\n其中有些也能一路升級與擴充到後期，例如《\u00266波瓦科技\u0026r》的\u0026d反應爐\u0026r。",
+    "context": "chapters/power.snbt / quest 534F1C46873C1358",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5417C0BED57AE8DA.quest_desc": {
+    "original": "Generates power by consuming Nether Fauna.",
+    "translation": "透過消耗「地獄蕈類」產生能量。",
+    "context": "chapters/power.snbt / quest 5417C0BED57AE8DA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.57ED7DBAC5E8C5BE.quest_desc": {
+    "original": "The \u0026dEnergized Induction Matrix\u0026r from \u0026eMekanism\u0026r is the ultimate way to store tons of power!\n\nThis is a custom multiblock structure that can be built up to 18x18x18 for all of your power storage needs. It only requires 1 \u0026aInduction Cell\u0026r, 1 \u0026aInduction Provider\u0026r, and \u0026aInduction Ports\u0026r to pull and push power out.\n{@pagebreak}\nTo build this, the smallest structure that can be made is a 3x4x3 multiblock. The frame must be made up of \u0026aInduction Casings\u0026r, and the faces can be \u0026aStructural Glass\u0026r or \u0026aInduction Ports\u0026r.\n\nInside of the structure, you'll place down your \u0026aInduction Cells\u0026r and \u0026aProviders\u0026r. Providers determine how fast the Matrix can push or pull power, whereas the Cells determine the maximum amount of power that can be stored. You can mix and match however many you want of each, as long as it is placed inside of the structure.\n{@pagebreak}\n\u0026aInduction Ports\u0026r can be configured to input or output power by sneak-using a \u0026aConfigurator\u0026r on them. I suggest using at least 2 for your first Matrix!",
+    "translation": "《\u00266通用機械\u0026r》的\u0026d充能輸導矩陣\u0026r，是儲存海量能量的終極方案！\n\n這是可自訂的多方塊結構，\n\n最大可建到 18x18x18，足以滿足各種儲能需求。\n\n至少需要 1 個\u0026a輸導元件\u0026r、1 個\u0026a輸導供應器\u0026r，\n\n與若干\u0026a輸導端口\u0026r來輸入與輸出能量。\n{@pagebreak}\n建造時最小尺寸為 3x4x3。\n\n外框必須使用\u0026a輸導外殼\u0026r，表面可用\u0026a結構玻璃\u0026r或\u0026a輸導端口\u0026r。\n\n在結構內部放置\u0026a輸導元件\u0026r與\u0026a輸導供應器\u0026r。\n\n供應器決定矩陣輸入/輸出速度，元件決定最大儲能量。只要放在結構內，兩者數量可自由搭配。\n{@pagebreak}\n手持\u0026a調節器\u0026r，對\u0026a輸導端口\u0026r「潛行 + 右鍵」可切換輸入/輸出模式。\n\n建議你的第一座矩陣至少使用 2 個輸導端口！",
+    "context": "chapters/power.snbt / quest 57ED7DBAC5E8C5BE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.57ED7DBAC5E8C5BE.title": {
+    "original": "\u0026fThe \u0026dEnergized Induction Matrix",
+    "translation": "\u0026d充能輸導矩陣",
+    "context": "chapters/power.snbt / quest 57ED7DBAC5E8C5BE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.583FFE29C881EE8C.quest_desc": {
+    "original": "You can access the Network UI from any block within the mod, like a \u0026aFlux Plug\u0026r or \u0026aPoint\u0026r.\n\nFrom there, you can create your first network! On the far-right tab of the UI, you can click the \u0026a+\u0026r to create a new network.\n{@pagebreak}\nOn this screen, you can change the network's name and switch configuration options to public, private, or encrypted, making it a great power transfer mod for server use.\n\n{image:ftb:textures/quests/fluxnetworks/new_network.png width:140 height:150 align:center}\n\nWhen you're finished configuring the options, you can hit \u0026bCreate\u0026r at the bottom!\n{@pagebreak}\nThis will bring you to the \u0026aNetwork List\u0026r. In this list, you can see all networks that are available to you, including the one you just created!\n\nFor every device that needs to connect to the network, this is the first thing you'll do whenever you place it down.\n\n{image:ftb:textures/quests/fluxnetworks/network_list.png width:140 height:150 align:center}\n\nOnce you've selected a network, you can head over to the Home page to configure the settings of the device.\n{@pagebreak}\nThe \u0026bHome\u0026r page allows you to configure several parts of the device, including the \u0026aName\u0026r, \u0026dPriority\u0026r, and \u0026cTransfer Limit\u0026r.\n\n{image:ftb:textures/quests/fluxnetworks/network_configure.png width:140 height:150 align:center}\n\nThe higher the \u0026dPriority\u0026r number, the more priority it gets for the power in your network.\n\nThe \u0026cTransfer Limit\u0026r allows you to control how much the device can pull from the network.\n{@pagebreak}\nYou also have toggles on the bottom to override these settings if you wish!\n\n\u0026aPower Surge\u0026r will ignore all priority settings and force the device to be the highest priority in the network.\n\n\u0026aBypass Limit\u0026r just ignores the device's Transfer Limit settings and sets it to max.",
+    "translation": "你可以從本模組任一方塊（例如\u0026a通量網路輸入點\u0026r或\u0026a通量網路存取點\u0026r）開啟網路介面。\n\n在該介面中可建立第一個網路！在介面最右側分頁按下「\u0026a+\u0026r」，即可建立新網路。\n{@pagebreak}\n此畫面可修改網路名稱，並將取用權限設為公用、私人或加密，對伺服器環境非常實用。\n\n{image:ftb:textures/quests/fluxnetworks/new_network.png width:140 height:150 align:center}\n\n設定完成後，按下底部的\u0026b建立\u0026r！\n{@pagebreak}\n接著會進入\u0026a網路清單\u0026r。你可在此看到所有可用網路，包含剛建立的網路。\n\n所有要接入網路的裝置，放置後第一步都要先做這件事。\n\n{image:ftb:textures/quests/fluxnetworks/network_list.png width:140 height:150 align:center}\n\n選好網路後，前往首頁分頁來設定該裝置參數。\n{@pagebreak}\n\u0026b首頁\u0026r可設定裝置多項參數，包含\u0026a名稱\u0026r、\u0026d優先度\u0026r與\u0026c傳輸上限\u0026r。\n\n{image:ftb:textures/quests/fluxnetworks/network_configure.png width:140 height:150 align:center}\n\n\u0026d優先權\u0026r數值越高，該裝置在網路中分配能量時的優先度越高。\n\n\u0026c傳輸上限\u0026r可控制裝置能從網路拉取多少能量。\n{@pagebreak}\n你也可以用底部開關覆蓋上述設定。\n\n\u0026a湧流模式\u0026r會忽略所有優先權設定，強制讓該裝置成為網路最高優先。\n\n\u0026a不限速度\u0026r會忽略裝置的傳輸上限設定，直接拉滿。",
+    "context": "chapters/power.snbt / quest 583FFE29C881EE8C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.583FFE29C881EE8C.title": {
+    "original": "Setting Up Networks",
+    "translation": "設置無線網路",
+    "context": "chapters/power.snbt / quest 583FFE29C881EE8C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5B512AED08EC1899.quest_desc": {
+    "original": "\u0026aThermo Generators\u0026r generate power using \u0026cheat\u0026r from the block placed underneath it, and a \u0026bcoolant\u0026r being pumped in from any side.\n\nYou can use JEI to see all valid \u0026cheat sources\u0026r and \u0026bcoolants\u0026r.\n\n\u0026eNote\u0026r: Water is not a good enough coolant. You can see which coolants and heat blocks you can use by hitting \u0026aU\u0026r on the Thermo Generator in JEI.",
+    "translation": "\u0026a熱力發電機\u0026r會利用下方方塊提供的\u0026c熱能\u0026r，與任一側輸入的\u0026b冷卻液\u0026r來發電。\n\n你可以在 JEI 查看所有可用的\u0026c熱源\u0026r與\u0026b冷卻液\u0026r。\n\n\u0026e注意\u0026r：水不是足夠好的冷卻液。你可在 JEI 對熱力發電機\n按「\u0026aU\u0026r」，查看可用的冷卻液與熱源方塊。",
+    "context": "chapters/power.snbt / quest 5B512AED08EC1899",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.61D79267453CA30C.quest_desc": {
+    "original": "The \u0026aFlux Plug\u0026r is the device you place on your generators or power storage. It acts as a \u0026cPower Tap\u0026r and tells your network where to get the power from.\n\nThe \u0026aFlux Point\u0026r is the device you place on the blocks or pipes you need powered. You'll want a lot of these!\n\nYou can craft any of the \u0026aFlux Storage\u0026r blocks to create a buffer of power for your network as well.",
+    "translation": "\u0026a通量網路輸入點\u0026r需放在發電機或儲能裝置上。它等同於\u0026c能量取用端\u0026r，告訴網路從哪裡取得能量。\n\n\u0026a通量網路存取點\u0026r則放在你要供電的方塊或管線上，通常會需要很多個！\n\n你也可合成各種\u0026a通量儲存器\u0026r方塊，替網路建立能量緩衝區。",
+    "context": "chapters/power.snbt / quest 61D79267453CA30C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.61D79267453CA30C.title": {
+    "original": "Transferring Power",
+    "translation": "傳輸能量",
+    "context": "chapters/power.snbt / quest 61D79267453CA30C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.648083DCC5BDF216.quest_desc": {
+    "original": "The \u0026aKinetic Dynamo\u0026r uses forces generated by \u0026aWaterwheels\u0026r to generate power.\n\n\u0026aWaterwheels\u0026r provide constant power based on the amount of water flowing around the wheel. Up to three \u0026aWaterwheels\u0026r can be attached to the same shaft.",
+    "translation": "\u0026a動能發電機\u0026r利用\u0026a水車\u0026r產生的動力來發電。\n\n\u0026a水車\u0026r的發電量，取決於周圍水流量，且同一根軸最多可連接三個\u0026a水車\u0026r。",
+    "context": "chapters/power.snbt / quest 648083DCC5BDF216",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.648083DCC5BDF216.title": {
+    "original": "\u0026fKinetic Generation",
+    "translation": "\u0026f動能發電",
+    "context": "chapters/power.snbt / quest 648083DCC5BDF216",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6A4A2A2EFD552316.quest_desc": {
+    "original": "If you're looking to store your power, \u0026aEnergy Cells\u0026r from \u0026ePowah\u0026r will do the trick.\n\nYou can also craft \u0026aBatteries\u0026r and charge them up using the Cells. The Batteries can then be used to charge items in your inventory in the early game!",
+    "translation": "若你想儲存能量，《\u0026e波瓦科技\u0026r》的\u0026a能量單元\u0026r就是很好的選擇。\n\n你也能製作\u0026a電池\u0026r，並用能量單元替電池充能。\n\n前期可用這些電池為物品欄中的道具充能！",
+    "context": "chapters/power.snbt / quest 6A4A2A2EFD552316",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A4A2A2EFD552316.title": {
+    "original": "\u0026cEnergy Cells\u0026r",
+    "translation": "\u0026c能量單元\u0026r",
+    "context": "chapters/power.snbt / quest 6A4A2A2EFD552316",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6B2F4AA722DAC535.quest_desc": {
+    "original": "Generates power by consuming Nether Stars.",
+    "translation": "透過消耗「地獄之星」產生能量。",
+    "context": "chapters/power.snbt / quest 6B2F4AA722DAC535",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6C4783132CC50BF0.quest_desc": {
+    "original": "\u0026dSchrödinger's Safe\u0026r is an energy storage multiblock that can store billions of RF when properly set up.\n\nThis multiblock requires a \u0026bCapacity Block\u0026r which changes the base storage multiplier of \u0026dSchrödinger's Safe\u0026r.\n\nLow, Medium, and High Capacity Blocks multiply the base storage by 0.3x, 1x, and 5x respectively. Check the item tooltip for a full list of available capacity blocks.\n\nYou can also exponentially increase the capacity of \u0026dSchrödinger's Safe\u0026r by powering its sides with \u0026aEnderic Lasers\u0026r, up to 5000x",
+    "translation": "\u0026d薛丁格的保險箱\u0026r是多方塊能量儲存結構，正確設置後可儲存數十億 RF。\n\n此多方塊需要\u0026b容量方塊\u0026r來調整\u0026d薛丁格保險箱\u0026r的基礎儲存倍率。\n\n低／中／高容量方塊分別提供 0.3x、1x、5x 基礎倍率。\n\n完整可用方塊請查看物品提示。\n\n你也可以用\u0026a終界雷射\u0026r為其側面供能，\n\n將\u0026d薛丁格保險箱\u0026r容量以指數方式提升，最高可達 5000 倍。",
+    "context": "chapters/power.snbt / quest 6C4783132CC50BF0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6C974CC33C5BADD8.quest_desc": {
+    "original": "Generates power by consuming Liquid Meat and any ingot.",
+    "translation": "透過消耗「肉湯」與任何「金屬錠」產生能量。",
+    "context": "chapters/power.snbt / quest 6C974CC33C5BADD8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6D5905345348ABEF.quest_desc": {
+    "original": "The \u0026dFlux Controller\u0026r enables wireless charging for items you have equipped or in your hotbar.\n\nOnce placed down and connected to a network, you can open up the \u0026dWireless Charging\u0026r tab to select which slots you want to be charged wirelessly.\n\nMake sure to toggle it on at the bottom and click apply!",
+    "translation": "\u0026d通量網路控制器\u0026r可為你裝備中或快捷欄內的物品啟用無線充能。\n\n放置並連上網路後，可在\u0026d無線充能\u0026r分頁，選擇要被無線充能的欄位。\n\n記得在底部開啟功能並按下套用！",
+    "context": "chapters/power.snbt / quest 6D5905345348ABEF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6D5905345348ABEF.title": {
+    "original": "Wireless Inventory Charging",
+    "translation": "無線物品欄充能",
+    "context": "chapters/power.snbt / quest 6D5905345348ABEF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6F4A4B4C261FF84B.quest_desc": {
+    "original": "Generates power by consuming Furnace Fuels.",
+    "translation": "透過消耗「熔爐燃料」產生能量。",
+    "context": "chapters/power.snbt / quest 6F4A4B4C261FF84B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.70A9E1AC900A77B4.quest_desc": {
+    "original": "\u0026aPlayer Transmitters\u0026r are used to power items in your inventory.\n\nTo do this, you'll need to first make a \u0026aBinding Card\u0026r, then use it in your hand to claim it. Placing the card in the Transmitter will tell it to power your inventory.\n\nYou can also use the \u0026aBinding Card\u0026r on an Enderman to convert it into a \u0026dDimensional Binding Card\u0026r, which allows the Transmitter to work across dimensions.",
+    "translation": "\u0026a玩家發射器\u0026r可用來為你物品欄中的物品供能。\n\n首先要先製作一張\u0026a綁定卡\u0026r，右鍵使用完成綁定後，再放入發射器，發射器就會對你的物品欄供能。\n\n你也可以對終界使者使用\u0026a綁定卡\u0026r，將其轉為\u0026d綁定卡（維度）\u0026r，讓發射器可跨維度運作。",
+    "context": "chapters/power.snbt / quest 70A9E1AC900A77B4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.74AD70F5C648DBDF.quest_desc": {
+    "original": "This section refers to most of the ways to store power!",
+    "translation": "本節介紹大部分的能量儲存方式！",
+    "context": "chapters/power.snbt / quest 74AD70F5C648DBDF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.74AD70F5C648DBDF.title": {
+    "original": "Power Storage Options",
+    "translation": "能量儲存選項",
+    "context": "chapters/power.snbt / quest 74AD70F5C648DBDF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.74E9653C810F045B.quest_desc": {
+    "original": "If you're looking for an early game option for transferring power wirelessly, \u00266Irregular Implements\u0026r has a simple solution!\n\nThe first step is to get your hands on \u0026bEctoplasm\u0026r from killing a \u0026bVex\u0026r. Once you have one, you can make a \u0026bSpectre Sapling\u0026r for a renewable resource of them.\n{@pagebreak}\nThe next step will be making the \u0026aSpectre Energy Injector\u0026r and placing it down and pipe power into it.\n\nAnywhere you need to use that power, simply place down a \u0026eSpectre Coil\u0026r to transfer energy out!\n\n\u0026eNote\u0026r: \u0026aSpectre Energy Injectors\u0026r are considered power networks and work based on the player who placed it down. ",
+    "translation": "若你在找前期可用的無線傳電方案，《\u00266不規則設備\u0026r》有一套簡單解法！\n\n第一步是擊殺\u0026b惱鬼\u0026r取得\u0026b靈質\u0026r。\n\n拿到後能做成\u0026b幽靈木樹苗\u0026r，讓這項資源能夠再生。\n{@pagebreak}\n接著製作\u0026a幽靈能量注入器\u0026r，放下後把能量輸入其中。\n\n任何需要用電的地方，只要放置\u0026e幽靈線圈\u0026r就能把能量取出！\n\n\u0026e注意\u0026r：\u0026a幽靈能量注入器\u0026r會被視作玩家的個人電網，其作用對象取決於放置它的玩家。",
+    "context": "chapters/power.snbt / quest 74E9653C810F045B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.74E9653C810F045B.title": {
+    "original": "Wireless Spectre Power",
+    "translation": "無線幽靈能量",
+    "context": "chapters/power.snbt / quest 74E9653C810F045B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.754048401D3A6A7B.quest_desc": {
+    "original": "This chapter covers most of the different ways to generate power.",
+    "translation": "此章節涵蓋了大部分的發電方式。",
+    "context": "chapters/power.snbt / quest 754048401D3A6A7B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.754048401D3A6A7B.title": {
+    "original": "Power Options",
+    "translation": "發電選項",
+    "context": "chapters/power.snbt / quest 754048401D3A6A7B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.76D5941D76026588.quest_desc": {
+    "original": "Generates power by consuming Food Items.",
+    "translation": "透過消耗「食物」產生能量。",
+    "context": "chapters/power.snbt / quest 76D5941D76026588",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.78115154B5DC07B3.quest_desc": {
+    "original": "This block generates \u0026625 Million RF/t\u0026r when all other \u0026dMycelial Generators\u0026r are active.",
+    "translation": "當其他所有種類的\u0026d菌絲網路發電機\u0026r同時在運作時，能產生 \u002662500 萬 RF/t\u0026r 的能量。",
+    "context": "chapters/power.snbt / quest 78115154B5DC07B3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.78115154B5DC07B3.title": {
+    "original": "\u0026fMycelial Reactor",
+    "translation": "\u0026f菌絲網路反應爐",
+    "context": "chapters/power.snbt / quest 78115154B5DC07B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.789A4FE79256A4C6.quest_desc": {
+    "original": "Generates power by consuming Enchanted Books.",
+    "translation": "透過消耗「附魔書」產生能量。",
+    "context": "chapters/power.snbt / quest 789A4FE79256A4C6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.78F7CFEA0EB5024C.quest_desc": {
+    "original": "The generators in this row are considered \u0026aStarter Generators\u0026r to help you create your first bit of power!",
+    "translation": "這一排屬於\u0026a起始發電機\u0026r，可協助你產出第一批能量！",
+    "context": "chapters/power.snbt / quest 78F7CFEA0EB5024C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.795A3ABA29AC0E4F.quest_desc": {
+    "original": "Generates power by consuming Frozen/Snow Items.",
+    "translation": "透過消耗「低溫／雪相關物品」產生能量。",
+    "context": "chapters/power.snbt / quest 795A3ABA29AC0E4F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7A0028FE5DF359E8.quest_desc": {
+    "original": "The \u0026aEnergy Transmitter\u0026r is a small machine that allows for wireless charging of blocks in a configurable radius.\n\nBy default, this machine can transfer up to 1k RF/t. It also has a slight loss of transfer.",
+    "translation": "\u0026a能量發射器\u0026r是台小型機器，可在設定範圍內對方塊進行無線充能。\n\n預設最高可傳輸 1k RF/t，且會有少量傳輸損耗。",
+    "context": "chapters/power.snbt / quest 7A0028FE5DF359E8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B579D0762DB9F33.quest_desc": {
+    "original": "Once you have some \u0026aOsmium\u0026r, you can easily start generating some basic power using the \u0026eHeat Generator\u0026r from \u00266Mekanism\u0026r.\n\nThis \u0026aGenerator\u0026r can be fed any burnable item like coal or wood to generate power, but can also harness heat from \u0026cLava\u0026r around it to generate power passively.\n\nTo extract the power from the generator, you must connect a pipe or machine to the front face that has a square on it! ",
+    "translation": "當你取得一些\u0026a鋨\u0026r後，就能用《\u00266通用機械\u0026r》的\u0026e熱力發電機\u0026r，輕鬆開始基礎發電。\n\n這台\u0026a發電機\u0026r可燃燒煤炭、木材等可燃物，也能利用周遭\u0026c熔岩\u0026r的熱量被動發電。\n\n要輸出能量，必須把管線或機器接在正面帶方框的那一面！",
+    "context": "chapters/power.snbt / quest 7B579D0762DB9F33",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B579D0762DB9F33.title": {
+    "original": "\u0026cHeat\u0026r \u0026fGenerator",
+    "translation": "\u0026c熱力\u0026r\u0026f發電機",
+    "context": "chapters/power.snbt / quest 7B579D0762DB9F33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7EA0870C93C7DBA5.quest_desc": {
+    "original": "\u0026aPowercells\u0026r are energy storage blocks that are capable of sharing their storage with each other adjacently as a single structure.\n\nTo insert or extract energy, configure a side of the cell using a \u0026eSmart Wrench\u0026r. Blue sides will allow energy into the powercell, yellow will allow energy to be pushed out.",
+    "translation": "\u0026a能量單元\u0026r是儲能方塊，可與相鄰單元合併成單一結構並共享儲能。\n\n要輸入或輸出能量，請用\u0026e智慧扳手\u0026r設定單元側面。藍色面為輸入，黃色面為輸出。",
+    "context": "chapters/power.snbt / quest 7EA0870C93C7DBA5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7EA0870C93C7DBA5.title": {
+    "original": "\u0026aPowercells\u0026r",
+    "translation": "\u0026a能量單元\u0026r",
+    "context": "chapters/power.snbt / quest 7EA0870C93C7DBA5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7FEDD82D9B47EFCD.quest_desc": {
+    "original": "The \u0026aBio Generator\u0026r consumes biomass to generate energy, which can be increased with \u0026bAddons\u0026r.",
+    "translation": "\u0026a生質發電機\u0026r透過消耗生質材料來產能，並可用\u0026b升級插件\u0026r提升發電量。",
+    "context": "chapters/power.snbt / quest 7FEDD82D9B47EFCD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.05FFCCEAC7E565FB.title": {
+    "original": "Wireless Power Options",
+    "translation": "無線傳電選項",
+    "context": "chapters/power.snbt / task 05FFCCEAC7E565FB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0F2D2B75BBD3B74B.title": {
+    "original": "\u0026cEnergy Cubes\u0026r",
+    "translation": "\u0026c能量立方\u0026r",
+    "context": "chapters/power.snbt / task 0F2D2B75BBD3B74B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.11193E0681204B33.title": {
+    "original": "Spectre Coils",
+    "translation": "幽魂線圈",
+    "context": "chapters/power.snbt / task 11193E0681204B33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.224C16DC19629B4B.title": {
+    "original": "Starter Generators",
+    "translation": "初始發電機",
+    "context": "chapters/power.snbt / task 224C16DC19629B4B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2BE7F102A41BB55E.title": {
+    "original": "Early Game Generators",
+    "translation": "前期發電機",
+    "context": "chapters/power.snbt / task 2BE7F102A41BB55E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.322FFDB250990323.title": {
+    "original": "Power Storage",
+    "translation": "能量儲存器",
+    "context": "chapters/power.snbt / task 322FFDB250990323",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3D736F8E008552DB.title": {
+    "original": "Powercells",
+    "translation": "能量單元",
+    "context": "chapters/power.snbt / task 3D736F8E008552DB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.57EE94BA6579685A.title": {
+    "original": "Batteries from Actually Additions",
+    "translation": "《實用拓展》電池",
+    "context": "chapters/power.snbt / task 57EE94BA6579685A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.63405599D33D4D0A.title": {
+    "original": "Mid Game Generators",
+    "translation": "中期發電機",
+    "context": "chapters/power.snbt / task 63405599D33D4D0A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6F0EB6804E6BC2C8.title": {
+    "original": "Storage",
+    "translation": "儲存",
+    "context": "chapters/power.snbt / task 6F0EB6804E6BC2C8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.78AD19380F54B22A.title": {
+    "original": "JDT Coals",
+    "translation": "JDT 煤炭",
+    "context": "chapters/power.snbt / task 78AD19380F54B22A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7F73108709C402C8.title": {
+    "original": "Late Game Generators",
+    "translation": "後期發電機",
+    "context": "chapters/power.snbt / task 7F73108709C402C8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

@@ -1,0 +1,1118 @@
+{
+  "chapter.39E1055DAEF9F36E.title": {
+    "original": "Tier 3: Solaris",
+    "translation": "階級 3：烈陽",
+    "context": "chapters/world_engine__tier_3.snbt / chapter 39E1055DAEF9F36E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.007F4A173D5CA51F.quest_desc": {
+    "original": "\"Commune\" was probably a stretch.\n\nYou will need the souls of specific mobs, and that means cosplaying as the Grim Reaper and swinging a \u0026aScythe\u0026r.\n\nMobs will release their spirits when killed with the \u0026aScythe\u0026r, meaning you'll need to hunt down specific monsters for their souls.\n\n\u00267\u0026oSpoilers on the next page -\u003e\n{@pagebreak}\nZombies and Skeletons should have all of the souls you need for this craft.",
+    "translation": "「密談」這個詞可能有點言過其實。\n\n你會需要某些生物的靈魂，這代表你會需要假裝自己是死神，到處揮動\u0026a鐮刀\u0026r。\n\n當你用\u0026a鐮刀\u0026r殺死怪物時，他們的靈魂會被釋放出來。所以你要去獵殺某些怪物，取得他們的靈魂。\n\n\u00267\u0026o下一頁有暴雷-\u003e\n{@pagebreak}\n殭屍和骷髏有著你這次配方所需要的所有靈魂。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 007F4A173D5CA51F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.007F4A173D5CA51F.title": {
+    "original": "\u0026fGathering Souls",
+    "translation": "\u0026f採集靈魂",
+    "context": "chapters/world_engine__tier_3.snbt / quest 007F4A173D5CA51F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.02735F0443CA9727.quest_desc": {
+    "original": "These compasses point to locations of \u00263Vaults.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_3.snbt / quest 02735F0443CA9727",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.02735F0443CA9727.title": {
+    "original": "\u0026fLocating The \u00263Vaults",
+    "translation": "\u0026f定位：\u00263寶庫",
+    "context": "chapters/world_engine__tier_3.snbt / quest 02735F0443CA9727",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.02BC8FCDB2D94F0E.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 02BC8FCDB2D94F0E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.02BC8FCDB2D94F0E.title": {
+    "original": "\u0026fAuto-Build The \u00263Quantum Tunnel Upgrade",
+    "translation": "\u0026f自動建造\u00263量子通道升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 02BC8FCDB2D94F0E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0306C0D774144DAD.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0306C0D774144DAD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0306C0D774144DAD.title": {
+    "original": "\u0026fLocating The \u00263Vault",
+    "translation": "\u0026f定位：\u00263寶庫",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0306C0D774144DAD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.066342488E03F3B5.quest_desc": {
+    "original": "\u0026bDiamonds\u0026r make for great tools, but they tend to be brittle and shatter.\n\nUsing an \u0026aAtomic Reconstructor\u0026r, you can reinforce them to make them even stronger.\n\nThe \u0026aReconstructor\u0026r requires a special material to be crafted. The \u00262Geologist\u0026r will know exactly where to find the crystal it needs.",
+    "translation": "\u0026b鑽石\u0026r能夠做成很好的工具，但它們往往很脆弱、很易碎。\n\n你可以使用\u0026a原子重構器\u0026r來強化它們，讓它們變得更強大。\n\n\u0026a重構器\u0026r需要用一種特殊的材料來製作。\u00262地質學家\u0026r知道該如何找到這種水晶。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 066342488E03F3B5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.066342488E03F3B5.title": {
+    "original": "\u0026fReconstructing Minerals",
+    "translation": "\u0026f礦物重構",
+    "context": "chapters/world_engine__tier_3.snbt / quest 066342488E03F3B5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B69B9E1209A9234.quest_desc": {
+    "original": "While the main goal will be to upgrade the \u0026bWorld Engine\u0026r with the \u0026cAdvanced Machine Blocks\u0026r, you'll need to upgrade how it handles power first.\n\nInstalling a single \u0026cNitro Tier Ender Cell\u0026r should allow it to handle more complex crafts related to the power of the \u0026eEnd\u0026r.\n\nOf course, this will require at least one \u0026dNether Star\u0026r.\n\nReturn to the \u0026dEcho of The Catalyst\u0026r so they may show you how to upgrade your \u00266World Engine\u0026r.",
+    "translation": "就算你的主要目標是用\u0026c高級機器方塊\u0026r升級\u0026b世界引擎\u0026r，但你還是需要先升級它處理能量的方式。\n\n安裝一顆\u0026c終界單元（地獄之星）\u0026r可為它提供來自\u0026e終界\u0026r的力量，讓它足以處理更多更複雜的合成配方。\n\n當然，這會需要至少一顆\u0026d地獄之星\u0026r。\n\n返回\u0026r器械尊者\u0026r處，然後他會教你該如何升級你的\u00266世界引擎\u0026r。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0B69B9E1209A9234",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B69B9E1209A9234.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0B69B9E1209A9234",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B69B9E1209A9234.title": {
+    "original": "\u0026fEnder Technology",
+    "translation": "\u0026f終界科技",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0B69B9E1209A9234",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E7AD6BCF9F8605F.quest_desc": {
+    "original": "Now that the \u00266World Engine\u0026r can handle some \u0026dEnder\u0026r crafts, you will need to get your hands on a \u0026dDragon Egg\u0026r without going to the \u0026eEnd\u0026r.\n\nWithin the \u0026eEnd\u0026r ring, you'll be able to find a very special \u00263Vault\u0026r with a dangerous fight inside. And maybe a Dragon Egg.\n\nYou will need to craft the \u0026dMighty Ender Chicken Egg\u0026r and use it in the \u0026aDislocator Receptacle\u0026r in the middle ring to summon the boss.\n{@pagebreak}\nThis can be a very difficult fight if you are not prepared!\n\nThe \u0026dMighty Ender Chicken\u0026r spawns with a shield that needs to be broken before it can take damage. This can only be broken by being whacked by a \u00262Chicken Stick\u0026r.\n\nThis boss also has several different attacks, including a laser that will most likely kill you. Make sure to hide during this attack!\n{@pagebreak}\nOnce you have your hands on a \u0026dDragon Egg\u0026r, the \u00266World Engine\u0026r should be able to extract its essence into block form.\n\nReturn to the \u0026dEcho of The Catalyst\u0026r once again to find out how to upgrade your \u00266World Engine\u0026r.\n\n[\"\", {\"text\": \"Note\", \"color\": \"yellow\"}, \": It's worth setting up an \", {\"text\": \"Extractor\", \"color\": \"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0EBA58B7FD2AF36D\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Extractor Quest\"} }, \" to get more \", {\"text\": \"Dragon Eggs\", \"color\": \"light_purple\"}, \", or you can redo the fight over and over.\" ]\n\n\u00267\u0026oSetup on the next page -\u003e\n{@pagebreak}\n{image:ftb:textures/quests/dragon_egg_extraction.png width:70 height:200 align:center}",
+    "translation": "現在\u00266世界引擎\u0026r能夠處理\u0026d更終界\u0026r的合成配方了，你會需要開始在不前往\u0026e終界\u0026r的情況下，著手準備一顆\u0026d龍蛋\u0026r。\n\n在\u0026e終界\u0026r環帶中，你有機會找到一座非常特別的\u00263寶庫\u0026r：裡面有著非常危險的戰鬥，說不定還有一顆龍蛋。\n\n你會需要合成一顆\u0026d偉大終界雞蛋\u0026r，並對著中間的\u0026a傳送門定位器\u0026r使用它，就能召喚出 Boss。\n{@pagebreak}\n如果你沒有準備好的話，這場戰鬥可能會十分艱難！\n\n\u0026d偉大終界雞\u0026r會召喚一座盾牌，你會需要先破壞這座盾牌才能對牠造成傷害。它只能被\u00262雞棒\u0026r敲碎。\n\n這隻 Boss 有很多種不同的攻擊方式，包含：\\n一束很可能會殺死你的雷射激光。最好在此攻擊時躲藏！\n{@pagebreak}\n當你取得了\u0026d龍蛋\u0026r之後，\u00266世界引擎\u0026r將能夠吸收\u0026d龍蛋\u0026r方塊的力量。\n\n再次返回\u0026d器械尊者\u0026r處以找出你該如何升級你的\u00266世界引擎\u0026r。\n\n[\"\", {\"text\": \"備註\", \"color\": \"yellow\"}, \"：你最好為\", {\"text\": \"龍蛋\", \"color\": \"light_purple\"}, \"設置一台\", {\"text\": \"提取器\", \"color\": \"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0EBA58B7FD2AF36D\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「提取器」任務\"} }, \"以方便你取得它，或是你也可以一次又一次地重複這場戰鬥。\" ]\n\n\u00267\u0026o下一頁有設置範例 -\u003e\n{@pagebreak}\n{image:ftb:textures/quests/dragon_egg_extraction.png width:70 height:200 align:center}",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0E7AD6BCF9F8605F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0E7AD6BCF9F8605F.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0E7AD6BCF9F8605F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E7AD6BCF9F8605F.title": {
+    "original": "\u0026fLike Taking Candy From A Baby",
+    "translation": "\u0026f就像是搶走嬰兒的糖果般",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0E7AD6BCF9F8605F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0FD446B7912E00CB.quest_desc": {
+    "original": "It's time to combine each of the pieces together to create the \u0026cAdvanced Machine Blocks\u0026r.",
+    "translation": "是時候將所有的零件組合為\u0026c高級機器方塊\u0026r了。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0FD446B7912E00CB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0FD446B7912E00CB.quest_subtitle": {
+    "original": "Major World Engine Upgrade",
+    "translation": "大型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0FD446B7912E00CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0FD446B7912E00CB.title": {
+    "original": "\u0026fThe Advanced Machinery Upgrade",
+    "translation": "\u0026f高級機器升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0FD446B7912E00CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0FF5D73B3256F400.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0FF5D73B3256F400",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0FF5D73B3256F400.title": {
+    "original": "\u0026fAuto-Build The \u00263Spirit Upgrade",
+    "translation": "\u0026f自動建造\u00263魂銀升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 0FF5D73B3256F400",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.106A9E7AD6051D8C.title": {
+    "original": "Guidance Completed 3",
+    "translation": "Guidance Completed 3",
+    "context": "chapters/world_engine__tier_3.snbt / quest 106A9E7AD6051D8C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.11BB3C62703E0B3E.quest_desc": {
+    "original": "Encasing spirits directly into a block is probably not the most ethical thing to do, but the \u00266World Engine\u0026r can harness that power for more advanced crafts.\n\nBring this back to \u0026dThe Infernal\u0026r to learn how to install the \u00263Spirit Block Upgrade\u0026r.",
+    "translation": "將靈魂囚禁在方塊內或許並不符合道德，但現在\u00266世界引擎\u0026r能夠汲取其中所蘊含的力量來完成更多高級的合成配方了。\n\n將它帶給\u0026d煉獄炎魔\u0026r，他會告訴你該如何安裝這項\u00263世界引擎升級\u0026r。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 11BB3C62703E0B3E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11F69E1E4FE4D5CD.quest_desc": {
+    "original": "The advanced circuitry you need will require a specialized crystal called \u0026dFluxite\u0026r.\n\nThis crystal can only be created by beaming power directly into an \u0026dAmethyst Crystal\u0026r. To do this, you will need to create an \u0026cEnderic Laser\u0026r and a \u0026bTarget Designator\u0026r.\n{@pagebreak}\nOnce you've crafted the \u0026cEnderic Laser\u0026r, make sure to build it near a \u0026dBudding Amethyst Block\u0026r that can grow crystals.\n\nBy Sneak + Right-clicking with the \u0026bTarget Designator\u0026r on an \u0026dAmethyst Crystal\u0026r, you can store the location into the Designator. Once stored, Sneak + Right-click on the \u0026cEnderic Laser\u0026r to designate where the laser should shoot.\n\nIf done properly, the laser will fire and convert the crystal over into \u0026dFluxite\u0026r.\n\nUse this to craft the \u0026dFlux Gate\u0026r.",
+    "translation": "你會需要一種被稱作\u0026d通量水晶\u0026r的特殊水晶才能完成你需要的高級電路元件。\n\n當\u0026d紫水晶晶簇\u0026r被雷射打中，進入它的激發態後就會變成這種水晶。你會需要一台\u0026c終界雷射\u0026r漢醫台\u0026b目標指定器\u0026r才能完成上述任務。\n{@pagebreak}\n當你合成出\u0026c終界雷射\u0026r之後，建議將它蓋在能不斷長出紫水晶的\u0026d紫水晶芽床\u0026r的旁邊。\n\n使用\u0026b目標指定器\u0026r「潛行+右鍵」點擊\u0026d紫水晶晶簇\u0026r能夠將它的位置資訊儲存於指定器之中。當你有了位置資訊之後，繼續使用它「潛行+右鍵」點擊\u0026c終界雷射\u0026r就能指定雷射應該射擊的位置。\n\n如果你操作得當的話，將會發出一道雷射，並將紫水晶轉化為\u0026d通量水晶\u0026r。\n\n現在，使用它來合成\u0026d通量閘\u0026r吧。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 11F69E1E4FE4D5CD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11F69E1E4FE4D5CD.title": {
+    "original": "\u0026fThe Power of Flux",
+    "translation": "\u0026f通量之力",
+    "context": "chapters/world_engine__tier_3.snbt / quest 11F69E1E4FE4D5CD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13E0F74B9A1DAB58.quest_desc": {
+    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
+    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "context": "chapters/world_engine__tier_3.snbt / quest 13E0F74B9A1DAB58",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.13E0F74B9A1DAB58.title": {
+    "original": "\u0026fLocating The \u00263Vault",
+    "translation": "\u0026f定位：\u00263寶庫",
+    "context": "chapters/world_engine__tier_3.snbt / quest 13E0F74B9A1DAB58",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1680080BED98F027.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1680080BED98F027",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1680080BED98F027.title": {
+    "original": "\u0026fLocating \u0026dThe Catalyst",
+    "translation": "\u0026f定位：\u0026d器械尊者",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1680080BED98F027",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1D52FC5D0EAD911B.title": {
+    "original": "Guidance Check 2",
+    "translation": "Guidance Check 2",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1D52FC5D0EAD911B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1E307C13D534A75C.title": {
+    "original": "Light Bender Check 1",
+    "translation": "Light Bender Check 1",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1E307C13D534A75C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1F1A15B6E079F31F.quest_desc": {
+    "original": "Crafting the circuitry for the \u0026cAdvanced Machine Blocks\u0026r will require more than just a steady hand.\n\nYou'll need a machine that can be very precise for this. The \u0026aAssembler\u0026r should do the trick.\n\n\u0026eNote\u0026r: To assemble this machine, you'll need 3 \u0026aMachine Cores\u0026r of any tier.\n\n[{\"text\": \"\", \"color\": \"gray\", \"italic\": true}, \"If you wish to learn more about Oritech, check out the \", { \"text\": \"Oritech Chapter\", \"color\": \"gray\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1FD2F304ADC237D0\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Oritech Questline\"} }, \".\"]",
+    "translation": "只靠著你那雙手是無法完成\u0026c高級機器方塊\u0026r所需的電路元件的。\n\n你會需要一台能夠完成精細操作的機器。\u0026a組裝機\u0026r就能夠很好地完成上述任務。\n\n\u0026e備註\u0026r：你會需要三個任意階級的\u0026a機器核心\u0026r才能組裝出這台機器。\n\n[{\"text\": \"\", \"color\": \"gray\", \"italic\": true}, \"如果你想要學習更多關於《起源科技》模組的玩法的話，請查看\", { \"text\": \"《起源科技》章節\", \"color\": \"gray\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1FD2F304ADC237D0\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「《起源科技》」任務線\"} }, \"。\"]",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1F1A15B6E079F31F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1F1A15B6E079F31F.title": {
+    "original": "\u0026fA More Advanced Crafting Table",
+    "translation": "\u0026f更高級的合成台",
+    "context": "chapters/world_engine__tier_3.snbt / quest 1F1A15B6E079F31F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.206F8B25D5A3CB7E.title": {
+    "original": "Catalyst Meet",
+    "translation": "Catalyst Meet",
+    "context": "chapters/world_engine__tier_3.snbt / quest 206F8B25D5A3CB7E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.21E1A72027DBF236.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 21E1A72027DBF236",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.21E1A72027DBF236.title": {
+    "original": "\u0026fAuto-Build The \u00263Advanced Machine Upgrade",
+    "translation": "\u0026f自動建造\u00263高級機器升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 21E1A72027DBF236",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26F3ECD3CC9E7CDA.quest_desc": {
+    "original": "The \u0026cAdvanced Machine Blocks\u0026r are a modern wonder of technology.\n\nBring these back to \u0026dThe Catalyst\u0026r, and they'll show you how to install this \u00263World Engine Upgrade\u0026r.",
+    "translation": "\u0026c高級機器方塊\u0026r是現代科技的奇蹟。\n\n將它們帶給\u0026d器械尊者\u0026r，他會告訴你該如何安裝這項\u00263世界引擎升級\u0026r。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 26F3ECD3CC9E7CDA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2D110AB9A38178C5.quest_desc": {
+    "original": "Hidden deep within netherrack, \u0026dThe Infernal\u0026r mentioned a buried \u00263Vault\u0026r in the \u0026cNether\u0026r ring that is home to a very dangerous burning soul.\n\nThe \u00263Vault\u0026r comes alive once the jukebox is activated with its favorite song.\n\n\u0026eNote\u0026r: This vault is dangerous. Come prepared for a fight!\n{@pagebreak}\nTo unlock the \u00263Vault\u0026r, you will need to complete the dance once activated by the music disc. You can kill the \u0026cBlazes\u0026r to increase your \u0026cHeat\u0026r, or you can do the dance by following the lightest colored floor tiles.",
+    "translation": "\u0026d煉獄炎魔\u0026r提到，於\u0026c地獄\u0026r環帶，地獄石的深處之中，埋藏著一座\u00263寶庫\u0026r，寶庫之中有著一位非常危險的熾熱之魂。\n\n該\u00263寶庫\u0026r會在唱片箱播放了祂最喜歡的歌曲之後開啟。\n\n\u0026e備註\u0026r：該寶庫非常危險。請為這場戰鬥做好準備！\n{@pagebreak}\n要解鎖該\u00263寶庫\u0026r的話，你必須要在放入唱片之後完成一次舞蹈。你可以透過擊殺\u0026c烈焰使者\u0026r來增加你的\u0026c熱度\u0026r，或著你也可以跟著地板上最亮的方塊進行跳舞。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 2D110AB9A38178C5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2D110AB9A38178C5.title": {
+    "original": "\u0026fFlame of the Disco",
+    "translation": "\u0026f舞廳之火",
+    "context": "chapters/world_engine__tier_3.snbt / quest 2D110AB9A38178C5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2D99F429A18BEED1.title": {
+    "original": "Catalyst Check 2",
+    "translation": "Catalyst Check 2",
+    "context": "chapters/world_engine__tier_3.snbt / quest 2D99F429A18BEED1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2EA7D8A9632F845F.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 2EA7D8A9632F845F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2EA7D8A9632F845F.title": {
+    "original": "\u0026fAuto-Build The \u00263Enderium Upgrade",
+    "translation": "\u0026f自動建造\u00263終界合金升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 2EA7D8A9632F845F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.375DBC764A420D98.title": {
+    "original": "Infernal Meet",
+    "translation": "Infernal Meet",
+    "context": "chapters/world_engine__tier_3.snbt / quest 375DBC764A420D98",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.38124EBC1E14AB38.quest_desc": {
+    "original": "This tormented soul holds the secret to another \u00266World Engine\u0026r upgrade.\n\nSlay the guardian of the \u00263Vault\u0026r to acquire Ignitium ingots.",
+    "translation": "這位飽受折磨的靈魂掌握了通往下一項\u00266世界引擎\u0026r升級的秘密。\n\n殺死這位\u00263寶庫\u0026r中的守衛以取得一些熾焰錠。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 38124EBC1E14AB38",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.38124EBC1E14AB38.title": {
+    "original": "\u0026fIgnitium",
+    "translation": "\u0026f熾焰錠",
+    "context": "chapters/world_engine__tier_3.snbt / quest 38124EBC1E14AB38",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3819423319D1A414.quest_desc": {
+    "original": "With a few more \u00266World Engine\u0026r upgrades unlocked, the \u0026dEcho of Guidance\u0026r will have more for you to discover.\n\nAfter your chat, more \u00266Archives\u0026r will be unlocked!",
+    "translation": "隨著更多\u00266世界引擎\u0026r升級的解鎖，\u0026d指引嚮導之回聲\u0026r提供了更多指引供你探索。\n\n當你與他交談過後，將會解鎖更多的\u00266資料庫\u0026r！",
+    "context": "chapters/world_engine__tier_3.snbt / quest 3819423319D1A414",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3819423319D1A414.quest_subtitle": {
+    "original": "Unlocks Tier 3 Chapter",
+    "translation": "解鎖階級 3 章節",
+    "context": "chapters/world_engine__tier_3.snbt / quest 3819423319D1A414",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3819423319D1A414.title": {
+    "original": "\u0026fUnlocking \u00263Solaris",
+    "translation": "\u0026f解鎖\u00263「烈陽」",
+    "context": "chapters/world_engine__tier_3.snbt / quest 3819423319D1A414",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3AB006907366227A.quest_desc": {
+    "original": "Infusing a spirit into anything is not usually... \u0026owelcomed\u0026r, one could say.\n\n[\"To start this process, you'll need a \", {\"text\": \"Spirit Altar\", \"color\": \"green\"}, \" to commune with spirits. You can find \", {\"text\": \"Runewood Trees\", \"color\": \"dark_green\"}, \" within the \", { \"text\": \"Arcane Grove\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Arcane Grove Quest\"}}, \" just be ready to put up a fight.\"]\n\nOnce you've harvested some of the \u00262Runewood\u0026r, you will need a single piece of \u0026dRefined Soulstone\u0026r to create the altar.\n\n[\"This requires either throwing raw ores into the \", {\"text\": \"Weeping Well\", \"color\": \"blue\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"754ADB22C6B8041F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Weeping Well Quest\"}}, \" structure, or \", {\"text\": \"The Magician\", \"color\": \"light_purple\"}, \" can help you out for the right price.\"]",
+    "translation": "將靈魂注入任何東西之中並不十分...\u0026o光鮮亮麗\u0026r，通常來說。\n\n[\"要進行這個過程的話，你會需要一台\", {\"text\": \"精魂祭壇\", \"color\": \"green\"}, \"來和靈魂密談。你可以在\", { \"text\": \"祕法源林\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「祕法源林」任務\"}}, \"處找到\", {\"text\": \"符文木\", \"color\": \"dark_green\"}, \"，只是你要準備好迎接一場戰鬥。\"]\n\n當你採集到了一些\u00262符文木\u0026r，你還會需要一顆\u0026d精製靈魂石\u0026r來打造出這座祭壇。\n\n[\"你會需要將一些原礦投入\", {\"text\": \"流淚古井\", \"color\": \"blue\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"754ADB22C6B8041F\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「流淚古井」任務\"}}, \"結構之中才能獲得它，或是從\", {\"text\": \"魔法長老\", \"color\": \"light_purple\"}, \"那買來一些。\"]",
+    "context": "chapters/world_engine__tier_3.snbt / quest 3AB006907366227A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3AB006907366227A.title": {
+    "original": "\u0026fTampering With Spirits",
+    "translation": "\u0026f篡改靈魂",
+    "context": "chapters/world_engine__tier_3.snbt / quest 3AB006907366227A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.500074C1D4EC9591.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of the Catalyst\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock several \u00263Upgrades\u0026r, including the \u0026cAdvanced Machine Block\u0026r upgrade for your \u0026bWorld Engine\u0026r!\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo catalyst\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d器械尊者之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力解鎖多項\u00263升級\u0026r，包含你的\u00266世界引擎\u0026r的\u0026c高級機器方塊\u0026r升級！\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo catalyst\u00267」。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 500074C1D4EC9591",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.500074C1D4EC9591.title": {
+    "original": "\u0026fMeet \u0026dThe Catalyst",
+    "translation": "\u0026f初訪\u0026d器械尊者",
+    "context": "chapters/world_engine__tier_3.snbt / quest 500074C1D4EC9591",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.55D17BDE3E9C81CC.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 55D17BDE3E9C81CC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.55D17BDE3E9C81CC.title": {
+    "original": "\u0026fAuto-Build The \u00263Fortron Upgrade",
+    "translation": "\u0026f自動建造\u00263力場子升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 55D17BDE3E9C81CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.55DF810785A9B938.title": {
+    "original": "Catalyst Check 1",
+    "translation": "Catalyst Check 1",
+    "context": "chapters/world_engine__tier_3.snbt / quest 55DF810785A9B938",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5A04F7A95366D15F.quest_desc": {
+    "original": "Reconstructing diamonds into \u0026bDiamatine\u0026r is only the first step into creating the core for the \u0026cAdvanced Machine Blocks\u0026r.\n\nThis core needs to allow power to flow through it properly. Using an \u0026bEmpowering Setup\u0026r, you should be able to empower diamonds for this exact purpose.\n\n\u0026eNote\u0026r: The setup requires an \u0026aEmpowerer\u0026r as the center of the setup, with 4 \u00262Display Stands\u0026r connected to power, two blocks away from each side of the \u0026aEmpowerer\u0026r.",
+    "translation": "將鑽石重構為\u0026b鑽石晶\u0026r是建構\u0026c高級機器方塊\u0026r核心的第一步。\n\n它的核心必須要使能量能夠正確的流過它。如果你使用這些\u0026b充能設備\u0026r的話，你就能夠將鑽石充能，使它們能夠達成上述特性。\n\n\u0026e備註\u0026r：正確的設備擺放方式是：在中間放置一台接上能量的\u0026a充能器\u0026r，在它的四邊兩格遠的地方各放一台\u00262展示架\u0026r，總共四台。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 5A04F7A95366D15F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A04F7A95366D15F.title": {
+    "original": "\u0026fEmpowering Diamonds",
+    "translation": "\u0026f鑽石充能",
+    "context": "chapters/world_engine__tier_3.snbt / quest 5A04F7A95366D15F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5CD461E6C3E8E7D1.quest_desc": {
+    "original": "Found within the \u00263Deepslate\u0026r ring, this vault is easy to get lost in.",
+    "translation": "可於\u00263深板岩\u0026r環帶中找到，在此寶庫之中非常容易迷路。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 5CD461E6C3E8E7D1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5CD461E6C3E8E7D1.title": {
+    "original": "\u00263The Maze Vault",
+    "translation": "\u00263迷宮寶庫",
+    "context": "chapters/world_engine__tier_3.snbt / quest 5CD461E6C3E8E7D1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5E2764E8DB1B789B.title": {
+    "original": "Light Bender Meet",
+    "translation": "Light Bender Meet",
+    "context": "chapters/world_engine__tier_3.snbt / quest 5E2764E8DB1B789B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.64123F6FE4DEB4EF.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 64123F6FE4DEB4EF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.64123F6FE4DEB4EF.title": {
+    "original": "\u0026fLocating \u0026dThe Light Bender",
+    "translation": "\u0026f定位：\u0026d光偽行者",
+    "context": "chapters/world_engine__tier_3.snbt / quest 64123F6FE4DEB4EF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6461D19F839957B6.quest_desc": {
+    "original": "The heat from the \u0026cIgnitium Ingot\u0026r will give the spirits infused in the \u0026bSoulstained Steel Ingots\u0026r the feeling of home...\n\nThe \u00266World Engine\u0026r should be able to encase the spirits properly into a block that you can use for the \u00263Spirit World Engine Upgrade\u0026r.",
+    "translation": "來自\u0026c熾焰錠\u0026r的熱量帶給了\u0026b魂染鋼\u0026r之中的靈魂如家般溫暖的感覺...\n\n\u00266世界引擎\u0026r能夠好好的套住這種方塊中的靈魂，並使用它們作為\u00263魂銀世界引擎升級\u0026r。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 6461D19F839957B6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6461D19F839957B6.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 6461D19F839957B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6461D19F839957B6.title": {
+    "original": "\u0026fA Block Of Spirits",
+    "translation": "\u0026f魂之方塊",
+    "context": "chapters/world_engine__tier_3.snbt / quest 6461D19F839957B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6739E7A96309D0A8.quest_desc": {
+    "original": "The \u0026aCoercion Driver\u0026r will convert energy to generate \u0026bFortron\u0026r over time.\n\n\u0026bFortron\u0026r is mainly used to power your \u0026eMFFS\u0026r machines, but it can also be used to make more \u0026#41AA71Fortron Infused Ingots\u0026r in the \u00266World Engine\u0026r once you have upgraded it.\n\n\u00267\u0026oMFFS machines require a redstone signal to run by default, most of which can be inverted in the upper left corner of the interface.\n{@pagebreak}\nThe \u0026aCoercion Deriver\u0026r has two modes:\n\n\u0026eDerive Mode\u0026r converts energy from other mods or dischargeable items in its inventory to generate \u00263Fortron\u0026r.\n\n\u0026eIntegrate Mode\u0026r converts \u00263Fortron\u0026r into energy at a slight loss.\n\nPlacing \u00262Lapis\u0026r or \u00262Nether Quartz\u0026r inside will triple the \u0026aCoercion Deriver's\u0026r conversion rate when consumed.",
+    "translation": "\u0026a力場子衍生儀\u0026r會隨著時間流逝緩慢地將能量轉換為\u0026b力場子\u0026r。\n\n\u0026b力場子\u0026r是 \u0026eMFFS\u0026r 機器所需的能量，但它也能用在\u00266世界引擎\u0026r\\n中（如果你已經升級過它了），用以做出更多\u0026#41AA71力場子充能錠\u0026r。\n\n\u00267\u0026oMFFS 機器預設會需要紅石訊號才能運作，\\n你可以透過介面左上角的按鍵來切換它。\n{@pagebreak}\n\u0026a力場子衍生儀\u0026r有著兩種模式：\n\n\u0026e衍生模式\u0026r會將其他模組的能量或它欄位內的不可充能物品轉換為\u00263力場子\u0026r。\n\n\u0026e整合模式\u0026r會以輕微能量損失將\u00263力場子\u0026r轉換回能量。\n\n將\u00262青金石\u0026r或\u00262地獄石英\u0026r放在裡面會讓\u0026a力場子衍生儀\u0026r的轉換率變為三倍。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 6739E7A96309D0A8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6739E7A96309D0A8.title": {
+    "original": "\u0026fCreating Fortron",
+    "translation": "\u0026f生產力場子",
+    "context": "chapters/world_engine__tier_3.snbt / quest 6739E7A96309D0A8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.695B2CCD18E5DDFE.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Infernal\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock the \u0026bSpirit\u0026r upgrade for your \u00266World Engine\u0026r!\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo infernal\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d煉獄炎魔之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263魂銀升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo infernal\u00267」。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 695B2CCD18E5DDFE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.695B2CCD18E5DDFE.title": {
+    "original": "\u0026fMeet \u0026dThe Infernal",
+    "translation": "\u0026f初訪\u0026d煉獄炎魔",
+    "context": "chapters/world_engine__tier_3.snbt / quest 695B2CCD18E5DDFE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.70BB982228095E51.quest_desc": {
+    "original": "To make the \u0026cAdvanced Machine Blocks\u0026r for the \u00266World Engine\u0026r, you'll need a sturdy frame to start with.\n\nProcessing the frame requires creating \u0026aPlastic\u0026r. This can be used to make a machine capable of extracting a specific fluid from monsters.\n\n[\"\", {\"text\": \"Note\", \"color\": \"yellow\"}, \": \", {\"text\": \"Latex\", \"color\": \"green\"}, \" can also be acquired by making a \", { \"text\": \"Fluid Cow\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"150BB4679DD2B4B5\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Fluid Cows Quest\"}}, \"!\" ]",
+    "translation": "如果你想要為\u00266世界引擎\u0026r做出\u0026c高級機器方塊\u0026r的話，你會需要一個足夠結實的框架。\n\n你會需要製作出一些\u0026a塑膠片\u0026r來打造這個框架。它能夠用來製造出一台能夠從怪物身上提取特定流體的機器。\n\n[\"\", {\"text\": \"備註\", \"color\": \"yellow\"}, \"：你也能製造出一隻用來產出\", {\"text\": \"乳膠\", \"color\": \"green\"}, \"的\", { \"text\": \"流體牛\", \"color\": \"dark_green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"150BB4679DD2B4B5\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往「流體牛」任務\"}}, \"！\" ]",
+    "context": "chapters/world_engine__tier_3.snbt / quest 70BB982228095E51",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.70BB982228095E51.title": {
+    "original": "\u0026fReinforcing The Frame",
+    "translation": "\u0026f框架強化",
+    "context": "chapters/world_engine__tier_3.snbt / quest 70BB982228095E51",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.71F25B7D688EE182.quest_desc": {
+    "original": "Completing the \u0026bMaze Vault\u0026r will reward you with at least 4 \u0026bFortron Infused Blocks\u0026r.\n\nThis is a \u0026bMinor\u0026r \u00266World Engine\u0026r \u0026bUpgrade\u0026r that unlocks things like autocrafting or generating resources with an \u0026aExtractor\u0026r.\n\nThe \u0026dEcho of The Light Bender\u0026r should show you how to install this \u00263Upgrade\u0026r.",
+    "translation": "完成\u0026b迷宮寶庫\u0026r能取得至少 4 個\u0026b力場子灌注方塊\u0026r作為獎勵。\n\n這是一項\u0026b小型\u00266世界引擎\u0026b升級\u0026r：它能夠解鎖像是自動合成或\u0026a提取器\u0026r等生產資源的方式。\n\n\u0026d光偽行者\u0026r會告訴你該如何安裝此\u00263升級\u0026r。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 71F25B7D688EE182",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.71F25B7D688EE182.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 71F25B7D688EE182",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.71F25B7D688EE182.title": {
+    "original": "\u0026fThe Power of Fortron",
+    "translation": "\u0026f「力場子」之力",
+    "context": "chapters/world_engine__tier_3.snbt / quest 71F25B7D688EE182",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.727070B13B966DE1.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 727070B13B966DE1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.727070B13B966DE1.title": {
+    "original": "\u0026fAuto-Build The \u00263Tesseract Upgrade",
+    "translation": "\u0026f自動建造\u00263超立方體升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 727070B13B966DE1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.74EA9D857CB71A91.quest_desc": {
+    "original": "Using a \u0026aDissolution Chamber\u0026r, you can infuse a Simple Machine Frame with \u0026cNetherite\u0026r and \u0026#ffa5fcPink Slime\u0026r.\n\nThis should create a frame strong enough to create the \u0026cAdvanced Machine Blocks\u0026r you need for the \u00266World Engine\u0026r upgrade.",
+    "translation": "你可以使用一台\u0026a溶解室\u0026r來將\u0026c獄髓\u0026r和\u0026#ffa5fc粉紅史萊姆\u0026r注入中級機器框架之中。\n\n這樣你就能為\u00266世界引擎\u0026r所需的\u0026c高級機器方塊\u0026r製造出一個足夠強大的框架了。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 74EA9D857CB71A91",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.74EA9D857CB71A91.title": {
+    "original": "\u0026fAssembling The Frame\u0026r",
+    "translation": "\u0026f安裝框架\u0026r",
+    "context": "chapters/world_engine__tier_3.snbt / quest 74EA9D857CB71A91",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7713D75A36D0A23D.quest_desc": {
+    "original": "Setting up a \u0026aQuantum Link\u0026r in its designated spot and linking it to the main \u00266World Engine\u0026r machine block using a pattern provider, your ME System will have a direct link to the \u00266World Engine\u0026r, allowing you to directly request crafting recipes and processes from the \u00266World Engine\u0026r.\n\n\u0026dThe Light Bender\u0026r seems convinced that this relatively simple upgrade will change the way you interface with the \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Each side of the \u00266World Engine\u0026r must be configured individually for input and output.",
+    "translation": "藉由在\u00266世界引擎\u0026r預先設計好的位置安裝一條\u0026a量子通道\u0026r，並透過一台模板供應器將它連接到\u00266世界引擎\u0026r上，你將能夠從你的 ME 系統直接向\u00266世界引擎\u0026r發送合成請求。\n\n\u0026d光偽行者\u0026r似乎非常確信這項相對簡單的升級將改變你和\u00266世界引擎\u0026r之間的互動方式。\n\n\u0026e備註\u0026f：\u00266世界引擎\u0026r的每一邊都需要分別設置它們的輸入/輸出。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7713D75A36D0A23D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7713D75A36D0A23D.quest_subtitle": {
+    "original": "Minor World Engine Upgrade",
+    "translation": "小型世界引擎升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7713D75A36D0A23D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7713D75A36D0A23D.title": {
+    "original": "The Start of Automation",
+    "translation": "\u0026f開始自動化",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7713D75A36D0A23D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.787BD711CFF837C6.quest_desc": {
+    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of the Lightbender\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock the \u0026bFortron Block\u0026r upgrade for your \u00266World Engine\u0026r!\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo light_bender\u00267.",
+    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d光偽行者之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263力場子方塊升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo light_bender\u00267」。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 787BD711CFF837C6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.787BD711CFF837C6.title": {
+    "original": "\u0026fMeet \u0026dThe Light Bender",
+    "translation": "\u0026f初訪\u0026d光偽行者",
+    "context": "chapters/world_engine__tier_3.snbt / quest 787BD711CFF837C6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7AB7D06E0DD24F7A.quest_desc": {
+    "original": "If you're struggling with the \u00263Vault\u0026r, or killing \u0026cIgnis\u0026r, you may use this music disc in your offhand to \u00266Light Your Inner Fire\u0026r.\n\nThis will generate 10x more heat for killing blazes and doing the dance puzzle, while also eliminating any penalty for missing colors.\n\nIt will also let you deal triple damage with all of your attacks against \u0026cIgnis\u0026r.",
+    "translation": "如果你在這座\u00263寶庫\u0026r中遇到了困難，或是難以擊敗\u0026c熾焰魔\u0026r的話，你可以在副手使用這片唱片來\u00266點亮你心中之火\u0026r。\n\n它能夠產生十倍的熱量來幫助你擊殺烈焰使者或完成跳舞解謎，同時也會消除因錯過顏色而導致的任何懲罰。\n\n它也能夠讓你對\u0026c熾焰魔\u0026r的所有攻擊造成三倍傷害。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7AB7D06E0DD24F7A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7AB7D06E0DD24F7A.title": {
+    "original": "Rhythm of the Inferno",
+    "translation": "煉獄之旋律",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7AB7D06E0DD24F7A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7DE26DE10C64D2E7.quest_desc": {
+    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7DE26DE10C64D2E7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7DE26DE10C64D2E7.title": {
+    "original": "\u0026fLocating \u0026dThe Infernal",
+    "translation": "\u0026f定位：\u0026d煉獄炎魔",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7DE26DE10C64D2E7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7E7745D3E460831F.quest_desc": {
+    "original": "Those \u0026aQuantum Links\u0026r will be a great help as you require more and more automation from the \u00266World Engine\u0026r.\n\nSpeak to \u0026dThe Light Bender\u0026r so they can show you where to install this \u00263World Engine Upgrade\u0026r.",
+    "translation": "這條\u0026a量子通道\u0026r會是你為\u00266世界引擎\u0026r進行大量自動化之路上的助力。\n\n與\u0026d光偽行者\u0026r交談，這樣他就能夠教你該如何在\u00266世界引擎\u0026r安裝這項升級了。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7E7745D3E460831F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7EEBD17F0EA6EE0C.quest_desc": {
+    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026cIMPORTANT\u0026f: This upgrade will not affect anything in your \u00266World Engine\u0026r except unlocking new recipes. Make sure you submit a freshly-crafted \u0026aEnder Cell\u0026r, as any upgrades applied to it will \u0026cNOT\u0026f be carried over.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7EEBD17F0EA6EE0C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7EEBD17F0EA6EE0C.title": {
+    "original": "\u0026fAuto-Build The \u00263Ender Power Upgrade",
+    "translation": "\u0026f自動建造\u00263終界單元升級",
+    "context": "chapters/world_engine__tier_3.snbt / quest 7EEBD17F0EA6EE0C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0443CD112299BF32.title": {
+    "original": "\u00263Infernal's Vault Compass",
+    "translation": "\u00263煉獄炎魔寶庫羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / reward 0443CD112299BF32",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0491A1C974F9FE0A.title": {
+    "original": "\u00263Catalyst's Southern Vault Compass",
+    "translation": "\u00263器械尊者南方寶庫羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / reward 0491A1C974F9FE0A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.0FF3057EB81C70D6.title": {
+    "original": "\u00263Catalyst's Northern Vault Compass",
+    "translation": "\u00263器械尊者北方寶庫羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / reward 0FF3057EB81C70D6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.1214107708FB3198.title": {
+    "original": "Assemble The \u00263Quantum Tunnel Upgrade",
+    "translation": "安裝\u00263量子通道升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 1214107708FB3198",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.12870B6226B417AF.title": {
+    "original": "Assemble The \u00263Spirit Upgrade",
+    "translation": "安裝\u00263魂銀升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 12870B6226B417AF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3982DCDCE0A66B83.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_3.snbt / reward 3982DCDCE0A66B83",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3C0E24CCC82A480D.title": {
+    "original": "Assemble The \u00263Fortron Upgrade",
+    "translation": "安裝\u00263力場子升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 3C0E24CCC82A480D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3E8E67868DA564D2.title": {
+    "original": "\u0026dLight Bender \u0026fWaypoint",
+    "translation": "\u0026d光偽行者\u0026f定位點",
+    "context": "chapters/world_engine__tier_3.snbt / reward 3E8E67868DA564D2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.444D56BB0340167E.title": {
+    "original": "Assemble The \u00263Ender Power Upgrade",
+    "translation": "安裝\u00263終界單元升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 444D56BB0340167E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5014EDA364D8789D.title": {
+    "original": "\u0026dInfernal \u0026fWaypoint",
+    "translation": "\u0026d煉獄炎魔\u0026f定位點",
+    "context": "chapters/world_engine__tier_3.snbt / reward 5014EDA364D8789D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5A34161D4FD3FD66.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_3.snbt / reward 5A34161D4FD3FD66",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.5A9E657EB27180C7.title": {
+    "original": "Assemble The \u00263Advanced Machine Upgrade",
+    "translation": "安裝\u00263高級機器升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 5A9E657EB27180C7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.689FE9894FCB03FA.title": {
+    "original": "Assemble The \u00263Enderium Upgrade",
+    "translation": "安裝\u00263終界合金升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 689FE9894FCB03FA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.69E35BEC6CB9A014.title": {
+    "original": "Assemble The \u00263Tesseract Upgrade",
+    "translation": "安裝\u00263超立方體升級",
+    "context": "chapters/world_engine__tier_3.snbt / reward 69E35BEC6CB9A014",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6A9CBD374B41A598.title": {
+    "original": "\u0026dCatalyst \u0026fWaypoint",
+    "translation": "\u0026d器械尊者\u0026f定位點",
+    "context": "chapters/world_engine__tier_3.snbt / reward 6A9CBD374B41A598",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6E69E924D695FE30.title": {
+    "original": "{\"translate\": \"ftb.shop.notification\"}",
+    "translation": "{\"translate\": \"ftb.shop.notification\"}",
+    "context": "chapters/world_engine__tier_3.snbt / reward 6E69E924D695FE30",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.7B2611299CAA750F.title": {
+    "original": "\u00263Light Bender's Vault Compass",
+    "translation": "\u00263光偽行者寶庫羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / reward 7B2611299CAA750F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.00ABB62332FC4C09.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Catalyst",
+    "translation": "\u0026f與\u0026d器械尊者之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_3.snbt / task 00ABB62332FC4C09",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.10414FF6D2800922.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Light Bender",
+    "translation": "\u0026f與\u0026d光偽行者\u0026r交談",
+    "context": "chapters/world_engine__tier_3.snbt / task 10414FF6D2800922",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.12E5C6B08FAC5523.title": {
+    "original": "\u0026eLocate\u0026f: \u00263Maze Vault",
+    "translation": "\u0026e尋找\u0026f：\u00263迷宮寶庫",
+    "context": "chapters/world_engine__tier_3.snbt / task 12E5C6B08FAC5523",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.16109CEC63108983.title": {
+    "original": "Locate the Chicken Jockey Vault",
+    "translation": "尋找「雞騎士寶庫」",
+    "context": "chapters/world_engine__tier_3.snbt / task 16109CEC63108983",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1C3B92648D279809.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dInfernal",
+    "translation": "\u0026e尋找\u0026f：\u0026d煉獄炎魔",
+    "context": "chapters/world_engine__tier_3.snbt / task 1C3B92648D279809",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2B4824CA0A798240.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_3.snbt / task 2B4824CA0A798240",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2DF0651CE18A8870.title": {
+    "original": "Get Compasses",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / task 2DF0651CE18A8870",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4A3E583E141A73F5.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / task 4A3E583E141A73F5",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4B2BAB2FC31AEA4D.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dLight Bender",
+    "translation": "\u0026e尋找\u0026f：\u0026d光偽行者",
+    "context": "chapters/world_engine__tier_3.snbt / task 4B2BAB2FC31AEA4D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.54E21F0B7510D638.title": {
+    "original": "\u0026eKill\u0026f: \u0026cIgnis",
+    "translation": "\u0026e殺死\u0026f：\u0026c熾焰魔",
+    "context": "chapters/world_engine__tier_3.snbt / task 54E21F0B7510D638",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.615166F23D87249A.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_3.snbt / task 615166F23D87249A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6A32E04F83997A6D.title": {
+    "original": "\u0026eLocate\u0026f: \u0026dCatalyst",
+    "translation": "\u0026eLocate\u0026f: \u0026dCatalyst",
+    "context": "chapters/world_engine__tier_3.snbt / task 6A32E04F83997A6D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6A3AABB86967A8C4.title": {
+    "original": "Echo-Location",
+    "translation": "回聲-定位",
+    "context": "chapters/world_engine__tier_3.snbt / task 6A3AABB86967A8C4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7747C8ECA64D179D.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of Guidance",
+    "translation": "\u0026fSpeak With The \u0026dEcho of Guidance",
+    "context": "chapters/world_engine__tier_3.snbt / task 7747C8ECA64D179D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7805089FB14CE3E1.title": {
+    "original": "\u0026fSpeak With The \u0026dEcho of The Infernal",
+    "translation": "\u0026f與\u0026d煉獄炎魔之回聲\u0026r交談",
+    "context": "chapters/world_engine__tier_3.snbt / task 7805089FB14CE3E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7DD8D0EDE1FAF2DE.title": {
+    "original": "Get Compass",
+    "translation": "取得羅盤",
+    "context": "chapters/world_engine__tier_3.snbt / task 7DD8D0EDE1FAF2DE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

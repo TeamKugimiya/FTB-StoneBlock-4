@@ -1,0 +1,227 @@
+{
+  "chapter.6E24C5F4B5BA567C.title": {
+    "original": "\u0026zTier 6: Ascension",
+    "translation": "\u0026z階級 6：飛昇",
+    "context": "chapters/creative.snbt / chapter 6E24C5F4B5BA567C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0428CA9172ACC5E3.quest_desc": {
+    "original": "This item works as a universal wireless terminal without the need for power.",
+    "translation": "此物品和無線通用終端機的功能相同，但是完全不需要充能。",
+    "context": "chapters/creative.snbt / quest 0428CA9172ACC5E3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0428CA9172ACC5E3.title": {
+    "original": "Creative Wireless Universal Grid",
+    "translation": "創造模式無線通用終端機",
+    "context": "chapters/creative.snbt / quest 0428CA9172ACC5E3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0A1243F0A9541645.quest_desc": {
+    "original": "The \u0026zInfinite Power Card\u0026r can permanently power a force field.",
+    "translation": "\u0026z無限能量卡\u0026r能夠永久充能一座力場。",
+    "context": "chapters/creative.snbt / quest 0A1243F0A9541645",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0A1243F0A9541645.title": {
+    "original": "Infinity Power Card",
+    "translation": "無限能量卡",
+    "context": "chapters/creative.snbt / quest 0A1243F0A9541645",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.166A223222AD76FC.quest_desc": {
+    "original": "The \u0026zCreative Chance Pendant\u0026r will allow you to set the luck of a \u0026dChance Cube\u0026r once placed into the Pendant.",
+    "translation": "你能夠設定所有被放入\u0026z創造模式機會垂飾\u0026r的\u0026d機會方塊\u0026r的幸運值。",
+    "context": "chapters/creative.snbt / quest 166A223222AD76FC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.166A223222AD76FC.title": {
+    "original": "Creative Chance Pendant",
+    "translation": "創造模式機會垂飾",
+    "context": "chapters/creative.snbt / quest 166A223222AD76FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.16C312C27F9805DB.title": {
+    "original": "\u0026zGod\u0026r of the World",
+    "translation": "世界之\u0026z神\u0026r",
+    "context": "chapters/creative.snbt / quest 16C312C27F9805DB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.308135F2F191443E.title": {
+    "original": "Creative Toggleable Laser",
+    "translation": "創造可開關雷射",
+    "context": "chapters/creative.snbt / quest 308135F2F191443E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.420239DCDE0CB837.quest_subtitle": {
+    "original": "AE2",
+    "translation": "AE2",
+    "context": "chapters/creative.snbt / quest 420239DCDE0CB837",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.420239DCDE0CB837.title": {
+    "original": "Creative Energy Cell",
+    "translation": "創造模式能量電池",
+    "context": "chapters/creative.snbt / quest 420239DCDE0CB837",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.521580755F40E4CC.quest_subtitle": {
+    "original": "RS2",
+    "translation": "RS2",
+    "context": "chapters/creative.snbt / quest 521580755F40E4CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.521580755F40E4CC.title": {
+    "original": "Creative Controller",
+    "translation": "創造模式控制器",
+    "context": "chapters/creative.snbt / quest 521580755F40E4CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D1DD9EA59C3078D.title": {
+    "original": "Ender Dragon Data Model",
+    "translation": "終界龍 資料模型",
+    "context": "chapters/creative.snbt / quest 5D1DD9EA59C3078D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.63ACBB448387B83C.quest_desc": {
+    "original": "The \u0026zCreative Memory Chip\u0026r can be installed to unlock all items that can be replicated within your replication system.",
+    "translation": "安裝\u0026z創造模式記憶體晶片\u0026r能夠為你的複製系統解鎖所有能夠複製的物品。",
+    "context": "chapters/creative.snbt / quest 63ACBB448387B83C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63ACBB448387B83C.title": {
+    "original": "Creative Memory Chip",
+    "translation": "創造模式記憶體晶片",
+    "context": "chapters/creative.snbt / quest 63ACBB448387B83C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6C6A347673F0A8F7.title": {
+    "original": "Creative Spellbook",
+    "translation": "創造模式法術書",
+    "context": "chapters/creative.snbt / quest 6C6A347673F0A8F7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6D06EDA1F34FA4E9.quest_desc": {
+    "original": "With infinite power for your storage system and access to \u0026zcreative spells\u0026r from \u00266Ars\u0026r, that only leaves one more thing to take care of before you can shape the world around you.\n\n\u0026zCreative Power\u0026r for everything.",
+    "translation": "當你為你的儲存系統接入了無盡能量，也接觸到了\u00266《新生魔藝》\u0026r模組中的\u0026z創造模式\u0026r法術之後，在你能重塑此方天地之前，只剩下一件事待你完成了：\n\n給予一切事物\u0026z創造模式能量\u0026r。",
+    "context": "chapters/creative.snbt / quest 6D06EDA1F34FA4E9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6D06EDA1F34FA4E9.title": {
+    "original": "Ascension Tier 3 - Omniscient",
+    "translation": "飛昇階級 3 - 全知全能",
+    "context": "chapters/creative.snbt / quest 6D06EDA1F34FA4E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7435EC96F4A4B39F.title": {
+    "original": "Creative Source Jar",
+    "translation": "創造模式魔源罐",
+    "context": "chapters/creative.snbt / quest 7435EC96F4A4B39F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7CC7824471E1B45F.quest_desc": {
+    "original": "\u0026zCreative Goo\u0026r will never die, and works as the highest tier goo.",
+    "translation": "\u0026z創造模式凝漿\u0026r永遠不會耗盡，並擁有最高階級凝漿的所有功能。",
+    "context": "chapters/creative.snbt / quest 7CC7824471E1B45F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7CC7824471E1B45F.title": {
+    "original": "Creative Goo",
+    "translation": "創造模式凝漿",
+    "context": "chapters/creative.snbt / quest 7CC7824471E1B45F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7DCF86E4B24A764A.title": {
+    "original": "Creative Disk Interface",
+    "translation": "創造模式磁碟介面",
+    "context": "chapters/creative.snbt / quest 7DCF86E4B24A764A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7F42E2C4AAC3D131.quest_desc": {
+    "original": "\u00267\u0026oUnlimited Rotational Force",
+    "translation": "\u00267\u0026o無限的動能應力",
+    "context": "chapters/creative.snbt / quest 7F42E2C4AAC3D131",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7F42E2C4AAC3D131.title": {
+    "original": "Creative Motor",
+    "translation": "創造模式馬達",
+    "context": "chapters/creative.snbt / quest 7F42E2C4AAC3D131",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "chapter.0C812DF8D14584AB.title": {
+    "original": "Mekanism",
+    "translation": "《通用機械》",
+    "context": "chapters/mekanism.snbt / chapter 0C812DF8D14584AB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.056C62BBBCEB1173.quest_desc": {
+    "original": "When a \u0026dReactor's\u0026r waste buffer overflows or a tube/machine holding radioactive chemicals is broken, a radiation source is spilled out into the world causing a \u0026cnuclear accident\u0026r.\n\nStrong sources of \u0026cradiation\u0026r can linger in the world for several real-life hours. If irradiated, the only option available is to stop receiving radiation through \u0026adistance\u0026r, \u0026aprotection\u0026r, or both, and then let the radiation slowly fade.\n{@pagebreak}\n\u0026aRadioactive Waste Barrels\u0026r provide a safe place for regular and spent \u0026cnuclear waste\u0026r to slowly decay; multiple barrels are able to be used in parallel. This material \u0026ccannot be destroyed\u0026r through any other method. \u0026bPolonium and plutonium\u0026r do not decay in barrels, but can be stored. Comparators can read how full a \u0026aWaste Barrel\u0026r is.\n\nA full \u00266Hazmat Suit\u0026r or equivalent upgrades are needed to protect you from radiation. These, however, do not cure radiation effects, and cannot be equipped to creatures, so be mindful where radioactive material is managed.\n{@pagebreak}\n\u0026eTips to avoid nuclear accidents\u0026f:\n\nIt is safer to treat \u0026cnuclear accidents\u0026r as a 'when' over an 'if'. Have precautions available and ready before producing radioactive products.\n\nUse whole amounts when processing nuclear waste, and let any excess decay in waste barrels.\n\nUse logistics that transfer but don't hold the chemicals, such as \u0026eApplied Energistics\u0026r or \u0026ePipez\u0026r. The #1 cause of nuclear accidents among players is mistakenly broken piping that holds hazardous material, a \u0026oDire\u0026r situation.",
+    "translation": "當\u0026d反應爐\u0026r的核廢料槽溢出，或是破壞帶有放射性物質的管道、機器，放射性物質就會進入這個世界，造成\u0026c核事故\u0026r。\n\n較強的\u0026c輻射\u0026r需要現實世界的數個小時才會消去。若遭受輻射，唯二的方法就是\u0026a離輻射遠點\u0026r以及\u0026a進行防護\u0026r防止繼續接收輻射，並慢慢等輻射消退。\n{@pagebreak}\n\u0026a放射性廢料桶\u0026r能夠安全的存放\u0026c核廢料\u0026r並使其慢慢衰變，多放幾個桶子存放能夠同時進行處理。\u0026b釙和鈽\u0026r也能存入桶子但不會衰變。紅石比較器能夠偵測當前的存量。\n\n全套\u00266生化防護裝\u0026r以及其等價的升級能夠防止你接觸輻射，但不會加速消除你身上的輻射。套裝也無法裝備在其他生物上，因此還是要多留意存放放射性物質的的地方。\n{@pagebreak}\n\u0026e避免核事故的技巧\u0026r：\n\n要想\u0026c核事故\u0026r「何時」發生而非「是否」發生，在開始生產放射性物質前就要做好預防措施了。\n\n在生產核廢料時以「全部用完」為前提，多餘的核廢料就送入放射性廢料桶任其衰變。\n\n不要讓放射性物質進入物流系統中，像是\u0026e應用能源\u0026r或是\u0026ePipez\u0026r。\n核事故發生的主要原因之一，就是玩家意外地破壞了存有危險物質的管道，這真的很糟糕。",
+    "context": "chapters/mekanism.snbt / quest 056C62BBBCEB1173",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.056C62BBBCEB1173.title": {
+    "original": "\u0026fRadiation and You",
+    "translation": "如何應對輻射",
+    "context": "chapters/mekanism.snbt / quest 056C62BBBCEB1173",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.131199313AE3F5E9.quest_desc": {
+    "original": "The \u0026aEnergized Smelter\u0026r is essentially a powered furnace that can be upgraded!",
+    "translation": "\u0026a充能冶煉爐\u0026r基本上就是一個可升級的電熔爐。",
+    "context": "chapters/mekanism.snbt / quest 131199313AE3F5E9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.131199313AE3F5E9.title": {
+    "original": "\u0026fOur First \u0026aPowered Furnace",
+    "translation": "第一個\u0026a電力熔爐",
+    "context": "chapters/mekanism.snbt / quest 131199313AE3F5E9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.31705AD5BE50E2CB.quest_desc": {
+    "original": "The \u0026aPressurized Reaction Chamber\u0026r is an advanced machine that combines 1 liquid, 1 gas, and 1 item to produce a new item, and sometimes a gas byproduct.\n\nThis is used to make \u00266Ethene\u0026r, \u00266HDPE Pellets\u0026r, and more!",
+    "translation": "\u0026a加壓反應室\u0026r是一台高級機器，用來將一份液體、一份氣體和一個物品混合成新物品，有時還有氣體副產物。\n\n這台機器會用來製作\u00266乙烯\u0026r、\u00266HDPE 顆粒\u0026r和其他東西。",
+    "context": "chapters/mekanism.snbt / quest 31705AD5BE50E2CB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.33A9FF901E2D7725.quest_desc": {
+    "original": "To make most machines in the mod, we'll need \u00262Steel Casings\u0026r!\n\n\u0026eNote\u0026r: Most machines have an internal push/pull limit, which can be bypassed by pipes. If you wish to speed up your production, make sure to utilize pipes.",
+    "translation": "本模組大多數的機器都需要\u00262鋼質機殼\u0026r製作。\n\n\u0026e備註\u0026r：大多數機器都有一個內部的輸入/輸出上限，但是管道可以繞開這個限制。如果你要加大機器的產量，請使用管道運輸。",
+    "context": "chapters/mekanism.snbt / quest 33A9FF901E2D7725",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3E7E07DB49639EA5.quest_desc": {
+    "original": "With the Infuser and some \u0026cRedstone\u0026r, we can start by making the basic \u0026aAlloys\u0026r and \u0026aCircuits\u0026r! You can even combine them together to make \u0026cAdvanced Control Circuits\u0026r for more advanced machines.\n\nThese will be used to create most of the items in \u0026eMekanism\u0026r.",
+    "translation": "當你有灌注機和一些\u0026c紅石\u0026r時，就能開始做一些基礎的\u0026a合金\u0026r和\u0026a電路\u0026r了。將兩者混合可以做出\u0026c高級控制電路\u0026r，用來做更進階的機器。\n\n這些東西能夠做出\u0026e通用機械\u0026r大部分的物品。",
+    "context": "chapters/mekanism.snbt / quest 3E7E07DB49639EA5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.437F2C378CD6FE51.quest_desc": {
+    "original": "The \u0026aInfuser\u0026r can also be used to convert iron into \u00262Steel\u0026r using \u0026aCarbon\u0026r for the infusion!\n\nYou can place Coal or Charcoal in the infusion slot to convert it into Carbon, with Charcoal giving double the amount. Once you have some in the machine, you can run Iron through once to get \u0026aEnriched Iron\u0026r. Infusing this again with carbon will give you \u00262Steel Dust\u0026r which you can smelt into \u00262Steel Ingots\u0026r!\n\n\u00262Steel\u0026r is a great material to make tools out of due to its high durability, and is also needed to make the basic pipes from the mod.",
+    "translation": "冶金灌注機能夠將\u0026a碳\u0026r灌入鐵來製作\u00262鋼\u0026r。\n\n將煤炭或木炭放入灌注欄位，將其轉換成碳，木炭轉換的量是煤炭的兩倍。將鐵進行灌注後就能得到\u0026a富集鐵\u0026r，再將富集鐵灌注後就能得到\u00262鋼粉\u0026r，接著就能燒成鋼錠。\n\n\u00262鋼\u0026r是很耐用的材料，可以做成工具，此模組裡的基礎管道也需要用鋼來做。",
+    "context": "chapters/mekanism.snbt / quest 437F2C378CD6FE51",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.437F2C378CD6FE51.title": {
+    "original": "Making Steel",
+    "translation": "煉鋼",
+    "context": "chapters/mekanism.snbt / quest 437F2C378CD6FE51",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.49B8310D0C7A6C55.quest_desc": {
+    "original": "The \u00263Fissile Fuel\u0026r needed to run \u0026dFission Reactors\u0026r is made by processing \u0026eSulfur\u0026r, \u00267Fluoride\u0026r, and \u00262Uranium\u0026r with some water products. It seems complicated but, unlike in real life, it is easier than it seems.\n\nFirst, use \u0026eSulfuric Acid\u0026r to break down \u00267Fluorite\u0026r into \u00269Hydrofluoric Acid\u0026r in a \u00262Chemical Dissolution Chamber\u0026r.\n{@pagebreak}\nSecond, enrich \u0026aUranium\u0026r ingots into \u00266Yellow Cake Uranium\u0026r, before oxidizing it into \u00266Uranium Oxide\u0026r.\n\nFinally, combine the \u00269Hydrofluoric Acid\u0026r and \u00266Uranium Oxide\u0026r in a \u0026aChemical Infuser\u0026r before piping it into an \u00262Isotopic Centrifuge\u0026r to produce \u00263Fissile Fuel\u0026r.\n\n\u0026eTip\u0026r: \u00267Fluorite\u0026r blocks take about as much \u0026eSulfuric Acid\u0026r to break down as a single \u00267Fluorite Crystal\u0026r, but produce as much \u00269Hydrofluoric Acid\u0026r as nine \u00267Crystals\u0026r, saving on \u0026eSulfur\u0026r!",
+    "translation": "\u0026d核分裂反應爐\u0026r需要的\u00263易裂變燃料\u0026r由\u0026e硫\u0026r、\u00267氟\u0026r、\u00262鈾\u0026r和水的產物製成。雖然看起來很複雜，但現實生活中的比這複雜多了。\n\n首先將\u0026e硫酸\u0026r和\u00267氟石\u0026r放入\u00262化學溶解室\u0026r合成\u00269氫氟酸\u0026r。\n{@pagebreak}\n將\u0026a鈾錠\u0026r富集成為\u00266黃鈾餅\u0026r，並將其氧化成\u00266氧化鈾\u0026r。\n\n將\u00269氫氟酸\u0026r和\u00266氧化鈾\u0026r送入\u0026a化學灌注器\u0026r混合，最後在\u00262同位素離心機\u0026r處理即可得到\u00263易裂變燃料\u0026r。",
+    "context": "chapters/mekanism.snbt / quest 49B8310D0C7A6C55",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.49B8310D0C7A6C55.title": {
+    "original": "Fissile Fuel",
+    "translation": "易裂變燃料",
+    "context": "chapters/mekanism.snbt / quest 49B8310D0C7A6C55",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.562156281B8D0843.quest_desc": {
+    "original": "This machine is used to break down specific liquids, like \u0026bWater\u0026r, into 2 separate \u0026agases\u0026r.\n\nThe first use you'll have is separating \u0026bWater\u0026r into \u0026eOxygen\u0026r and \u0026eHydrogen\u0026r. \u0026aOxygen\u0026r is needed for several machines, including the \u0026aPurification Chamber\u0026r.",
+    "translation": "這台機器用來分解特定的液體（像是\u0026b水\u0026r），產生兩種\u0026a氣體\u0026r。\n\n你首先會將\u0026b水\u0026r分解成\u0026e氧氣\u0026r和\u0026e氫氣\u0026r，\n而\u0026a淨化倉\u0026r或其他某些機器會用到\u0026a氧氣\u0026r。",
+    "context": "chapters/mekanism.snbt / quest 562156281B8D0843",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.562156281B8D0843.title": {
+    "original": "\u0026fThe \u0026aElectrolytic Separator",
+    "translation": "\u0026a電解分離器",
+    "context": "chapters/mekanism.snbt / quest 562156281B8D0843",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.616E3CE38F1D73AE.quest_desc": {
+    "original": "\u00266Mekanism\u0026r is the ultimate technology mod!\n\nThe \u00262Metallurgic Infuser\u0026r is the core machine used in \u00266Mekanism\u0026r.\n\nWith this machine, you'll infuse metals with specific materials to create \u0026aAlloys\u0026r and \u00262Circuits\u0026r used for more advanced machinery.\n\nFor a complete description of the interface, check the next page!\n{@pagebreak}\nInside of the \u00262Infuser's\u0026r interface, we have multiple slots that we can interact with to create new items.\n\nThe slot on the far left is the \u0026aExtra Slot\u0026r, which is where you place infusion items like \u0026cRedstone\u0026r or \u0026aCoal\u0026r.\n\nThe middle-left slot is for the item you wish to infuse, like Iron or Osmium!\n\nOn the right, we have the output slot as well as an energy slot. This slot can use items that store energy like batteries. If you see an energy slot in a \u0026eMekanism\u0026r machine, chances are you can put these items in it!",
+    "translation": "\u00266通用機械\u0026r是極致的科技模組。\n\n\u00262冶金灌注機\u0026r是\u00266通用機械\u0026r的核心機器。\n\n有了這台機器，你就能用特定的材料灌注金屬來製作\u0026a合金\u0026r或\u00262電路\u0026r，用來做更進階的機器。\n\n翻到下一頁來查看機器介面的詳細敘述。\n{@pagebreak}\n在\u00262冶金灌注機\u0026r的介面上，有許多的欄位供我們放物品進去來做出新的物品。\n\n最左邊的欄位是\u0026a額外欄位\u0026r，裡面放的是像\u0026c紅石\u0026r或\u0026a煤炭\u0026r等灌注物品。\n\n中左欄位放的是你要進行灌注的物品，像是鐵或是鋨。\n\n右邊的欄位，除了輸出欄位外還有一個能量欄位，可以放入像是電池這類可以儲存能量的物品。如果你在\u0026e通用機械\u0026r的機器內發現這樣的欄位，可以試著放入這些物品看看。",
+    "context": "chapters/mekanism.snbt / quest 616E3CE38F1D73AE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.616E3CE38F1D73AE.title": {
+    "original": "\u0026fWelcome To \u0026eMekanism\u0026f!",
+    "translation": "\u0026f歡迎來到\u0026e《通用機械》\u0026f！",
+    "context": "chapters/mekanism.snbt / quest 616E3CE38F1D73AE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.63E9BE547681EB33.quest_desc": {
+    "original": "Babysitting a \u0026dFission Reactor\u0026r setup is important when it first comes online, but there are other things to do once it starts running fine on its own. This doesn't need to come at a cost to safety!\n\nThis is where the \u0026aFission Reactor Logic Adapter\u0026r comes in. When a \u0026dReactor\u0026r is built with one or more adapter(s), they can be configured to emit a redstone signal under \u0026chazardous conditions\u0026r, or to automatically activate the \u0026dReactor\u0026r.\n\nFor example, using a comparator reading a \u0026aRadioactive Waste Barrel\u0026r to tell your \u0026dReactor\u0026r to turn off when the barrel is too full, or to toggle an emergency coolant supply if the reactor starts to \u0026coverheat\u0026r.",
+    "translation": "在\u0026d核分裂反應爐\u0026r剛開始運作時，對其進行嚴密監測是很重要的。當它穩定運作後，我們還有事情要做以確保之後不會出甚麼意外。\n\n\u0026a核分裂反應爐邏輯適配器\u0026r能夠在\u0026c危險情形\u0026r下發出紅石訊號，或是自動啟動\u0026d反應爐\u0026r。\n\n舉個例子，你可以用比較器偵測\u0026a放射性廢料桶\u0026r的容量，當桶子快滿時就自動關閉\u0026d反應爐\u0026r。或是當反應爐\u0026c過熱\u0026r時就啟動備用冷卻液供應。",
+    "context": "chapters/mekanism.snbt / quest 63E9BE547681EB33",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63E9BE547681EB33.title": {
+    "original": "\u0026aFission Reactor Logic Adapter",
+    "translation": "\u0026a核分裂反應爐邏輯適配器",
+    "context": "chapters/mekanism.snbt / quest 63E9BE547681EB33",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.66BC4434409F959B.quest_desc": {
+    "original": "\u00263Plutonium\u0026r can be reclaimed into \u00267Fissile Fuel\u0026r with a bit of brine or salt processing.\n\nIf you're using your \u0026dReactor\u0026r for power and hurting for \u0026aUranium\u0026r, \u0026eSulfur\u0026r, or even \u00267Fluorite\u0026r, this process can be looped to make your initial fuel last up to five times as long over time with up to less than a tenth of the waste. That's the magic of recycling at work!",
+    "translation": "\u00263鈽\u0026r用鹽處理過後可以再變回易裂變燃料。\n\n如果你正在用\u0026d核反應爐\u0026r供電但是\u0026a鈾\u0026r、\u0026e硫\u0026r或\u00267氟\u0026r不夠用時，這種方式能夠省下大量材料。一份燃料循環利用能延長至五倍的時間，而產生的核廢料只剩不到十分之一。",
+    "context": "chapters/mekanism.snbt / quest 66BC4434409F959B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.66BC4434409F959B.title": {
+    "original": "\u0026dReprocessed Fissile Fragments",
+    "translation": "\u0026d再處理易裂變碎片",
+    "context": "chapters/mekanism.snbt / quest 66BC4434409F959B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6A3BFD63419A15CE.quest_desc": {
+    "original": "The \u0026aCrusher\u0026r has 3 main uses in \u0026eMekanism\u0026r.\n\n1. It is used to break down ingots directly into \u0026bDusts\u0026r, which can be useful for creating dusts needed for certain machines or upgrades.\n\n2. In the Tier 2 Ore Processing Chain, the \u0026aCrusher\u0026r takes \u0026eore clumps\u0026r made from the \u0026aPurification Chamber\u0026r and breaks them down into \u0026aDirty Dusts\u0026r.\n\n3. It can create \u0026aBiofuel\u0026r from organic materials, which is used to create new machines and byproducts that we'll need later down the road!",
+    "translation": "\u0026a粉碎機\u0026r在\u0026e通用機械\u0026r中有三個主要功能。\n\n1. 它可以將礦物錠直接磨碎成\u0026b礦物粉\u0026r，有些機器和升級需要礦物粉來製作。\n\n2. 在等級 2 礦物產線中，\n\u0026a粉碎機\u0026r能夠將\u0026a淨化倉\u0026r產生的\u0026e礦物碎塊\u0026r磨碎成\u0026a汙濁礦物粉\u0026r。\n\n3. 它能利用有機物製作\u0026a生物燃料\u0026r，用來製作新機器，並且之後我們會用到生物燃料做其他東西。",
+    "context": "chapters/mekanism.snbt / quest 6A3BFD63419A15CE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A3BFD63419A15CE.title": {
+    "original": "\u0026fThe \u0026aCrusher",
+    "translation": "\u0026a粉碎機",
+    "context": "chapters/mekanism.snbt / quest 6A3BFD63419A15CE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6C4441CC63BC7603.quest_desc": {
+    "original": "The \u0026cThermal Evaporation Tower\u0026r is a multiblock that heats up the liquid inside of it to create a new liquid. For this, we'll be making \u0026eBrine\u0026r from \u00269Water\u0026r.\n\nTo make this, you'll need a minimum of 53 Thermal Evaporation Blocks, 3 Valves, and 1 Controller. Once you have those, let's learn how to build it!\n{@pagebreak}\nThe \u0026cThermal Evaporation Tower\u0026r multiblock is built 4 blocks wide and 4 blocks long, with a minimum height of 3 blocks and a maximum height of 18 blocks. Aside from the first layer, the center is hollow, no matter the height. Think of it like a giant bucket! The frame must also be Thermal Evaporation Blocks, with the Controller and Valves placed on the faces.\n\nHere is an example of how it might look:\n\n{image:ftb:textures/quests/mekanism/thermalevaptower.png width:125 height:100 align:center}\n{@pagebreak}\nTo interact with the block, you'll need to place the \u0026aController\u0026r on one of the faces.\n\nEach \u0026cValve\u0026r is used to pump liquids in and out of the Tower. To make \u0026eBrine\u0026r, you'll need to give it water which can be done by pumping water into the Valve using Mechanical Pipes from a water source.\n\nYou'll need another Valve to output the Brine you create, and the 3rd Valve is used to heat up the multiblock. You can make either a \u0026aFuelwood Heater\u0026r or a \u0026cResistive Heater\u0026r to achieve this. Fuelwood burns items like coal, while Resistive Heaters use power instead. 2k is the perfect number for a max size Tower!\n\nOnce built, you'll see red sparkles indicating that it formed!\n\nPro Tip: You can place the Heater directly on the Valve, so no pipes needed!",
+    "translation": "多方塊結構\u0026c熱力蒸餾塔\u0026r將液體加熱，產生新的液體，我們將會利用它將\u00269水\u0026r製成\u0026e鹽水\u0026r。\n\n你將會需要 53 個熱力蒸餾方塊、3 個閥門和一個控制器來建造熱力蒸餾塔。\n{@pagebreak}\n\u0026c熱力蒸餾塔\u0026r長 4 格、寬 4 格，高度最小為 3 格，最大為 18 格。\n\n除了第一層外，其他層皆須為中空，就像一個巨大的水桶。結構邊緣必須為熱力蒸餾方塊，剩下的地方才可以擺放控制器和閥門。\n\n蓋好之後大概看起來像這樣：\n\n{image:ftb:textures/quests/mekanism/thermalevaptower.png width:125 height:100 align:center}\n{@pagebreak}\n要和它進行交互，需要在其中一面擺上\u0026a控制器\u0026r。\n\n\u0026c閥門\u0026r能將液體注入和抽出蒸餾塔，要製造\u0026e鹽水\u0026r，首先得將水利用機械管道輸進閥門。\n\n除此之外，還需要一個閥門將鹽水抽出，和另一個閥門輸入熱量。要進行加熱，可以利用\u0026a木料加熱器\u0026r或\u0026c電阻加熱器\u0026r，木料加熱器燃燒燃料加熱，而電阻加熱器透過電力來加熱。2000 對一台最大的蒸餾塔是最剛好的數字。\n\n當結構成形時，會冒出紅色粒子進行提示。\n\n專業提示：你可以將加熱器直接貼著閥門而不用管道連接。",
+    "context": "chapters/mekanism.snbt / quest 6C4441CC63BC7603",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6C4441CC63BC7603.title": {
+    "original": "\u0026cThermal Evaporation Towers",
+    "translation": "\u0026c熱力蒸餾塔",
+    "context": "chapters/mekanism.snbt / quest 6C4441CC63BC7603",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7C9B4CE2A2F62096.quest_desc": {
+    "original": "Using the \u0026aPressurized Reaction Chamber\u0026r, we can use Substrates to make \u00266HDPE Pellets\u0026r. These advanced pellets are used to create many high tier items and machines!\n\nTo make these, you'll need to combine \u00266Liquid Ethene\u0026r, Oxygen, and Substrates. From here, you can run them through an Enrichment Chamber to create \u00266HDPE Sheets\u0026r!\n\nNote that it takes LIQUID Ethene, meaning you'll need to create a \u0026aRotary Condensentrator\u0026r to convert it from a gas to a liquid first. Did you pump in the gas already? Use a \u0026aGauge Dropper\u0026r to remove it!",
+    "translation": "基片能利用\u0026a加壓反應室\u0026r來做成 \u00266HDPE顆粒\u0026r，這些顆粒是用來合成多種高級物品和機器的材料。\n\n你需要混合\u00266液態乙烯\u0026r、氧氣和基片來製作顆粒，\n在富集倉能夠做成 \u00266HDPE板片\u0026r。\n\n要注意進行混合所需的是\u0026l液態\u0026r乙烯，你需要用\u0026a迴旋式氣液轉換機\u0026r將乙烯氣體轉成液態。若你不慎將乙烯氣體輸進加壓反應室，用\u0026a滴量器\u0026r可以將其取出。",
+    "context": "chapters/mekanism.snbt / quest 7C9B4CE2A2F62096",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7EF7546FF007EF36.quest_desc": {
+    "original": "\u00262Bio Fuel\u0026r is created by crushing down organic materials in a \u0026aCrusher\u0026r.\n\nThis is used to craft and power a \u0026aBio-Generator\u0026r, which can be a useful power upgrade in the early game!\n\nIt's also used to create \u00266Ethene\u0026r, which is an energy-dense gas used for both power and crafting \u0026eHDPE Pellets\u0026r.",
+    "translation": "在粉碎機磨碎有機物能夠產出生物燃料。\n\n除了製作物品外，生物燃料還能作為\u0026a生物能發電機\u0026r的燃料，在遊戲前期是很有用的發電方式。\n\n它還能製作\u00266乙烯\u0026r，這種高能量密度的氣體能夠用來發電，或是製作 \u0026eHDPE 顆粒\u0026r。",
+    "context": "chapters/mekanism.snbt / quest 7EF7546FF007EF36",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7EF7546FF007EF36.title": {
+    "original": "\u00262Bio Fuel",
+    "translation": "\u00262生物燃料",
+    "context": "chapters/mekanism.snbt / quest 7EF7546FF007EF36",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7FCCB25011D69673.quest_desc": {
+    "original": "The \u0026aEnrichment Chamber\u0026r has several important uses!\n\nThis machine can break down 3 raw ores into \u0026e4 Dusts\u0026r, essentially multiplying your ingot returns.\n\nIt's also used to create \u0026cEnriched\u0026r versions of items, like \u0026cEnriched Redstone\u0026r, \u00262Enriched Carbon\u0026r, and more!\n\nThese enriched items can be used in the \u0026aMetallurgic Infuser\u0026r for 8x the original value.",
+    "translation": "\u0026a富集倉\u0026r有一些重要的功能。\n\n這台機器能將三個原礦打碎成\u0026e四個粉\u0026r，增加你的礦物產量。\n\n它還能將物品變成\u0026c富集\u0026r型態，像是\u0026c富集紅石\u0026r、\u00262富集碳\u0026r等等。\n\n富集型態的物品在\u0026a冶金灌注機\u0026r轉換的量是一般物品的八倍。",
+    "context": "chapters/mekanism.snbt / quest 7FCCB25011D69673",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7FCCB25011D69673.title": {
+    "original": "\u0026fThe \u0026aEnrichment Chamber",
+    "translation": "\u0026a富集倉",
+    "context": "chapters/mekanism.snbt / quest 7FCCB25011D69673",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1A4A5A59FFF815E2.title": {
+    "original": "Heaters",
+    "translation": "Heaters",
+    "context": "chapters/mekanism.snbt / task 1A4A5A59FFF815E2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}
