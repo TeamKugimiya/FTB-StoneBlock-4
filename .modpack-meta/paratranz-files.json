@@ -1,7 +1,133 @@
 {
   "schema_version": 1,
-  "project_slug": "",
-  "paratranz_project_id": 0,
-  "wire_format": "",
-  "files": {}
+  "project_slug": "ftb-stoneblock-4",
+  "paratranz_project_id": 16802,
+  "wire_format": "paratranz-json-adapter-v1",
+  "files": {
+    "ftbquests/chapter_group.json": {
+      "file_id": 3035606,
+      "last_pushed_hash": "4809d9b657cd1297090360f78598fe903477d82c41687aacd0c7b1a097c358d5",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/bounty_board.json": {
+      "file_id": 3035607,
+      "last_pushed_hash": "e7f461352237921d303b19d9387726b5c89da85dd48d7a07deca363538e79943",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/creative.json": {
+      "file_id": 3035608,
+      "last_pushed_hash": "7600c1a2fb76eef824d84ef14fde6a9992b34a9a46ce9fe326ece1c18e8fab8e",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/draconic_evolution.json": {
+      "file_id": 3035609,
+      "last_pushed_hash": "d1c2878599e33cc02e4d442e30b2c360d09fe25a48449f89abb6bfaff0bd5649",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/exploration__combat.json": {
+      "file_id": 3035610,
+      "last_pushed_hash": "d2e0a4d96768c38474b001ffaf7f75d61c8daeae28288b18faddd8e4918c7f0e",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/gearing_up.json": {
+      "file_id": 3035611,
+      "last_pushed_hash": "0e591e9bb4e8127b1070999fd7639a46b217e91d5a2694dedac68ce6caee37a2",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/general_magic.json": {
+      "file_id": 3035612,
+      "last_pushed_hash": "08c55c59d52c5d50102db8652635ae48e2ee1f20070b33b6c91e5d03eb9cfad6",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/getting_started.json": {
+      "file_id": 3035613,
+      "last_pushed_hash": "1e4b1a93af631b210845b4f57b73158c8bb26a9a4afe239a719fe012c48b7804",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/logistics__storage.json": {
+      "file_id": 3035614,
+      "last_pushed_hash": "003ce780c36a9bb3eb494ed677bce627a7fd41847fd89f138e45b7792e77ec31",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/mekanism.json": {
+      "file_id": 3035615,
+      "last_pushed_hash": "1658ec4613b52f6752a8ccdf43bd18b8e7dc327e04eb71d5300eebc77e7bad6c",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/oritech.json": {
+      "file_id": 3035616,
+      "last_pushed_hash": "eeea615bae42fc48f24127973441ae15dd880c15346c1ce2d8c44b7ed481f748",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/power.json": {
+      "file_id": 3035617,
+      "last_pushed_hash": "87deec98f1f57f67f96eb7d64c5d22ef7b5acd20506f5805c724faaeca383368",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/processing__automation.json": {
+      "file_id": 3035618,
+      "last_pushed_hash": "db7161b34de82664d64269ed49e830e5966755e3bba2f53eb341785b4522722b",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/resource_generation.json": {
+      "file_id": 3035619,
+      "last_pushed_hash": "a2268820695e78cde29a680b9c478b50a198078233bcbbcbf4610b147a2b054d",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/technology.json": {
+      "file_id": 3035620,
+      "last_pushed_hash": "1730d3b2009ad2a3fb0a3431b420a1582f25a611b410d111520c275d76a2e4fd",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/thebackrooms.json": {
+      "file_id": 3035621,
+      "last_pushed_hash": "10b7e9da737ec4ab8ee2d58a12e6931a1928bcd500b7fd997d616c1c56bbd79f",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/useful_items_tips.json": {
+      "file_id": 3035622,
+      "last_pushed_hash": "6511192061b3b3a2e75fc2666c0532d335bce6a4c93b193ca1f6d20b70651d90",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/welcome.json": {
+      "file_id": 3035623,
+      "last_pushed_hash": "57ef5a95416b2f9156131bca8934742a91c788cf9fbea0395fe3f2b8001ca15f",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/world_engine__tier_1.json": {
+      "file_id": 3035624,
+      "last_pushed_hash": "49df8ff489bbd8732eab484073794032986756230623fdcf47ebb4f1b9c142d7",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/world_engine__tier_2.json": {
+      "file_id": 3035625,
+      "last_pushed_hash": "50851ade6f648af0df9f6cdcfb3d41353741c86b04b3836eea2df8b5229f824b",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/world_engine__tier_3.json": {
+      "file_id": 3035626,
+      "last_pushed_hash": "3ec52fdc38b97548ac410cd95e8f831dbecc273489507637450949e34734beb2",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/world_engine__tier_4.json": {
+      "file_id": 3035627,
+      "last_pushed_hash": "01d19cdd0f599a50c1b3e4511af5107c2fb5caba1a359d52974dc268093bc228",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/chapters/world_engine__tier_5.json": {
+      "file_id": 3035628,
+      "last_pushed_hash": "0b2906f0bc36056155f1d8ef0ad249ed482133357f222345b34ee519c4df0bba",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/file.json": {
+      "file_id": 3035629,
+      "last_pushed_hash": "b4fd463db4c4e03c9e4ba7e3f1834ae1b083468276bcff5b77bf71c2c571919b",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    },
+    "ftbquests/reward_table.json": {
+      "file_id": 3035630,
+      "last_pushed_hash": "66dc4f848899f31093732acb32cc63e811f88ec625db0a3803e3448d9c436e94",
+      "last_pushed_at": "2026-05-14T12:46:39Z"
+    }
+  }
 }
