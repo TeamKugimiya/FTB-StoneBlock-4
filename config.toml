@@ -20,6 +20,12 @@ project_id = 16802
 archive_roots = ["overrides", "."]
 include = [
   "config/ftbquests/quests/**/*.snbt",
+  "kubejs/assets/ftb/guides/**/*.md",
+  "kubejs/data/ftb/machine/steam_pressurizer.json",
+  "kubejs/server_scripts/event_handlers/items/ender_shard.js"
+]
+exclude = [
+  "kubejs/assets/ftb/guides/ftb/guide/_zh_cn/**"
 ]
 
 [[convert.sources]]

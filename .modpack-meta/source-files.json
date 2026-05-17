@@ -387,6 +387,174 @@
       "sha256": "606972a0809d0f393c8f8049ba8bef9d742fab8d3dfcaf22a0efaddeff7cb3a1",
       "size": 16433,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/7D0A27C985829037.snbt"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/index.md": {
+      "kind": "translatable",
+      "sha256": "3ad94cea40f3e16d0e20bc33e41fb0d7dcedd8008b8875aa23b9f072babc43a1",
+      "size": 1699,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/index.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/player_upgrade.md": {
+      "kind": "translatable",
+      "sha256": "3d1148c1d72fb3d02af1a4e1e34ee5a1ab24025d2c3a0c4571f3f0e38d2d4b2b",
+      "size": 1809,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/player_upgrade.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/t1_upgrades.md": {
+      "kind": "translatable",
+      "sha256": "9e0835f9ca158ddbc07077585a34c73fd81e756550f9cf0687fd5c600354fc94",
+      "size": 310,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/t1_upgrades.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/t2_upgrades.md": {
+      "kind": "translatable",
+      "sha256": "e7cd5d0bee74ab8b706cb2a85395824977292de6683240d60c227493e6a1ec4f",
+      "size": 300,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/t2_upgrades.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/t3_upgrades.md": {
+      "kind": "translatable",
+      "sha256": "c13da547e983fbe8978d234205e95f2d8526020a750787951539e0a13bdf52d1",
+      "size": 328,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/t3_upgrades.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/t4_upgrades.md": {
+      "kind": "translatable",
+      "sha256": "ad8fd96c8f3e9998d2d25224890342de6f245c75995c77a4bf4b221bbd7da564",
+      "size": 330,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/t4_upgrades.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/t5_upgrades.md": {
+      "kind": "translatable",
+      "sha256": "c69672756dee668f88a98036517d5d38f650ab4cdf8125b29869544b7026aa7e",
+      "size": 296,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/t5_upgrades.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/create.md": {
+      "kind": "translatable",
+      "sha256": "99e202a3a6f177a05fa96a899c0e954e9d4144fbf02b006c69215c6436a14753",
+      "size": 833,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/create.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/machine_block.md": {
+      "kind": "translatable",
+      "sha256": "742feeb7471937ad7a55bd90c5c15a876bcb90b97d47b60a9e95685650e684f4",
+      "size": 1129,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/machine_block.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/source.md": {
+      "kind": "translatable",
+      "sha256": "9c33bceca6fb9767fbb6383b4bf17bec477cf8c2915a1b97f000ef2f26e0592f",
+      "size": 1319,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t1/source.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/chroniton.md": {
+      "kind": "translatable",
+      "sha256": "e7017d41c1e310b047a35ae369f6d6b1cc17455c437121347fd939245c524964",
+      "size": 973,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/chroniton.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/deepshelf.md": {
+      "kind": "translatable",
+      "sha256": "79fb782f186ef653b21c0833d411724339d8efcdf3014214d1d2b767582bfc2a",
+      "size": 1368,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/deepshelf.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/heat.md": {
+      "kind": "translatable",
+      "sha256": "8ee9d86769bb5155bc03aa4c72dccf423242f410bf137042440a5c93c7a4254e",
+      "size": 990,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t2/heat.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/advanced_machine_block.md": {
+      "kind": "translatable",
+      "sha256": "3eeacca7d59988b4a2e5cb3922b7d5e6b08cd4ce432408bfd1f3b474fdb6cb11",
+      "size": 755,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/advanced_machine_block.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/ae2.md": {
+      "kind": "translatable",
+      "sha256": "b5e90ee0b37b0d4468ac0165edd355d8250d266e3cf3c8392600280e6e6c564c",
+      "size": 910,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/ae2.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/enderium.md": {
+      "kind": "translatable",
+      "sha256": "9a4c7b0eb8158c19608569650827b9f12d3a74fbdba89fecd16a871351607ba4",
+      "size": 845,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/enderium.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/fortron.md": {
+      "kind": "translatable",
+      "sha256": "d20099fbafd422fa221bd6e663882e2da78862585c3ca6db698e8aa1c96c873b",
+      "size": 1100,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/fortron.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/nitro_cell.md": {
+      "kind": "translatable",
+      "sha256": "cd1cd4aa5762dfcfb2e7c60d6a7e018259f14af1c7d58d8c57fdf1b07a14c550",
+      "size": 857,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/nitro_cell.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/spirit_block.md": {
+      "kind": "translatable",
+      "sha256": "53d1733693adfb924ac6df43134c76bb066fce64dae91456504eaeb5af47c42f",
+      "size": 661,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t3/spirit_block.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/draconic.md": {
+      "kind": "translatable",
+      "sha256": "34a6877b9d2c36c90513dc80fcb60bdada86f8f9f9691bfe3a393459512fee4c",
+      "size": 966,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/draconic.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/euphonium.md": {
+      "kind": "translatable",
+      "sha256": "20edc00eaa208a8ede3292e59c4647e50796ff11be83a12f2cf3f2e64c71526c",
+      "size": 591,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/euphonium.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/resonant_void.md": {
+      "kind": "translatable",
+      "sha256": "d414702fae87feb968f4f874e6f952c912677a6e539d0ae0f53ffae933e63fd0",
+      "size": 750,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/resonant_void.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/twilight.md": {
+      "kind": "translatable",
+      "sha256": "7ab458474b7ef29b29e0e4a97d9d4d37e08cc23d510a7a82334bf11bdb858418",
+      "size": 689,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t4/twilight.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/awakened_core.md": {
+      "kind": "translatable",
+      "sha256": "3999eb5ee788d90a5c0c387bcd04d5320b907e243e1e641beb97b712a2d05f7b",
+      "size": 1352,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/awakened_core.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/dark_void.md": {
+      "kind": "translatable",
+      "sha256": "8fb5b0869d88bb9c3acf17acd35280ffa151340da7da7f6b9adea044a0271703",
+      "size": 803,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/dark_void.md"
+    },
+    "kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/infinity.md": {
+      "kind": "translatable",
+      "sha256": "de445272d97db5c2429433ebf62fe2a95d3767225900f0ad9b3c7efa562fae15",
+      "size": 1321,
+      "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/infinity.md"
+    },
+    "kubejs/data/ftb/machine/steam_pressurizer.json": {
+      "kind": "translatable",
+      "sha256": "cd115d7b6578bba1a6921d7f5202502563c46fa6f1850916e27deb895ec53f7e",
+      "size": 4126,
+      "source_archive_path": "overrides/kubejs/data/ftb/machine/steam_pressurizer.json"
+    },
+    "kubejs/server_scripts/event_handlers/items/ender_shard.js": {
+      "kind": "translatable",
+      "sha256": "51f5d4f9816aee6f569e2e74b059a6fb4e2fd219d7ca14b7b0d2f0da57da81d3",
+      "size": 6546,
+      "source_archive_path": "overrides/kubejs/server_scripts/event_handlers/items/ender_shard.js"
     }
   }
 }
