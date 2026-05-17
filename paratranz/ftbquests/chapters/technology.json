@@ -216,7 +216,7 @@
     }
   },
   "quest.1B8BB733ADF897FE.quest_desc": {
-    "original": "\u0026eProductive Metalworks\u0026r is used to smelt and forge alloys, and cast them into various different parts.\n\nStart by crafting some \u0026cFire Clay\u0026r and then smelting that into \u00264Fire Bricks\u0026r. These will be used to build the structure of our \u00266Foundry\u0026r.\n\nThe \u0026eBig Book of Metallurgy\u0026r can show you how to set up a \u00266Foundry\u0026r.",
+    "original": "\u0026eProductive Metalworks\u0026r is used to smelt and forge alloys, and cast them into various different parts.\n\nStart by crafting some \u0026cFire Clay\u0026r and then smelting that into \u00264Fire Bricks\u0026r. These will be used to build the structure of our \u00266Foundry\u0026r.\n\nThe \u0026aBig Book of Metallurgy\u0026r can show you how to set up a \u00266Foundry\u0026r.\n\n\u0026eNote\u0026r: The foundry has a maximum volume capacity of 200 blocks.",
     "translation": "\u0026e《高效金屬加工》\u0026r用於熔煉與鍛造合金，並將其澆鑄成各種不同的部件。\n\n首先製作一些\u0026c耐火黏土\u0026r，然後將其熔煉成\u00264耐火磚頭\u0026r。\n這些磚塊將用於建造我們的\u00266鑄造爐\u0026r結構。\n\n《冶金大百科》中，有介紹如何搭建\u00266鑄造爐\u0026r。",
     "context": "chapters/technology.snbt / quest 1B8BB733ADF897FE",
     "meta": {

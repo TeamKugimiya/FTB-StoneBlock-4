@@ -306,7 +306,7 @@
     }
   },
   "quest.3D0CE267A8FD95CD.quest_desc": {
-    "original": "With the \u00262Yeti\u0026r defeated, you will have access to 2 new vaults to find.\n\nFound within the lower levels of the \u0026bTwilight Forest\u0026r ring, you can find the \u0026aHydra's Lair Vault\u0026r.\n\n\u0026eNote\u0026r: The \u0026cHydra\u0026r failed to make rent, and new tenants have taken its place.",
+    "original": "With the \u00262Yeti\u0026r defeated, you will have access to 2 new vaults to find.\n\nFound within the lower levels of the \u0026bTwilight Forest\u0026r ring, you can find the \u0026aHydra's Lair Vault\u0026r.\n\n\u0026eNote\u0026r: The \u0026cHydra\u0026r failed to make rent and will not spawn in the world, it exists only in digital format via Data Models.",
     "translation": "當你擊敗了\u00262雪怪首領\u0026r之後，你現在有著兩座全新寶庫能夠探索。\n\n牠會出現於\u0026b暮光森林\u0026r環帶較低處的\u0026a九頭蛇巢穴寶庫\u0026r之中。\n\n\u0026e備註\u0026r：\u0026c九頭蛇\u0026r繳不起房租，所以現在那裡有位新的租客。",
     "context": "chapters/world_engine__tier_4.snbt / quest 3D0CE267A8FD95CD",
     "meta": {
