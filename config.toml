@@ -25,7 +25,15 @@ include = [
   "kubejs/server_scripts/event_handlers/items/ender_shard.js"
 ]
 exclude = [
-  "kubejs/assets/ftb/guides/ftb/guide/_zh_cn/**"
+  "kubejs/assets/ftb/guides/ftb/guide/_zh_cn/**",
+  "config/ftbquests/quests/lang/en_au.snbt",
+  "config/ftbquests/quests/lang/en_gb.snbt",
+  "config/ftbquests/quests/lang/en_nz.snbt",
+  "config/ftbquests/quests/lang/ko_kr.snbt",
+  "config/ftbquests/quests/lang/pt_br.snbt",
+  "config/ftbquests/quests/lang/ru_ru.snbt",
+  "config/ftbquests/quests/lang/tr_tr.snbt",
+  "config/ftbquests/quests/lang/zh_cn.snbt"
 ]
 
 [[convert.sources]]

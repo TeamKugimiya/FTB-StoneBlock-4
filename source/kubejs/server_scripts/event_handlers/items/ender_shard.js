@@ -54,7 +54,11 @@
 
     // optional custom name component (JSON inside single quotes)
     if (customNameOrNull && String(customNameOrNull).length > 0) {
-      var nameJson = JSON.stringify({ text: String(customNameOrNull), italic: false }).replace(/'/g, "\\'");
+      var inputName = String(customNameOrNull);
+      var nameJson = inputName.startsWith("item.")
+        ? JSON.stringify({ translate: inputName, italic: false })
+        : JSON.stringify({ text: inputName, italic: false });
+      nameJson = nameJson.replace(/'/g, "\\'");
       components.push("minecraft:custom_name='" + nameJson + "'");
     }
 

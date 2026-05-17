@@ -1376,7 +1376,9 @@
 		""
 		"Start by crafting some &cFire Clay&r and then smelting that into &4Fire Bricks&r. These will be used to build the structure of our &6Foundry&r."
 		""
-		"The &eBig Book of Metallurgy&r can show you how to set up a &6Foundry&r."
+		"The &aBig Book of Metallurgy&r can show you how to set up a &6Foundry&r."
+		""
+		"&eNote&r: The foundry has a maximum volume capacity of 200 blocks."
 	]
 	quest.1B8BB733ADF897FE.title: "&eProductive Metalworks &6Foundry"
 	quest.1BC994881BC225ED.quest_desc: [
@@ -3010,7 +3012,7 @@
 		""
 		"Found within the lower levels of the &bTwilight Forest&r ring, you can find the &aHydra's Lair Vault&r."
 		""
-		"&eNote&r: The &cHydra&r failed to make rent, and new tenants have taken its place."
+		"&eNote&r: The &cHydra&r failed to make rent and will not spawn in the world, it exists only in digital format via Data Models."
 	]
 	quest.3D0CE267A8FD95CD.title: "&fThe Hydra's Lair"
 	quest.3D0DC34C36A173F5.quest_desc: ["&eOritech's &2Exo Suit&r provides very useful effects for exploring the world, but provide no protection against the dangers of leaving your home."]

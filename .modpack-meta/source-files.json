@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_slug": "ftb-stoneblock-4",
-  "upstream_artifact_id": "7933930",
+  "upstream_artifact_id": "8079634",
   "overlay_root": "overrides",
   "files": {
     "config/ftbquests/quests/chapter_groups.snbt": {
@@ -42,14 +42,14 @@
     },
     "config/ftbquests/quests/chapters/general_magic.snbt": {
       "kind": "translatable",
-      "sha256": "4e3e26a1394d644fda9bc7ea77fb5db838268656e9ffdd0365af3c86d11d9ef5",
-      "size": 52001,
+      "sha256": "cf74292bf0f10fdb659d7bcf54189dd85e9e18819dfa6ebcdde188760a9ef2a4",
+      "size": 52026,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/general_magic.snbt"
     },
     "config/ftbquests/quests/chapters/getting_started.snbt": {
       "kind": "translatable",
-      "sha256": "6ab7e73597f75963191f417a71e91b5c2bb72e0d85b16a86b2eeee5dade52791",
-      "size": 26260,
+      "sha256": "97dca421eec5e05496691c03a613485912131a6ce0b8c554ceabd2e41e0e6216",
+      "size": 26271,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/getting_started.snbt"
     },
     "config/ftbquests/quests/chapters/logistics__storage.snbt": {
@@ -96,8 +96,8 @@
     },
     "config/ftbquests/quests/chapters/thebackrooms.snbt": {
       "kind": "translatable",
-      "sha256": "9a0571a01ad8903c8296260ad07d4074d98efa8b9c4bc589dd91b716f62789a7",
-      "size": 74989,
+      "sha256": "6c26c0f2d15a9efa69a529a0c08b4fc7d780d8a4694a84b3a05fa0aee288a595",
+      "size": 75014,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/thebackrooms.snbt"
     },
     "config/ftbquests/quests/chapters/useful_items_tips.snbt": {
@@ -120,8 +120,8 @@
     },
     "config/ftbquests/quests/chapters/world_engine__tier_2.snbt": {
       "kind": "translatable",
-      "sha256": "5020d5469d1f68408f176f1bce427b1520de11d045ee422dcb07058d961cff41",
-      "size": 19806,
+      "sha256": "88fd8b19648193c2d88a69ac591e75f57f1ce7b297303ae9efc45185cbd1b09a",
+      "size": 19798,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_2.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_3.snbt": {
@@ -148,64 +148,16 @@
       "size": 650,
       "source_archive_path": "overrides/config/ftbquests/quests/data.snbt"
     },
-    "config/ftbquests/quests/lang/en_au.snbt": {
-      "kind": "translatable",
-      "sha256": "cef45d6f2f7c046f75236d307c3fabbcec56834faa1d4771194ecc8487fa8de4",
-      "size": 72925,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/en_au.snbt"
-    },
-    "config/ftbquests/quests/lang/en_gb.snbt": {
-      "kind": "translatable",
-      "sha256": "cef45d6f2f7c046f75236d307c3fabbcec56834faa1d4771194ecc8487fa8de4",
-      "size": 72925,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/en_gb.snbt"
-    },
-    "config/ftbquests/quests/lang/en_nz.snbt": {
-      "kind": "translatable",
-      "sha256": "cef45d6f2f7c046f75236d307c3fabbcec56834faa1d4771194ecc8487fa8de4",
-      "size": 72925,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/en_nz.snbt"
-    },
     "config/ftbquests/quests/lang/en_us.snbt": {
       "kind": "translatable",
-      "sha256": "434b7c303ada2af916e07d15524636bc6e59d96425d8cbd997951bc3f0f11420",
-      "size": 440714,
+      "sha256": "4c3a40fd7b8e90f666ddd72bcca6201bf99a5c514314834e84807afa29c7e92d",
+      "size": 440834,
       "source_archive_path": "overrides/config/ftbquests/quests/lang/en_us.snbt"
-    },
-    "config/ftbquests/quests/lang/ko_kr.snbt": {
-      "kind": "translatable",
-      "sha256": "1825a032361c7e13adf528163c00ba3c0e2051d1f3932a8455f2e483fc2191db",
-      "size": 496151,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/ko_kr.snbt"
-    },
-    "config/ftbquests/quests/lang/pt_br.snbt": {
-      "kind": "translatable",
-      "sha256": "b981a884f42578b14d7cdc345f49a91d848c2d247461ff50b8afec55869892e0",
-      "size": 486314,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/pt_br.snbt"
-    },
-    "config/ftbquests/quests/lang/ru_ru.snbt": {
-      "kind": "translatable",
-      "sha256": "aa98831fd8b81a2519ebfdc3c738c6ac041bcb0ba4b4e851c88787e7e31a262e",
-      "size": 709879,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/ru_ru.snbt"
-    },
-    "config/ftbquests/quests/lang/tr_tr.snbt": {
-      "kind": "translatable",
-      "sha256": "40308dec756400bca821d5b23964e24070f7438c58e2f77b06bacceb088dd81e",
-      "size": 479143,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/tr_tr.snbt"
-    },
-    "config/ftbquests/quests/lang/zh_cn.snbt": {
-      "kind": "translatable",
-      "sha256": "39d44b67feeae41b5b506ed34798fd4beade7a3ccbd2f71d5b229d7309c093c6",
-      "size": 389409,
-      "source_archive_path": "overrides/config/ftbquests/quests/lang/zh_cn.snbt"
     },
     "config/ftbquests/quests/reward_tables/0C5DDA99EE8027D3.snbt": {
       "kind": "translatable",
-      "sha256": "9df2e5a206ad6cbe2eb0d53b1e7c2d44ed2e686a160a1222bcd8442c48d600ef",
-      "size": 15261,
+      "sha256": "a323d53df2c2bd5932887c9392440cbc1037695eb1bb4fd9547e6afa66c00aca",
+      "size": 15292,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/0C5DDA99EE8027D3.snbt"
     },
     "config/ftbquests/quests/reward_tables/1320ECC4666318A7.snbt": {
@@ -240,8 +192,8 @@
     },
     "config/ftbquests/quests/reward_tables/1DA364008CA08643.snbt": {
       "kind": "translatable",
-      "sha256": "c91445a0ebdf8855e0d195f5636232aa359001e44bf359e98d331f310e8f303a",
-      "size": 3790,
+      "sha256": "ea5767cc41d1e60e7d1beabf9d1dc876fd5e189bfd28dd57fe741bbe9c2ba9a8",
+      "size": 3801,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/1DA364008CA08643.snbt"
     },
     "config/ftbquests/quests/reward_tables/20D1BF16232BD665.snbt": {
@@ -552,8 +504,8 @@
     },
     "kubejs/server_scripts/event_handlers/items/ender_shard.js": {
       "kind": "translatable",
-      "sha256": "51f5d4f9816aee6f569e2e74b059a6fb4e2fd219d7ca14b7b0d2f0da57da81d3",
-      "size": 6546,
+      "sha256": "a1d4ab982a449f203fc06f644ea0e1defb3294c6f7764eaaea34c76a7866c400",
+      "size": 6712,
       "source_archive_path": "overrides/kubejs/server_scripts/event_handlers/items/ender_shard.js"
     }
   }
