@@ -9,7 +9,7 @@
     }
   },
   "quest.2B02D9425E19F560.quest_desc": {
-    "original": "Found something that doesn't work like it should?\n\n[\"We'd love to know so we can fix it! You can stop by to let us know on \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the Discord invite\"]} }, \" or by making a bug report on \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the GitHub link\"]} }, \".\"]\n\nPlease \u0026cdo not\u0026r Force Complete quests in Editing Mode unless instructed to by a member of the \u0026aFTB Team\u0026f as it can completely break your pack progression.",
+    "original": "Found something that doesn't work like it should?\n\n[\"We'd love to know so we can fix it! You can stop by to let us know on \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the Discord invite\"]} }, \" or by making a bug report on \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the GitHub link\"]} }, \".\"]\n\nPlease &cdo not&r Force Complete quests in Editing Mode unless instructed to by a member of the &aFTB Team&f as it can completely break your pack progression.",
     "translation": "出現了一些理應不該發生的事情？\n\n[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]",
     "context": "chapters/welcome.snbt / quest 2B02D9425E19F560",
     "meta": {
@@ -18,7 +18,7 @@
     }
   },
   "quest.2B02D9425E19F560.title": {
-    "original": "\u0026fFound A Bug?",
+    "original": "&fFound A Bug?",
     "translation": "出現了 BUG？",
     "context": "chapters/welcome.snbt / quest 2B02D9425E19F560",
     "meta": {
@@ -27,8 +27,8 @@
     }
   },
   "quest.2F15D918EF183051.quest_desc": {
-    "original": "\u00266Stoneblock 4\u0026r is a story-driven modpack with plenty of options to play and progress based on your playstyle.\n\nThis pack has tons of mods for all types of players. Mods may be gated with the storyline, so make sure to explore the different options for progression!\n\nFor those who want a challenge, the final challenge of the pack is completing the \u0026dWorld Engine\u0026r. Do you think you have what it takes?",
-    "translation": "《\u00266只有石頭的世界4\u0026r》是一款劇情向的模組包：有著豐富多樣的遊玩選項，\n並能夠根據你的個人遊玩風格來推進劇情。\n\n本模組包含有適合所有類型玩家的成千上萬種不同的模組。部分模組可能與主線任務有關，所以在遊玩過程請記得去探索各種不同的選項以推動遊戲進度！\n\n給任何想要挑戰自我的玩家：本模組包的最終挑戰是完成\u0026d世界引擎\u0026r。你覺得自己有能力做到嗎？",
+    "original": "&6Stoneblock 4&r is a story-driven modpack with plenty of options to play and progress based on your playstyle.\n\nThis pack has tons of mods for all types of players. Mods may be gated with the storyline, so make sure to explore the different options for progression!\n\nFor those who want a challenge, the final challenge of the pack is completing the &dWorld Engine&r. Do you think you have what it takes?",
+    "translation": "《&6只有石頭的世界4&r》是一款劇情向的模組包：有著豐富多樣的遊玩選項，\n並能夠根據你的個人遊玩風格來推進劇情。\n\n本模組包含有適合所有類型玩家的成千上萬種不同的模組。部分模組可能與主線任務有關，所以在遊玩過程請記得去探索各種不同的選項以推動遊戲進度！\n\n給任何想要挑戰自我的玩家：本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？",
     "context": "chapters/welcome.snbt / quest 2F15D918EF183051",
     "meta": {
       "line_split_policy": "lf",
@@ -36,8 +36,8 @@
     }
   },
   "quest.2F15D918EF183051.title": {
-    "original": "Welcome To \u00266Stoneblock 4\u0026r!",
-    "translation": "歡迎來到《\u00266只有石頭的世界 4\u0026r》！",
+    "original": "Welcome To &6Stoneblock 4&r!",
+    "translation": "歡迎來到《&6只有石頭的世界 4&r》！",
     "context": "chapters/welcome.snbt / quest 2F15D918EF183051",
     "meta": {
       "line_split_policy": "none",
@@ -45,8 +45,8 @@
     }
   },
   "quest.77FC846DC0EF4ED2.quest_desc": {
-    "original": "\u0026a/home\u0026r | This command unlocks during the main quest in the early game, and opens a portal to take you back to your base.\n\n\u0026a/back\u0026r | Allows you to return to a previous point after you have died.\n\n\u0026a/spawn\u0026r | Teleports the player back to the lobby. The lobby is very important in this pack!\n{@pagebreak}\n\n\u0026a/spark tps\u0026r | Checks the server's TPS. Useful to see if your world is lagging",
-    "translation": "\u0026a/home\u0026r｜此指令會在遊戲前期的主線任務中解鎖：開啟一道通往你的基地的傳送門。\n\n\u0026a/back\u0026r｜使你回到上一次死亡的位置。\n\n\u0026a/spawn\u0026r｜將玩家傳送回大廳。大廳在本模組包中非常重要！\n{@pagebreak}\n\n\u0026a/spark tps\u0026r｜查看伺服器的 TPS。如果你的伺服器出現卡頓時，可用來檢查。",
+    "original": "&a/home&r | This command unlocks during the main quest in the early game, and opens a portal to take you back to your base.\n\n&a/back&r | Allows you to return to a previous point after you have died.\n\n&a/spawn&r | Teleports the player back to the lobby. The lobby is very important in this pack!\n{@pagebreak}\n\n&a/spark tps&r | Checks the server's TPS. Useful to see if your world is lagging",
+    "translation": "&a/home&r｜此指令會在遊戲前期的主線任務中解鎖：開啟一道通往你的基地的傳送門。\n\n&a/back&r｜使你回到上一次死亡的位置。\n\n&a/spawn&r｜將玩家傳送回大廳。大廳在本模組包中非常重要！\n{@pagebreak}\n\n&a/spark tps&r｜查看伺服器的 TPS。如果你的伺服器出現卡頓時，可用來檢查。",
     "context": "chapters/welcome.snbt / quest 77FC846DC0EF4ED2",
     "meta": {
       "line_split_policy": "lf",

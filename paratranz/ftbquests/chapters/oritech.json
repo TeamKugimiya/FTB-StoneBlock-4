@@ -18,8 +18,8 @@
     }
   },
   "quest.036C11AC70835846.quest_desc": {
-    "original": "\u0026aEnderic Lasers\u0026r are primarily used to create \u0026aFluxite\u0026r, but can also be used to transfer RF wirelessly or mine blocks in the world.\n\nTo link a machine or block to the \u0026aEnderic Laser\u0026r, use the \u0026eTarget Designator\u0026r by Sneak + Right-clicking the machine or block, then Sneak + Right-clicking the Enderic Laser to link them.\n\n\u0026l\u0026cWARNING!\u0026r Removing a linked block without stopping the laser will mine all blocks within range of the laser's line of sight.",
-    "translation": "\u0026a終界雷射\u0026r主要用於創造\u0026a通量水晶\u0026r，但也可以用於無線傳輸能量或挖掘世界中的方塊。\n\n若要將機器或方塊連結至\u0026a終界雷射\u0026r，\n請使用\u0026e目標指定器\u0026r，先潛行 + 右鍵點擊該機器或方塊，\n然後再潛行 + 右鍵點擊終界雷射以進行連結。\n\n\u0026l\u0026c警告！\u0026r在未停止雷射的情況下，移除與其連結的方塊，將會破壞雷射路徑上的所有方塊。",
+    "original": "&aEnderic Lasers&r are primarily used to create &aFluxite&r, but can also be used to transfer RF wirelessly or mine blocks in the world.\n\nTo link a machine or block to the &aEnderic Laser&r, use the &eTarget Designator&r by Sneak + Right-clicking the machine or block, then Sneak + Right-clicking the Enderic Laser to link them.\n\n&l&cWARNING!&r Removing a linked block without stopping the laser will mine all blocks within range of the laser's line of sight.",
+    "translation": "&a終界雷射&r主要用於創造&a通量水晶&r，但也可以用於無線傳輸能量或挖掘世界中的方塊。\n\n若要將機器或方塊連結至&a終界雷射&r，\n請使用&e目標指定器&r，先潛行 + 右鍵點擊該機器或方塊，\n然後再潛行 + 右鍵點擊終界雷射以進行連結。\n\n&l&c警告！&r在未停止雷射的情況下，移除與其連結的方塊，將會破壞雷射路徑上的所有方塊。",
     "context": "chapters/oritech.snbt / quest 036C11AC70835846",
     "meta": {
       "line_split_policy": "lf",
@@ -27,8 +27,8 @@
     }
   },
   "quest.036C11AC70835846.title": {
-    "original": "\u0026fThe Power Of The \u0026dEnd",
-    "translation": "\u0026f來自\u0026d終界\u0026f的力量",
+    "original": "&fThe Power Of The &dEnd",
+    "translation": "&f來自&d終界&f的力量",
     "context": "chapters/oritech.snbt / quest 036C11AC70835846",
     "meta": {
       "line_split_policy": "none",
@@ -36,8 +36,8 @@
     }
   },
   "quest.091B8E814908DEDF.quest_desc": {
-    "original": "The \u0026dAtomic Forge\u0026r is a powerful machine capable of creating advanced computer chips, reinforcing deepslate, and even duplicating ores!\n\nIt's a pretty big multiblock, requiring \u0026b8 Machine Cores\u0026r in total to build.\n\nEnergy pipes cannot connect directly to an \u0026dAtomic Forge\u0026r; it needs to be wirelessly powered by an \u0026aEnderic Laser\u0026r.",
-    "translation": "\u0026d原子鍛造廠\u0026r是一台功能強大的機器，能夠製作高級的電腦晶片、強化深板岩，甚至還能使礦物產出翻倍！\n\n這是一個相當龐大的多方塊結構，建造時總共需要 \u0026b8 個機器\n核心\u0026r。\n\n能量管道無法直接連接至\u0026d原子鍛造廠\u0026r；它需要透過\u0026a終界雷射\u0026r進行無線供電。",
+    "original": "The &dAtomic Forge&r is a powerful machine capable of creating advanced computer chips, reinforcing deepslate, and even duplicating ores!\n\nIt's a pretty big multiblock, requiring &b8 Machine Cores&r in total to build.\n\nEnergy pipes cannot connect directly to an &dAtomic Forge&r; it needs to be wirelessly powered by an &aEnderic Laser&r.",
+    "translation": "&d原子鍛造廠&r是一台功能強大的機器，能夠製作高級的電腦晶片、強化深板岩，甚至還能使礦物產出翻倍！\n\n這是一個相當龐大的多方塊結構，建造時總共需要 &b8 個機器\n核心&r。\n\n能量管道無法直接連接至&d原子鍛造廠&r；它需要透過&a終界雷射&r進行無線供電。",
     "context": "chapters/oritech.snbt / quest 091B8E814908DEDF",
     "meta": {
       "line_split_policy": "lf",
@@ -45,8 +45,8 @@
     }
   },
   "quest.0A6E103A6945D11E.quest_desc": {
-    "original": "The \u0026aFoundry\u0026r is key for progression and specializes in creating all of the alloys needed to make \u00266Oritech\u0026r machines.\n\nTo build this multiblock, you'll need 3 \u0026bMachine Cores\u0026r total. Place the \u0026aFoundry\u0026r block first, then right click it to see where the Cores need to be placed. Once the cores are in place, right click again to finalize the machine!\n\nNote: Some of these alloys can also be crafted by hand or other modded machines, but doing so often consumes more resources.",
-    "translation": "\u0026a鑄造廠\u0026r是進度發展的關鍵，專門製作《\u00266起源科技\u0026r》機器所需的合金。\n\n建造這個多方塊結構，總共需要 3 個\u0026b機器核心\u0026r。\n\n先放置\u0026a鑄造廠\u0026r方塊，然後右鍵點擊它，以查看需要放置核心的位置。一旦核心就位，再次右鍵點擊機器即可完成組裝！\n\n注意：部分合金也可以透過手動合成，或使用其他模組的機器製作，但這樣做通常會消耗更多資源。",
+    "original": "The &aFoundry&r is key for progression and specializes in creating all of the alloys needed to make &6Oritech&r machines.\n\nTo build this multiblock, you'll need 3 &bMachine Cores&r total. Place the &aFoundry&r block first, then right click it to see where the Cores need to be placed. Once the cores are in place, right click again to finalize the machine!\n\nNote: Some of these alloys can also be crafted by hand or other modded machines, but doing so often consumes more resources.",
+    "translation": "&a鑄造廠&r是進度發展的關鍵，專門製作《&6起源科技&r》機器所需的合金。\n\n建造這個多方塊結構，總共需要 3 個&b機器核心&r。\n\n先放置&a鑄造廠&r方塊，然後右鍵點擊它，以查看需要放置核心的位置。一旦核心就位，再次右鍵點擊機器即可完成組裝！\n\n注意：部分合金也可以透過手動合成，或使用其他模組的機器製作，但這樣做通常會消耗更多資源。",
     "context": "chapters/oritech.snbt / quest 0A6E103A6945D11E",
     "meta": {
       "line_split_policy": "lf",
@@ -54,8 +54,8 @@
     }
   },
   "quest.0A6E103A6945D11E.title": {
-    "original": "\u0026fThe \u00266Foundry",
-    "translation": "\u0026f\u00266鑄造廠",
+    "original": "&fThe &6Foundry",
+    "translation": "&f&6鑄造廠",
     "context": "chapters/oritech.snbt / quest 0A6E103A6945D11E",
     "meta": {
       "line_split_policy": "none",
@@ -63,8 +63,8 @@
     }
   },
   "quest.0A92084D7043133A.quest_desc": {
-    "original": "\u0026bAddons\u0026r are used to improve your Multiblock Machines depending on the type of Addon you choose to add. \n\nThese are attached to specific sides of your machines, or can be attached to a \u0026aMachine Extender\u0026r. Each Extender allows you to have more sides to attach more Addons!\n\nYou can always check which sides of a machine can accept an Addon by checking the \u0026bAddon GUI\u0026r within the machine's interface.",
-    "translation": "\u0026b升級插件\u0026r用於改進你的多方塊機器，具體效果取決於你安裝的插件類型。\n\n這些插件會安裝在機器的特定一側，或可以安裝在\u0026a機器升級擴充器\u0026r上。每個擴充器都能提供更多的安裝插座，讓你安裝更多升級插件！\n\n你隨時可以透過機器介面中的\u0026b升級插件選單\u0026r，來檢查機器的哪些面可以安裝插件。",
+    "original": "&bAddons&r are used to improve your Multiblock Machines depending on the type of Addon you choose to add. \n\nThese are attached to specific sides of your machines, or can be attached to a &aMachine Extender&r. Each Extender allows you to have more sides to attach more Addons!\n\nYou can always check which sides of a machine can accept an Addon by checking the &bAddon GUI&r within the machine's interface.",
+    "translation": "&b升級插件&r用於改進你的多方塊機器，具體效果取決於你安裝的插件類型。\n\n這些插件會安裝在機器的特定一側，或可以安裝在&a機器升級擴充器&r上。每個擴充器都能提供更多的安裝插座，讓你安裝更多升級插件！\n\n你隨時可以透過機器介面中的&b升級插件選單&r，來檢查機器的哪些面可以安裝插件。",
     "context": "chapters/oritech.snbt / quest 0A92084D7043133A",
     "meta": {
       "line_split_policy": "lf",
@@ -72,8 +72,8 @@
     }
   },
   "quest.0A92084D7043133A.title": {
-    "original": "\u0026fMachine Customization!",
-    "translation": "\u0026f機器自訂化！",
+    "original": "&fMachine Customization!",
+    "translation": "&f機器自訂化！",
     "context": "chapters/oritech.snbt / quest 0A92084D7043133A",
     "meta": {
       "line_split_policy": "none",
@@ -99,8 +99,8 @@
     }
   },
   "quest.0F3EDB9AE592016B.title": {
-    "original": "\u0026fMachine Capacitor Addon",
-    "translation": "\u0026f機器電容升級",
+    "original": "&fMachine Capacitor Addon",
+    "translation": "&f機器電容升級",
     "context": "chapters/oritech.snbt / quest 0F3EDB9AE592016B",
     "meta": {
       "line_split_policy": "none",
@@ -108,8 +108,8 @@
     }
   },
   "quest.143E07D2565798AB.quest_desc": {
-    "original": "\u0026eOritech\u0026r is all about building \u0026bMultiblock Machines\u0026r, most of which require using \u0026aMachine Cores\u0026r. You can always check to see how many cores are needed by checking the tooltip of the machine.\n\nThere are 7 different tiers of \u0026aMachine Cores\u0026r, with each increasing the total number of \u0026bAddons\u0026r that can be attached to the machine multiblock.\n\nFor now, you can make either of the first 2 tiers to get you started!",
-    "translation": "《\u0026e起源科技\u0026r》的核心在於建造\u0026b多方塊機器\u0026r，其中大部分都需要用到\u0026a機器核心\u0026r。你隨時可以透過查看機器的工具提示，來確認需要多少個核心。\n\n\u0026a機器核心\u0026r共有 7 種不同等級，\n等級越高，該多方塊機器可外接的\u0026b升級插件\u0026r總數就越多。\n\n現在，你可以先製作前兩個等級的其中之一，來展開你的科技之旅！",
+    "original": "&eOritech&r is all about building &bMultiblock Machines&r, most of which require using &aMachine Cores&r. You can always check to see how many cores are needed by checking the tooltip of the machine.\n\nThere are 7 different tiers of &aMachine Cores&r, with each increasing the total number of &bAddons&r that can be attached to the machine multiblock.\n\nFor now, you can make either of the first 2 tiers to get you started!",
+    "translation": "《&e起源科技&r》的核心在於建造&b多方塊機器&r，其中大部分都需要用到&a機器核心&r。你隨時可以透過查看機器的工具提示，來確認需要多少個核心。\n\n&a機器核心&r共有 7 種不同等級，\n等級越高，該多方塊機器可外接的&b升級插件&r總數就越多。\n\n現在，你可以先製作前兩個等級的其中之一，來展開你的科技之旅！",
     "context": "chapters/oritech.snbt / quest 143E07D2565798AB",
     "meta": {
       "line_split_policy": "lf",
@@ -135,8 +135,8 @@
     }
   },
   "quest.1770A460E1FD7CC8.title": {
-    "original": "\u0026fAccelerator Designs",
-    "translation": "\u0026f加速器設計",
+    "original": "&fAccelerator Designs",
+    "translation": "&f加速器設計",
     "context": "chapters/oritech.snbt / quest 1770A460E1FD7CC8",
     "meta": {
       "line_split_policy": "none",
@@ -144,8 +144,8 @@
     }
   },
   "quest.1CA7E96F42B75C2F.quest_desc": {
-    "original": "One of the first machines that you can make is the \u0026aPowered Furnace\u0026r!\n\nTo build this machine, place down the \u0026aPowered Furnace\u0026r block first, then place a \u0026bMachine Core\u0026r on top of it. Then you can Right-click it to build it.\n\nThis is a decent machine in the early game, but can be upgraded to be much faster using \u0026bAddons\u0026r.",
-    "translation": "你能製作的第一台機器是\u0026a電力熔爐\u0026r！\n\n若要建造這台機器，必須先放置\u0026a電力熔爐\u0026r方塊，然後在其上方放置一個\u0026b機器核心\u0026r。接著對它點擊右鍵即可完成組裝。\n\n這在遊戲早期是一台相當不錯的機器，且可以使用\u0026b升級插件\u0026r來提高運作速度。",
+    "original": "One of the first machines that you can make is the &aPowered Furnace&r!\n\nTo build this machine, place down the &aPowered Furnace&r block first, then place a &bMachine Core&r on top of it. Then you can Right-click it to build it.\n\nThis is a decent machine in the early game, but can be upgraded to be much faster using &bAddons&r.",
+    "translation": "你能製作的第一台機器是&a電力熔爐&r！\n\n若要建造這台機器，必須先放置&a電力熔爐&r方塊，然後在其上方放置一個&b機器核心&r。接著對它點擊右鍵即可完成組裝。\n\n這在遊戲早期是一台相當不錯的機器，且可以使用&b升級插件&r來提高運作速度。",
     "context": "chapters/oritech.snbt / quest 1CA7E96F42B75C2F",
     "meta": {
       "line_split_policy": "lf",
@@ -153,8 +153,8 @@
     }
   },
   "quest.1CA7E96F42B75C2F.title": {
-    "original": "\u0026fThe \u0026aPowered Furnace",
-    "translation": "\u0026f\u0026a電力熔爐",
+    "original": "&fThe &aPowered Furnace",
+    "translation": "&f&a電力熔爐",
     "context": "chapters/oritech.snbt / quest 1CA7E96F42B75C2F",
     "meta": {
       "line_split_policy": "none",
@@ -171,8 +171,8 @@
     }
   },
   "quest.24CE908ED60FD514.quest_desc": {
-    "original": "The \u0026aPulverizer\u0026r is a simple machine that can be used to make Dusts and Biomass.\n\nIn the early game, this is also the best way to get \u00266Enderic Compounds\u0026r.",
-    "translation": "\u0026a研磨機\u0026r是一台簡單的機器，可用於製作粉末與生物質。\n\n在遊戲早期，這也是獲得\u00266終界化合物\u0026r的最佳方式。",
+    "original": "The &aPulverizer&r is a simple machine that can be used to make Dusts and Biomass.\n\nIn the early game, this is also the best way to get &6Enderic Compounds&r.",
+    "translation": "&a研磨機&r是一台簡單的機器，可用於製作粉末與生物質。\n\n在遊戲早期，這也是獲得&6終界化合物&r的最佳方式。",
     "context": "chapters/oritech.snbt / quest 24CE908ED60FD514",
     "meta": {
       "line_split_policy": "lf",
@@ -180,8 +180,8 @@
     }
   },
   "quest.24CE908ED60FD514.title": {
-    "original": "\u0026fIt's Crushing Time",
-    "translation": "\u0026f粉碎時間到",
+    "original": "&fIt's Crushing Time",
+    "translation": "&f粉碎時間到",
     "context": "chapters/oritech.snbt / quest 24CE908ED60FD514",
     "meta": {
       "line_split_policy": "none",
@@ -189,8 +189,8 @@
     }
   },
   "quest.2C0C63951FDED180.quest_desc": {
-    "original": "\u0026dParticle Accelerators\u0026r are quite complex! Because of this, each part is split into different quests to break down how they all work.\n\nTo create new items with this machine, you will need to collide items from two separate controllers.\n\nThe \u0026dAccelerator Magnetic Field\u0026r can be placed into the middle of the ring and linked to a \u0026dParticle Accelerator\u0026r to increase the amount of speed the ring can handle.\n\nYou will need an \u00266Advanced Target Designator\u0026r to link to your Accelerator.",
-    "translation": "\u0026d粒子加速器\u0026r相當複雜！因此，每個部分都拆分為不同的任務，以詳細說明其運作方式。\n\n若要使用此機器創造新物品，你需要讓來自兩個獨立控制器的物品產生碰撞。\n\n\u0026d加速器磁場\u0026r可以放置在環體中間，並連結至\u0026d粒子加速器\u0026r，以增加環體可以承受的速度上限。\n\n你需要一個\u00266進階目標指定器\u0026r才能連結至你的加速器。",
+    "original": "&dParticle Accelerators&r are quite complex! Because of this, each part is split into different quests to break down how they all work.\n\nTo create new items with this machine, you will need to collide items from two separate controllers.\n\nThe &dAccelerator Magnetic Field&r can be placed into the middle of the ring and linked to a &dParticle Accelerator&r to increase the amount of speed the ring can handle.\n\nYou will need an &6Advanced Target Designator&r to link to your Accelerator.",
+    "translation": "&d粒子加速器&r相當複雜！因此，每個部分都拆分為不同的任務，以詳細說明其運作方式。\n\n若要使用此機器創造新物品，你需要讓來自兩個獨立控制器的物品產生碰撞。\n\n&d加速器磁場&r可以放置在環體中間，並連結至&d粒子加速器&r，以增加環體可以承受的速度上限。\n\n你需要一個&6進階目標指定器&r才能連結至你的加速器。",
     "context": "chapters/oritech.snbt / quest 2C0C63951FDED180",
     "meta": {
       "line_split_policy": "lf",
@@ -198,8 +198,8 @@
     }
   },
   "quest.2C0C63951FDED180.title": {
-    "original": "\u0026dParticle Accelerator",
-    "translation": "\u0026d粒子加速器",
+    "original": "&dParticle Accelerator",
+    "translation": "&d粒子加速器",
     "context": "chapters/oritech.snbt / quest 2C0C63951FDED180",
     "meta": {
       "line_split_policy": "none",
@@ -216,8 +216,8 @@
     }
   },
   "quest.33E4C81B762892B2.quest_desc": {
-    "original": "\u0026eOritech\u0026r is a tech mod centered around customizable multiblock machines that will change the way you use tech mods!\n\nFrom basic ore processing to setting up \u0026dParticle Accelerators\u0026r, this mod has it all.\n\nTo get started, you'll need some \u0026aRaw Nickel\u0026r as this is the main crafting material for the mod.",
-    "translation": "《\u0026e起源科技\u0026r》是一款以多方塊機器為核心的科技類模組，且將會改變你過往使用科技模組的體驗！\n\n從基礎的礦物處理，到建造\u0026d粒子加速器\u0026r，這款模組應有盡有。\n\n若要開始深入這款模組，你會需要一些\u0026a鎳原礦\u0026r，因為這是這款模組中最核心的材料。",
+    "original": "&eOritech&r is a tech mod centered around customizable multiblock machines that will change the way you use tech mods!\n\nFrom basic ore processing to setting up &dParticle Accelerators&r, this mod has it all.\n\nTo get started, you'll need some &aRaw Nickel&r as this is the main crafting material for the mod.",
+    "translation": "《&e起源科技&r》是一款以多方塊機器為核心的科技類模組，且將會改變你過往使用科技模組的體驗！\n\n從基礎的礦物處理，到建造&d粒子加速器&r，這款模組應有盡有。\n\n若要開始深入這款模組，你會需要一些&a鎳原礦&r，因為這是這款模組中最核心的材料。",
     "context": "chapters/oritech.snbt / quest 33E4C81B762892B2",
     "meta": {
       "line_split_policy": "lf",
@@ -225,8 +225,8 @@
     }
   },
   "quest.33E4C81B762892B2.title": {
-    "original": "\u0026fWelcome To \u0026eOritech\u0026f!",
-    "translation": "\u0026f歡迎來到\u0026e《起源科技》\u0026f！",
+    "original": "&fWelcome To &eOritech&f!",
+    "translation": "&f歡迎來到&e《起源科技》&f！",
     "context": "chapters/oritech.snbt / quest 33E4C81B762892B2",
     "meta": {
       "line_split_policy": "none",
@@ -243,8 +243,8 @@
     }
   },
   "quest.3AC24F0B92156F55.quest_desc": {
-    "original": "The \u0026dAssembler\u0026r features a 2x2 crafting grid and will automatically assemble items as long as it has energy, items in the input slots, and space for the finished product in the output slot.\n\nSome machine components can be crafted without an \u0026aAssembler\u0026r, but doing so consumes more resources.",
-    "translation": "\u0026d組裝機\u0026r具有 2x2 的合成欄位。\n\n只要有能量、輸入欄有物品，且輸出欄有足夠空間，它就會自動組裝物品。\n\n部分機器元件也可以在沒有\u0026a組裝機\u0026r的情況下製作，但這樣做通常會消耗更多資源。",
+    "original": "The &dAssembler&r features a 2x2 crafting grid and will automatically assemble items as long as it has energy, items in the input slots, and space for the finished product in the output slot.\n\nSome machine components can be crafted without an &aAssembler&r, but doing so consumes more resources.",
+    "translation": "&d組裝機&r具有 2x2 的合成欄位。\n\n只要有能量、輸入欄有物品，且輸出欄有足夠空間，它就會自動組裝物品。\n\n部分機器元件也可以在沒有&a組裝機&r的情況下製作，但這樣做通常會消耗更多資源。",
     "context": "chapters/oritech.snbt / quest 3AC24F0B92156F55",
     "meta": {
       "line_split_policy": "lf",
@@ -252,8 +252,8 @@
     }
   },
   "quest.3AC24F0B92156F55.title": {
-    "original": "\u0026fThe \u0026dAssembler",
-    "translation": "\u0026f\u0026d組裝機",
+    "original": "&fThe &dAssembler",
+    "translation": "&f&d組裝機",
     "context": "chapters/oritech.snbt / quest 3AC24F0B92156F55",
     "meta": {
       "line_split_policy": "none",
@@ -261,8 +261,8 @@
     }
   },
   "quest.50B7CA94F8BB6F58.quest_desc": {
-    "original": "The \u0026aCentrifuge\u0026r is a simple machine that separates and transforms specific items, most notably \u00263Carbon Fibre Strands\u0026r.\n\nThis machine can be upgraded to separate fluids with the \u0026bMachine Fluid Addon\u0026r to make items like \u0026bPlastic\u0026r, or can be used to automate ore processing when using a \u00266Fragment Forge\u0026r later down the road.",
-    "translation": "\u0026a離心機\u0026r是一台簡單的機器，用於分離與轉化特定物品，尤其是\u00263碳纖維束\u0026r。\n\n這台機器可以使用\u0026b流體處理升級\u0026r強化，以處理流體並製作像\u0026b塑膠\u0026r之類的物品，或者稍後用於搭配\u00266粉碎工廠\u0026r自動化處理礦物。",
+    "original": "The &aCentrifuge&r is a simple machine that separates and transforms specific items, most notably &3Carbon Fibre Strands&r.\n\nThis machine can be upgraded to separate fluids with the &bMachine Fluid Addon&r to make items like &bPlastic&r, or can be used to automate ore processing when using a &6Fragment Forge&r later down the road.",
+    "translation": "&a離心機&r是一台簡單的機器，用於分離與轉化特定物品，尤其是&3碳纖維束&r。\n\n這台機器可以使用&b流體處理升級&r強化，以處理流體並製作像&b塑膠&r之類的物品，或者稍後用於搭配&6粉碎工廠&r自動化處理礦物。",
     "context": "chapters/oritech.snbt / quest 50B7CA94F8BB6F58",
     "meta": {
       "line_split_policy": "lf",
@@ -270,8 +270,8 @@
     }
   },
   "quest.50B7CA94F8BB6F58.title": {
-    "original": "\u0026fSpin To Win",
-    "translation": "\u0026f旋轉致勝",
+    "original": "&fSpin To Win",
+    "translation": "&f旋轉致勝",
     "context": "chapters/oritech.snbt / quest 50B7CA94F8BB6F58",
     "meta": {
       "line_split_policy": "none",
@@ -296,8 +296,8 @@
     }
   },
   "quest.5D9EAE2A6D2B6646.quest_desc": {
-    "original": "The \u00266Fragment Forge\u0026r is an advanced multiblock machine that is mostly used to \u0026bFragment\u0026r and process ores, increasing the overall yield of ingot production.\n\nMost \u0026bAddons\u0026r affect the operation of the \u00266Fragment Forge\u0026r. The \u0026bMachine Yield Addon\u0026r will produce additional byproducts when installed in the \u00266Fragment Forge\u0026r.",
-    "translation": "\u00266粉碎工廠\u0026r是進階的多方塊機器，主要用於\u0026b粉碎\u0026r與處理礦物，藉此增加金屬錠的產量。\n\n大多數\u0026b升級插件\u0026r都會影響\u00266粉碎工廠\u0026r的運作。安裝\u0026b產量升級\u0026r時，粉碎工廠會產生更多的副產物。",
+    "original": "The &6Fragment Forge&r is an advanced multiblock machine that is mostly used to &bFragment&r and process ores, increasing the overall yield of ingot production.\n\nMost &bAddons&r affect the operation of the &6Fragment Forge&r. The &bMachine Yield Addon&r will produce additional byproducts when installed in the &6Fragment Forge&r.",
+    "translation": "&6粉碎工廠&r是進階的多方塊機器，主要用於&b粉碎&r與處理礦物，藉此增加金屬錠的產量。\n\n大多數&b升級插件&r都會影響&6粉碎工廠&r的運作。安裝&b產量升級&r時，粉碎工廠會產生更多的副產物。",
     "context": "chapters/oritech.snbt / quest 5D9EAE2A6D2B6646",
     "meta": {
       "line_split_policy": "lf",
@@ -305,8 +305,8 @@
     }
   },
   "quest.5FD42392FCECCB47.quest_desc": {
-    "original": "With the power of \u0026dEnderic Lasers\u0026r, you can focus the laser to mine Amethyst Clusters to get \u0026dFluxite\u0026r.\n\nUsing the laser on a Budding Amethyst will energize it and increase its growth rate.\n\n\u0026dFluxite\u0026r is used to make \u0026dFlux Gates\u0026r.",
-    "translation": "利用\u0026d終界雷射\u0026r的力量，你可以將雷射聚焦在紫水晶晶簇上來進行挖掘，以獲得\u0026d通量水晶\u0026r。\n\n對著紫水晶芽床發射雷射，可以為其充能並加快其生長速度。\n\n\u0026d通量水晶\u0026r可用於製作\u0026d通量閘\u0026r。",
+    "original": "With the power of &dEnderic Lasers&r, you can focus the laser to mine Amethyst Clusters to get &dFluxite&r.\n\nUsing the laser on a Budding Amethyst will energize it and increase its growth rate.\n\n&dFluxite&r is used to make &dFlux Gates&r.",
+    "translation": "利用&d終界雷射&r的力量，你可以將雷射聚焦在紫水晶晶簇上來進行挖掘，以獲得&d通量水晶&r。\n\n對著紫水晶芽床發射雷射，可以為其充能並加快其生長速度。\n\n&d通量水晶&r可用於製作&d通量閘&r。",
     "context": "chapters/oritech.snbt / quest 5FD42392FCECCB47",
     "meta": {
       "line_split_policy": "lf",
@@ -314,8 +314,8 @@
     }
   },
   "quest.5FD42392FCECCB47.title": {
-    "original": "\u0026dFluxite",
-    "translation": "\u0026d通量水晶",
+    "original": "&dFluxite",
+    "translation": "&d通量水晶",
     "context": "chapters/oritech.snbt / quest 5FD42392FCECCB47",
     "meta": {
       "line_split_policy": "none",
@@ -323,8 +323,8 @@
     }
   },
   "quest.778A876616D4638E.quest_desc": {
-    "original": "When a redstone signal is applied to a non-straight \u0026aGuide Ring\u0026r, it becomes a switch block. When powered on, it leads particles straight; when powered off, it guides them into the original curved direction. A particle can also enter from the 'other' direction, visualized by the smaller red glass tube, following the path of the white tube, and entering from both the red and white tubes.\n\nAt higher speeds, the particle can't take tight turns. If the last full 90-degree turn is too close, it exits the guided path and shoots out into the world. If the distance between \u0026aGuide Rings\u0026r is too big, or no next \u0026aGuide Ring\u0026r is found, it will also shoot out.\n\n{@pagebreak}\nA particle's speed can be measured with a \u0026aParticle Accelerator Sensor\u0026r. A comparator can then provide a redstone signal based on the particle's speed.\n\nThe following shows the required speed for each redstone level:\n\n\u002671.\u0026r  0\n\u002672.\u0026r  10\n\u002673.\u0026r  50\n\u002674.\u0026r  75\n\u002675.\u0026r  100\n\u002676.\u0026r  150\n\u002677.\u0026r  250\n\u002678.\u0026r  500\n\u002679.\u0026r  750\n\u0026710.\u0026r 1000\n\u0026711.\u0026r 2500\n\u0026712.\u0026r 5000\n\u0026713.\u0026r 7500\n\u0026714.\u0026r 10000\n\u0026715.\u0026r 15000",
-    "translation": "當對非直線的\u0026a導引環\u0026r輸入紅石訊號時，它會變成一個可切換模式的方塊。\n\n被紅石充能時，它會引導粒子直線前進；未被紅石充能時，它會將其導向原本的彎曲方向。\n\n粒子也可以從「另一個」方向進入（由較小的紅色玻璃管標示），沿著白色導管的路徑前進，且能同時從紅色與白色導管進入。\n\n在較高速度下，粒子無法進行急轉彎。\n若最後一個完整的 90 度轉角太近，它會脫離導引路徑並發射到世界中。\n\n若\u0026a導引環\u0026r之間的距離太遠，或者找不到下一個\u0026a導引環\u0026r，它也會脫離路徑。\n{@pagebreak}\n粒子的速度可以使用\u0026a粒子加速器感測器\u0026r來測量。\n\n比較器可以根據粒子的速度，輸出對應強度的紅石訊號。\n\n下列顯示了每個紅石強度所需的對應速度：\n\n\u002671.\u0026r  0\n\u002672.\u0026r  10\n\u002673.\u0026r  50\n\u002674.\u0026r  75\n\u002675.\u0026r  100\n\u002676.\u0026r  150\n\u002677.\u0026r  250\n\u002678.\u0026r  500\n\u002679.\u0026r  750\n\u0026710.\u0026r 1000\n\u0026711.\u0026r 2500\n\u0026712.\u0026r 5000\n\u0026713.\u0026r 7500\n\u0026714.\u0026r 10000\n\u0026715.\u0026r 15000",
+    "original": "When a redstone signal is applied to a non-straight &aGuide Ring&r, it becomes a switch block. When powered on, it leads particles straight; when powered off, it guides them into the original curved direction. A particle can also enter from the 'other' direction, visualized by the smaller red glass tube, following the path of the white tube, and entering from both the red and white tubes.\n\nAt higher speeds, the particle can't take tight turns. If the last full 90-degree turn is too close, it exits the guided path and shoots out into the world. If the distance between &aGuide Rings&r is too big, or no next &aGuide Ring&r is found, it will also shoot out.\n\n{@pagebreak}\nA particle's speed can be measured with a &aParticle Accelerator Sensor&r. A comparator can then provide a redstone signal based on the particle's speed.\n\nThe following shows the required speed for each redstone level:\n\n&71.&r  0\n&72.&r  10\n&73.&r  50\n&74.&r  75\n&75.&r  100\n&76.&r  150\n&77.&r  250\n&78.&r  500\n&79.&r  750\n&710.&r 1000\n&711.&r 2500\n&712.&r 5000\n&713.&r 7500\n&714.&r 10000\n&715.&r 15000",
+    "translation": "當對非直線的&a導引環&r輸入紅石訊號時，它會變成一個可切換模式的方塊。\n\n被紅石充能時，它會引導粒子直線前進；未被紅石充能時，它會將其導向原本的彎曲方向。\n\n粒子也可以從「另一個」方向進入（由較小的紅色玻璃管標示），沿著白色導管的路徑前進，且能同時從紅色與白色導管進入。\n\n在較高速度下，粒子無法進行急轉彎。\n若最後一個完整的 90 度轉角太近，它會脫離導引路徑並發射到世界中。\n\n若&a導引環&r之間的距離太遠，或者找不到下一個&a導引環&r，它也會脫離路徑。\n{@pagebreak}\n粒子的速度可以使用&a粒子加速器感測器&r來測量。\n\n比較器可以根據粒子的速度，輸出對應強度的紅石訊號。\n\n下列顯示了每個紅石強度所需的對應速度：\n\n&71.&r  0\n&72.&r  10\n&73.&r  50\n&74.&r  75\n&75.&r  100\n&76.&r  150\n&77.&r  250\n&78.&r  500\n&79.&r  750\n&710.&r 1000\n&711.&r 2500\n&712.&r 5000\n&713.&r 7500\n&714.&r 10000\n&715.&r 15000",
     "context": "chapters/oritech.snbt / quest 778A876616D4638E",
     "meta": {
       "line_split_policy": "lf",
@@ -332,8 +332,8 @@
     }
   },
   "quest.7791DA964DA2A80D.quest_desc": {
-    "original": "When particles of different items collide, they can create new items. The particle starts from the \u0026aParticle Accelerator Block\u0026r, where you can insert any item to be used as a particle. A straight \u0026aGuide Ring\u0026r needs to be placed right behind the \u0026aController\u0026r, facing to the side, with visuals aligning correctly.\n{@pagebreak}\nOnce inserted, the particle travels along a route defined by the \u0026aGuide Rings\u0026r. They can be right-clicked to add a 45-degree turn on one side. Another \u0026aGuide Ring\u0026r needs to be in the particle's path as defined by the \u0026aGuide Rings\u0026r. Depending on the speed, the allowed distance between \u0026aGuide Rings\u0026r increases\n\nThis means that, at higher speeds, the distance between \u0026aGuide Rings\u0026r can be larger.",
-    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從\u0026a粒子加速器\u0026r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線\u0026a導引環\u0026r必須放置在\u0026a加速器控制部件\u0026r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由\u0026a導引環\u0026r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n粒子路徑上必須有另一個導引環。隨著速度增加，導引環之間允許的最大距離也會增加。\n\n這表示在較高速度下，\u0026a導引環\u0026r之間的間距可以拉得更遠。",
+    "original": "When particles of different items collide, they can create new items. The particle starts from the &aParticle Accelerator Block&r, where you can insert any item to be used as a particle. A straight &aGuide Ring&r needs to be placed right behind the &aController&r, facing to the side, with visuals aligning correctly.\n{@pagebreak}\nOnce inserted, the particle travels along a route defined by the &aGuide Rings&r. They can be right-clicked to add a 45-degree turn on one side. Another &aGuide Ring&r needs to be in the particle's path as defined by the &aGuide Rings&r. Depending on the speed, the allowed distance between &aGuide Rings&r increases\n\nThis means that, at higher speeds, the distance between &aGuide Rings&r can be larger.",
+    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從&a粒子加速器&r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線&a導引環&r必須放置在&a加速器控制部件&r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由&a導引環&r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n粒子路徑上必須有另一個導引環。隨著速度增加，導引環之間允許的最大距離也會增加。\n\n這表示在較高速度下，&a導引環&r之間的間距可以拉得更遠。",
     "context": "chapters/oritech.snbt / quest 7791DA964DA2A80D",
     "meta": {
       "line_split_policy": "lf",
@@ -341,8 +341,8 @@
     }
   },
   "quest.7791DA964DA2A80D.title": {
-    "original": "\u0026fAccelerator Setup",
-    "translation": "\u0026f加速器設置",
+    "original": "&fAccelerator Setup",
+    "translation": "&f加速器設置",
     "context": "chapters/oritech.snbt / quest 7791DA964DA2A80D",
     "meta": {
       "line_split_policy": "none",
@@ -359,8 +359,8 @@
     }
   },
   "quest.7A26B0FFC0BCA275.title": {
-    "original": "\u0026fMachine Hunter Addon",
-    "translation": "\u0026f狩獵升級插件",
+    "original": "&fMachine Hunter Addon",
+    "translation": "&f狩獵升級插件",
     "context": "chapters/oritech.snbt / quest 7A26B0FFC0BCA275",
     "meta": {
       "line_split_policy": "none",
@@ -368,8 +368,8 @@
     }
   },
   "task.1C350F6D6B6C0656.title": {
-    "original": "\u0026bUpgraded Addons",
-    "translation": "\u0026b升級版的插件",
+    "original": "&bUpgraded Addons",
+    "translation": "&b升級版的插件",
     "context": "chapters/oritech.snbt / task 1C350F6D6B6C0656",
     "meta": {
       "line_split_policy": "none",
@@ -377,8 +377,8 @@
     }
   },
   "task.2CD07B6CF24F7460.title": {
-    "original": "\u0026bUpgraded Addons",
-    "translation": "\u0026b升級版的插件",
+    "original": "&bUpgraded Addons",
+    "translation": "&b升級版的插件",
     "context": "chapters/oritech.snbt / task 2CD07B6CF24F7460",
     "meta": {
       "line_split_policy": "none",
@@ -386,8 +386,8 @@
     }
   },
   "task.2D717F3B3573B504.title": {
-    "original": "\u0026bUpgraded Addons",
-    "translation": "\u0026b升級版的插件",
+    "original": "&bUpgraded Addons",
+    "translation": "&b升級版的插件",
     "context": "chapters/oritech.snbt / task 2D717F3B3573B504",
     "meta": {
       "line_split_policy": "none",
@@ -404,8 +404,8 @@
     }
   },
   "task.6BF1B3F7E85C5E17.title": {
-    "original": "\u0026bUpgraded Addons",
-    "translation": "\u0026b升級版的插件",
+    "original": "&bUpgraded Addons",
+    "translation": "&b升級版的插件",
     "context": "chapters/oritech.snbt / task 6BF1B3F7E85C5E17",
     "meta": {
       "line_split_policy": "none",

@@ -9,8 +9,8 @@
     }
   },
   "quest.03AC1C56F20BB662.quest_desc": {
-    "original": "Once you have some \u0026dArcane Essence\u0026r, there are a few spellbooks that you can craft for an upgrade!",
-    "translation": "一旦你擁有了一些\u0026d奧術源質\u0026r，\n\n你就可以製作幾本法術書來進行升級！",
+    "original": "Once you have some &dArcane Essence&r, there are a few spellbooks that you can craft for an upgrade!",
+    "translation": "一旦你擁有了一些&d奧術源質&r，\n\n你就可以製作幾本法術書來進行升級！",
     "context": "chapters/general_magic.snbt / quest 03AC1C56F20BB662",
     "meta": {
       "line_split_policy": "lf",
@@ -18,8 +18,8 @@
     }
   },
   "quest.08766B8721B4E541.quest_desc": {
-    "original": "Within the Nether ring, you might run into an \u0026cAncient Battleground\u0026r.\n\nAcross the battlefield, you might see \u0026cPiles of Armor Scraps\u0026r. Mining these piles might seem tempting, but might disturb the \u0026dAncient Knights\u0026r that wore this armor.\n\nDefeating one is necessary for progression, as these drop \u0026cCinder Essence\u0026r.\n\nAlso of note is \u0026eHoglins\u0026r of the crimson forests dropping the appropriately named \u0026cHogskin\u0026r, which is required for some improved spellbook crafts.",
-    "translation": "在地獄環帶中，你可能會遇到\u0026c軍團前哨\u0026r。\n\n在這遠古戰場中，你可能會在地面上看到\u0026c散落的盔甲\u0026r。\n\n挖掘這些盔甲看似很誘人，但可能也會驚動曾穿著這些盔甲的\u0026d遠古騎士\u0026r。\n\n擊敗一個遠古騎士對於進度來說是必要的，因為它們會掉落\u0026c灰燼源質\u0026r。\n\n同樣值得注意的是緋紅森林的\u0026e豬布獸\u0026r，殺死牠們會掉落名副其實的\u0026c豬布獸皮\u0026r，這是製作一些改良法術書所必需的。",
+    "original": "Within the Nether ring, you might run into an &cAncient Battleground&r.\n\nAcross the battlefield, you might see &cPiles of Armor Scraps&r. Mining these piles might seem tempting, but might disturb the &dAncient Knights&r that wore this armor.\n\nDefeating one is necessary for progression, as these drop &cCinder Essence&r.\n\nAlso of note is &eHoglins&r of the crimson forests dropping the appropriately named &cHogskin&r, which is required for some improved spellbook crafts.",
+    "translation": "在地獄環帶中，你可能會遇到&c軍團前哨&r。\n\n在這遠古戰場中，你可能會在地面上看到&c散落的盔甲&r。\n\n挖掘這些盔甲看似很誘人，但可能也會驚動曾穿著這些盔甲的&d遠古騎士&r。\n\n擊敗一個遠古騎士對於進度來說是必要的，因為它們會掉落&c灰燼源質&r。\n\n同樣值得注意的是緋紅森林的&e豬布獸&r，殺死牠們會掉落名副其實的&c豬布獸皮&r，這是製作一些改良法術書所必需的。",
     "context": "chapters/general_magic.snbt / quest 08766B8721B4E541",
     "meta": {
       "line_split_policy": "lf",
@@ -27,8 +27,8 @@
     }
   },
   "quest.08766B8721B4E541.title": {
-    "original": "\u0026fThe Magic of The \u0026cNether",
-    "translation": "\u0026f\u0026c地獄\u0026f魔法",
+    "original": "&fThe Magic of The &cNether",
+    "translation": "&f&c地獄&f魔法",
     "context": "chapters/general_magic.snbt / quest 08766B8721B4E541",
     "meta": {
       "line_split_policy": "none",
@@ -36,8 +36,8 @@
     }
   },
   "quest.0AA1977AC1B5E5A9.quest_desc": {
-    "original": "Anvils are all well and good for repairing mundane gear, but magical goods can be much more expensive or even impossible to repair in this manner. With a \u0026aRepair Pylon\u0026r, the \u0026eSpirit Crucible\u0026r is able to focus spirits and a repair material into a piece of gear, so long as it already has ties to \u0026bcertain magics\u0026r or is totally mundane.\n\nThis is also the only way to repair a \u0026eFractured Impetus\u0026r.",
-    "translation": "鐵砧對於修復普通裝備來說已經足夠好了，但是魔法物品的修復成本可能更高，甚至無法透過這種方式修復。\n\n有了\u0026a修復基柱\u0026r，\u0026e精魂坩堝\u0026r就能將精魂和修復材料聚焦到一件裝備中，只要它已經與\u0026b某些魔法\u0026r有聯繫，或者是完全平凡的物品。\n\n這也是修復\u0026e碎裂的促符\u0026r的唯一方法。",
+    "original": "Anvils are all well and good for repairing mundane gear, but magical goods can be much more expensive or even impossible to repair in this manner. With a &aRepair Pylon&r, the &eSpirit Crucible&r is able to focus spirits and a repair material into a piece of gear, so long as it already has ties to &bcertain magics&r or is totally mundane.\n\nThis is also the only way to repair a &eFractured Impetus&r.",
+    "translation": "鐵砧對於修復普通裝備來說已經足夠好了，但是魔法物品的修復成本可能更高，甚至無法透過這種方式修復。\n\n有了&a修復基柱&r，&e精魂坩堝&r就能將精魂和修復材料聚焦到一件裝備中，只要它已經與&b某些魔法&r有聯繫，或者是完全平凡的物品。\n\n這也是修復&e碎裂的促符&r的唯一方法。",
     "context": "chapters/general_magic.snbt / quest 0AA1977AC1B5E5A9",
     "meta": {
       "line_split_policy": "lf",
@@ -45,8 +45,8 @@
     }
   },
   "quest.0C5173F51D68317C.quest_desc": {
-    "original": "Using the \u00265Umbral Spirit\u0026r, you can craft a powerful weapon.\n\nThe \u00266Splintered World's\u0026r special ability summons flying swords that home in towards your enemies.",
-    "translation": "使用\u00265幽影精魂\u0026r，你可以製作一件強大的武器。\n\n\u00266裂世者\u0026r的特殊能力會召喚出飛劍，自動追蹤並攻擊你的敵人。",
+    "original": "Using the &5Umbral Spirit&r, you can craft a powerful weapon.\n\nThe &6Splintered World's&r special ability summons flying swords that home in towards your enemies.",
+    "translation": "使用&5幽影精魂&r，你可以製作一件強大的武器。\n\n&6裂世者&r的特殊能力會召喚出飛劍，自動追蹤並攻擊你的敵人。",
     "context": "chapters/general_magic.snbt / quest 0C5173F51D68317C",
     "meta": {
       "line_split_policy": "lf",
@@ -54,8 +54,8 @@
     }
   },
   "quest.0CA75E81F6824B22.quest_desc": {
-    "original": "If you're into magic AND exploration, try out \u0026eIron's Spells 'n Spellbooks\u0026r. This is an amazing magic mod that adds a ton of spells for you to play with.\n\nYou can find a \u0026aSpell Book\u0026r as exploration loot, or you can start by making a \u0026aFlimsy Journal\u0026r or \u0026aIronbound Tome\u0026r to hold a few spells. We'll even provide a few starter \u0026dSpell Scrolls\u0026r for you!\n\nThese can be cast as single-use items, or placed in your \u0026aSpell Book\u0026r to cast at-will with Mana.",
-    "translation": "若你喜歡魔法與探索，試試《\u0026e艾倫的法術與魔法書\u0026r》。這是一款很棒的魔法模組，新增了大量的法術供你遊玩。\n\n你可以在探索戰利品中，找到\u0026a法術書\u0026r，或者你可以從製作\u0026a初學者日記\u0026r或\u0026a鐵箍書卷\u0026r開始，來存放一些法術。\n\n我們甚至會為你提供一些初學者\u0026d法術卷軸\u0026r！\n\n這些可以作為一次性物品施放，或放入你的\u0026a法術書\u0026r中，隨意消耗法力值施放。",
+    "original": "If you're into magic AND exploration, try out &eIron's Spells 'n Spellbooks&r. This is an amazing magic mod that adds a ton of spells for you to play with.\n\nYou can find a &aSpell Book&r as exploration loot, or you can start by making a &aFlimsy Journal&r or &aIronbound Tome&r to hold a few spells. We'll even provide a few starter &dSpell Scrolls&r for you!\n\nThese can be cast as single-use items, or placed in your &aSpell Book&r to cast at-will with Mana.",
+    "translation": "若你喜歡魔法與探索，試試《&e艾倫的法術與魔法書&r》。這是一款很棒的魔法模組，新增了大量的法術供你遊玩。\n\n你可以在探索戰利品中，找到&a法術書&r，或者你可以從製作&a初學者日記&r或&a鐵箍書卷&r開始，來存放一些法術。\n\n我們甚至會為你提供一些初學者&d法術卷軸&r！\n\n這些可以作為一次性物品施放，或放入你的&a法術書&r中，隨意消耗法力值施放。",
     "context": "chapters/general_magic.snbt / quest 0CA75E81F6824B22",
     "meta": {
       "line_split_policy": "lf",
@@ -63,8 +63,8 @@
     }
   },
   "quest.0CA75E81F6824B22.title": {
-    "original": "\u0026eIron's Spells 'n Spellbooks",
-    "translation": "\u0026e艾倫的法術與魔法書",
+    "original": "&eIron's Spells 'n Spellbooks",
+    "translation": "&e艾倫的法術與魔法書",
     "context": "chapters/general_magic.snbt / quest 0CA75E81F6824B22",
     "meta": {
       "line_split_policy": "none",
@@ -72,8 +72,8 @@
     }
   },
   "quest.0EE0A8941A69703E.quest_desc": {
-    "original": "Once you've gathered a \u00262Spell Scroll\u0026r, we can inscribe it into our spell tome using the \u0026aInscription Table\u0026r.\n\nIn the interface of the table, you can insert the Spell Tome you wish to inscribe your spell scrolls into. You can then add a Spell Scroll to the empty slot on the left side underneath the tome, then click on the icon above it to inscribe the spell.\n\nEach spell tome can hold up to a different number of spells overall, with our starter spellbook only holding 5 or 6. It might be a good idea to upgrade that soon!\n{@pagebreak}\nYou can also remove spells inscribed in the tome by selecting the spell in the interface, then clicking on the Spell Scroll on the right side to take it out.\n\nSpells can be cast by equipping your \u0026aSpell Book\u0026r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the \u0026bR\u0026r keybind by default. Casting the selected spell can be done by pressing \u0026bV\u0026r.\n\nThese can all be changed in your keybinds. Try searching for \u0026acategory:\"Iron's Spells 'n Spellbooks - General\"\u0026r.\n\nThere are also quick cast options!",
-    "translation": "一旦你收集到\u00262法術卷軸\u0026r，我們就可以使用\u0026a法術抄寫台\u0026r，將其銘刻至我們的法術書中。\n\n在抄寫台介面中，你可以放入想要銘刻法術卷軸的法術書。\n\n接著，你可以將法術卷軸放入書本下方左側的空欄位中，然後點擊上方的圖示來銘刻法術。\n\n每本法術書總共能容納不同數量的法術，我們的初學者法術書只能容納 5 或 6 個。儘快升級它是個好主意！\n{@pagebreak}\n你也可以透過在介面中選擇法術，然後點擊右側的法術卷軸來移除已銘刻在書中的法術。\n\n將你的\u0026a法術書\u0026r裝備在飾品欄位後即可施放法術。\n\n裝備後，預設可以使用「\u0026bR\u0026r」鍵開啟法術輪盤。\n按下「\u0026bV\u0026r」鍵即可施放選定的法術。\n\n這些都可以在你的按鍵綁定中更改。\n\n嘗試搜尋：\u0026acategory:\"艾倫的法術與魔法書 - 常用\"\u0026r。\n\n還有快捷施法選項！",
+    "original": "Once you've gathered a &2Spell Scroll&r, we can inscribe it into our spell tome using the &aInscription Table&r.\n\nIn the interface of the table, you can insert the Spell Tome you wish to inscribe your spell scrolls into. You can then add a Spell Scroll to the empty slot on the left side underneath the tome, then click on the icon above it to inscribe the spell.\n\nEach spell tome can hold up to a different number of spells overall, with our starter spellbook only holding 5 or 6. It might be a good idea to upgrade that soon!\n{@pagebreak}\nYou can also remove spells inscribed in the tome by selecting the spell in the interface, then clicking on the Spell Scroll on the right side to take it out.\n\nSpells can be cast by equipping your &aSpell Book&r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the &bR&r keybind by default. Casting the selected spell can be done by pressing &bV&r.\n\nThese can all be changed in your keybinds. Try searching for &acategory:\"Iron's Spells 'n Spellbooks - General\"&r.\n\nThere are also quick cast options!",
+    "translation": "一旦你收集到&2法術卷軸&r，我們就可以使用&a法術抄寫台&r，將其銘刻至我們的法術書中。\n\n在抄寫台介面中，你可以放入想要銘刻法術卷軸的法術書。\n\n接著，你可以將法術卷軸放入書本下方左側的空欄位中，然後點擊上方的圖示來銘刻法術。\n\n每本法術書總共能容納不同數量的法術，我們的初學者法術書只能容納 5 或 6 個。儘快升級它是個好主意！\n{@pagebreak}\n你也可以透過在介面中選擇法術，然後點擊右側的法術卷軸來移除已銘刻在書中的法術。\n\n將你的&a法術書&r裝備在飾品欄位後即可施放法術。\n\n裝備後，預設可以使用「&bR&r」鍵開啟法術輪盤。\n按下「&bV&r」鍵即可施放選定的法術。\n\n這些都可以在你的按鍵綁定中更改。\n\n嘗試搜尋：&acategory:\"艾倫的法術與魔法書 - 常用\"&r。\n\n還有快捷施法選項！",
     "context": "chapters/general_magic.snbt / quest 0EE0A8941A69703E",
     "meta": {
       "line_split_policy": "lf",
@@ -81,8 +81,8 @@
     }
   },
   "quest.0EE0A8941A69703E.title": {
-    "original": "\u0026aInscribing Spells",
-    "translation": "\u0026a銘刻法術",
+    "original": "&aInscribing Spells",
+    "translation": "&a銘刻法術",
     "context": "chapters/general_magic.snbt / quest 0EE0A8941A69703E",
     "meta": {
       "line_split_policy": "none",
@@ -90,8 +90,8 @@
     }
   },
   "quest.107C26E8BF309BC1.quest_desc": {
-    "original": "Throughout your adventures, you'll run into plenty of \u0026dArcane\u0026r loot.\n\nThe most common item you'll find is \u0026dArcane Essence\u0026r. This can be used to create \u0026dArcane Cloth\u0026r, brew \u0026bMana Potions\u0026r, and more!\n{@pagebreak}\nYou'll also find \u0026aBlank Runestones\u0026r, which can be used to craft \u00262Runestones\u0026r that create some of the most powerful gear in the mod. \u0026aNon-blank Runestones\u0026r can also be found after killing wizards.\n\n\u0026bMithril\u0026r is a legendary metal not obtainable through usual methods in the void, or at least what passes for usual. Perhaps some magical source could provide it, some sort of gate...",
-    "translation": "在你的冒險過程中，你會遇到大量的\u0026d奧術\u0026r戰利品。\n\n你最常發現的物品是\u0026d奧術源質\u0026r。這可以用於製作\u0026d奧術布匹\u0026r、釀造\u0026b法力藥水\u0026r等等！\n{@pagebreak}\n你還會發現\u0026a空白符文\u0026r，它們可以用於製作\u00262符文\u0026r，進而打造模組中一些最強大的裝備。殺死巫師後也可以找到\u0026a非空白符文\u0026r。\n\n\u0026b秘銀\u0026r是一種傳說中的金屬，無法透過虛空中的通常方法獲得，或者至少是那些所謂的通常方法。\n\n也許某種魔法來源可以提供它，某種傳送門……",
+    "original": "Throughout your adventures, you'll run into plenty of &dArcane&r loot.\n\nThe most common item you'll find is &dArcane Essence&r. This can be used to create &dArcane Cloth&r, brew &bMana Potions&r, and more!\n{@pagebreak}\nYou'll also find &aBlank Runestones&r, which can be used to craft &2Runestones&r that create some of the most powerful gear in the mod. &aNon-blank Runestones&r can also be found after killing wizards.\n\n&bMithril&r is a legendary metal not obtainable through usual methods in the void, or at least what passes for usual. Perhaps some magical source could provide it, some sort of gate...",
+    "translation": "在你的冒險過程中，你會遇到大量的&d奧術&r戰利品。\n\n你最常發現的物品是&d奧術源質&r。這可以用於製作&d奧術布匹&r、釀造&b法力藥水&r等等！\n{@pagebreak}\n你還會發現&a空白符文&r，它們可以用於製作&2符文&r，進而打造模組中一些最強大的裝備。殺死巫師後也可以找到&a非空白符文&r。\n\n&b秘銀&r是一種傳說中的金屬，無法透過虛空中的通常方法獲得，或者至少是那些所謂的通常方法。\n\n也許某種魔法來源可以提供它，某種傳送門……",
     "context": "chapters/general_magic.snbt / quest 107C26E8BF309BC1",
     "meta": {
       "line_split_policy": "lf",
@@ -99,8 +99,8 @@
     }
   },
   "quest.107C26E8BF309BC1.title": {
-    "original": "\u0026fArcane Discoveries",
-    "translation": "\u0026f奧術探索",
+    "original": "&fArcane Discoveries",
+    "translation": "&f奧術探索",
     "context": "chapters/general_magic.snbt / quest 107C26E8BF309BC1",
     "meta": {
       "line_split_policy": "none",
@@ -108,8 +108,8 @@
     }
   },
   "quest.138CB008CE4C838B.quest_desc": {
-    "original": "\u00266Ars Nouveau\u0026r allows you to perform \u0026drituals\u0026r to summon mobs, build floating islands, and much more!\n\nTo make your first Ritual, you'll need to craft a \u00263Ritual Brazier\u0026r and one of the many different types of \u0026dRitual Tablets\u0026r that you'd like to perform. Place the Brazier down and then use the tablet for the ritual you'd like, then right click again with an empty hand to perform the ritual.\n\nMost rituals will need \u0026dSource\u0026r to activate, so make sure to have a jar nearby!\n{@pagebreak}\nRituals can also be \u0026aaugmented\u0026r using certain items to empower them. This is done by first using the \u00263Ritual Tablet\u0026r on it first, then by using the items on the Brazier one at a time to fulfill the augment needs. Once finished, you can right click with an empty hand to activate the ritual.",
-    "translation": "《\u00266新生魔藝\u0026r》能讓你執行\u0026d儀式\u0026r來召喚生物、建造浮空島嶼等等！\n\n要開始你的第一個儀式，你需要製作一個\u00263儀式火盆\u0026r，以及想要執行的\u0026d儀式木板\u0026r。\n\n放下火盆，對它使用儀式木板後，再次空手對火盆點擊右鍵來啟動儀式。\n\n大多數儀式需要\u0026d魔源\u0026r才能啟動，所以請確保附近有一個魔源罐！\n{@pagebreak}\n儀式也可以使用某些物品進行\u0026a增強\u0026r，藉此賦予更多能量。\n\n這需要先在火盆上使用\u0026d儀式木板\u0026r，然後對火盆逐個使用物品來滿足增強需求。\n\n完成後，你可以空手對火盆點擊右鍵來啟動儀式。",
+    "original": "&6Ars Nouveau&r allows you to perform &drituals&r to summon mobs, build floating islands, and much more!\n\nTo make your first Ritual, you'll need to craft a &3Ritual Brazier&r and one of the many different types of &dRitual Tablets&r that you'd like to perform. Place the Brazier down and then use the tablet for the ritual you'd like, then right click again with an empty hand to perform the ritual.\n\nMost rituals will need &dSource&r to activate, so make sure to have a jar nearby!\n{@pagebreak}\nRituals can also be &aaugmented&r using certain items to empower them. This is done by first using the &3Ritual Tablet&r on it first, then by using the items on the Brazier one at a time to fulfill the augment needs. Once finished, you can right click with an empty hand to activate the ritual.",
+    "translation": "《&6新生魔藝&r》能讓你執行&d儀式&r來召喚生物、建造浮空島嶼等等！\n\n要開始你的第一個儀式，你需要製作一個&3儀式火盆&r，以及想要執行的&d儀式木板&r。\n\n放下火盆，對它使用儀式木板後，再次空手對火盆點擊右鍵來啟動儀式。\n\n大多數儀式需要&d魔源&r才能啟動，所以請確保附近有一個魔源罐！\n{@pagebreak}\n儀式也可以使用某些物品進行&a增強&r，藉此賦予更多能量。\n\n這需要先在火盆上使用&d儀式木板&r，然後對火盆逐個使用物品來滿足增強需求。\n\n完成後，你可以空手對火盆點擊右鍵來啟動儀式。",
     "context": "chapters/general_magic.snbt / quest 138CB008CE4C838B",
     "meta": {
       "line_split_policy": "lf",
@@ -117,8 +117,8 @@
     }
   },
   "quest.1A2D8034C07D988B.quest_desc": {
-    "original": "\u00266Psi\u0026f is a Mod that brings an interesting concept to \u00262Minecraft\u0026r, What if it was possible to \u0026dProgram Magical Spells\u0026r and imbue them into \u0026cBullets\u0026r?\n\n- To start your Technomagic Journey, simply make a \u00266CAD Assembler\u0026r and a \u00266Basic CAD Device\u0026r of any kind, \u0026bCAD\u0026r stands for \u0026b\"\u0026oCasting Assistant Device\u0026r\"\u0026r.\n\n{@pagebreak}\n\u00268\u0026oAnd this Mod is made by Vazkii, which means.... It's \u0026lNEAT\u0026r!\u0026r\u0026r",
-    "translation": "\u00266Psi\u0026f 是一款為《\u00262Minecraft\u0026r》引入有趣概念的模組。\n\n若可以\u0026d編寫魔法式\u0026r，並將其注入\u0026c子彈\u0026r中會怎樣？\n\n- 要開始你的技術魔法之旅，只需製作一個 \u00266CAD 配裝台\u0026r，\n\n和任何類型的\u00266基礎 CAD 機體\u0026r即可。\n\n\u0026bCAD\u0026r 代表 \u0026b「\u0026o施法輔助裝置（Casting Assistant Device）\u0026r」\u0026r。\n\n{@pagebreak}\n\u00268\u0026o而且這個模組是由 Vazkii 製作的，這意味著.... 它很 \u0026lNEAT\u0026r！\u0026r\u0026r",
+    "original": "&6Psi&f is a Mod that brings an interesting concept to &2Minecraft&r, What if it was possible to &dProgram Magical Spells&r and imbue them into &cBullets&r?\n\n- To start your Technomagic Journey, simply make a &6CAD Assembler&r and a &6Basic CAD Device&r of any kind, &bCAD&r stands for &b\"&oCasting Assistant Device&r\"&r.\n\n{@pagebreak}\n&8&oAnd this Mod is made by Vazkii, which means.... It's &lNEAT&r!&r&r",
+    "translation": "&6Psi&f 是一款為《&2Minecraft&r》引入有趣概念的模組。\n\n若可以&d編寫魔法式&r，並將其注入&c子彈&r中會怎樣？\n\n- 要開始你的技術魔法之旅，只需製作一個 &6CAD 配裝台&r，\n\n和任何類型的&6基礎 CAD 機體&r即可。\n\n&bCAD&r 代表 &b「&o施法輔助裝置（Casting Assistant Device）&r」&r。\n\n{@pagebreak}\n&8&o而且這個模組是由 Vazkii 製作的，這意味著.... 它很 &lNEAT&r！&r&r",
     "context": "chapters/general_magic.snbt / quest 1A2D8034C07D988B",
     "meta": {
       "line_split_policy": "lf",
@@ -144,8 +144,8 @@
     }
   },
   "quest.1BC994881BC225ED.quest_desc": {
-    "original": "By combining magical spools with different materials and applying them to arcane armor in the \u0026aWeaver's Workbench\u0026r, the armor changes in appearance while keeping all of its defense and other benefits.\n\nThe \u0026eAncient Weave\u0026r converts the armor to an alternate version of itself, but all other weaves change the armor to one set look.\n\n\u0026o\u00267Ex. a Soulhunter Robe and a Soulstained Chestplate will seem identical after a Cornered Weave is applied.\u0026r",
-    "translation": "通過將魔法線軸與不同材料結合，並在\u0026a織物工作檯\u0026r中將其應用於奧術盔甲，盔甲的外觀會發生變化，同時保留其所有的防禦和其他益處。\n\n\u0026e古代織物\u0026r會將盔甲轉換為其自身的替換版本，但所有其他織物都會將盔甲更改為一種固定的外觀。\n\n\u0026o\u00267例如：在套用指揮官織物後，靈魂獵手長袍和魂染胸甲看起來將完全相同。\u0026r",
+    "original": "By combining magical spools with different materials and applying them to arcane armor in the &aWeaver's Workbench&r, the armor changes in appearance while keeping all of its defense and other benefits.\n\nThe &eAncient Weave&r converts the armor to an alternate version of itself, but all other weaves change the armor to one set look.\n\n&o&7Ex. a Soulhunter Robe and a Soulstained Chestplate will seem identical after a Cornered Weave is applied.&r",
+    "translation": "通過將魔法線軸與不同材料結合，並在&a織物工作檯&r中將其應用於奧術盔甲，盔甲的外觀會發生變化，同時保留其所有的防禦和其他益處。\n\n&e古代織物&r會將盔甲轉換為其自身的替換版本，但所有其他織物都會將盔甲更改為一種固定的外觀。\n\n&o&7例如：在套用指揮官織物後，靈魂獵手長袍和魂染胸甲看起來將完全相同。&r",
     "context": "chapters/general_magic.snbt / quest 1BC994881BC225ED",
     "meta": {
       "line_split_policy": "lf",
@@ -153,8 +153,8 @@
     }
   },
   "quest.1C0024A48898FB90.quest_desc": {
-    "original": "With an \u0026aAlchemical Impetus\u0026r as a focus, \u0026aSpirit Crucibles\u0026r are able to channel spirits into a physical form such as dusts or gems that align with their aspects. This slowly uses up the Impetus's material, but it can be repaired or made anew.\n\nOf note is \u0026e'blazing quartz'\u0026r which cannot otherwise be found in the void.\n\nOther types of Impetus also can be crafted, allowing the conversion of spirits into a wider variety of resources.",
-    "translation": "以\u0026a煉金促符\u0026r作為焦點，\u0026a精魂坩堝\u0026r能夠將精魂引導成與其屬性一致的物理形式，如粉塵或寶石。這會緩慢消耗促符的材料，但它可以被修復或重新製作。\n\n值得注意的是\u0026e「烈焰石英」\u0026r，它在虛空中無法透過其他方式找到。\n\n其他類型的促符也可以被製作，允許將精魂轉換為更廣泛的資源。",
+    "original": "With an &aAlchemical Impetus&r as a focus, &aSpirit Crucibles&r are able to channel spirits into a physical form such as dusts or gems that align with their aspects. This slowly uses up the Impetus's material, but it can be repaired or made anew.\n\nOf note is &e'blazing quartz'&r which cannot otherwise be found in the void.\n\nOther types of Impetus also can be crafted, allowing the conversion of spirits into a wider variety of resources.",
+    "translation": "以&a煉金促符&r作為焦點，&a精魂坩堝&r能夠將精魂引導成與其屬性一致的物理形式，如粉塵或寶石。這會緩慢消耗促符的材料，但它可以被修復或重新製作。\n\n值得注意的是&e「烈焰石英」&r，它在虛空中無法透過其他方式找到。\n\n其他類型的促符也可以被製作，允許將精魂轉換為更廣泛的資源。",
     "context": "chapters/general_magic.snbt / quest 1C0024A48898FB90",
     "meta": {
       "line_split_policy": "lf",
@@ -162,8 +162,8 @@
     }
   },
   "quest.1CFD4CE2704F2ADE.quest_desc": {
-    "original": "Once you get your hands on some \u0026bInk\u0026r, you can use this to craft new spell scrolls using the \u0026aSpell Forge\u0026r.\n\nFor each scroll, you'll need some \u0026bInk\u0026r, paper, and a specific item that determines the \u0026bSpell school\u0026r you wish to craft. You can use \u0026eJEI\u0026r to see all of the items for each school!\n{@pagebreak}\nThe tier of \u0026bInk\u0026r used determines the level of the spell you can craft. Certain spells can only be crafted with higher inks.\n\nPro Tip: Trading with Piglins is an easy way to get \u0026dCrying Obsidian\u0026r, but there are other methods too!",
-    "translation": "一旦你獲得了一些\u0026b墨水\u0026r，你就可以使用\u0026a卷軸撰寫台\u0026r來製作新的法術卷軸。\n\n對於每個卷軸，你需要一些\u0026b墨水\u0026r、紙，和一個決定你想要製作的\u0026b法術學派\u0026r的特定物品\n\n你可以使用 \u0026eJEI\u0026r 查看每個學派所需的所有物品！\n{@pagebreak}\n使用的\u0026b墨水\u0026r等級，決定了你可以製作的法術等級。\n\n某些法術只能使用更高級別的墨水製作。\n\n專業提示：與豬布林以物易物，是獲取\u0026d哭泣的黑曜石\u0026r的簡單方式，但也有其他方法！",
+    "original": "Once you get your hands on some &bInk&r, you can use this to craft new spell scrolls using the &aSpell Forge&r.\n\nFor each scroll, you'll need some &bInk&r, paper, and a specific item that determines the &bSpell school&r you wish to craft. You can use &eJEI&r to see all of the items for each school!\n{@pagebreak}\nThe tier of &bInk&r used determines the level of the spell you can craft. Certain spells can only be crafted with higher inks.\n\nPro Tip: Trading with Piglins is an easy way to get &dCrying Obsidian&r, but there are other methods too!",
+    "translation": "一旦你獲得了一些&b墨水&r，你就可以使用&a卷軸撰寫台&r來製作新的法術卷軸。\n\n對於每個卷軸，你需要一些&b墨水&r、紙，和一個決定你想要製作的&b法術學派&r的特定物品\n\n你可以使用 &eJEI&r 查看每個學派所需的所有物品！\n{@pagebreak}\n使用的&b墨水&r等級，決定了你可以製作的法術等級。\n\n某些法術只能使用更高級別的墨水製作。\n\n專業提示：與豬布林以物易物，是獲取&d哭泣的黑曜石&r的簡單方式，但也有其他方法！",
     "context": "chapters/general_magic.snbt / quest 1CFD4CE2704F2ADE",
     "meta": {
       "line_split_policy": "lf",
@@ -171,8 +171,8 @@
     }
   },
   "quest.1CFD4CE2704F2ADE.title": {
-    "original": "\u0026aCrafting \u0026dSpells",
-    "translation": "\u0026a製作\u0026d法術",
+    "original": "&aCrafting &dSpells",
+    "translation": "&a製作&d法術",
     "context": "chapters/general_magic.snbt / quest 1CFD4CE2704F2ADE",
     "meta": {
       "line_split_policy": "none",
@@ -180,8 +180,8 @@
     }
   },
   "quest.1E6014F4B7CBE373.quest_desc": {
-    "original": "\u00266Batteries\u0026r are an \u0026dOptional Attachment\u0026r to have in a \u0026bCAD\u0026r; they allow you to have a \u0026bspare amount of Psi Energy ready\u0026r to be discharged when your basic Psi Energy runs dry. \n\n\u0026e\u0026nJust Like Power Banks!\u0026r\n\nThis one in particular provides:\n\n► \u0026aOverflow\u0026r: 400",
-    "translation": "\u00266電池\u0026r是 \u0026bCAD\u0026r 的\u0026d可選插件\u0026r；當你的基礎想子（Psi Energy）\n耗盡時，\n\n它們允許你擁有\u0026b預備好的想子緩衝區\u0026r以供釋放。\n\n\u0026e\u0026n就像行動電源一樣！\u0026r\n\n這個電池特別提供：\n\n► \u0026a溢出量\u0026r：400",
+    "original": "&6Batteries&r are an &dOptional Attachment&r to have in a &bCAD&r; they allow you to have a &bspare amount of Psi Energy ready&r to be discharged when your basic Psi Energy runs dry. \n\n&e&nJust Like Power Banks!&r\n\nThis one in particular provides:\n\n► &aOverflow&r: 400",
+    "translation": "&6電池&r是 &bCAD&r 的&d可選插件&r；當你的基礎想子（Psi Energy）\n耗盡時，\n\n它們允許你擁有&b預備好的想子緩衝區&r以供釋放。\n\n&e&n就像行動電源一樣！&r\n\n這個電池特別提供：\n\n► &a溢出量&r：400",
     "context": "chapters/general_magic.snbt / quest 1E6014F4B7CBE373",
     "meta": {
       "line_split_policy": "lf",
@@ -189,8 +189,8 @@
     }
   },
   "quest.1E6014F4B7CBE373.title": {
-    "original": "\u0026dTier 3\u0026f CAD Battery",
-    "translation": "\u0026d三階\u0026f CAD 電池",
+    "original": "&dTier 3&f CAD Battery",
+    "translation": "&d三階&f CAD 電池",
     "context": "chapters/general_magic.snbt / quest 1E6014F4B7CBE373",
     "meta": {
       "line_split_policy": "none",
@@ -198,8 +198,8 @@
     }
   },
   "quest.1F1C11D77667DEB4.quest_desc": {
-    "original": "\u00266Cores\u0026r are an \u0026aessential part of your CAD\u0026r, always try to make the best one you can, \u0026athey're basically the CPU of your CAD\u0026r.\n\nEvery \u00266CAD Core\u0026r has a \u0026d\u0026lComplexity Value\u0026r\u0026r, which means \u0026dhow many computations it is able to do\u0026r.\n\u00268\u0026o(Selectors, Operators e etc can increase the Complexity of a Spell)\u0026r\u0026r\n\nAlso, Every \u00266CAD Core\u0026r has a \u00263\u0026lProjection Value\u0026r\u0026r, which is simply the \u00263total number of non-debug tricks it can perform at once\u0026r.\n\nThese \u00266Cores\u0026r in particular can provide you with either:\n\n► \u0026dComplexity\u0026r: 30 or 36\n\n► \u00263Projection\u0026r: 6 or 7",
-    "translation": "\u00266核心\u0026r是 \u0026aCAD 中不可或缺的一部分\u0026r，\n請務必嘗試製作你能做出的最好核心，\u0026a它們基本上就是你 CAD 的 CPU\u0026r。\n\n每個 \u00266CAD 核心\u0026r都有一個\u0026d\u0026l工序\u0026r\u0026r值，這代表了\u0026d它能進行多少計算\u0026r。\n\u00268\u0026o（選擇符、行為符等會增加魔法式的工序）\u0026r\u0026r\n\n此外，每個 \u00266CAD 核心\u0026r都有一個\u00263\u0026l映射\u0026r\u0026r值，\n這僅僅是它一次可以執行的\u00263非除錯行為符總數\u0026r。\n\n這些\u00266核心\u0026r特別提供：\n\n► \u0026d工序\u0026r：30 或 36\n\n► \u00263映射\u0026r：6 或 7",
+    "original": "&6Cores&r are an &aessential part of your CAD&r, always try to make the best one you can, &athey're basically the CPU of your CAD&r.\n\nEvery &6CAD Core&r has a &d&lComplexity Value&r&r, which means &dhow many computations it is able to do&r.\n&8&o(Selectors, Operators e etc can increase the Complexity of a Spell)&r&r\n\nAlso, Every &6CAD Core&r has a &3&lProjection Value&r&r, which is simply the &3total number of non-debug tricks it can perform at once&r.\n\nThese &6Cores&r in particular can provide you with either:\n\n► &dComplexity&r: 30 or 36\n\n► &3Projection&r: 6 or 7",
+    "translation": "&6核心&r是 &aCAD 中不可或缺的一部分&r，\n請務必嘗試製作你能做出的最好核心，&a它們基本上就是你 CAD 的 CPU&r。\n\n每個 &6CAD 核心&r都有一個&d&l工序&r&r值，這代表了&d它能進行多少計算&r。\n&8&o（選擇符、行為符等會增加魔法式的工序）&r&r\n\n此外，每個 &6CAD 核心&r都有一個&3&l映射&r&r值，\n這僅僅是它一次可以執行的&3非除錯行為符總數&r。\n\n這些&6核心&r特別提供：\n\n► &d工序&r：30 或 36\n\n► &3映射&r：6 或 7",
     "context": "chapters/general_magic.snbt / quest 1F1C11D77667DEB4",
     "meta": {
       "line_split_policy": "lf",
@@ -207,8 +207,8 @@
     }
   },
   "quest.1F1C11D77667DEB4.title": {
-    "original": "\u0026dTier 3\u0026f CAD Cores",
-    "translation": "\u0026d三階\u0026f CAD 核心",
+    "original": "&dTier 3&f CAD Cores",
+    "translation": "&d三階&f CAD 核心",
     "context": "chapters/general_magic.snbt / quest 1F1C11D77667DEB4",
     "meta": {
       "line_split_policy": "none",
@@ -216,8 +216,8 @@
     }
   },
   "quest.201BB935C9972574.quest_desc": {
-    "original": "Lesser Spell Slot Improvements can be crafted from a lot of \u0026cHogskin\u0026r and some \u0026bArcane Cloth.\u0026r\n\nThey can be repeatedly applied to any \u0026aSpellbook\u0026r via the \u0026aArcane Anvil\u0026r to grant up to a max of 12 spell slots, even for the Flimsy Journal!",
-    "translation": "小型法術槽升級可以使用大量的\u0026c豬布獸皮\u0026r，和一些\u0026b奧術布匹\u0026r來製作。\n\n它們可以透過\u0026a奧術鐵砧\u0026r重複套用在任何\u0026a法術書\u0026r上，最多授予 12 個法術槽位，即使是初學者日記也不例外！",
+    "original": "Lesser Spell Slot Improvements can be crafted from a lot of &cHogskin&r and some &bArcane Cloth.&r\n\nThey can be repeatedly applied to any &aSpellbook&r via the &aArcane Anvil&r to grant up to a max of 12 spell slots, even for the Flimsy Journal!",
+    "translation": "小型法術槽升級可以使用大量的&c豬布獸皮&r，和一些&b奧術布匹&r來製作。\n\n它們可以透過&a奧術鐵砧&r重複套用在任何&a法術書&r上，最多授予 12 個法術槽位，即使是初學者日記也不例外！",
     "context": "chapters/general_magic.snbt / quest 201BB935C9972574",
     "meta": {
       "line_split_policy": "lf",
@@ -225,8 +225,8 @@
     }
   },
   "quest.201BB935C9972574.title": {
-    "original": "\u0026fSpell Slot Improvements",
-    "translation": "\u0026f法術槽改進",
+    "original": "&fSpell Slot Improvements",
+    "translation": "&f法術槽改進",
     "context": "chapters/general_magic.snbt / quest 201BB935C9972574",
     "meta": {
       "line_split_policy": "none",
@@ -234,8 +234,8 @@
     }
   },
   "quest.20F9CC6590B8990C.quest_desc": {
-    "original": "\u00266Ars\u0026r has many magical creatures that you can summon to help you with your everyday tasks. These can be controlled by using the \u0026dDominion Wand\u0026r!\n\nTo learn more about what each one does, make sure to refer to the \u0026aTattered Tome\u0026r guidebook.",
-    "translation": "《\u00266新生魔藝\u0026r》有許多神奇的生物，你可以召喚它們來幫助你處理日常事務。\n\n這些生物可以透過\u0026d支配之杖\u0026r來控制！\n\n要詳細了解每種生物的功能，請務必參閱\u0026a《殘破的寶典》\u0026r。",
+    "original": "&6Ars&r has many magical creatures that you can summon to help you with your everyday tasks. These can be controlled by using the &dDominion Wand&r!\n\nTo learn more about what each one does, make sure to refer to the &aTattered Tome&r guidebook.",
+    "translation": "《&6新生魔藝&r》有許多神奇的生物，你可以召喚它們來幫助你處理日常事務。\n\n這些生物可以透過&d支配之杖&r來控制！\n\n要詳細了解每種生物的功能，請務必參閱&a《殘破的寶典》&r。",
     "context": "chapters/general_magic.snbt / quest 20F9CC6590B8990C",
     "meta": {
       "line_split_policy": "lf",
@@ -243,8 +243,8 @@
     }
   },
   "quest.272E84656D0F133C.quest_desc": {
-    "original": "With a base and up to five logs on top to form a pole, totems can be attuned to a particular spirit symbol by using the spirit on the logs. Once an appropriate set of symbols is made, right clicking the base will activate the totem pole to invoke a \u0026eSpirit Rite\u0026r. Doing so again will deactivate the Rite.\n\nThese Rites have a wide variety of effects either on the world or those who stand in its area. While multiple Rites can be invoked on an area, two or more of the same Rite will cancel each other out.\n\nA \u0026aTotemic Staff\u0026r will let you see what this area is, and can be used on an attuned log to make it glow without activation.",
-    "translation": "在基座上放置最多五根原木形成柱子，透過在原木上使用精魂，可以將圖騰與特定的精魂標誌相連。一旦製作好合適的一組標誌，右鍵點擊基座將啟動圖騰柱以調用\u0026e精魂靈儀\u0026r。再次點擊將停用該靈儀。\n\n這些靈儀對世界或站其區域內的人都有各種各樣的效果。雖然可以在一個區域調用多個靈儀，但兩個或更多相同的靈儀會互相抵消。\n\n\u0026a圖騰法杖\u0026r可以讓你看到這個區域，並可以用在已連通的原木上，使其在不啟動的情況下發光。",
+    "original": "With a base and up to five logs on top to form a pole, totems can be attuned to a particular spirit symbol by using the spirit on the logs. Once an appropriate set of symbols is made, right clicking the base will activate the totem pole to invoke a &eSpirit Rite&r. Doing so again will deactivate the Rite.\n\nThese Rites have a wide variety of effects either on the world or those who stand in its area. While multiple Rites can be invoked on an area, two or more of the same Rite will cancel each other out.\n\nA &aTotemic Staff&r will let you see what this area is, and can be used on an attuned log to make it glow without activation.",
+    "translation": "在基座上放置最多五根原木形成柱子，透過在原木上使用精魂，可以將圖騰與特定的精魂標誌相連。一旦製作好合適的一組標誌，右鍵點擊基座將啟動圖騰柱以調用&e精魂靈儀&r。再次點擊將停用該靈儀。\n\n這些靈儀對世界或站其區域內的人都有各種各樣的效果。雖然可以在一個區域調用多個靈儀，但兩個或更多相同的靈儀會互相抵消。\n\n&a圖騰法杖&r可以讓你看到這個區域，並可以用在已連通的原木上，使其在不啟動的情況下發光。",
     "context": "chapters/general_magic.snbt / quest 272E84656D0F133C",
     "meta": {
       "line_split_policy": "lf",
@@ -261,8 +261,8 @@
     }
   },
   "quest.2F9F60F308C42FB0.quest_desc": {
-    "original": "Now with your \u0026bPsimetal CAD\u0026r and probably a few \u0026aAttachments\u0026r, it is time to make another simple, yet complex spell called\n\n► \u00266\u0026lTrick: \"Greater Infusion\"\u0026r\n\nJust like you've done before to make \u0026bPsimetal\u0026r, simply place this trick in the Grid then copy it into a \u0026eBullet\u0026r.\n\nAfter doing so, you should be able to convert \u0026bDiamonds\u0026r into \u00266Psi Gems\u0026r!",
-    "translation": "現在有了你的 \u0026bPsi 金屬 CAD\u0026r，和可能的一些\u0026a部件\u0026r，\n\n是時候製作另一個簡單但複雜的魔法式，稱為\n\n► \u00266\u0026l行為符：『高級煉金』\u0026r\n\n就像你之前製作 \u0026bPsi 金屬\u0026r一樣，\n\n只需將此行為符放置在網格中，然後將其複製到\u0026e子彈\u0026r上。\n\n完成後，你應該能夠將\u0026b鑽石\u0026r轉換為 \u00266Psi 寶石\u0026r！",
+    "original": "Now with your &bPsimetal CAD&r and probably a few &aAttachments&r, it is time to make another simple, yet complex spell called\n\n► &6&lTrick: \"Greater Infusion\"&r\n\nJust like you've done before to make &bPsimetal&r, simply place this trick in the Grid then copy it into a &eBullet&r.\n\nAfter doing so, you should be able to convert &bDiamonds&r into &6Psi Gems&r!",
+    "translation": "現在有了你的 &bPsi 金屬 CAD&r，和可能的一些&a部件&r，\n\n是時候製作另一個簡單但複雜的魔法式，稱為\n\n► &6&l行為符：『高級煉金』&r\n\n就像你之前製作 &bPsi 金屬&r一樣，\n\n只需將此行為符放置在網格中，然後將其複製到&e子彈&r上。\n\n完成後，你應該能夠將&b鑽石&r轉換為 &6Psi 寶石&r！",
     "context": "chapters/general_magic.snbt / quest 2F9F60F308C42FB0",
     "meta": {
       "line_split_policy": "lf",
@@ -288,8 +288,8 @@
     }
   },
   "quest.32ACE9E47B8A6C87.quest_desc": {
-    "original": "\u00266Psimetal Exosuit \u0026fis a suit of armor allowing you to seamlessly integrate \u0026bSpell-casting \u0026finto your everyday adventuring!\n\n\u0026bThe suits' Spells \u0026fare cast with your \u00266CAD \u0026fas a focus, so the usual \u0026dCAD limits \u0026fapply.\n\nEach piece of the \u00266Psimetal Exosuit \u0026fcan be loaded with \u0026bup to three Spell Bullets \u0026fin a \u00266CAD Assembler\u0026f, though sadly, some variants don't play well with the suit.\n\n\u0026fA suit piece remembers the number of times it's successfully cast a \u0026bSpell\u0026f; this count can be accessed from \u0026e\u0026lSelector: Success Counter\u0026r\u0026f.\n\n{@pagebreak}\n\n\u0026fTo select which \u0026bSpell \u0026fto use for a \u00266suit piece\u0026r, craft an \u0026d\u0026lExosuit Controller\u0026r\u0026f,\n\n\u0026fTo use the \u0026dController\u0026f, hold it and press the \u0026bPsi master keybind\u0026r \u00268(Default Key: c)\u0026r.\n\nYou can use the \u00262right and left-mouse buttons to cycle\u0026r through \u00266suit pieces\u0026r.\n\nOnce you've selected the \u00266suit piece\u0026r you want to configure, choose one of the \u0026bSpell Bullets\u0026f that's displayed the same way you would with your \u00266CAD\u0026f.\n\n\u0026fSelecting the empty \u0026cfourth slot\u0026r disables that suit piece completely — \u0026nno Spells will be cast even if its activation criteria are met\u0026r.",
-    "translation": "\u00266Psi 金屬套裝\u0026f能讓你將\u0026b施放魔法式\u0026f，完美地融入你的日常冒險中！\n\n\u0026b這套盔甲的魔法式\u0026f是以你的 \u00266CAD\u0026f 作為焦點來施放的，\n因此一般的 \u0026dCAD 限制\u0026f同樣適用。\n\n每件 \u00266Psi 金屬套裝\u0026f都可以在 \u00266CAD 配裝台\u0026f中裝載\u0026b最多三顆魔法式子彈\u0026f，\n但遺憾的是，某些變種與套裝配合得不理想。\n\n\u0026f盔甲部件會記住它成功施放\u0026b魔法式\u0026f的次數；這個計數可以透過\u0026e\u0026l選擇符：成功計數器\u0026r\u0026f來獲取。\n\n{@pagebreak}\n\n\u0026f要選擇哪個\u0026b盔甲部件\u0026f使用哪個\u0026b魔法式\u0026f，請製作一個\u0026d\u0026l套裝控制器\u0026r\u0026f，\n\n\u0026f要使用\u0026d控制器\u0026f，手持它並按下「\u0026bPsi 快速鍵\u0026r\u00268（預設鍵：c）\u0026r」。\n\n你可以使用\u00262滑鼠左鍵和右鍵\u0026r，來切換不同的\u00266套裝部件\u0026r。\n\n選好想要設定的\u00266套裝部件\u0026r後，選擇一個顯示效果與你的 \u00266CAD\u0026f 相同的\u0026b魔法式子彈\u0026f。\n\n\u0026f選擇空的\u0026c第四格欄位\u0026r會完全停用該套裝部件：\u0026n即使滿足啟動標準，也不會施放任何魔法式\u0026r。",
+    "original": "&6Psimetal Exosuit &fis a suit of armor allowing you to seamlessly integrate &bSpell-casting &finto your everyday adventuring!\n\n&bThe suits' Spells &fare cast with your &6CAD &fas a focus, so the usual &dCAD limits &fapply.\n\nEach piece of the &6Psimetal Exosuit &fcan be loaded with &bup to three Spell Bullets &fin a &6CAD Assembler&f, though sadly, some variants don't play well with the suit.\n\n&fA suit piece remembers the number of times it's successfully cast a &bSpell&f; this count can be accessed from &e&lSelector: Success Counter&r&f.\n\n{@pagebreak}\n\n&fTo select which &bSpell &fto use for a &6suit piece&r, craft an &d&lExosuit Controller&r&f,\n\n&fTo use the &dController&f, hold it and press the &bPsi master keybind&r &8(Default Key: c)&r.\n\nYou can use the &2right and left-mouse buttons to cycle&r through &6suit pieces&r.\n\nOnce you've selected the &6suit piece&r you want to configure, choose one of the &bSpell Bullets&f that's displayed the same way you would with your &6CAD&f.\n\n&fSelecting the empty &cfourth slot&r disables that suit piece completely — &nno Spells will be cast even if its activation criteria are met&r.",
+    "translation": "&6Psi 金屬套裝&f能讓你將&b施放魔法式&f，完美地融入你的日常冒險中！\n\n&b這套盔甲的魔法式&f是以你的 &6CAD&f 作為焦點來施放的，\n因此一般的 &dCAD 限制&f同樣適用。\n\n每件 &6Psi 金屬套裝&f都可以在 &6CAD 配裝台&f中裝載&b最多三顆魔法式子彈&f，\n但遺憾的是，某些變種與套裝配合得不理想。\n\n&f盔甲部件會記住它成功施放&b魔法式&f的次數；這個計數可以透過&e&l選擇符：成功計數器&r&f來獲取。\n\n{@pagebreak}\n\n&f要選擇哪個&b盔甲部件&f使用哪個&b魔法式&f，請製作一個&d&l套裝控制器&r&f，\n\n&f要使用&d控制器&f，手持它並按下「&bPsi 快速鍵&r&8（預設鍵：c）&r」。\n\n你可以使用&2滑鼠左鍵和右鍵&r，來切換不同的&6套裝部件&r。\n\n選好想要設定的&6套裝部件&r後，選擇一個顯示效果與你的 &6CAD&f 相同的&b魔法式子彈&f。\n\n&f選擇空的&c第四格欄位&r會完全停用該套裝部件：&n即使滿足啟動標準，也不會施放任何魔法式&r。",
     "context": "chapters/general_magic.snbt / quest 32ACE9E47B8A6C87",
     "meta": {
       "line_split_policy": "lf",
@@ -315,8 +315,8 @@
     }
   },
   "quest.32C6E1FD67863F50.quest_desc": {
-    "original": "The \u0026dAlchemist Cauldron\u0026r is an upgrade to your regular old brewing stand.\n\nThis Cauldron can be used to brew potions, and is also used to break down \u0026bSpell Scrolls\u0026r for a chance to recycle the \u0026bInk\u0026r used to create it.\n\nThis is also the main way to regularly obtain \u0026cBlood Vials\u0026r. Just supply a body inside of the Cauldron!",
-    "translation": "\u0026d煉金鍋釜\u0026r是你普通釀造台的升級版。\n\n這種鍋釜可以用來釀造藥水，也可以用來分解\u0026b法術卷軸\u0026r，有機會回收製作它時所用的\u0026b墨水\u0026r。\n\n這也是定期獲取\u0026c猩紅精華瓶\u0026r的主要方法。只需在鍋釜中提供一具身體即可！",
+    "original": "The &dAlchemist Cauldron&r is an upgrade to your regular old brewing stand.\n\nThis Cauldron can be used to brew potions, and is also used to break down &bSpell Scrolls&r for a chance to recycle the &bInk&r used to create it.\n\nThis is also the main way to regularly obtain &cBlood Vials&r. Just supply a body inside of the Cauldron!",
+    "translation": "&d煉金鍋釜&r是你普通釀造台的升級版。\n\n這種鍋釜可以用來釀造藥水，也可以用來分解&b法術卷軸&r，有機會回收製作它時所用的&b墨水&r。\n\n這也是定期獲取&c猩紅精華瓶&r的主要方法。只需在鍋釜中提供一具身體即可！",
     "context": "chapters/general_magic.snbt / quest 32C6E1FD67863F50",
     "meta": {
       "line_split_policy": "lf",
@@ -324,8 +324,8 @@
     }
   },
   "quest.32C6E1FD67863F50.title": {
-    "original": "\u0026fThe \u0026dAlchemist Cauldron",
-    "translation": "\u0026f\u0026d煉金鍋釜",
+    "original": "&fThe &dAlchemist Cauldron",
+    "translation": "&f&d煉金鍋釜",
     "context": "chapters/general_magic.snbt / quest 32C6E1FD67863F50",
     "meta": {
       "line_split_policy": "none",
@@ -333,8 +333,8 @@
     }
   },
   "quest.34EC72BBCD9F197F.quest_desc": {
-    "original": "This \u0026aNovice Spellbook\u0026r allows you to cast \u0026aTier 1 Spells\u0026r! It also comes with some basic spell knowledge (called \u0026bGlyphs\u0026r) already learned to help you craft your first spell.\n\nTo make new spells, you'll need to create \u0026bGlyphs\u0026r using the \u00262Scribe's Table\u0026r.\n\nOnce crafted, you can place this down to research and craft new \u0026bGlyphs\u0026r, which are the base for spell crafting, as they teach you new parts for your \u0026dSpells\u0026r.\n\nLet's learn how to craft a \u0026bGlyph\u0026r!\n{@pagebreak}\n\u0026bGlyphs\u0026r are also tiered. With a \u0026aNovice Spell Book\u0026r, you'll only be able to cast \u0026aTier 1 Glyphs\u0026r. To cast higher tier spells, you'll need to upgrade your Spell Book.\n\nTo craft a \u0026bGlyph\u0026r, you'll need to right click on the Scribe's Table with your Spell Book in hand. This will open up the \u0026bGlyph\u0026r menu!\n{image:ftb:textures/quests/ars/glyphmenu.png width:225 height:175 align:center}\n{@pagebreak}\nThis will show you every \u0026bGlyph\u0026r you can make, including those you have already learned. On the right side, you can filter them by tier, or search for a specific one.\n\nFor our first \u0026bGlyph\u0026r, let's make \u0026aAmplify\u0026r! Search for it, then click it to see what items you need at the bottom, then click the \"Select\" button.\n\nNow you can close out of the menu and right click the table with the required items, and watch the magic happen!",
-    "translation": "這本\u0026a初學者法術書\u0026r能讓你施放 \u0026a1 級法術\u0026r！\n\n這本法術書還附帶了一些基礎法術知識（稱為\u0026b魔符\u0026r），以幫助你製作你的第一個法術。\n\n要製作新法術，你需要使用\u00262抄寫台\u0026r來製作\u0026b魔符\u0026r。\n\n抄寫台能用來研究與製作新的\u0026b魔符\u0026r，這些是法術製作的基礎，因為它們會教你\u0026d法術\u0026r的新構件。\n\n讓我們學習如何製作一個\u0026b魔符\u0026r吧！\n{@pagebreak}\n\u0026b魔符\u0026r也是有分級別的。使用\u0026a初學者法術書\u0026r，你只能施放 \u0026a1 級魔符\u0026r。\n\n要施放更高級別的法術，你需要升級你的法術書。\n\n要製作\u0026b魔符\u0026r，你需要手持法術書右鍵點擊抄寫台。這將打開\u0026b魔符\u0026r選單！\n{image:ftb:textures/quests/ars/glyphmenu.png width:225 height:175 align:center}\n{@pagebreak}\n這頁面會顯示你可以製作的所有\u0026b魔符\u0026r，包括你已經學過的。\n\n使用介面右側的頁籤，你可以按級別篩選魔符，或直接搜尋特定的魔符。\n\n對於我們的第一個\u0026b魔符\u0026r，讓我們製作\u0026a強化\u0026r！\n\n搜尋並找到這個魔符後，點擊它以在底部查看所需的材料，然後點擊「選擇」按鈕。\n\n現在你可以關閉選單，並手持所需的物品右鍵點擊桌子，然後觀察魔法發生！",
+    "original": "This &aNovice Spellbook&r allows you to cast &aTier 1 Spells&r! It also comes with some basic spell knowledge (called &bGlyphs&r) already learned to help you craft your first spell.\n\nTo make new spells, you'll need to create &bGlyphs&r using the &2Scribe's Table&r.\n\nOnce crafted, you can place this down to research and craft new &bGlyphs&r, which are the base for spell crafting, as they teach you new parts for your &dSpells&r.\n\nLet's learn how to craft a &bGlyph&r!\n{@pagebreak}\n&bGlyphs&r are also tiered. With a &aNovice Spell Book&r, you'll only be able to cast &aTier 1 Glyphs&r. To cast higher tier spells, you'll need to upgrade your Spell Book.\n\nTo craft a &bGlyph&r, you'll need to right click on the Scribe's Table with your Spell Book in hand. This will open up the &bGlyph&r menu!\n{image:ftb:textures/quests/ars/glyphmenu.png width:225 height:175 align:center}\n{@pagebreak}\nThis will show you every &bGlyph&r you can make, including those you have already learned. On the right side, you can filter them by tier, or search for a specific one.\n\nFor our first &bGlyph&r, let's make &aAmplify&r! Search for it, then click it to see what items you need at the bottom, then click the \"Select\" button.\n\nNow you can close out of the menu and right click the table with the required items, and watch the magic happen!",
+    "translation": "這本&a初學者法術書&r能讓你施放 &a1 級法術&r！\n\n這本法術書還附帶了一些基礎法術知識（稱為&b魔符&r），以幫助你製作你的第一個法術。\n\n要製作新法術，你需要使用&2抄寫台&r來製作&b魔符&r。\n\n抄寫台能用來研究與製作新的&b魔符&r，這些是法術製作的基礎，因為它們會教你&d法術&r的新構件。\n\n讓我們學習如何製作一個&b魔符&r吧！\n{@pagebreak}\n&b魔符&r也是有分級別的。使用&a初學者法術書&r，你只能施放 &a1 級魔符&r。\n\n要施放更高級別的法術，你需要升級你的法術書。\n\n要製作&b魔符&r，你需要手持法術書右鍵點擊抄寫台。這將打開&b魔符&r選單！\n{image:ftb:textures/quests/ars/glyphmenu.png width:225 height:175 align:center}\n{@pagebreak}\n這頁面會顯示你可以製作的所有&b魔符&r，包括你已經學過的。\n\n使用介面右側的頁籤，你可以按級別篩選魔符，或直接搜尋特定的魔符。\n\n對於我們的第一個&b魔符&r，讓我們製作&a強化&r！\n\n搜尋並找到這個魔符後，點擊它以在底部查看所需的材料，然後點擊「選擇」按鈕。\n\n現在你可以關閉選單，並手持所需的物品右鍵點擊桌子，然後觀察魔法發生！",
     "context": "chapters/general_magic.snbt / quest 34EC72BBCD9F197F",
     "meta": {
       "line_split_policy": "lf",
@@ -342,8 +342,8 @@
     }
   },
   "quest.34EC72BBCD9F197F.title": {
-    "original": "\u0026fYour First Spellbook",
-    "translation": "\u0026f你的第一本法術書",
+    "original": "&fYour First Spellbook",
+    "translation": "&f你的第一本法術書",
     "context": "chapters/general_magic.snbt / quest 34EC72BBCD9F197F",
     "meta": {
       "line_split_policy": "none",
@@ -351,8 +351,8 @@
     }
   },
   "quest.39ED88D2EF2F617B.quest_desc": {
-    "original": "While equipping yourself with all sorts of \u0026bcurios and baubles\u0026r is a common enough practice, certain choices are shunned. \u0026aBrooches\u0026r allow a few tweaks to this, exchanging one option for another. Among these options are the allowance for new \u0026bRune slots\u0026r.\n\nRunes are made by inserting the base material into a \u0026aRunic Workbench\u0026r, then applying the amount and type of spirits required.\n\nRunes provide a wide variety of potent effects: some applying a personal form of \u0026bSpirit Rites\u0026r as performed by \u0026eTotems\u0026r, others providing noticeable stat buffs, and still more that have their own unique traits.\nAs typical, consult your \u0026eEncyclopedia\u0026r for more information.",
-    "translation": "雖然讓自己裝備各種\u0026b飾品和掛飾\u0026r是常見的做法，但某些選擇是被避開的。\u0026a胸針\u0026r允許對此進行一些調整，將一種選擇更換為另一種。在這些選項中，包括對新\u0026b符文槽位\u0026r的許可。\n\n符文是透過將基礎材料放入\u0026a符文工作檯\u0026r，然後應用所需數量和類型的精魂來製作的。\n\n符文提供多種強大的效果：有些應用像\u0026e圖騰\u0026r一樣的個人化\u0026b精魂靈儀\u0026r，有些提供顯著的屬性加成，還有更多具有自己獨特特質的效果。\n\n通常情況下，請查閱你的\u0026e奧術全典\u0026r以獲取更多資訊。",
+    "original": "While equipping yourself with all sorts of &bcurios and baubles&r is a common enough practice, certain choices are shunned. &aBrooches&r allow a few tweaks to this, exchanging one option for another. Among these options are the allowance for new &bRune slots&r.\n\nRunes are made by inserting the base material into a &aRunic Workbench&r, then applying the amount and type of spirits required.\n\nRunes provide a wide variety of potent effects: some applying a personal form of &bSpirit Rites&r as performed by &eTotems&r, others providing noticeable stat buffs, and still more that have their own unique traits.\nAs typical, consult your &eEncyclopedia&r for more information.",
+    "translation": "雖然讓自己裝備各種&b飾品和掛飾&r是常見的做法，但某些選擇是被避開的。&a胸針&r允許對此進行一些調整，將一種選擇更換為另一種。在這些選項中，包括對新&b符文槽位&r的許可。\n\n符文是透過將基礎材料放入&a符文工作檯&r，然後應用所需數量和類型的精魂來製作的。\n\n符文提供多種強大的效果：有些應用像&e圖騰&r一樣的個人化&b精魂靈儀&r，有些提供顯著的屬性加成，還有更多具有自己獨特特質的效果。\n\n通常情況下，請查閱你的&e奧術全典&r以獲取更多資訊。",
     "context": "chapters/general_magic.snbt / quest 39ED88D2EF2F617B",
     "meta": {
       "line_split_policy": "lf",
@@ -369,8 +369,8 @@
     }
   },
   "quest.3D220672224EDBD7.quest_desc": {
-    "original": "All \u00266CAD Devices\u0026r have a space for a \u0026cC\u0026r\u00262o\u0026r\u00269l\u0026r\u0026do\u0026r\u0026er\u0026r \u0026bAttachment\u0026r, purely cosmetic but can surely make them look cooler!",
-    "translation": "所有 \u00266CAD 裝置\u0026r都有一個用於放置 \u0026cC\u0026r\u00262o\u0026r\u00269l\u0026r\u0026do\u0026r\u0026er\u0026r\u0026b 著色器\u0026r插件的空間，\n\n純粹是裝飾性的，但肯定能讓它們看起來更酷！",
+    "original": "All &6CAD Devices&r have a space for a &cC&r&2o&r&9l&r&do&r&er&r &bAttachment&r, purely cosmetic but can surely make them look cooler!",
+    "translation": "所有 &6CAD 裝置&r都有一個用於放置 &cC&r&2o&r&9l&r&do&r&er&r&b 著色器&r插件的空間，\n\n純粹是裝飾性的，但肯定能讓它們看起來更酷！",
     "context": "chapters/general_magic.snbt / quest 3D220672224EDBD7",
     "meta": {
       "line_split_policy": "lf",
@@ -396,8 +396,8 @@
     }
   },
   "quest.3D239E5AD486D419.quest_desc": {
-    "original": "If we want to play with \u0026cDemons\u0026r, we'll need a way to summon them with rituals. To do this, we need \u0026aChalk\u0026r.\n\n\u0026aChalk\u0026r is used to draw glyphs for your \u0026bRituals\u0026r. You will come across many different colored \u0026aChalks\u0026r as you progress through \u0026eOccultism\u0026r.\n\nBy combining \u0026aOtherworld Ashes\u0026r and \u0026aBurnt Otherstone\u0026r, you can craft an \u00267Impure White Chalk\u0026r, which can be thrown into \u0026aSpirit Fire\u0026r to purify it into \u0026aWhite Chalk\u0026r.\n\nChalk is pretty hard to scrub off of the ground. You can use a \u0026aChalk Brush\u0026r to get rid of any misplaced glyphs.",
-    "translation": "若想與\u0026c魔靈\u0026r打交道，我們需要一種透過儀式召喚它們的方法。\n\n為此，我們需要\u0026a粉筆\u0026r。\n\n\u0026a粉筆\u0026r用於為你的\u0026b儀式\u0026r繪製符文。隨著你在\u0026e神秘學\u0026r中的進展，你會遇到許多不同顏色的\u0026a粉筆\u0026r。\n\n透過結合\u0026a異界灰燼\u0026r與\u0026a煅燒異界石\u0026r，你可以合成\u00267含雜白色粉筆\u0026r，將其丟入\u0026a靈火\u0026r中即可淨化為\u0026a白色粉筆\u0026r。\n\n粉筆在地上很難擦除，你可以使用\u0026a粉筆擦\u0026r來清除任何放錯位置的符文。",
+    "original": "If we want to play with &cDemons&r, we'll need a way to summon them with rituals. To do this, we need &aChalk&r.\n\n&aChalk&r is used to draw glyphs for your &bRituals&r. You will come across many different colored &aChalks&r as you progress through &eOccultism&r.\n\nBy combining &aOtherworld Ashes&r and &aBurnt Otherstone&r, you can craft an &7Impure White Chalk&r, which can be thrown into &aSpirit Fire&r to purify it into &aWhite Chalk&r.\n\nChalk is pretty hard to scrub off of the ground. You can use a &aChalk Brush&r to get rid of any misplaced glyphs.",
+    "translation": "若想與&c魔靈&r打交道，我們需要一種透過儀式召喚它們的方法。\n\n為此，我們需要&a粉筆&r。\n\n&a粉筆&r用於為你的&b儀式&r繪製符文。隨著你在&e神秘學&r中的進展，你會遇到許多不同顏色的&a粉筆&r。\n\n透過結合&a異界灰燼&r與&a煅燒異界石&r，你可以合成&7含雜白色粉筆&r，將其丟入&a靈火&r中即可淨化為&a白色粉筆&r。\n\n粉筆在地上很難擦除，你可以使用&a粉筆擦&r來清除任何放錯位置的符文。",
     "context": "chapters/general_magic.snbt / quest 3D239E5AD486D419",
     "meta": {
       "line_split_policy": "lf",
@@ -405,8 +405,8 @@
     }
   },
   "quest.3D239E5AD486D419.title": {
-    "original": "\u0026fBasic Chalks",
-    "translation": "\u0026f基礎粉筆",
+    "original": "&fBasic Chalks",
+    "translation": "&f基礎粉筆",
     "context": "chapters/general_magic.snbt / quest 3D239E5AD486D419",
     "meta": {
       "line_split_policy": "none",
@@ -414,8 +414,8 @@
     }
   },
   "quest.3E2C26828FF869F3.quest_desc": {
-    "original": "For our first \u0026bRitual\u0026r, we're going to summon a \u00267Foliot Crusher\u0026r using the \u0026bAviar's Circle Pentacle\u0026r.\n\nThe easiest way to do this is to navigate to the \u0026bPentacles\u0026r tab in your guidebook, then find \u0026bAviar's Circle\u0026r. On the right side, you should see a render of it with an \u0026beye icon\u0026r in the bottom right.\n\nClicking this will allow you to place a \u0026bhologram\u0026r to help you create the pentacle!\n{@pagebreak}\nOnce you've drawn and completed the layout of the \u0026bPentacle\u0026r, you can place down 4 \u0026aSacrificial Bowls\u0026r anywhere within 8 blocks of the \u00262Golden Sacrificial Bowl\u0026r.\n\nYou might notice that most \u0026bPentacles\u0026r have the perfect spot for these!\n\nNext, you'll place down the items needed in the \u0026aSacrificial Bowls\u0026r, then place in the \u0026aBook of Binding: Foliot (Bound)\u0026r into the center \u00266Golden Sacrificial Bowl\u0026r.\n\nOnce all items are in place, you can right click the Golden Sacrificial Bowl and start the ritual!\n{@pagebreak}\nThe items inside the bowls will be consumed until there are none left, at which point the \u00267Foliot Crusher\u0026r will appear next to the \u0026aGolden Sacrificial Bowl\u0026r.\n\nLike all other \u0026bCrushers\u0026r, the \u00267Foliot Crusher\u0026r will grind down items into dust, providing 2x the output.\n\nThe Crusher is also needed to create the next color of Chalk we'll need!",
-    "translation": "對於我們的第一個\u0026b儀式\u0026r，我們將使用\u0026b阿維亞圓環五芒星陣\u0026r來召喚一隻\u00267魔精碎礦者\u0026r。\n\n最簡單的方法是導覽至手冊中的\u0026b五芒星陣\u0026r分頁，找到\u0026b阿維亞圓環\u0026r。\n\n在右側，你應該會看到它的預覽圖，右下角有一個\u0026b眼睛圖示\u0026r。\n\n點擊它將允許你放置\u0026b預覽投影\u0026r，來協助你建立五芒星陣！\n{@pagebreak}\n一旦你繪製並完成了\u0026b五芒星陣\u0026r的擺陣，你可以在\u00262黃金儀式之碗\u0026r周圍 8 格內的任何地方放置 4 個\u0026a獻祭之碗\u0026r。\n\n你會注意到大多數\u0026b五芒星陣\u0026r，都有放置這些碗的完美位置！\n\n接著，將所需的物品放上\u0026a獻祭之碗\u0026r，然後將\u0026a束縛之書：魔精（已綁定）\u0026r 放入中央的 \u00266黃金儀式之碗\u0026r。\n\n當所有物品就位後，你可以點擊右鍵黃金儀式之碗來啟動儀式！\n{@pagebreak}\n碗裡的物品會被持續消耗直至耗盡，屆時 \u00267魔精碎礦者\u0026r 將出現在 \u0026a黃金儀式之碗\u0026r 旁邊。\n\n與所有其他 \u0026b碎礦者\u0026r 一樣，\u00267魔精碎礦者\u0026r 會將物品磨成粉末，提供 2 倍的產出。\n\n碎礦者也是製作我們接下來需要的下一種顏色粉筆所必需的！",
+    "original": "For our first &bRitual&r, we're going to summon a &7Foliot Crusher&r using the &bAviar's Circle Pentacle&r.\n\nThe easiest way to do this is to navigate to the &bPentacles&r tab in your guidebook, then find &bAviar's Circle&r. On the right side, you should see a render of it with an &beye icon&r in the bottom right.\n\nClicking this will allow you to place a &bhologram&r to help you create the pentacle!\n{@pagebreak}\nOnce you've drawn and completed the layout of the &bPentacle&r, you can place down 4 &aSacrificial Bowls&r anywhere within 8 blocks of the &2Golden Sacrificial Bowl&r.\n\nYou might notice that most &bPentacles&r have the perfect spot for these!\n\nNext, you'll place down the items needed in the &aSacrificial Bowls&r, then place in the &aBook of Binding: Foliot (Bound)&r into the center &6Golden Sacrificial Bowl&r.\n\nOnce all items are in place, you can right click the Golden Sacrificial Bowl and start the ritual!\n{@pagebreak}\nThe items inside the bowls will be consumed until there are none left, at which point the &7Foliot Crusher&r will appear next to the &aGolden Sacrificial Bowl&r.\n\nLike all other &bCrushers&r, the &7Foliot Crusher&r will grind down items into dust, providing 2x the output.\n\nThe Crusher is also needed to create the next color of Chalk we'll need!",
+    "translation": "對於我們的第一個&b儀式&r，我們將使用&b阿維亞圓環五芒星陣&r來召喚一隻&7魔精碎礦者&r。\n\n最簡單的方法是導覽至手冊中的&b五芒星陣&r分頁，找到&b阿維亞圓環&r。\n\n在右側，你應該會看到它的預覽圖，右下角有一個&b眼睛圖示&r。\n\n點擊它將允許你放置&b預覽投影&r，來協助你建立五芒星陣！\n{@pagebreak}\n一旦你繪製並完成了&b五芒星陣&r的擺陣，你可以在&2黃金儀式之碗&r周圍 8 格內的任何地方放置 4 個&a獻祭之碗&r。\n\n你會注意到大多數&b五芒星陣&r，都有放置這些碗的完美位置！\n\n接著，將所需的物品放上&a獻祭之碗&r，然後將&a束縛之書：魔精（已綁定）&r 放入中央的 &6黃金儀式之碗&r。\n\n當所有物品就位後，你可以點擊右鍵黃金儀式之碗來啟動儀式！\n{@pagebreak}\n碗裡的物品會被持續消耗直至耗盡，屆時 &7魔精碎礦者&r 將出現在 &a黃金儀式之碗&r 旁邊。\n\n與所有其他 &b碎礦者&r 一樣，&7魔精碎礦者&r 會將物品磨成粉末，提供 2 倍的產出。\n\n碎礦者也是製作我們接下來需要的下一種顏色粉筆所必需的！",
     "context": "chapters/general_magic.snbt / quest 3E2C26828FF869F3",
     "meta": {
       "line_split_policy": "lf",
@@ -423,8 +423,8 @@
     }
   },
   "quest.3E2C26828FF869F3.title": {
-    "original": "\u0026fYour First Ritual",
-    "translation": "\u0026f你的第一個儀式",
+    "original": "&fYour First Ritual",
+    "translation": "&f你的第一個儀式",
     "context": "chapters/general_magic.snbt / quest 3E2C26828FF869F3",
     "meta": {
       "line_split_policy": "none",
@@ -432,8 +432,8 @@
     }
   },
   "quest.3E72FB579DF147FE.quest_desc": {
-    "original": "And now at the \u0026aTop of Progression\u0026r, you should be able to execute the \u00266\u0026lTrick: Ebony or Ivory\u0026r\u0026r at \u0026dThe End\u0026r to obtain either \u00266Ivory or Ebony Substance\u0026r.\n\nWith those you will gain access to the \u00266Best CAD Devices Craftable in the Mod\u0026r, the stats may vary a tiny amount, so choose the one you prefer.\n\n► Also a good thing to point out is that this \u00266Trick\u0026r allows you to do all the previous convertions as well. Just don't try to make them in \u0026dThe End\u0026r.",
-    "translation": "現在到了\u0026a進度的頂端\u0026r，你應該能夠在\u0026d終界\u0026r執行\u00266\u0026l行為符：乳白或烏黑\u0026r，以獲得\u00266乳白或烏黑物質\u0026r。\n\n有了這些，你將可以使用模組中，\u00266可合成的最強 CAD 裝置\u0026r，\n數據可能會有些微差異，所以選擇你喜歡的那一個。\n\n► 另外值得指出的一點是，這個\u00266行為符\u0026r同樣允許你進行所有之前的轉換。\n只是不要嘗試在\u0026d終界\u0026r進行。",
+    "original": "And now at the &aTop of Progression&r, you should be able to execute the &6&lTrick: Ebony or Ivory&r&r at &dThe End&r to obtain either &6Ivory or Ebony Substance&r.\n\nWith those you will gain access to the &6Best CAD Devices Craftable in the Mod&r, the stats may vary a tiny amount, so choose the one you prefer.\n\n► Also a good thing to point out is that this &6Trick&r allows you to do all the previous convertions as well. Just don't try to make them in &dThe End&r.",
+    "translation": "現在到了&a進度的頂端&r，你應該能夠在&d終界&r執行&6&l行為符：乳白或烏黑&r，以獲得&6乳白或烏黑物質&r。\n\n有了這些，你將可以使用模組中，&6可合成的最強 CAD 裝置&r，\n數據可能會有些微差異，所以選擇你喜歡的那一個。\n\n► 另外值得指出的一點是，這個&6行為符&r同樣允許你進行所有之前的轉換。\n只是不要嘗試在&d終界&r進行。",
     "context": "chapters/general_magic.snbt / quest 3E72FB579DF147FE",
     "meta": {
       "line_split_policy": "lf",
@@ -459,8 +459,8 @@
     }
   },
   "quest.4194F3C176E50B7B.quest_desc": {
-    "original": "\u0026dThe Edge of Deliverance\u0026r:\n\u00267A strike to weaken, a strike to fell\n\n\u0026dThe Weight of Worlds\u0026r:\n\u00267The random blows of life, each end aiding the downfall of another\n\n\u0026dThe Erosion Scepter\u0026r:\n\u00267Struggle made manifest, every smite further and further smothering the soul",
-    "translation": "\u0026d挽魂鋒鐮\u0026r：\n\u00267一擊削弱，一擊斃命\n\n\u0026d宙界重斧\u0026r：\n\u00267生命的隨機打擊，每一擊都助長另一個人的垮台\n\n\u0026d侵蝕權杖\u0026r：\n\u00267掙扎的具象化，每一次打擊都進一步窒息靈魂",
+    "original": "&dThe Edge of Deliverance&r:\n&7A strike to weaken, a strike to fell\n\n&dThe Weight of Worlds&r:\n&7The random blows of life, each end aiding the downfall of another\n\n&dThe Erosion Scepter&r:\n&7Struggle made manifest, every smite further and further smothering the soul",
+    "translation": "&d挽魂鋒鐮&r：\n&7一擊削弱，一擊斃命\n\n&d宙界重斧&r：\n&7生命的隨機打擊，每一擊都助長另一個人的垮台\n\n&d侵蝕權杖&r：\n&7掙扎的具象化，每一次打擊都進一步窒息靈魂",
     "context": "chapters/general_magic.snbt / quest 4194F3C176E50B7B",
     "meta": {
       "line_split_policy": "lf",
@@ -468,8 +468,8 @@
     }
   },
   "quest.4194F3C176E50B7B.title": {
-    "original": "\u00266Malignant Weapons",
-    "translation": "\u00266惡念武器",
+    "original": "&6Malignant Weapons",
+    "translation": "&6惡念武器",
     "context": "chapters/general_magic.snbt / quest 4194F3C176E50B7B",
     "meta": {
       "line_split_policy": "none",
@@ -477,8 +477,8 @@
     }
   },
   "quest.41C439295D5558C2.quest_desc": {
-    "original": "With soulstone embedded in the blade, a \u0026aCrude Scythe\u0026r is able to tear through both body and soul when slaying creatures, causing Spirit to form and be drawn to the slayer.\n\n\u00267Scythes also can accept unique enchantments that may drastically improve or alter its uses, such as collecting more spirits or providing a small aerial boost.\n{@pagebreak}\nThese spirits can be used in the \u0026aSpirit Altar\u0026r. This Altar is a place to channel spirit aspects and other infusion resources into a focal item.\n\nThe Altar itself serves to hold this focus and anchor the spirits used on it, while any other focus materials must be placed on \u0026epedestals\u0026r within 4 blocks of the Altar. Once all materials and spirits are in place, the crafting begins automatically.\n\nWhile the crafting process can be slow, up to four \u0026eRunewood Obelisks\u0026r placed in this range will speed it up.",
-    "translation": "由於刀刃中嵌入了靈魂石，\u0026a粗製鐮刀\u0026r在殺死生物時，能夠撕裂肉體與靈魂，導致精魂形成並被吸引到殺手身邊。\n\n\u00267鐮刀也可以接受獨特的附魔，這可能會大幅改善或改變其用途，例如收集更多精魂，或提供少量的傷害加成。\n{@pagebreak}\n這些精魂可以在\u0026a精魂祭壇\u0026r中使用。這個祭壇是一個將精魂屬性和其他注魂資源引導到核心物品的地方。\n\n祭壇本身用於固定這個焦點，並錨定在其上使用的精魂，而任何其他焦點材料必須放置在祭壇 4 格範圍內的\u0026e基座\u0026r上。\n\n一旦所有材料和精魂都到位，製作就會自動開始。\n\n雖然製作過程可能很慢，但在這個範圍內放置最多四個\u0026e符文木方尖碑\u0026r將加速製作。",
+    "original": "With soulstone embedded in the blade, a &aCrude Scythe&r is able to tear through both body and soul when slaying creatures, causing Spirit to form and be drawn to the slayer.\n\n&7Scythes also can accept unique enchantments that may drastically improve or alter its uses, such as collecting more spirits or providing a small aerial boost.\n{@pagebreak}\nThese spirits can be used in the &aSpirit Altar&r. This Altar is a place to channel spirit aspects and other infusion resources into a focal item.\n\nThe Altar itself serves to hold this focus and anchor the spirits used on it, while any other focus materials must be placed on &epedestals&r within 4 blocks of the Altar. Once all materials and spirits are in place, the crafting begins automatically.\n\nWhile the crafting process can be slow, up to four &eRunewood Obelisks&r placed in this range will speed it up.",
+    "translation": "由於刀刃中嵌入了靈魂石，&a粗製鐮刀&r在殺死生物時，能夠撕裂肉體與靈魂，導致精魂形成並被吸引到殺手身邊。\n\n&7鐮刀也可以接受獨特的附魔，這可能會大幅改善或改變其用途，例如收集更多精魂，或提供少量的傷害加成。\n{@pagebreak}\n這些精魂可以在&a精魂祭壇&r中使用。這個祭壇是一個將精魂屬性和其他注魂資源引導到核心物品的地方。\n\n祭壇本身用於固定這個焦點，並錨定在其上使用的精魂，而任何其他焦點材料必須放置在祭壇 4 格範圍內的&e基座&r上。\n\n一旦所有材料和精魂都到位，製作就會自動開始。\n\n雖然製作過程可能很慢，但在這個範圍內放置最多四個&e符文木方尖碑&r將加速製作。",
     "context": "chapters/general_magic.snbt / quest 41C439295D5558C2",
     "meta": {
       "line_split_policy": "lf",
@@ -495,8 +495,8 @@
     }
   },
   "quest.41F048EAE6949163.quest_desc": {
-    "original": "\u00266Ars\u0026r has several options for magical gear.\n\nTo make these magical sets, you will need to find \u0026aMagebloom Seeds\u0026r from chests in the \u0026dArcane Grove\u0026r to get started. This will grow into \u0026aMagebloom\u0026r, which can be used to craft all types of gear, and even \u0026dSpell Parchments\u0026r!\n\nGear can be altered in the \u0026aAlteration Table\u0026r to install upgrades in the form of \u0026dThreads\u0026r.\n{@pagebreak}\nThreads can be crafted and then inscribed onto armor using the \u00263Alteration Table\u0026r. To use it, place the armor you'd like to alter onto the stand on the table. The tablet on the table will then show you the available Thread Slots it has, and you can right click a Thread on the tablet to add it to the armor. Now you can just remove your armor!\n\nIf you want to remove a thread, place the armor onto the table and interact with the display with an empty hand.\n\nIf you want to upgrade the tier of your mage gear for more thread slots, you can use the \u0026dEnchantment Apparatus\u0026r.",
-    "translation": "《\u00266新生魔藝\u0026r》有多種魔法裝備選擇。\n\n要製作這些魔法套裝，你需要先從\u0026d秘法源林\u0026r中的箱子裡，尋找這些\u0026a法師之花種子\u0026r。\n\n這將長成\u0026a法師之花\u0026r，可用於製作各種類型的裝備，甚至還有\u0026d法術羊皮紙\u0026r！\n\n裝備可以在\u0026a改衣台\u0026r中進行修改，以\u0026d纖維\u0026r的形式安裝升級。\n{@pagebreak}\n你可以製作纖維，並使用\u00263改衣台\u0026r刻印在裝備上。\n\n要使用它，將你想要修改的裝備，放在改衣台左側的支架上。\n\n改衣台上的刻板，會向你顯示裝備擁有的可用纖維槽，手持纖維對刻板按下右鍵，即可將纖維安裝在裝備上。\n\n現在你就可以從桌上取下你的盔甲了！\n\n若你想移除纖維，將盔甲放上改衣台，並空手與顯示器互動。\n\n若你想提升法師裝備的階級，以獲得更多的纖維槽，你可以使用\u0026d附魔裝置\u0026r。",
+    "original": "&6Ars&r has several options for magical gear.\n\nTo make these magical sets, you will need to find &aMagebloom Seeds&r from chests in the &dArcane Grove&r to get started. This will grow into &aMagebloom&r, which can be used to craft all types of gear, and even &dSpell Parchments&r!\n\nGear can be altered in the &aAlteration Table&r to install upgrades in the form of &dThreads&r.\n{@pagebreak}\nThreads can be crafted and then inscribed onto armor using the &3Alteration Table&r. To use it, place the armor you'd like to alter onto the stand on the table. The tablet on the table will then show you the available Thread Slots it has, and you can right click a Thread on the tablet to add it to the armor. Now you can just remove your armor!\n\nIf you want to remove a thread, place the armor onto the table and interact with the display with an empty hand.\n\nIf you want to upgrade the tier of your mage gear for more thread slots, you can use the &dEnchantment Apparatus&r.",
+    "translation": "《&6新生魔藝&r》有多種魔法裝備選擇。\n\n要製作這些魔法套裝，你需要先從&d秘法源林&r中的箱子裡，尋找這些&a法師之花種子&r。\n\n這將長成&a法師之花&r，可用於製作各種類型的裝備，甚至還有&d法術羊皮紙&r！\n\n裝備可以在&a改衣台&r中進行修改，以&d纖維&r的形式安裝升級。\n{@pagebreak}\n你可以製作纖維，並使用&3改衣台&r刻印在裝備上。\n\n要使用它，將你想要修改的裝備，放在改衣台左側的支架上。\n\n改衣台上的刻板，會向你顯示裝備擁有的可用纖維槽，手持纖維對刻板按下右鍵，即可將纖維安裝在裝備上。\n\n現在你就可以從桌上取下你的盔甲了！\n\n若你想移除纖維，將盔甲放上改衣台，並空手與顯示器互動。\n\n若你想提升法師裝備的階級，以獲得更多的纖維槽，你可以使用&d附魔裝置&r。",
     "context": "chapters/general_magic.snbt / quest 41F048EAE6949163",
     "meta": {
       "line_split_policy": "lf",
@@ -504,8 +504,8 @@
     }
   },
   "quest.41F048EAE6949163.title": {
-    "original": "\u0026dArs Armor",
-    "translation": "\u0026d新生魔藝盔甲",
+    "original": "&dArs Armor",
+    "translation": "&d新生魔藝盔甲",
     "context": "chapters/general_magic.snbt / quest 41F048EAE6949163",
     "meta": {
       "line_split_policy": "none",
@@ -513,8 +513,8 @@
     }
   },
   "quest.42CE9840EED6B540.quest_desc": {
-    "original": "Our new friend should make it easy for us to make \u0026eCrushed Endstone\u0026r, but before we continue, it's important to understand more about \u0026bRituals\u0026r and \u0026bPentacles\u0026r! \n\nIn short, a \u0026bPentacle\u0026r is a formation of glyphs, bowls, and stabilizers placed around the \u0026aGolden Sacrificial Bowl\u0026r.\n\nA \u0026bRitual\u0026r is the act of offering items to summon a \u0026bSpirit\u0026r from \u00269The Otherworld\u0026r.\n\nThere are 4 different types of \u0026bPentacles\u0026r, and each can be upgraded as you progress.\n\nThis means that you only need four 19x19 areas to set up all 4 types of \u0026bPentacles\u0026r!\n{@pagebreak}\nRituals are mainly split into four categories: \u0026aBinding\u0026r, \u0026aPossession\u0026r, \u0026aFamiliar\u0026r, and \u0026aSummoning\u0026r.\n\nYour \u0026aAviar's Circle\u0026r \u0026bPentacle\u0026r is considered a \u0026aSummoning Pentacle\u0026r.\n\nThe next upgrade for it is \u0026cOphyx's Calling\u0026r, which allows you to summon \u0026cDjinni\u0026r.\n{@pagebreak}\nYour next step will be to acquire new colors of \u0026aChalk\u0026r, as higher tier pentacles require them.\n\nWith this knowledge, you should be ready to conquer the Occultism mod!",
-    "translation": "我們的新朋友應該能讓我們輕鬆製作\u0026e粉碎終界石\u0026r，但在繼續之前，了解更多關於\u0026b儀式\u0026r與\u0026b五芒星陣\u0026r的知識至關重要！\n\n簡而言之，\u0026b五芒星陣\u0026r是在\u0026a黃金儀式之碗\u0026r周圍佈置符文、碗和穩定器的陣式。\n\n\u0026b儀式\u0026r是透過提供祭品，從\u00269異界\u0026r召喚\u0026b魔靈\u0026r的行為。\n\n共有 4 種類型的\u0026b五芒星陣\u0026r，每種都會隨著你進度進行升級。\n\n這表示你只需要四個 19x19 的區域，\n\n就可以佈置所有 4 種類型的\u0026b五芒星陣\u0026r！\n{@pagebreak}\n儀式主要分為四大類：\u0026a束縛\u0026r、\u0026a附身\u0026r、\u0026a使魔\u0026r以及\u0026a召喚\u0026r。\n\n你的\u0026a阿維亞圓環\u0026r\u0026b五芒星陣\u0026r被歸類為\u0026a召喚五芒星陣\u0026r。\n\n它的下一個升級是 \u0026c歐菲克斯呼喚\u0026r，它允許你召喚\u0026c巨靈\u0026r。\n{@pagebreak}\n你的下一步將是獲取新顏色的\u0026a粉筆\u0026r，因為高等級的五芒星陣需要它們。\n\n有了這些知識，你現在應該準備好征服《神秘學》模組了！",
+    "original": "Our new friend should make it easy for us to make &eCrushed Endstone&r, but before we continue, it's important to understand more about &bRituals&r and &bPentacles&r! \n\nIn short, a &bPentacle&r is a formation of glyphs, bowls, and stabilizers placed around the &aGolden Sacrificial Bowl&r.\n\nA &bRitual&r is the act of offering items to summon a &bSpirit&r from &9The Otherworld&r.\n\nThere are 4 different types of &bPentacles&r, and each can be upgraded as you progress.\n\nThis means that you only need four 19x19 areas to set up all 4 types of &bPentacles&r!\n{@pagebreak}\nRituals are mainly split into four categories: &aBinding&r, &aPossession&r, &aFamiliar&r, and &aSummoning&r.\n\nYour &aAviar's Circle&r &bPentacle&r is considered a &aSummoning Pentacle&r.\n\nThe next upgrade for it is &cOphyx's Calling&r, which allows you to summon &cDjinni&r.\n{@pagebreak}\nYour next step will be to acquire new colors of &aChalk&r, as higher tier pentacles require them.\n\nWith this knowledge, you should be ready to conquer the Occultism mod!",
+    "translation": "我們的新朋友應該能讓我們輕鬆製作&e粉碎終界石&r，但在繼續之前，了解更多關於&b儀式&r與&b五芒星陣&r的知識至關重要！\n\n簡而言之，&b五芒星陣&r是在&a黃金儀式之碗&r周圍佈置符文、碗和穩定器的陣式。\n\n&b儀式&r是透過提供祭品，從&9異界&r召喚&b魔靈&r的行為。\n\n共有 4 種類型的&b五芒星陣&r，每種都會隨著你進度進行升級。\n\n這表示你只需要四個 19x19 的區域，\n\n就可以佈置所有 4 種類型的&b五芒星陣&r！\n{@pagebreak}\n儀式主要分為四大類：&a束縛&r、&a附身&r、&a使魔&r以及&a召喚&r。\n\n你的&a阿維亞圓環&r&b五芒星陣&r被歸類為&a召喚五芒星陣&r。\n\n它的下一個升級是 &c歐菲克斯呼喚&r，它允許你召喚&c巨靈&r。\n{@pagebreak}\n你的下一步將是獲取新顏色的&a粉筆&r，因為高等級的五芒星陣需要它們。\n\n有了這些知識，你現在應該準備好征服《神秘學》模組了！",
     "context": "chapters/general_magic.snbt / quest 42CE9840EED6B540",
     "meta": {
       "line_split_policy": "lf",
@@ -522,8 +522,8 @@
     }
   },
   "quest.42CE9840EED6B540.title": {
-    "original": "\u0026fMore About \u0026bRituals \\\u0026\\ Pentacles",
-    "translation": "\u0026f更多關於\u0026b儀式 \\\u0026\\ 五芒星陣",
+    "original": "&fMore About &bRituals \\&\\ Pentacles",
+    "translation": "&f更多關於&b儀式 \\&\\ 五芒星陣",
     "context": "chapters/general_magic.snbt / quest 42CE9840EED6B540",
     "meta": {
       "line_split_policy": "none",
@@ -531,8 +531,8 @@
     }
   },
   "quest.4784FDEE62A479D0.quest_desc": {
-    "original": "\u0026aDemon's Dream Seeds\u0026r can be rarely gotten from breaking grass or by using a \u0026aCrook\u0026r on \u0026eSand\u0026r.\n\nShould you choose the path of the Occult, this seed may prove useful in opening your \u0026bThird Eye\u0026r.\n\nThe \u00266Dictionary of Spirits\u0026r is the guidebook for the mod, but it's also needed for certain recipes, and can be used to create \u0026bholograms\u0026r to help you build out \u0026dRituals\u0026r!",
-    "translation": "\u0026a魔鬼之夢種子\u0026r有機率透過破壞雜草，或對\u0026e沙子\u0026r使用\u0026a曲柄杖\u0026r來獲得。\n\n若你選擇踏上神秘學之路，這顆種子在開啟你的\u0026b第三隻眼\u0026r時將非常非常有用。\n\n\u00266《魔靈全典》\u0026r是此模組的導覽手冊，但某些配方也需要使用到它，且它可以用於建立\u0026b全像投影\u0026r來協助你佈置\u0026d儀式\u0026r！",
+    "original": "&aDemon's Dream Seeds&r can be rarely gotten from breaking grass or by using a &aCrook&r on &eSand&r.\n\nShould you choose the path of the Occult, this seed may prove useful in opening your &bThird Eye&r.\n\nThe &6Dictionary of Spirits&r is the guidebook for the mod, but it's also needed for certain recipes, and can be used to create &bholograms&r to help you build out &dRituals&r!",
+    "translation": "&a魔鬼之夢種子&r有機率透過破壞雜草，或對&e沙子&r使用&a曲柄杖&r來獲得。\n\n若你選擇踏上神秘學之路，這顆種子在開啟你的&b第三隻眼&r時將非常非常有用。\n\n&6《魔靈全典》&r是此模組的導覽手冊，但某些配方也需要使用到它，且它可以用於建立&b全像投影&r來協助你佈置&d儀式&r！",
     "context": "chapters/general_magic.snbt / quest 4784FDEE62A479D0",
     "meta": {
       "line_split_policy": "lf",
@@ -540,8 +540,8 @@
     }
   },
   "quest.4784FDEE62A479D0.title": {
-    "original": "\u0026eOccultism",
-    "translation": "\u0026e《神秘學》",
+    "original": "&eOccultism",
+    "translation": "&e《神秘學》",
     "context": "chapters/general_magic.snbt / quest 4784FDEE62A479D0",
     "meta": {
       "line_split_policy": "none",
@@ -549,8 +549,8 @@
     }
   },
   "quest.4B7A9469150AF3A1.quest_desc": {
-    "original": "\u00266The Psimetal Tools\u0026r are a set of tools, comparable to \u0026bDiamond-tier in quality\u0026r, each of which can cast a \u0026bSpell\u0026r each time it performs its intended action.",
-    "translation": "\u00266Psi 金屬工具\u0026r，其品質可與\u0026b鑽石級別\u0026r媲美，\n\n每件工具在執行預定動作時，都能施放一個\u0026b魔法式\u0026r。",
+    "original": "&6The Psimetal Tools&r are a set of tools, comparable to &bDiamond-tier in quality&r, each of which can cast a &bSpell&r each time it performs its intended action.",
+    "translation": "&6Psi 金屬工具&r，其品質可與&b鑽石級別&r媲美，\n\n每件工具在執行預定動作時，都能施放一個&b魔法式&r。",
     "context": "chapters/general_magic.snbt / quest 4B7A9469150AF3A1",
     "meta": {
       "line_split_policy": "lf",
@@ -576,8 +576,8 @@
     }
   },
   "quest.4C78823B3EFA3105.quest_desc": {
-    "original": "The \u0026dEnchanting Apparatus\u0026r is basically the crafting table of Ars. It uses nearby items placed on \u0026aArcane Pedestals\u0026r to create new items, make enchantments, or upgrade Mage Armor later on.\n\nTo function, the Apparatus needs an \u00263Arcane Core\u0026r placed underneath it. It also needs several \u0026aArcane Pedestals\u0026r placed within 3 blocks from the Apparatus. The number of pedestals needed depends on the recipe!\n\nSome recipes also require \u0026dSource\u0026r, which means you'll need \u0026aSource Jars\u0026r placed within 3 blocks as well. ",
-    "translation": "\u0026d附魔裝置\u0026r基本上就是《\u00266新生魔藝\u0026r》的工作台。\n\n它能使用附近\u0026a奧術基座\u0026r上的物品，創造出新物品、進行附魔，或於稍後升級法師裝備。\n\n使用附魔裝置前，需要在它下方放置一個\u00263奧術核心\u0026r。\n\n還需要在半徑 3 格內，放置\u0026a奧術基座\u0026r。所需的基座數量取決於配方！\n\n有些配方還需要\u0026d魔源\u0026r，這表示你也需要將\u0026a魔源罐\u0026r放置在半徑 3 格內。",
+    "original": "The &dEnchanting Apparatus&r is basically the crafting table of Ars. It uses nearby items placed on &aArcane Pedestals&r to create new items, make enchantments, or upgrade Mage Armor later on.\n\nTo function, the Apparatus needs an &3Arcane Core&r placed underneath it. It also needs several &aArcane Pedestals&r placed within 3 blocks from the Apparatus. The number of pedestals needed depends on the recipe!\n\nSome recipes also require &dSource&r, which means you'll need &aSource Jars&r placed within 3 blocks as well. ",
+    "translation": "&d附魔裝置&r基本上就是《&6新生魔藝&r》的工作台。\n\n它能使用附近&a奧術基座&r上的物品，創造出新物品、進行附魔，或於稍後升級法師裝備。\n\n使用附魔裝置前，需要在它下方放置一個&3奧術核心&r。\n\n還需要在半徑 3 格內，放置&a奧術基座&r。所需的基座數量取決於配方！\n\n有些配方還需要&d魔源&r，這表示你也需要將&a魔源罐&r放置在半徑 3 格內。",
     "context": "chapters/general_magic.snbt / quest 4C78823B3EFA3105",
     "meta": {
       "line_split_policy": "lf",
@@ -585,8 +585,8 @@
     }
   },
   "quest.4D1EBD92C674531E.quest_desc": {
-    "original": "Applying five arcane spirits at the totem pole and activating it will invoke \u0026bThe Unchained Rite\u0026r.\n\nPure archaic potential bursts through a wide local area, focusing through the organic totem to \u0026ccorrupt\u0026r all sorts of natural material into blighted forms, including the totem pole itself as the original form cannot handle the raw energies.\n{@pagebreak}\nThe process becomes stable afterwards, an activated \u0026aSoulwood Totem\u0026r now more steadily channeling the energy to transmute materials placed on \u0026aBlighted Earth\u0026r in an extremely useful process.\n\nThe same cannot be said of resulting \u0026aSoulwood Saplings\u0026r however, which reproduces this rush of blight whenever they mature. Controlled cultivation is advised, if any.",
-    "translation": "在圖騰柱上應用五種奧術精魂並啟動它將調用\u0026b解放靈儀\u0026r。\n\n純粹的古老潛力在廣大的局部區域爆發，透過有機圖騰聚焦，將各種自然材料\u0026c腐蝕\u0026r為腐枯形式，包括圖騰柱本身，因為原始形式無法承受原始能量。\n{@pagebreak}\n之後過程變得穩定，啟動的\u0026a靈魂木圖騰\u0026r現在能更穩定地引導能量，將放置在\u0026a腐枯土\u0026r上的材料進行轉化，這是一個非常實用的過程。\n\n然而，對於產生的\u0026a靈魂樹苗\u0026r卻不能這麼說，它們每當成熟時都會重現這種腐枯衝刺。如果有意栽培的話，建議進行受控管理。",
+    "original": "Applying five arcane spirits at the totem pole and activating it will invoke &bThe Unchained Rite&r.\n\nPure archaic potential bursts through a wide local area, focusing through the organic totem to &ccorrupt&r all sorts of natural material into blighted forms, including the totem pole itself as the original form cannot handle the raw energies.\n{@pagebreak}\nThe process becomes stable afterwards, an activated &aSoulwood Totem&r now more steadily channeling the energy to transmute materials placed on &aBlighted Earth&r in an extremely useful process.\n\nThe same cannot be said of resulting &aSoulwood Saplings&r however, which reproduces this rush of blight whenever they mature. Controlled cultivation is advised, if any.",
+    "translation": "在圖騰柱上應用五種奧術精魂並啟動它將調用&b解放靈儀&r。\n\n純粹的古老潛力在廣大的局部區域爆發，透過有機圖騰聚焦，將各種自然材料&c腐蝕&r為腐枯形式，包括圖騰柱本身，因為原始形式無法承受原始能量。\n{@pagebreak}\n之後過程變得穩定，啟動的&a靈魂木圖騰&r現在能更穩定地引導能量，將放置在&a腐枯土&r上的材料進行轉化，這是一個非常實用的過程。\n\n然而，對於產生的&a靈魂樹苗&r卻不能這麼說，它們每當成熟時都會重現這種腐枯衝刺。如果有意栽培的話，建議進行受控管理。",
     "context": "chapters/general_magic.snbt / quest 4D1EBD92C674531E",
     "meta": {
       "line_split_policy": "lf",
@@ -603,8 +603,8 @@
     }
   },
   "quest.4D55D9FBE06DAA46.quest_desc": {
-    "original": "If you want to infuse your weapons, armor, and spell books with even more power, one of the best options is crafting some \u00263Upgrade Orbs\u0026r.\n\nThese Orbs are created by combining an \u0026aEmpty Upgrade Orb\u0026r with 8 \u00263Runes\u0026r.\n\nTo add the Upgrade Orb to your equipment, use the \u0026dArcane Anvil\u0026r. Up to 3 Orbs can be applied per equipment piece.",
-    "translation": "若你想為你的武器、盔甲和法術書，注入更強大的力量，最好的選擇之一就是製作一些\u00263升級法球\u0026r。\n\n這些法球是透過將一個\u0026a空白升級法球\u0026r，與 8 個\u00263符文\u0026r結合而成\n的。\n\n要將升級法球鑲嵌在你的裝備中，請使用\u0026a奧術鐵砧\u0026r。\n\n每件裝備最多可鑲嵌 3 個法球。",
+    "original": "If you want to infuse your weapons, armor, and spell books with even more power, one of the best options is crafting some &3Upgrade Orbs&r.\n\nThese Orbs are created by combining an &aEmpty Upgrade Orb&r with 8 &3Runes&r.\n\nTo add the Upgrade Orb to your equipment, use the &dArcane Anvil&r. Up to 3 Orbs can be applied per equipment piece.",
+    "translation": "若你想為你的武器、盔甲和法術書，注入更強大的力量，最好的選擇之一就是製作一些&3升級法球&r。\n\n這些法球是透過將一個&a空白升級法球&r，與 8 個&3符文&r結合而成\n的。\n\n要將升級法球鑲嵌在你的裝備中，請使用&a奧術鐵砧&r。\n\n每件裝備最多可鑲嵌 3 個法球。",
     "context": "chapters/general_magic.snbt / quest 4D55D9FBE06DAA46",
     "meta": {
       "line_split_policy": "lf",
@@ -612,8 +612,8 @@
     }
   },
   "quest.4D55D9FBE06DAA46.title": {
-    "original": "\u0026dUpgrade Orbs",
-    "translation": "\u0026d升級法球",
+    "original": "&dUpgrade Orbs",
+    "translation": "&d升級法球",
     "context": "chapters/general_magic.snbt / quest 4D55D9FBE06DAA46",
     "meta": {
       "line_split_policy": "none",
@@ -621,8 +621,8 @@
     }
   },
   "quest.4E4434B6CE1F2560.quest_desc": {
-    "original": "\u00266Cores\u0026r are an \u0026aessential part of your CAD\u0026r, always try to make the best one you can, \u0026athey're basically the CPU of your CAD\u0026r.\n\nEvery \u00266CAD Core\u0026r has a \u0026d\u0026lComplexity Value\u0026r\u0026r, which means \u0026dhow many computations it is able to do\u0026r.\n\u00268\u0026o(Selectors, Operators e etc can increase the Complexity of a Spell)\u0026r\u0026r\n\nAlso, Every \u00266CAD Core\u0026r has a \u00263\u0026lProjection Value\u0026r\u0026r, which is simply the \u00263total number of non-debug tricks it can perform at once\u0026r.\n\nThese \u00266Cores\u0026r in particular can provide you with either:\n\n► \u0026dComplexity\u0026r: 20 or 24\n\n► \u00263Projection\u0026r: 3 or 4",
-    "translation": "\u00266核心\u0026r是 \u0026aCAD 中不可或缺的一部分\u0026r，\n請務必嘗試製作你能做出的最好核心，\u0026a它們基本上就是你 CAD 的 CPU\u0026r。\n\n每個 \u00266CAD 核心\u0026r都有一個\u0026d\u0026l工序\u0026r\u0026r值，這代表了\u0026d它能進行多少計算\u0026r。\n\u00268\u0026o（選擇符、行為符等會增加魔法式的工序）\u0026r\u0026r\n\n此外，每個 \u00266CAD 核心\u0026r都有一個\u00263\u0026l映射\u0026r\u0026r值，\n這僅僅是它一次可以執行的\u00263非除錯行為符總數\u0026r。\n\n這些\u00266核心\u0026r特別提供：\n\n► \u0026d工序\u0026r：20 或 24\n\n► \u00263映射\u0026r：3 或 4",
+    "original": "&6Cores&r are an &aessential part of your CAD&r, always try to make the best one you can, &athey're basically the CPU of your CAD&r.\n\nEvery &6CAD Core&r has a &d&lComplexity Value&r&r, which means &dhow many computations it is able to do&r.\n&8&o(Selectors, Operators e etc can increase the Complexity of a Spell)&r&r\n\nAlso, Every &6CAD Core&r has a &3&lProjection Value&r&r, which is simply the &3total number of non-debug tricks it can perform at once&r.\n\nThese &6Cores&r in particular can provide you with either:\n\n► &dComplexity&r: 20 or 24\n\n► &3Projection&r: 3 or 4",
+    "translation": "&6核心&r是 &aCAD 中不可或缺的一部分&r，\n請務必嘗試製作你能做出的最好核心，&a它們基本上就是你 CAD 的 CPU&r。\n\n每個 &6CAD 核心&r都有一個&d&l工序&r&r值，這代表了&d它能進行多少計算&r。\n&8&o（選擇符、行為符等會增加魔法式的工序）&r&r\n\n此外，每個 &6CAD 核心&r都有一個&3&l映射&r&r值，\n這僅僅是它一次可以執行的&3非除錯行為符總數&r。\n\n這些&6核心&r特別提供：\n\n► &d工序&r：20 或 24\n\n► &3映射&r：3 或 4",
     "context": "chapters/general_magic.snbt / quest 4E4434B6CE1F2560",
     "meta": {
       "line_split_policy": "lf",
@@ -630,8 +630,8 @@
     }
   },
   "quest.4E4434B6CE1F2560.title": {
-    "original": "\u0026bTier 2\u0026f CAD Cores",
-    "translation": "\u0026b二階\u0026f CAD 核心",
+    "original": "&bTier 2&f CAD Cores",
+    "translation": "&b二階&f CAD 核心",
     "context": "chapters/general_magic.snbt / quest 4E4434B6CE1F2560",
     "meta": {
       "line_split_policy": "none",
@@ -639,8 +639,8 @@
     }
   },
   "quest.592A206B63BF556E.quest_desc": {
-    "original": "\u00266Batteries\u0026r are an \u0026dOptional Attachment\u0026r to have in a \u0026bCAD\u0026r; they allow you to have a \u0026bspare amount of Psi Energy ready\u0026r to be discharged when your basic Psi Energy runs dry. \n\n\u0026e\u0026nJust Like Power Banks!\u0026r\n\nThis one in particular provides:\n\n► \u0026aOverflow\u0026r: 100",
-    "translation": "\u00266電池\u0026r是 \u0026bCAD\u0026r 的\u0026d可選插件\u0026r；當你的基礎想子（Psi Energy）耗盡時，\n\n它們允許你擁有\u0026b預備好的想子緩衝區\u0026r以供釋放。\n\n\u0026e\u0026n就像行動電源一樣！\u0026r\n\n這個電池特別提供：\n\n► \u0026a溢出量\u0026r：100",
+    "original": "&6Batteries&r are an &dOptional Attachment&r to have in a &bCAD&r; they allow you to have a &bspare amount of Psi Energy ready&r to be discharged when your basic Psi Energy runs dry. \n\n&e&nJust Like Power Banks!&r\n\nThis one in particular provides:\n\n► &aOverflow&r: 100",
+    "translation": "&6電池&r是 &bCAD&r 的&d可選插件&r；當你的基礎想子（Psi Energy）耗盡時，\n\n它們允許你擁有&b預備好的想子緩衝區&r以供釋放。\n\n&e&n就像行動電源一樣！&r\n\n這個電池特別提供：\n\n► &a溢出量&r：100",
     "context": "chapters/general_magic.snbt / quest 592A206B63BF556E",
     "meta": {
       "line_split_policy": "lf",
@@ -648,8 +648,8 @@
     }
   },
   "quest.592A206B63BF556E.title": {
-    "original": "\u0026aTier 1\u0026f CAD Battery",
-    "translation": "\u0026a一階\u0026f CAD 電池",
+    "original": "&aTier 1&f CAD Battery",
+    "translation": "&a一階&f CAD 電池",
     "context": "chapters/general_magic.snbt / quest 592A206B63BF556E",
     "meta": {
       "line_split_policy": "none",
@@ -657,8 +657,8 @@
     }
   },
   "quest.59497745146C1EFD.quest_desc": {
-    "original": "\u0026aSoulstained tools\u0026r and weapons can be used to collect \u0026bSpirit\u0026r in the same manner as a \u0026eScythe\u0026r while having all the same traits as their mundane counterparts, though an upgrade from the Crude version is available as is an improved sword with \u0026dTyrving\u0026r.\n\nSplitting a metal across both spirit and physical however means that this damage is \u0026esimilarly split\u0026r, about half of it being converted into magic damage for better or worse.",
-    "translation": "\u0026a魂染工具\u0026r和武器可以用來收集\u0026b精魂\u0026r，方式與\u0026e鐮刀\u0026r相同，同時具有其普通對應件的所有特點，儘管可以從粗製版本升級，也有改良版劍類\u0026d提爾鋒\u0026r。\n\n然而，將金屬分散在精魂和物理兩端意味著這種傷害也\u0026e同樣分散\u0026r，大約一半的傷害會轉換為魔法傷害，無論好壞。",
+    "original": "&aSoulstained tools&r and weapons can be used to collect &bSpirit&r in the same manner as a &eScythe&r while having all the same traits as their mundane counterparts, though an upgrade from the Crude version is available as is an improved sword with &dTyrving&r.\n\nSplitting a metal across both spirit and physical however means that this damage is &esimilarly split&r, about half of it being converted into magic damage for better or worse.",
+    "translation": "&a魂染工具&r和武器可以用來收集&b精魂&r，方式與&e鐮刀&r相同，同時具有其普通對應件的所有特點，儘管可以從粗製版本升級，也有改良版劍類&d提爾鋒&r。\n\n然而，將金屬分散在精魂和物理兩端意味著這種傷害也&e同樣分散&r，大約一半的傷害會轉換為魔法傷害，無論好壞。",
     "context": "chapters/general_magic.snbt / quest 59497745146C1EFD",
     "meta": {
       "line_split_policy": "lf",
@@ -675,8 +675,8 @@
     }
   },
   "quest.5BF72200F151FF24.quest_desc": {
-    "original": "\u00266Psi\u0026r has a fairly simple progression of materials, allowing you to unlock better components for your \u0026bCADs\u0026r thus allowing you to cast more \u0026dcomplex\u0026r and \u00263cool\u0026r spells.\n\n► But it all has to start somewhere. By simply \u00266Shooting\u0026r a piece of \u0026cRedstone Dust\u0026r in the ground you should be able to convert it into \u00266Psi Dust\u0026r!\n\n\u00268\u0026o● If you haven't made yourself an \u0026lActual CAD\u0026r\u00268\u0026o, simply \u0026nplace it inside the CAD Assembler\u0026r.",
-    "translation": "\u00266Psi\u0026r 的材料進展相當簡單，讓你能夠為你的 \u0026bCAD\u0026r 解鎖更好的元件，\n\n從而讓你能夠施放更\u0026d複雜\u0026r且\u00263酷炫\u0026r的魔法式。\n\n- 但這都必須從某個地方開始。\n\n只需簡單地朝地面上的一堆\u0026c紅石粉\u0026r\u00266射擊\u0026r，你應該就能將其轉換為 \u00266Psi 粉\u0026r！\n\n\u00268\u0026o● 若你還沒有為自己製作一把 \u0026lCAD\u0026r\u00268\u0026o，\u00268\u0026o只需\u0026n將其放入 CAD 配裝台中\u0026r。\u0026r",
+    "original": "&6Psi&r has a fairly simple progression of materials, allowing you to unlock better components for your &bCADs&r thus allowing you to cast more &dcomplex&r and &3cool&r spells.\n\n► But it all has to start somewhere. By simply &6Shooting&r a piece of &cRedstone Dust&r in the ground you should be able to convert it into &6Psi Dust&r!\n\n&8&o● If you haven't made yourself an &lActual CAD&r&8&o, simply &nplace it inside the CAD Assembler&r.",
+    "translation": "&6Psi&r 的材料進展相當簡單，讓你能夠為你的 &bCAD&r 解鎖更好的元件，\n\n從而讓你能夠施放更&d複雜&r且&3酷炫&r的魔法式。\n\n- 但這都必須從某個地方開始。\n\n只需簡單地朝地面上的一堆&c紅石粉&r&6射擊&r，你應該就能將其轉換為 &6Psi 粉&r！\n\n&8&o● 若你還沒有為自己製作一把 &lCAD&r&8&o，&8&o只需&n將其放入 CAD 配裝台中&r。&r",
     "context": "chapters/general_magic.snbt / quest 5BF72200F151FF24",
     "meta": {
       "line_split_policy": "lf",
@@ -693,8 +693,8 @@
     }
   },
   "quest.5D7BABE1A37EC6D3.quest_desc": {
-    "original": "Where \u0026eMalignant Weapons\u0026r \u0026oseemed\u0026r to have some will, weapons made with Fused Consciousness leave no room for doubt.\n\nThe \u00266Sundering Anchor\u0026r continues to attack after you swing, not yet finished with your foe.\nUsing the blade unleashes it, sending it out to gleefully attack anything it can in a large area repeatedly before returning, striking deep into their souls.\n\u00267Aside from you, of course. Who else would wield it?\u0026r\n\nThe \u00266Unwinding Chaos\u0026r sears every foe it affects with magical fervor, the staff sapping energy from the flames it caused to regain the hexing charges used to create them.\n\u00267You don't want it to be over after all do you? Not yet, at least.\u0026r",
-    "translation": "如果說\u0026e惡念武器\u0026r\u0026o看起來\u0026r有些意志，那麼用融合意識製成的武器則不容置疑。\n\n\u00266裂斬錨刃\u0026r在你揮動後會繼續攻擊，只要你還未結束與敵人的戰鬥。\n\n使用此刃會將其釋放，它會欣喜若狂地在廣大範圍內，反覆襲擊所有目標，並對他們的靈魂造成重創，隨後才重回手中。\n\u00267當然，除了你。還有誰能揮舞它？\u0026r\n\n\u00266混沌四侵\u0026r以魔法熱情灼燒它影響的每一個敵人，法杖從它引起的火焰中汲取能量，以重新獲得用於製作它們的咒術次數。\n\u00267畢竟你不想讓這一切結束，對吧？至少現在還不想。\u0026r",
+    "original": "Where &eMalignant Weapons&r &oseemed&r to have some will, weapons made with Fused Consciousness leave no room for doubt.\n\nThe &6Sundering Anchor&r continues to attack after you swing, not yet finished with your foe.\nUsing the blade unleashes it, sending it out to gleefully attack anything it can in a large area repeatedly before returning, striking deep into their souls.\n&7Aside from you, of course. Who else would wield it?&r\n\nThe &6Unwinding Chaos&r sears every foe it affects with magical fervor, the staff sapping energy from the flames it caused to regain the hexing charges used to create them.\n&7You don't want it to be over after all do you? Not yet, at least.&r",
+    "translation": "如果說&e惡念武器&r&o看起來&r有些意志，那麼用融合意識製成的武器則不容置疑。\n\n&6裂斬錨刃&r在你揮動後會繼續攻擊，只要你還未結束與敵人的戰鬥。\n\n使用此刃會將其釋放，它會欣喜若狂地在廣大範圍內，反覆襲擊所有目標，並對他們的靈魂造成重創，隨後才重回手中。\n&7當然，除了你。還有誰能揮舞它？&r\n\n&6混沌四侵&r以魔法熱情灼燒它影響的每一個敵人，法杖從它引起的火焰中汲取能量，以重新獲得用於製作它們的咒術次數。\n&7畢竟你不想讓這一切結束，對吧？至少現在還不想。&r",
     "context": "chapters/general_magic.snbt / quest 5D7BABE1A37EC6D3",
     "meta": {
       "line_split_policy": "lf",
@@ -702,8 +702,8 @@
     }
   },
   "quest.5D7BABE1A37EC6D3.title": {
-    "original": "\u00266Conscious Weapons",
-    "translation": "\u00266覺知武器",
+    "original": "&6Conscious Weapons",
+    "translation": "&6覺知武器",
     "context": "chapters/general_magic.snbt / quest 5D7BABE1A37EC6D3",
     "meta": {
       "line_split_policy": "none",
@@ -711,8 +711,8 @@
     }
   },
   "quest.5E3A4A3F00FDDEC0.quest_desc": {
-    "original": "The \u0026aArcane Anvil\u0026r will quickly become your best friend when using this mod.\n\nThis anvil can be used to \u0026bupgrade spells, equipment,\u0026r and even \u0026bimbue spells onto your gear!\u0026r\n\nHave a favorite spell but it's rather weak? Upgrade it using higher tier inks using the \u0026aArcane Anvil\u0026r!",
-    "translation": "當使用這個模組時，\u0026a奧術鐵砧\u0026r將迅速成為你最好的朋友。\n\n這個鐵砧可以用來\u0026b升級法術、裝備\u0026r，甚至能將\u0026b法術注入你的裝備\u0026r！\n\n有喜歡的法術但威力太弱嗎？使用\u0026a奧術鐵砧\u0026r並配合更高級別的墨水來升級它吧！",
+    "original": "The &aArcane Anvil&r will quickly become your best friend when using this mod.\n\nThis anvil can be used to &bupgrade spells, equipment,&r and even &bimbue spells onto your gear!&r\n\nHave a favorite spell but it's rather weak? Upgrade it using higher tier inks using the &aArcane Anvil&r!",
+    "translation": "當使用這個模組時，&a奧術鐵砧&r將迅速成為你最好的朋友。\n\n這個鐵砧可以用來&b升級法術、裝備&r，甚至能將&b法術注入你的裝備&r！\n\n有喜歡的法術但威力太弱嗎？使用&a奧術鐵砧&r並配合更高級別的墨水來升級它吧！",
     "context": "chapters/general_magic.snbt / quest 5E3A4A3F00FDDEC0",
     "meta": {
       "line_split_policy": "lf",
@@ -720,8 +720,8 @@
     }
   },
   "quest.5E3A4A3F00FDDEC0.title": {
-    "original": "\u0026fUpgrading \u0026bSpells\u0026r \u0026f\\\u0026\\ \u0026aEquipment",
-    "translation": "\u0026f升級\u0026b法術\u0026r \u0026f\\\u0026\\ \u0026a裝備",
+    "original": "&fUpgrading &bSpells&r &f\\&\\ &aEquipment",
+    "translation": "&f升級&b法術&r &f\\&\\ &a裝備",
     "context": "chapters/general_magic.snbt / quest 5E3A4A3F00FDDEC0",
     "meta": {
       "line_split_policy": "none",
@@ -729,8 +729,8 @@
     }
   },
   "quest.61B948F3E526ADF9.quest_desc": {
-    "original": "With the right combination of ingredients placed into a \u0026aSoulbinding Brazier\u0026r, semi-permanent \u0026bOaths\u0026r (also known as Geasa, singular: Geas) can be sworn on one's soul that change your experience in ways from minor to drastic.\n\nSome examples are providing \u00262innate armor\u0026r at the cost of \u0026onever\u0026r wearing any, or making you a \u00263titan of the sea\u0026r, but \u0026oonly\u0026r when in water...\n\nCheck \u0026eMalum's Encyclopedia\u0026r to see the conditions of these various Oaths.\nCheck the next page for details on the Oath-making process.\n{@pagebreak}\nTo use the \u0026aBrazier\u0026r, the central item outlined in the \u0026eEncyclopedia\u0026r must be inserted first. From there, the spirits and additional materials can be applied. Once the \u0026bOath\u0026r is prepared, use \u0026eEther\u0026r on the brazier to light it and begin the Oath.\n\nThe Oath process will take a few dozen seconds, and any willing player may interact with the Brazier to accept the Oath at this time at the cost of a little damage, with each player able to take on two Oaths at once.\n\n\u0026o\u00267Unwilling, or unwitting, players and creatures can be included into Oaths by applying weakness to them before lighting the Brazier.\n\nTo end the effects of an Oath, this process can be repeated with a \u0026eParacasual Flame\u0026r lighting the \u0026aBrazier\u0026r instead.",
-    "translation": "將正確的材料組合放入\u0026a魂縛火盆\u0026r中，可以在一個人的靈魂上宣誓半永久性的\u0026b誓令\u0026r，這些誓令會以從小到大的各種方式改變你的體驗。\n\n一些例子包括以\u0026o永不\u0026r穿戴裝備為代價，提供\u00262先天盔甲\u0026r，或者讓你成為\u00263海洋巨人\u0026r，但\u0026o僅\u0026r在水中時...\n\n查看《\u0026e奧術全典\u0026r》以了解這些各種誓令的條件。\n查看下一頁了解製作誓令過程的細節。\n{@pagebreak}\n要使用\u0026a火盆\u0026r，必須先放入\u0026e奧術全典\u0026r中概述的核心物品。從那裡開始，可以應用精魂和額外材料。一旦\u0026b誓令\u0026r準備就緒，在火盆上使用\u0026e靈火\u0026r來點燃它並開始誓令。\n\n誓令過程將持續幾十秒，任何願意的玩家，在此期間都可以與火盆互動以接受誓令，代價是受到一點傷害，每位玩家最多可同時承擔兩個誓令。\n\n\u0026o\u00267不願或無意的玩家和生物，可以透過在點燃火盆前，對其施加虛弱效果來納入誓令。\u0026r\n\n要結束誓令的效果，可以使用\u0026e違因火焰\u0026r點燃\u0026a火盆\u0026r來重複此過程。",
+    "original": "With the right combination of ingredients placed into a &aSoulbinding Brazier&r, semi-permanent &bOaths&r (also known as Geasa, singular: Geas) can be sworn on one's soul that change your experience in ways from minor to drastic.\n\nSome examples are providing &2innate armor&r at the cost of &onever&r wearing any, or making you a &3titan of the sea&r, but &oonly&r when in water...\n\nCheck &eMalum's Encyclopedia&r to see the conditions of these various Oaths.\nCheck the next page for details on the Oath-making process.\n{@pagebreak}\nTo use the &aBrazier&r, the central item outlined in the &eEncyclopedia&r must be inserted first. From there, the spirits and additional materials can be applied. Once the &bOath&r is prepared, use &eEther&r on the brazier to light it and begin the Oath.\n\nThe Oath process will take a few dozen seconds, and any willing player may interact with the Brazier to accept the Oath at this time at the cost of a little damage, with each player able to take on two Oaths at once.\n\n&o&7Unwilling, or unwitting, players and creatures can be included into Oaths by applying weakness to them before lighting the Brazier.\n\nTo end the effects of an Oath, this process can be repeated with a &eParacasual Flame&r lighting the &aBrazier&r instead.",
+    "translation": "將正確的材料組合放入&a魂縛火盆&r中，可以在一個人的靈魂上宣誓半永久性的&b誓令&r，這些誓令會以從小到大的各種方式改變你的體驗。\n\n一些例子包括以&o永不&r穿戴裝備為代價，提供&2先天盔甲&r，或者讓你成為&3海洋巨人&r，但&o僅&r在水中時...\n\n查看《&e奧術全典&r》以了解這些各種誓令的條件。\n查看下一頁了解製作誓令過程的細節。\n{@pagebreak}\n要使用&a火盆&r，必須先放入&e奧術全典&r中概述的核心物品。從那裡開始，可以應用精魂和額外材料。一旦&b誓令&r準備就緒，在火盆上使用&e靈火&r來點燃它並開始誓令。\n\n誓令過程將持續幾十秒，任何願意的玩家，在此期間都可以與火盆互動以接受誓令，代價是受到一點傷害，每位玩家最多可同時承擔兩個誓令。\n\n&o&7不願或無意的玩家和生物，可以透過在點燃火盆前，對其施加虛弱效果來納入誓令。&r\n\n要結束誓令的效果，可以使用&e違因火焰&r點燃&a火盆&r來重複此過程。",
     "context": "chapters/general_magic.snbt / quest 61B948F3E526ADF9",
     "meta": {
       "line_split_policy": "lf",
@@ -747,8 +747,8 @@
     }
   },
   "quest.62802965CA91E8C9.quest_desc": {
-    "original": "A \u00266CAD's Socket\u0026r is basically its \u0026abullet clip\u0026r.\nIt's what \u0026aSpell Bullets\u0026r are loaded into, and it's responsible for transferring the compiled \u0026bSpells\u0026r contained within the Bullets to the \u0026dCore\u0026r for processing.\n\nA \u00266Socket\u0026r has a \u0026eBandwidth\u0026r, which is the maximum size \u00268\u0026o(in grid spaces)\u0026r\u0026r of a \u0026bSpell\u0026r that it can transfer to a \u0026dCore\u0026r, all at once. \n\u00268\u0026o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)\u0026r\u0026r\n\nAlso, another non-trivial attribute of \u00266Sockets\u0026r is to provide a way to store \u00263persistent information\u0026r, the more \u0026bMemory\u0026r a \u00266Socket\u0026r provides, more \u0026bVectors\u0026r can be stored for later \u0026bSpell\u0026r executions.\n\n\u00268\u0026o(\u0026lTrick: Save Vector\u0026r\u00268\u0026o saves a vector to a designated Memory Slot, whereas \u0026lSelector: Saved Vector\u0026r\u00268\u0026o retrieves the vector saved in the designated Memory Slot)\u0026r\u0026r\n\n\u00266These ones\u0026r in particular can provide you with either:\n\n► \u0026eBandwidth\u0026r: 6 or 7\n\n► \u00262Sockets\u0026r: 6 or 8\n\n► \u0026bMemory\u0026r: 7",
-    "translation": "\u00266CAD 彈匣\u0026r正如其名，就是 CAD 的\u0026a彈匣\u0026r。\n它是裝載\u0026a魔法式子彈\u0026r的地方，負責將子彈中編譯好的\u0026b魔法式\u0026r傳輸到\u0026d核心\u0026r進行處理。\n\n\u00266彈匣\u0026r有一個\u0026e頻寬\u0026r，這代表了它一次可以傳輸到\u0026d核心\u0026r的\u0026b魔法式\u0026r最大尺寸 \u00268\u0026o（以網格空間計）\u0026r\u0026r。\n\u00268\u0026o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）\u0026r\u0026r\n\n此外，\u00266彈匣\u0026r另一個非平凡的屬性是提供儲存\u00263持久資訊\u0026r的方法，\n\u00266彈匣\u0026r提供的\u0026b記憶\u0026r越多，就可以儲存更多的\u0026b向量\u0026r，供以後執行\u0026b魔法式\u0026r時使用。\n\u00268\u0026o\u0026l行為符：儲存向量\u0026r\u00268\u0026o，將向量保存到指定的記憶槽中\n\u00268\u0026o\u0026l選擇符：儲存的向量\u0026r\u00268\u0026o，用於檢索保存在指定記憶槽中的向量\u0026r\u0026r\n\n這些\u00266彈匣\u0026r特別提供：\n\n► \u0026e頻寬\u0026r：6 或 7\n\n► \u00262彈匣\u0026r：6 或 8\n\n► \u0026b記憶\u0026r：7",
+    "original": "A &6CAD's Socket&r is basically its &abullet clip&r.\nIt's what &aSpell Bullets&r are loaded into, and it's responsible for transferring the compiled &bSpells&r contained within the Bullets to the &dCore&r for processing.\n\nA &6Socket&r has a &eBandwidth&r, which is the maximum size &8&o(in grid spaces)&r&r of a &bSpell&r that it can transfer to a &dCore&r, all at once. \n&8&o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)&r&r\n\nAlso, another non-trivial attribute of &6Sockets&r is to provide a way to store &3persistent information&r, the more &bMemory&r a &6Socket&r provides, more &bVectors&r can be stored for later &bSpell&r executions.\n\n&8&o(&lTrick: Save Vector&r&8&o saves a vector to a designated Memory Slot, whereas &lSelector: Saved Vector&r&8&o retrieves the vector saved in the designated Memory Slot)&r&r\n\n&6These ones&r in particular can provide you with either:\n\n► &eBandwidth&r: 6 or 7\n\n► &2Sockets&r: 6 or 8\n\n► &bMemory&r: 7",
+    "translation": "&6CAD 彈匣&r正如其名，就是 CAD 的&a彈匣&r。\n它是裝載&a魔法式子彈&r的地方，負責將子彈中編譯好的&b魔法式&r傳輸到&d核心&r進行處理。\n\n&6彈匣&r有一個&e頻寬&r，這代表了它一次可以傳輸到&d核心&r的&b魔法式&r最大尺寸 &8&o（以網格空間計）&r&r。\n&8&o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）&r&r\n\n此外，&6彈匣&r另一個非平凡的屬性是提供儲存&3持久資訊&r的方法，\n&6彈匣&r提供的&b記憶&r越多，就可以儲存更多的&b向量&r，供以後執行&b魔法式&r時使用。\n&8&o&l行為符：儲存向量&r&8&o，將向量保存到指定的記憶槽中\n&8&o&l選擇符：儲存的向量&r&8&o，用於檢索保存在指定記憶槽中的向量&r&r\n\n這些&6彈匣&r特別提供：\n\n► &e頻寬&r：6 或 7\n\n► &2彈匣&r：6 或 8\n\n► &b記憶&r：7",
     "context": "chapters/general_magic.snbt / quest 62802965CA91E8C9",
     "meta": {
       "line_split_policy": "lf",
@@ -756,8 +756,8 @@
     }
   },
   "quest.62802965CA91E8C9.title": {
-    "original": "\u0026bTier 2\u0026f CAD Sockets",
-    "translation": "\u0026b二階\u0026f CAD 彈匣",
+    "original": "&bTier 2&f CAD Sockets",
+    "translation": "&b二階&f CAD 彈匣",
     "context": "chapters/general_magic.snbt / quest 62802965CA91E8C9",
     "meta": {
       "line_split_policy": "none",
@@ -774,8 +774,8 @@
     }
   },
   "quest.62C92C8960875611.title": {
-    "original": "\u0026fSpiritual Metallurgy",
-    "translation": "\u0026f精魂冶金工藝",
+    "original": "&fSpiritual Metallurgy",
+    "translation": "&f精魂冶金工藝",
     "context": "chapters/general_magic.snbt / quest 62C92C8960875611",
     "meta": {
       "line_split_policy": "none",
@@ -783,8 +783,8 @@
     }
   },
   "quest.63BED4D08224B3EF.quest_desc": {
-    "original": "There are more types of Relays to transfer \u0026dSource\u0026r between jars and blocks!\n\nThe \u0026dSplitter\u0026r is used to split the Source that is directed towards it into multiple Source Jars at once!\n\nThe \u0026aDepositor Relay\u0026r will deposit Source into Source Jars that are not linked to anything within 5 blocks. Great for creating Source storage rooms!\n{@pagebreak}\nThe \u0026dWarper Relay\u0026r is used to teleport Source to other \u0026dWarper Relays\u0026r, no matter how far away.\n\n\u0026eNote\u0026r: Distances beyond 30 blocks will have a chance to lose some Source when warping.\n\nThe \u0026aCollector Relay\u0026r will automatically take Source from any Source Jar it is not connected to within 5 blocks of it.",
-    "translation": "還有更多類型的中繼器，可用於在魔源罐與方塊間傳輸\u0026d魔源\u0026r！\n\n\u0026d分流型中繼器\u0026r可用於將引向它的魔源，同時分配至多個魔源罐中！\n\n\u0026a存放型中繼器\u0026r會將魔源存入 5 格方塊內，未連接至任何東西\n的魔源罐中。\n\n非常適合用來搭建魔源儲藏室！\n{@pagebreak}\n\u0026d折躍型中繼器\u0026r用於將魔源傳至其他\u0026d折躍型中繼器\u0026r，無論距離多遠。\n\n\u0026e注意\u0026r：距離超過 30 格時，傳送過程中有機率損失一些魔源。\n\n\u0026a收集型中繼器\u0026r將自動從其周圍 5 格內，未與其連接的任何魔\n源罐中提取魔源。",
+    "original": "There are more types of Relays to transfer &dSource&r between jars and blocks!\n\nThe &dSplitter&r is used to split the Source that is directed towards it into multiple Source Jars at once!\n\nThe &aDepositor Relay&r will deposit Source into Source Jars that are not linked to anything within 5 blocks. Great for creating Source storage rooms!\n{@pagebreak}\nThe &dWarper Relay&r is used to teleport Source to other &dWarper Relays&r, no matter how far away.\n\n&eNote&r: Distances beyond 30 blocks will have a chance to lose some Source when warping.\n\nThe &aCollector Relay&r will automatically take Source from any Source Jar it is not connected to within 5 blocks of it.",
+    "translation": "還有更多類型的中繼器，可用於在魔源罐與方塊間傳輸&d魔源&r！\n\n&d分流型中繼器&r可用於將引向它的魔源，同時分配至多個魔源罐中！\n\n&a存放型中繼器&r會將魔源存入 5 格方塊內，未連接至任何東西\n的魔源罐中。\n\n非常適合用來搭建魔源儲藏室！\n{@pagebreak}\n&d折躍型中繼器&r用於將魔源傳至其他&d折躍型中繼器&r，無論距離多遠。\n\n&e注意&r：距離超過 30 格時，傳送過程中有機率損失一些魔源。\n\n&a收集型中繼器&r將自動從其周圍 5 格內，未與其連接的任何魔\n源罐中提取魔源。",
     "context": "chapters/general_magic.snbt / quest 63BED4D08224B3EF",
     "meta": {
       "line_split_policy": "lf",
@@ -792,8 +792,8 @@
     }
   },
   "quest.652650C157E16712.quest_desc": {
-    "original": "One obvious use of \u0026bSpirit\u0026r is to make equipment from it. Infusing it into cloth provides a fine base to use the Spirit's properties.\n\nA \u0026aSoulwoven Pouch\u0026r can help you when gathering Spirits by funneling Spirits and certain other drops into itself before they'd touch its holder’s inventory, up to 8 stacks worth. The pouch can be used to dump its contents into the world, or used in the inventory to pull out sets of items at a time.",
-    "translation": "\u0026b精魂\u0026r最顯而易見的用途之一就是用它製造裝備。將其注入布料中，為使用精魂的特性提供了良好的基礎。\n\n\u0026a魂織布袋\u0026r可以幫助你收集精魂，透過在精魂和某些其他掉落物，觸碰到持有者的物品欄之前，將其存入袋中，最多可存放 8 組。\n\n布袋可用於將其內容物傾倒到世界中，或在物品欄中用於一次取出多組物品。",
+    "original": "One obvious use of &bSpirit&r is to make equipment from it. Infusing it into cloth provides a fine base to use the Spirit's properties.\n\nA &aSoulwoven Pouch&r can help you when gathering Spirits by funneling Spirits and certain other drops into itself before they'd touch its holder’s inventory, up to 8 stacks worth. The pouch can be used to dump its contents into the world, or used in the inventory to pull out sets of items at a time.",
+    "translation": "&b精魂&r最顯而易見的用途之一就是用它製造裝備。將其注入布料中，為使用精魂的特性提供了良好的基礎。\n\n&a魂織布袋&r可以幫助你收集精魂，透過在精魂和某些其他掉落物，觸碰到持有者的物品欄之前，將其存入袋中，最多可存放 8 組。\n\n布袋可用於將其內容物傾倒到世界中，或在物品欄中用於一次取出多組物品。",
     "context": "chapters/general_magic.snbt / quest 652650C157E16712",
     "meta": {
       "line_split_policy": "lf",
@@ -801,8 +801,8 @@
     }
   },
   "quest.664F7957756D84FF.quest_desc": {
-    "original": "No matter what kind of spell school you choose to use, there is an armor set just for you.\n\nTo make these, you'll need to make \u0026dArcane Cloth\u0026r first. Combine several pieces of the cloth with a \u0026aRune\u0026r, and you can make some of the strongest mage armor!",
-    "translation": "無論你選擇使用哪種法術學派，都有適合你的套裝。\n\n要製作這些，你需要先製作\u0026d奧術布匹\u0026r。將幾塊布匹與\u0026a符文\u0026r結合，你就能製作出一些最強大的法師盔甲！",
+    "original": "No matter what kind of spell school you choose to use, there is an armor set just for you.\n\nTo make these, you'll need to make &dArcane Cloth&r first. Combine several pieces of the cloth with a &aRune&r, and you can make some of the strongest mage armor!",
+    "translation": "無論你選擇使用哪種法術學派，都有適合你的套裝。\n\n要製作這些，你需要先製作&d奧術布匹&r。將幾塊布匹與&a符文&r結合，你就能製作出一些最強大的法師盔甲！",
     "context": "chapters/general_magic.snbt / quest 664F7957756D84FF",
     "meta": {
       "line_split_policy": "lf",
@@ -819,8 +819,8 @@
     }
   },
   "quest.66545AFE0DEA820F.title": {
-    "original": "\u0026fThe Well's Returns",
-    "translation": "\u0026f深井的回報",
+    "original": "&fThe Well's Returns",
+    "translation": "&f深井的回報",
     "context": "chapters/general_magic.snbt / quest 66545AFE0DEA820F",
     "meta": {
       "line_split_policy": "none",
@@ -828,8 +828,8 @@
     }
   },
   "quest.6755CACD4957A4CB.quest_desc": {
-    "original": "\u00266Cores\u0026r are an \u0026aessential part of your CAD\u0026r, always try to make the best one you can, \u0026athey're basically the CPU of your CAD\u0026r.\n\nEvery \u00266CAD Core\u0026r has a \u0026d\u0026lComplexity Value\u0026r\u0026r, which means \u0026dhow many computations it is able to do\u0026r.\n\u00268\u0026o(Selectors, Operators e etc can increase the Complexity of a Spell)\u0026r\u0026r\n\nAlso, Every \u00266CAD Core\u0026r has a \u00263\u0026lProjection Value\u0026r\u0026r, which is simply the \u00263total number of non-debug tricks it can perform at once\u0026r.\n\nThis \u00266Core\u0026r in particular provides you with:\n\n► \u0026dComplexity\u0026r: 14\n\n► \u00263Projection\u0026r: 1",
-    "translation": "\u00266核心\u0026r是 \u0026aCAD 中不可或缺的一部分\u0026r，\n請務必嘗試製作你能做出的最好核心，\u0026a它們基本上就是你 CAD 的 CPU\u0026r。\n\n每個 \u00266CAD 核心\u0026r都有一個\u0026d\u0026l工序\u0026r\u0026r值，這代表了\u0026d它能進行多少計算\u0026r。\n\u00268\u0026o（選擇符、行為符等會增加魔法式的工序）\u0026r\u0026r\n\n此外，每個 \u00266CAD 核心\u0026r都有一個\u00263\u0026l映射\u0026r\u0026r值，\n這僅僅是它一次可以執行的\u00263非除錯行為符總數\u0026r。\n\n這個\u00266核心\u0026r特別提供：\n\n► \u0026d工序\u0026r：14\n\n► \u00263映射\u0026r：1",
+    "original": "&6Cores&r are an &aessential part of your CAD&r, always try to make the best one you can, &athey're basically the CPU of your CAD&r.\n\nEvery &6CAD Core&r has a &d&lComplexity Value&r&r, which means &dhow many computations it is able to do&r.\n&8&o(Selectors, Operators e etc can increase the Complexity of a Spell)&r&r\n\nAlso, Every &6CAD Core&r has a &3&lProjection Value&r&r, which is simply the &3total number of non-debug tricks it can perform at once&r.\n\nThis &6Core&r in particular provides you with:\n\n► &dComplexity&r: 14\n\n► &3Projection&r: 1",
+    "translation": "&6核心&r是 &aCAD 中不可或缺的一部分&r，\n請務必嘗試製作你能做出的最好核心，&a它們基本上就是你 CAD 的 CPU&r。\n\n每個 &6CAD 核心&r都有一個&d&l工序&r&r值，這代表了&d它能進行多少計算&r。\n&8&o（選擇符、行為符等會增加魔法式的工序）&r&r\n\n此外，每個 &6CAD 核心&r都有一個&3&l映射&r&r值，\n這僅僅是它一次可以執行的&3非除錯行為符總數&r。\n\n這個&6核心&r特別提供：\n\n► &d工序&r：14\n\n► &3映射&r：1",
     "context": "chapters/general_magic.snbt / quest 6755CACD4957A4CB",
     "meta": {
       "line_split_policy": "lf",
@@ -837,8 +837,8 @@
     }
   },
   "quest.6755CACD4957A4CB.title": {
-    "original": "\u0026aTier 1\u0026f CAD Core",
-    "translation": "\u0026a一階\u0026f CAD 核心",
+    "original": "&aTier 1&f CAD Core",
+    "translation": "&a一階&f CAD 核心",
     "context": "chapters/general_magic.snbt / quest 6755CACD4957A4CB",
     "meta": {
       "line_split_policy": "none",
@@ -846,8 +846,8 @@
     }
   },
   "quest.69E90341CD1AD494.quest_desc": {
-    "original": "► By \u0026dRight Clicking\u0026r a \u00266Spell Programmer\u0026r you'll be able to access its GUI, it's a 9x9 \u00268\u0026o(Direwolf Approved)\u0026r Grid that allows you to place and connect \u0026b\"blocks of code\"\u0026r together.\n\nDon't forget to make \u00266Spell Bullets\u0026r too as they'll be used to hold your Spells, and let's move to the next quest where you'll be making your \u0026bFirst Spell\u0026r!",
-    "translation": "► \u0026d右鍵點擊\u0026r\u00266術式編輯台\u0026r，你會進入其編輯介面，\n\n介面會是一個 9x9 的網格\u00268\u0026o（Direwolf 喜歡這個）\u0026r，\n\n你能在這邊放置\u0026b「魔法塊」\u0026r，並將它們連接在一起。\n\n別忘了也要製作\u00266魔法式子彈\u0026r，因為它們將被用來存放你的魔法式，讓我們轉向下一個任務，在那裡你將製作你的\u0026b第一個魔法式\u0026r！",
+    "original": "► By &dRight Clicking&r a &6Spell Programmer&r you'll be able to access its GUI, it's a 9x9 &8&o(Direwolf Approved)&r Grid that allows you to place and connect &b\"blocks of code\"&r together.\n\nDon't forget to make &6Spell Bullets&r too as they'll be used to hold your Spells, and let's move to the next quest where you'll be making your &bFirst Spell&r!",
+    "translation": "► &d右鍵點擊&r&6術式編輯台&r，你會進入其編輯介面，\n\n介面會是一個 9x9 的網格&8&o（Direwolf 喜歡這個）&r，\n\n你能在這邊放置&b「魔法塊」&r，並將它們連接在一起。\n\n別忘了也要製作&6魔法式子彈&r，因為它們將被用來存放你的魔法式，讓我們轉向下一個任務，在那裡你將製作你的&b第一個魔法式&r！",
     "context": "chapters/general_magic.snbt / quest 69E90341CD1AD494",
     "meta": {
       "line_split_policy": "lf",
@@ -873,8 +873,8 @@
     }
   },
   "quest.6B971FA156A96BD5.quest_desc": {
-    "original": "A \u0026aSpirit Catalyzer\u0026r consumes inserted furnace fuels to accelerate the processing speed of a nearby \u0026eCrucible\u0026r, up to eight are able to function on a single Crucible.\n\nThis speed can sometimes cause more damage to the focal \u0026eImpetus\u0026r than usual, decreasing the total amount of material it can create before needing to be fixed or replaced.",
-    "translation": "\u0026a精魂催化器\u0026r消耗放入的熔爐燃料，以加速附近\u0026e坩堝\u0026r的處理速度，單個坩堝附近，最多可以有八個催化器同時運作。\n\n這種速度有時會對焦點\u0026e促符\u0026r造成比平時更多的損害，從而減少其在需要修復或更換之前所能創造的材料總量。",
+    "original": "A &aSpirit Catalyzer&r consumes inserted furnace fuels to accelerate the processing speed of a nearby &eCrucible&r, up to eight are able to function on a single Crucible.\n\nThis speed can sometimes cause more damage to the focal &eImpetus&r than usual, decreasing the total amount of material it can create before needing to be fixed or replaced.",
+    "translation": "&a精魂催化器&r消耗放入的熔爐燃料，以加速附近&e坩堝&r的處理速度，單個坩堝附近，最多可以有八個催化器同時運作。\n\n這種速度有時會對焦點&e促符&r造成比平時更多的損害，從而減少其在需要修復或更換之前所能創造的材料總量。",
     "context": "chapters/general_magic.snbt / quest 6B971FA156A96BD5",
     "meta": {
       "line_split_policy": "lf",
@@ -882,8 +882,8 @@
     }
   },
   "quest.6BCA2ED05C7D9D4E.quest_desc": {
-    "original": "The rejection of magic, when properly isolated from the mage wearing it, provides a powerful defense.\n\nMagic attacks and boons alike are partially absorbed by the \u00265Malignant Stronghold\u0026r, used to further fuel the armor's integrity and warding capabilities.\n\n\u00267The more they fight, the closer their end approaches.",
-    "translation": "對魔法的反制，當與穿戴它的法師合適地隔離時，能提供強大的防禦。\n\n魔法攻擊和增益同樣被\u00265惡念要塞\u0026r部分吸收，用於進一步加強盔甲的完整性和守護能力。\n\n\u00267他們戰鬥得越多，他們的終結就越接近。",
+    "original": "The rejection of magic, when properly isolated from the mage wearing it, provides a powerful defense.\n\nMagic attacks and boons alike are partially absorbed by the &5Malignant Stronghold&r, used to further fuel the armor's integrity and warding capabilities.\n\n&7The more they fight, the closer their end approaches.",
+    "translation": "對魔法的反制，當與穿戴它的法師合適地隔離時，能提供強大的防禦。\n\n魔法攻擊和增益同樣被&5惡念要塞&r部分吸收，用於進一步加強盔甲的完整性和守護能力。\n\n&7他們戰鬥得越多，他們的終結就越接近。",
     "context": "chapters/general_magic.snbt / quest 6BCA2ED05C7D9D4E",
     "meta": {
       "line_split_policy": "lf",
@@ -891,8 +891,8 @@
     }
   },
   "quest.6BCA2ED05C7D9D4E.title": {
-    "original": "\u00266Malignant Armor",
-    "translation": "\u00266惡念盔甲",
+    "original": "&6Malignant Armor",
+    "translation": "&6惡念盔甲",
     "context": "chapters/general_magic.snbt / quest 6BCA2ED05C7D9D4E",
     "meta": {
       "line_split_policy": "none",
@@ -900,8 +900,8 @@
     }
   },
   "quest.70753CD7045AE9E1.quest_desc": {
-    "original": "\u0026dMalignant Pewter\u0026r is a material made of magic that is inherently counter to the world of magic and creation.\nWeapons and armor made from the stuff seem to seek to undo, to end, if not outright destroy.\n\n\u00267The greatest tales all told, end with silence.",
-    "translation": "\u0026d惡念白鑞\u0026r是一種由魔法製成的材料，本質上與魔法和創造的世界背道而馳。\n\n用這種材料製成的武器和盔甲，似乎尋求撤銷、終結，如果不是澈底摧毀的話。\n\n\u00267流傳最廣的故事，皆以沉默告終。",
+    "original": "&dMalignant Pewter&r is a material made of magic that is inherently counter to the world of magic and creation.\nWeapons and armor made from the stuff seem to seek to undo, to end, if not outright destroy.\n\n&7The greatest tales all told, end with silence.",
+    "translation": "&d惡念白鑞&r是一種由魔法製成的材料，本質上與魔法和創造的世界背道而馳。\n\n用這種材料製成的武器和盔甲，似乎尋求撤銷、終結，如果不是澈底摧毀的話。\n\n&7流傳最廣的故事，皆以沉默告終。",
     "context": "chapters/general_magic.snbt / quest 70753CD7045AE9E1",
     "meta": {
       "line_split_policy": "lf",
@@ -909,8 +909,8 @@
     }
   },
   "quest.70753CD7045AE9E1.title": {
-    "original": "\u0026dMalignant Pewter",
-    "translation": "\u0026d惡念白鑞",
+    "original": "&dMalignant Pewter",
+    "translation": "&d惡念白鑞",
     "context": "chapters/general_magic.snbt / quest 70753CD7045AE9E1",
     "meta": {
       "line_split_policy": "none",
@@ -918,8 +918,8 @@
     }
   },
   "quest.7131F9C883EE955E.quest_desc": {
-    "original": "A \u00266CAD's Socket\u0026r is basically its \u0026abullet clip\u0026r.\nIt's what \u0026aSpell Bullets\u0026r are loaded into, and it's responsible for transferring the compiled \u0026bSpells\u0026r contained within the Bullets to the \u0026dCore\u0026r for processing.\n\nA \u00266Socket\u0026r has a \u0026eBandwidth\u0026r, which is the maximum size \u00268\u0026o(in grid spaces)\u0026r\u0026r of a \u0026bSpell\u0026r that it can transfer to a \u0026dCore\u0026r, all at once. \n\u00268\u0026o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)\u0026r\u0026r\n\nAlso, another non-trivial attribute of \u00266Sockets\u0026r is to provide a way to store \u00263persistent information\u0026r, the more \u0026bMemory\u0026r a \u00266Socket\u0026r provides, more \u0026bVectors\u0026r can be stored for later \u0026bSpell\u0026r executions.\n\n\u00268\u0026o(\u0026lTrick: Save Vector\u0026r\u00268\u0026o saves a vector to a designated Memory Slot, whereas \u0026lSelector: Saved Vector\u0026r\u00268\u0026o retrieves the vector saved in the designated Memory Slot)\u0026r\u0026r\n\n\u00266These ones\u0026r in particular can provide you with either:\n\n► \u0026eBandwidth\u0026r: 8 or 9\n\n► \u00262Sockets\u0026r: 10 or 12\n\n► \u0026bMemory\u0026r: 18 or 21",
-    "translation": "\u00266CAD 彈匣\u0026r正如其名，就是 CAD 的\u0026a彈匣\u0026r。\n它是裝載\u0026a魔法式子彈\u0026r的地方，負責將子彈中編譯好的\u0026b魔法式\u0026r傳輸到\u0026d核心\u0026r進行處理。\n\n\u00266彈匣\u0026r有一個\u0026e頻寬\u0026r，這代表了它一次可以傳輸到\u0026d核心\u0026r的\u0026b魔法式\u0026r最大尺寸 \u00268\u0026o（以網格空間計）\u0026r\u0026r。\n\u00268\u0026o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）\u0026r\u0026r\n\n此外，\u00266彈匣\u0026r另一個非平凡的屬性是提供儲存\u00263持久資訊\u0026r的方法，\n\u00266彈匣\u0026r提供的\u0026b記憶\u0026r越多，就可以儲存更多的\u0026b向量\u0026r，供以後執行\u0026b魔法式\u0026r時使用。\n\u00268\u0026o\u0026l行為符：儲存向量\u0026r\u00268\u0026o，將向量保存到指定的記憶槽中\n\u00268\u0026o\u0026l選擇符：儲存的向量\u0026r\u00268\u0026o，用於檢索保存在指定記憶槽中的向量\u0026r\u0026r\n\n這些\u00266彈匣\u0026r特別提供：\n\n► \u0026e頻寬\u0026r：8 或 9\n\n► \u00262彈匣\u0026r：10 或 12\n\n► \u0026b記憶\u0026r：18 或 21",
+    "original": "A &6CAD's Socket&r is basically its &abullet clip&r.\nIt's what &aSpell Bullets&r are loaded into, and it's responsible for transferring the compiled &bSpells&r contained within the Bullets to the &dCore&r for processing.\n\nA &6Socket&r has a &eBandwidth&r, which is the maximum size &8&o(in grid spaces)&r&r of a &bSpell&r that it can transfer to a &dCore&r, all at once. \n&8&o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)&r&r\n\nAlso, another non-trivial attribute of &6Sockets&r is to provide a way to store &3persistent information&r, the more &bMemory&r a &6Socket&r provides, more &bVectors&r can be stored for later &bSpell&r executions.\n\n&8&o(&lTrick: Save Vector&r&8&o saves a vector to a designated Memory Slot, whereas &lSelector: Saved Vector&r&8&o retrieves the vector saved in the designated Memory Slot)&r&r\n\n&6These ones&r in particular can provide you with either:\n\n► &eBandwidth&r: 8 or 9\n\n► &2Sockets&r: 10 or 12\n\n► &bMemory&r: 18 or 21",
+    "translation": "&6CAD 彈匣&r正如其名，就是 CAD 的&a彈匣&r。\n它是裝載&a魔法式子彈&r的地方，負責將子彈中編譯好的&b魔法式&r傳輸到&d核心&r進行處理。\n\n&6彈匣&r有一個&e頻寬&r，這代表了它一次可以傳輸到&d核心&r的&b魔法式&r最大尺寸 &8&o（以網格空間計）&r&r。\n&8&o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）&r&r\n\n此外，&6彈匣&r另一個非平凡的屬性是提供儲存&3持久資訊&r的方法，\n&6彈匣&r提供的&b記憶&r越多，就可以儲存更多的&b向量&r，供以後執行&b魔法式&r時使用。\n&8&o&l行為符：儲存向量&r&8&o，將向量保存到指定的記憶槽中\n&8&o&l選擇符：儲存的向量&r&8&o，用於檢索保存在指定記憶槽中的向量&r&r\n\n這些&6彈匣&r特別提供：\n\n► &e頻寬&r：8 或 9\n\n► &2彈匣&r：10 或 12\n\n► &b記憶&r：18 或 21",
     "context": "chapters/general_magic.snbt / quest 7131F9C883EE955E",
     "meta": {
       "line_split_policy": "lf",
@@ -927,8 +927,8 @@
     }
   },
   "quest.7131F9C883EE955E.title": {
-    "original": "\u0026dTier 3\u0026f CAD Sockets",
-    "translation": "\u0026d三階\u0026f CAD 彈匣",
+    "original": "&dTier 3&f CAD Sockets",
+    "translation": "&d三階&f CAD 彈匣",
     "context": "chapters/general_magic.snbt / quest 7131F9C883EE955E",
     "meta": {
       "line_split_policy": "none",
@@ -936,8 +936,8 @@
     }
   },
   "quest.7169587C7DC4C8C0.quest_desc": {
-    "original": "\u00265Umbral Spirits\u0026r are used to craft the most powerful and mysterious equipment from the \u0026eMalum\u0026r and \u0026eGaze\u0026r mods.\n\nIt can only be bought from the \u0026dEcho of The Infernal\u0026r.\n\nIt is recommended to craft the \u00265Encyclopedia Unveiled\u0026r, as it shows you new \u0026eGaze\u0026r mechanics.",
-    "translation": "\u00265幽影精魂\u0026r用於從《\u0026e靈災\u0026r》和《\u0026e凝瞳\u0026r》模組中製作最強大、最神秘的裝備。\n\n它只能從\u0026d煉獄炎魔之回聲\u0026r處購買。\n\n建議製作\u00265奧秘全典\u0026r，因為它向你展示了新的《\u0026e凝瞳\u0026r》機制。",
+    "original": "&5Umbral Spirits&r are used to craft the most powerful and mysterious equipment from the &eMalum&r and &eGaze&r mods.\n\nIt can only be bought from the &dEcho of The Infernal&r.\n\nIt is recommended to craft the &5Encyclopedia Unveiled&r, as it shows you new &eGaze&r mechanics.",
+    "translation": "&5幽影精魂&r用於從《&e靈災&r》和《&e凝瞳&r》模組中製作最強大、最神秘的裝備。\n\n它只能從&d煉獄炎魔之回聲&r處購買。\n\n建議製作&5奧秘全典&r，因為它向你展示了新的《&e凝瞳&r》機制。",
     "context": "chapters/general_magic.snbt / quest 7169587C7DC4C8C0",
     "meta": {
       "line_split_policy": "lf",
@@ -945,8 +945,8 @@
     }
   },
   "quest.726B56E54CAC971B.quest_desc": {
-    "original": "\u0026aRituals\u0026r will require more than just some symbols drawn on the ground!\n\nEach ritual will need several \u0026aSacrificial Bowls\u0026r, which are used to place items that will be sacrificed to perform the ritual. For the first ritual, you will only need four of these.\n\nThe \u0026aGolden Sacrificial Bowl\u0026r is the centerpiece of the ritual \u0026bPentacle\u0026r. This bowl will hold the key item used in the ritual, which is usually a \u0026dBound Book\u0026r.\n\nFor the regular \u0026aSacrificial Bowls\u0026r, the exact placement does not matter as long as they are within 8 blocks of the \u0026aGolden Sacrificial Bowl\u0026r.\n{@pagebreak}\nWhat type of ritual is it if it doesn't require some \u0026eCandles\u0026r! Any vanilla candle will do.\n\nIf you want to get special with it, you can also make \u0026aLarge Candles\u0026r using Tallow.\n\nTo get \u0026aTallow\u0026r, you will need to kill large animals with a \u0026aButcher's Knife\u0026r. Large animals include:\n\n- Cows\n- Horses\n- Llamas\n- Pigs\n- Sheep",
-    "translation": "\u0026a儀式\u0026r需要的不僅僅是畫在地面上的符號！\n\n每個儀式都需要幾個\u0026a獻祭之碗\u0026r，用於放置執行儀式時的祭品。對於第一個儀式，你只需要四個。\n\n\u0026a黃金儀式之碗\u0026r是儀式\u0026b五芒星陣\u0026r的中心。這個碗會裝載儀式中的關鍵物品，通常是\u0026d束縛之書\u0026r。\n\n對於一般的\u0026a獻祭之碗\u0026r，只要它們位於\u0026a黃金儀式之碗\u0026r的半徑 8 格內，具體擺放位置並不重要。\n{@pagebreak}\n哪有儀式不需要\u0026e蠟燭\u0026r的呢！任何原版蠟燭都可以。\n\n若你想更講究一點，也可以使用動物油脂製作\u0026a大蠟燭\u0026r。\n\n要獲得\u0026a動物油脂\u0026r，你需要使用\u0026a屠刀\u0026r宰殺大型動物。\n\n大型動物包括：\n\n- 牛\n- 馬\n- 駝馬\n- 豬\n- 綿羊",
+    "original": "&aRituals&r will require more than just some symbols drawn on the ground!\n\nEach ritual will need several &aSacrificial Bowls&r, which are used to place items that will be sacrificed to perform the ritual. For the first ritual, you will only need four of these.\n\nThe &aGolden Sacrificial Bowl&r is the centerpiece of the ritual &bPentacle&r. This bowl will hold the key item used in the ritual, which is usually a &dBound Book&r.\n\nFor the regular &aSacrificial Bowls&r, the exact placement does not matter as long as they are within 8 blocks of the &aGolden Sacrificial Bowl&r.\n{@pagebreak}\nWhat type of ritual is it if it doesn't require some &eCandles&r! Any vanilla candle will do.\n\nIf you want to get special with it, you can also make &aLarge Candles&r using Tallow.\n\nTo get &aTallow&r, you will need to kill large animals with a &aButcher's Knife&r. Large animals include:\n\n- Cows\n- Horses\n- Llamas\n- Pigs\n- Sheep",
+    "translation": "&a儀式&r需要的不僅僅是畫在地面上的符號！\n\n每個儀式都需要幾個&a獻祭之碗&r，用於放置執行儀式時的祭品。對於第一個儀式，你只需要四個。\n\n&a黃金儀式之碗&r是儀式&b五芒星陣&r的中心。這個碗會裝載儀式中的關鍵物品，通常是&d束縛之書&r。\n\n對於一般的&a獻祭之碗&r，只要它們位於&a黃金儀式之碗&r的半徑 8 格內，具體擺放位置並不重要。\n{@pagebreak}\n哪有儀式不需要&e蠟燭&r的呢！任何原版蠟燭都可以。\n\n若你想更講究一點，也可以使用動物油脂製作&a大蠟燭&r。\n\n要獲得&a動物油脂&r，你需要使用&a屠刀&r宰殺大型動物。\n\n大型動物包括：\n\n- 牛\n- 馬\n- 駝馬\n- 豬\n- 綿羊",
     "context": "chapters/general_magic.snbt / quest 726B56E54CAC971B",
     "meta": {
       "line_split_policy": "lf",
@@ -963,8 +963,8 @@
     }
   },
   "quest.765E218999FC00BD.quest_desc": {
-    "original": "\u00266Batteries\u0026r are an \u0026dOptional Attachment\u0026r to have in a \u0026bCAD\u0026r; they allow you to have a \u0026bspare amount of Psi Energy ready\u0026r to be discharged when your basic Psi Energy runs dry. \n\n\u0026e\u0026nJust Like Power Banks!\u0026r\n\nThis one in particular provides:\n\n► \u0026aOverflow\u0026r: 200",
-    "translation": "\u00266電池\u0026r是 \u0026bCAD\u0026r 的\u0026d可選插件\u0026r；當你的基礎想子（Psi Energy）耗盡時，\n\n它們允許你擁有\u0026b預備好的想子緩衝區\u0026r以供釋放。\n\n\u0026e\u0026n就像行動電源一樣！\u0026r\n\n這個電池特別提供：\n\n► \u0026a溢出量\u0026r：200",
+    "original": "&6Batteries&r are an &dOptional Attachment&r to have in a &bCAD&r; they allow you to have a &bspare amount of Psi Energy ready&r to be discharged when your basic Psi Energy runs dry. \n\n&e&nJust Like Power Banks!&r\n\nThis one in particular provides:\n\n► &aOverflow&r: 200",
+    "translation": "&6電池&r是 &bCAD&r 的&d可選插件&r；當你的基礎想子（Psi Energy）耗盡時，\n\n它們允許你擁有&b預備好的想子緩衝區&r以供釋放。\n\n&e&n就像行動電源一樣！&r\n\n這個電池特別提供：\n\n► &a溢出量&r：200",
     "context": "chapters/general_magic.snbt / quest 765E218999FC00BD",
     "meta": {
       "line_split_policy": "lf",
@@ -972,8 +972,8 @@
     }
   },
   "quest.765E218999FC00BD.title": {
-    "original": "\u0026bTier 2\u0026f CAD Battery",
-    "translation": "\u0026b二階\u0026f CAD 電池",
+    "original": "&bTier 2&f CAD Battery",
+    "translation": "&b二階&f CAD 電池",
     "context": "chapters/general_magic.snbt / quest 765E218999FC00BD",
     "meta": {
       "line_split_policy": "none",
@@ -981,8 +981,8 @@
     }
   },
   "quest.77074CE5719763BB.quest_desc": {
-    "original": "This \u0026aHex Staff\u0026r holds formidable power in melee combat and is capable of collecting Spirit, but what makes it stand out is its ability to fire off potent charges of \u0026bspirit energy\u0026r from your soul.\n\nThese charges replenish over time (seen on the hotbar), and can be increased or regained through various enchantments or trinkets.",
-    "translation": "這根\u0026a咒術法杖\u0026r在近戰中擁有強大的力量，並且能夠收集精魂，但讓它脫穎而出的是，它能從你的靈魂中發射出強大的\u0026b精魂能量\u0026r束。\n\n這些能量束隨時間補充（可在快捷欄看到），並可以透過各種附魔或飾品增加容量或加快恢復。",
+    "original": "This &aHex Staff&r holds formidable power in melee combat and is capable of collecting Spirit, but what makes it stand out is its ability to fire off potent charges of &bspirit energy&r from your soul.\n\nThese charges replenish over time (seen on the hotbar), and can be increased or regained through various enchantments or trinkets.",
+    "translation": "這根&a咒術法杖&r在近戰中擁有強大的力量，並且能夠收集精魂，但讓它脫穎而出的是，它能從你的靈魂中發射出強大的&b精魂能量&r束。\n\n這些能量束隨時間補充（可在快捷欄看到），並可以透過各種附魔或飾品增加容量或加快恢復。",
     "context": "chapters/general_magic.snbt / quest 77074CE5719763BB",
     "meta": {
       "line_split_policy": "lf",
@@ -990,8 +990,8 @@
     }
   },
   "quest.781D7DA09E444B95.quest_desc": {
-    "original": "The \u0026dWeeping Well\u0026r can be found within the \u00267Deepslate\u0026r or in the \u0026dArcane Grove\u0026r structure.\n\nThis structure leaks whispers and heartbeats and weeping and tugs on certain items with its dark pull. It ... wants something. Try offering it your \u0026earcane knowledge\u0026r, or raw resources, see what you might get in return.\n\n[\"You can find \", {\"text\": \"Runewood Trees\", \"color\": \"dark_green\"}, \" within the \", { \"text\": \"Arcane Grove\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Arcane Grove Quest\"}}, \" just be ready to put up a fight.\"]\n\n\u0026eNote\u0026r: Certain recipes are hidden until you jump in.",
-    "translation": "可以在\u00267深板岩\u0026r環帶或\u0026d秘法源林\u0026r中找到\u0026d哭泣之井\u0026r。\n\n這個結構洩漏出低語、心跳和哭泣，並以其黑暗的引力拉扯某些物品。它......想要某些東西。嘗試向它獻祭你的\u0026e奧術知識\u0026r或原始資源，看看你可能會得到什麼回報。\n\n[\"你可以在\", {\"text\": \"秘法源林\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往奧術源林任務\"}}, \"中找到\", {\"text\": \"符文木樹\", \"color\": \"dark_green\"}, \"，只要準備好迎接戰鬥。\"]\n\n\u0026e注意\u0026r：在投入之前，某些配方是隱藏的。",
+    "original": "The &dWeeping Well&r can be found within the &7Deepslate&r or in the &dArcane Grove&r structure.\n\nThis structure leaks whispers and heartbeats and weeping and tugs on certain items with its dark pull. It ... wants something. Try offering it your &earcane knowledge&r, or raw resources, see what you might get in return.\n\n[\"You can find \", {\"text\": \"Runewood Trees\", \"color\": \"dark_green\"}, \" within the \", { \"text\": \"Arcane Grove\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Arcane Grove Quest\"}}, \" just be ready to put up a fight.\"]\n\n&eNote&r: Certain recipes are hidden until you jump in.",
+    "translation": "可以在&7深板岩&r環帶或&d秘法源林&r中找到&d哭泣之井&r。\n\n這個結構洩漏出低語、心跳和哭泣，並以其黑暗的引力拉扯某些物品。它......想要某些東西。嘗試向它獻祭你的&e奧術知識&r或原始資源，看看你可能會得到什麼回報。\n\n[\"你可以在\", {\"text\": \"秘法源林\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"066B47D2AB72355C\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往奧術源林任務\"}}, \"中找到\", {\"text\": \"符文木樹\", \"color\": \"dark_green\"}, \"，只要準備好迎接戰鬥。\"]\n\n&e注意&r：在投入之前，某些配方是隱藏的。",
     "context": "chapters/general_magic.snbt / quest 781D7DA09E444B95",
     "meta": {
       "line_split_policy": "lf",
@@ -1008,8 +1008,8 @@
     }
   },
   "quest.7A62B07AD0BCCCEA.quest_desc": {
-    "original": "While at first it seems that collecting \u0026bSpirit\u0026r can only be done manually, a closer inspection into \u00265Wicked-aligned\u0026r runewood \u0026espirit rites\u0026r shows a special synergy.\n\nThe lesser rite will \u0026dslowly damage\u0026r nearby hostile mobs down to low health, and the greater rite will \u0026dcull mobs\u0026r in both body and soul when they are at low health, generating \u0026bSpirit\u0026r alongside their standard drops!\n\n\u00267A similar synergy exists for passive animals among the various rites...",
-    "translation": "雖然起初看起來收集\u0026b精魂\u0026r只能手動完成，但對\u00265邪惡屬向\u0026r的符文木\u0026e精魂靈儀\u0026r進行仔細觀察，會發現一種特殊的協同作用。\n\n初級靈儀會\u0026d緩慢傷害\u0026r附近的敵對生物，直到生命值變低；高級靈儀則會在生物生命值較低時，同時對其肉體和靈魂進行\u0026d宰割\u0026r，在產出其標準掉落物的同時生成\u0026b精魂\u0026r！\n\n\u00267在各種靈儀中，對於被動生物也存在類似的協同作用……",
+    "original": "While at first it seems that collecting &bSpirit&r can only be done manually, a closer inspection into &5Wicked-aligned&r runewood &espirit rites&r shows a special synergy.\n\nThe lesser rite will &dslowly damage&r nearby hostile mobs down to low health, and the greater rite will &dcull mobs&r in both body and soul when they are at low health, generating &bSpirit&r alongside their standard drops!\n\n&7A similar synergy exists for passive animals among the various rites...",
+    "translation": "雖然起初看起來收集&b精魂&r只能手動完成，但對&5邪惡屬向&r的符文木&e精魂靈儀&r進行仔細觀察，會發現一種特殊的協同作用。\n\n初級靈儀會&d緩慢傷害&r附近的敵對生物，直到生命值變低；高級靈儀則會在生物生命值較低時，同時對其肉體和靈魂進行&d宰割&r，在產出其標準掉落物的同時生成&b精魂&r！\n\n&7在各種靈儀中，對於被動生物也存在類似的協同作用……",
     "context": "chapters/general_magic.snbt / quest 7A62B07AD0BCCCEA",
     "meta": {
       "line_split_policy": "lf",
@@ -1026,8 +1026,8 @@
     }
   },
   "quest.7A6F14DB74189B67.quest_desc": {
-    "original": "Inside our \u00266Store\u0026r you should be able to \u0026bBuy Pre-Coded Spells\u0026r. Some are more complex than others, you may use them for their basic purpose or to learn how to do new tricks :p",
-    "translation": "在我們的\u00266商店\u0026r中，你應該能夠\u0026b購買預先編寫好的魔法式\u0026r。\n\n有些比其他的更複雜，你可以將其用於基礎用途，或學習如何實施新技巧 :p",
+    "original": "Inside our &6Store&r you should be able to &bBuy Pre-Coded Spells&r. Some are more complex than others, you may use them for their basic purpose or to learn how to do new tricks :p",
+    "translation": "在我們的&6商店&r中，你應該能夠&b購買預先編寫好的魔法式&r。\n\n有些比其他的更複雜，你可以將其用於基礎用途，或學習如何實施新技巧 :p",
     "context": "chapters/general_magic.snbt / quest 7A6F14DB74189B67",
     "meta": {
       "line_split_policy": "lf",
@@ -1053,8 +1053,8 @@
     }
   },
   "quest.7BA228FC749BF70A.quest_desc": {
-    "original": "Although the \u0026eCatalyzer\u0026r can increase the speed of the \u0026eSpirit Crucible\u0026r, many more aspects of its function can be tweaked with various \u0026aAugments\u0026r. Some of these affect different Crucible stats, while others will add entirely new mechanics to the system. Consult the \u0026eMalum book\u0026r for details!\n\nA \u0026aTuning Fork\u0026r will show these stats and features above the Crucible when held, and can tweak some minor aspects when used on it.\n\nUp to four can be applied to the Crucible itself, and linked Catalyzers can accept one augment each to apply to their Crucible.",
-    "translation": "雖然\u0026e催化器\u0026r可以增加\u0026e精魂坩堝\u0026r的速度，但它的許多更進階的功能可以透過各種\u0026a插件\u0026r進行微調。其中一些影響不同的坩堝屬性，而另一些則會為系統加入全新的機制。詳情請諮詢\u0026e奧術全典\u0026r！\n\n持有\u0026a調諧音叉\u0026r時，會在坩堝上方顯示這些屬性與特點，並可在其上使用以微調一些次要方面。\n\n坩堝本身最多可以應用四個插件，而連結的催化器可以各接受一個插件以應用於其坩堝。",
+    "original": "Although the &eCatalyzer&r can increase the speed of the &eSpirit Crucible&r, many more aspects of its function can be tweaked with various &aAugments&r. Some of these affect different Crucible stats, while others will add entirely new mechanics to the system. Consult the &eMalum book&r for details!\n\nA &aTuning Fork&r will show these stats and features above the Crucible when held, and can tweak some minor aspects when used on it.\n\nUp to four can be applied to the Crucible itself, and linked Catalyzers can accept one augment each to apply to their Crucible.",
+    "translation": "雖然&e催化器&r可以增加&e精魂坩堝&r的速度，但它的許多更進階的功能可以透過各種&a插件&r進行微調。其中一些影響不同的坩堝屬性，而另一些則會為系統加入全新的機制。詳情請諮詢&e奧術全典&r！\n\n持有&a調諧音叉&r時，會在坩堝上方顯示這些屬性與特點，並可在其上使用以微調一些次要方面。\n\n坩堝本身最多可以應用四個插件，而連結的催化器可以各接受一個插件以應用於其坩堝。",
     "context": "chapters/general_magic.snbt / quest 7BA228FC749BF70A",
     "meta": {
       "line_split_policy": "lf",
@@ -1062,8 +1062,8 @@
     }
   },
   "quest.7BF4EF06E2D0D763.quest_desc": {
-    "original": "Now with your Recently Obtained \u0026bPsi Metal\u0026r, you should be able to make a \u00266Psi Metal CAD\u0026r.\n\nIt \u0026dprovides much better stats\u0026r, allowing you to \u00263cast more interesting spells!\u0026r",
-    "translation": "現在有了你最近獲得的\u0026b Psi 金屬\u0026r，你應該能夠製作 \u00266Psi 金屬 CAD 機體\u0026r。\n\n它\u0026d提供了更好的屬性\u0026r，讓你能夠\u00263施放更有趣的魔法式！\u0026r",
+    "original": "Now with your Recently Obtained &bPsi Metal&r, you should be able to make a &6Psi Metal CAD&r.\n\nIt &dprovides much better stats&r, allowing you to &3cast more interesting spells!&r",
+    "translation": "現在有了你最近獲得的&b Psi 金屬&r，你應該能夠製作 &6Psi 金屬 CAD 機體&r。\n\n它&d提供了更好的屬性&r，讓你能夠&3施放更有趣的魔法式！&r",
     "context": "chapters/general_magic.snbt / quest 7BF4EF06E2D0D763",
     "meta": {
       "line_split_policy": "lf",
@@ -1080,8 +1080,8 @@
     }
   },
   "quest.7CA687749E953A19.quest_desc": {
-    "original": "► For \u00266Psi's Progression\u0026r in particular we want a simple \u0026b\u0026lTrick: Infusion\u0026r\u0026r to get access to a Better Material for our CADs, \u00266Psimetal\u0026r!\n\n\u002661.\u0026r \u0026dRight Click\u0026r in any spot of this grid then type -\u003e \u0026b\"Trick: Infusion\"\u0026r and click on it to place it in the Grid.\n\n\u002662.\u0026r \u0026oGive the Spell a name if you want to\u0026r.\n\n\u002663.\u0026r Get out of this GUI and then \u0026dRight Click with a bullet\u0026r into the table to \u0026bcopy the spell over to it\u0026r.\n\n\u002664.\u0026r \u0026lProfit\u0026r! you've just made your \u0026bfirst Psi Spell\u0026r!\n\n\u00268\u0026o● And don't worry, no one is born with infinite knowledge, make sure to start small then over time increase the complexity of your Spells as you learn more about the mod =)\u0026r\u0026r",
-    "translation": "► 對於推進\u00266《Psi》的進度\u0026r，\n\n我們會想要一個簡單的\u0026b\u0026l行為符：煉金\u0026r，以獲得更好的 CAD 材料，\u00266Psi 金屬\u0026r！\n\n\u002661.\u0026r 在網格的任一個位置\u0026d按下右鍵\u0026r，然後搜尋\u0026b「行為符：煉金」\u0026r，並點擊它以將其放置在網格中。\n\n\u002662.\u0026r \u0026o如果想的話，可以給魔法式取個名稱\u0026r。\n\n\u002663.\u0026r 退出這個介面，然後\u0026d手持子彈，對著編輯台按下右鍵\u0026r，這會將\u0026b魔法式複製到子彈上\u0026r。\n\n\u002664.\u0026r \u0026l恭喜\u0026r！你剛剛製作了你的\u0026b第一個 Psi 魔法式\u0026r！\n\n\u00268\u0026o● 別擔心，沒有人天生就擁有無限的知識，讓我們從小地方開始，隨時間慢慢累積對模組的認識，\n\u00268\u0026o並逐步增加你魔法式的複雜度 =)\u0026r\u0026r",
+    "original": "► For &6Psi's Progression&r in particular we want a simple &b&lTrick: Infusion&r&r to get access to a Better Material for our CADs, &6Psimetal&r!\n\n&61.&r &dRight Click&r in any spot of this grid then type -> &b\"Trick: Infusion\"&r and click on it to place it in the Grid.\n\n&62.&r &oGive the Spell a name if you want to&r.\n\n&63.&r Get out of this GUI and then &dRight Click with a bullet&r into the table to &bcopy the spell over to it&r.\n\n&64.&r &lProfit&r! you've just made your &bfirst Psi Spell&r!\n\n&8&o● And don't worry, no one is born with infinite knowledge, make sure to start small then over time increase the complexity of your Spells as you learn more about the mod =)&r&r",
+    "translation": "► 對於推進&6《Psi》的進度&r，\n\n我們會想要一個簡單的&b&l行為符：煉金&r，以獲得更好的 CAD 材料，&6Psi 金屬&r！\n\n&61.&r 在網格的任一個位置&d按下右鍵&r，然後搜尋&b「行為符：煉金」&r，並點擊它以將其放置在網格中。\n\n&62.&r &o如果想的話，可以給魔法式取個名稱&r。\n\n&63.&r 退出這個介面，然後&d手持子彈，對著編輯台按下右鍵&r，這會將&b魔法式複製到子彈上&r。\n\n&64.&r &l恭喜&r！你剛剛製作了你的&b第一個 Psi 魔法式&r！\n\n&8&o● 別擔心，沒有人天生就擁有無限的知識，讓我們從小地方開始，隨時間慢慢累積對模組的認識，\n&8&o並逐步增加你魔法式的複雜度 =)&r&r",
     "context": "chapters/general_magic.snbt / quest 7CA687749E953A19",
     "meta": {
       "line_split_policy": "lf",
@@ -1107,8 +1107,8 @@
     }
   },
   "quest.7D2A583FBDCE4FC7.quest_desc": {
-    "original": "A \u00266CAD's Socket\u0026r is basically its \u0026abullet clip\u0026r.\nIt's what \u0026aSpell Bullets\u0026r are loaded into, and it's responsible for transferring the compiled \u0026bSpells\u0026r contained within the Bullets to the \u0026dCore\u0026r for processing.\n\nA \u00266Socket\u0026r has a \u0026eBandwidth\u0026r, which is the maximum size \u00268\u0026o(in grid spaces)\u0026r\u0026r of a \u0026bSpell\u0026r that it can transfer to a \u0026dCore\u0026r, all at once. \n\u00268\u0026o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)\u0026r\u0026r\n\nAlso, another non-trivial attribute of \u00266Sockets\u0026r is to provide a way to store \u00263persistent information\u0026r, the more \u0026bMemory\u0026r a \u00266Socket\u0026r provides, more \u0026bVectors\u0026r can be stored for later \u0026bSpell\u0026r executions.\n\n\u00268\u0026o(\u0026lTrick: Save Vector\u0026r\u00268\u0026o saves a vector to a designated Memory Slot, whereas \u0026lSelector: Saved Vector\u0026r\u00268\u0026o retrieves the vector saved in the designated Memory Slot)\u0026r\u0026r\n\n\u00266This one\u0026r in particular provides \n\n► \u0026eBandwidth\u0026r: 5\n\n► \u00262Sockets\u0026r: 4\n\n► \u0026bMemory\u0026r: 7",
-    "translation": "\u00266CAD 彈匣\u0026r正如其名，就是 CAD 的\u0026a彈匣\u0026r。\n它是裝載\u0026a魔法式子彈\u0026r的地方，負責將子彈中編譯好的\u0026b魔法式\u0026r傳輸到\u0026d核心\u0026r進行處理。\n\n\u00266彈匣\u0026r有一個\u0026e頻寬\u0026r，這代表了它一次可以傳輸到\u0026d核心\u0026r的\u0026b魔法式\u0026r最大尺寸 \u00268\u0026o（以網格空間計）\u0026r\u0026r。\n\u00268\u0026o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）\u0026r\u0026r\n\n此外，\u00266彈匣\u0026r另一個非平凡的屬性是提供儲存\u00263持久資訊\u0026r的方法，\n\u00266彈匣\u0026r提供的\u0026b記憶\u0026r越多，就可以儲存更多的\u0026b向量\u0026r，供以後執行\u0026b魔法式\u0026r時使用。\n\u00268\u0026o\u0026l行為符：儲存向量\u0026r\u00268\u0026o，將向量保存到指定的記憶槽中\n\u00268\u0026o\u0026l選擇符：儲存的向量\u0026r\u00268\u0026o，用於檢索保存在指定記憶槽中的向量\u0026r\u0026r\n\n這個\u00266彈匣\u0026r特別提供：\n\n► \u0026e頻寬\u0026r：5\n\n► \u00262彈匣\u0026r：4\n\n► \u0026b記憶\u0026r：7",
+    "original": "A &6CAD's Socket&r is basically its &abullet clip&r.\nIt's what &aSpell Bullets&r are loaded into, and it's responsible for transferring the compiled &bSpells&r contained within the Bullets to the &dCore&r for processing.\n\nA &6Socket&r has a &eBandwidth&r, which is the maximum size &8&o(in grid spaces)&r&r of a &bSpell&r that it can transfer to a &dCore&r, all at once. \n&8&o(for example, a Socket with bandwidth 5 could transfer a Spell up to 5x5 in dimension)&r&r\n\nAlso, another non-trivial attribute of &6Sockets&r is to provide a way to store &3persistent information&r, the more &bMemory&r a &6Socket&r provides, more &bVectors&r can be stored for later &bSpell&r executions.\n\n&8&o(&lTrick: Save Vector&r&8&o saves a vector to a designated Memory Slot, whereas &lSelector: Saved Vector&r&8&o retrieves the vector saved in the designated Memory Slot)&r&r\n\n&6This one&r in particular provides \n\n► &eBandwidth&r: 5\n\n► &2Sockets&r: 4\n\n► &bMemory&r: 7",
+    "translation": "&6CAD 彈匣&r正如其名，就是 CAD 的&a彈匣&r。\n它是裝載&a魔法式子彈&r的地方，負責將子彈中編譯好的&b魔法式&r傳輸到&d核心&r進行處理。\n\n&6彈匣&r有一個&e頻寬&r，這代表了它一次可以傳輸到&d核心&r的&b魔法式&r最大尺寸 &8&o（以網格空間計）&r&r。\n&8&o（例如，頻寬為 5 的彈匣，可以傳輸最大 5x5 尺寸的魔法式）&r&r\n\n此外，&6彈匣&r另一個非平凡的屬性是提供儲存&3持久資訊&r的方法，\n&6彈匣&r提供的&b記憶&r越多，就可以儲存更多的&b向量&r，供以後執行&b魔法式&r時使用。\n&8&o&l行為符：儲存向量&r&8&o，將向量保存到指定的記憶槽中\n&8&o&l選擇符：儲存的向量&r&8&o，用於檢索保存在指定記憶槽中的向量&r&r\n\n這個&6彈匣&r特別提供：\n\n► &e頻寬&r：5\n\n► &2彈匣&r：4\n\n► &b記憶&r：7",
     "context": "chapters/general_magic.snbt / quest 7D2A583FBDCE4FC7",
     "meta": {
       "line_split_policy": "lf",
@@ -1116,8 +1116,8 @@
     }
   },
   "quest.7D2A583FBDCE4FC7.title": {
-    "original": "\u0026aTier 1\u0026f CAD Socket",
-    "translation": "\u0026a一階\u0026f CAD 彈匣",
+    "original": "&aTier 1&f CAD Socket",
+    "translation": "&a一階&f CAD 彈匣",
     "context": "chapters/general_magic.snbt / quest 7D2A583FBDCE4FC7",
     "meta": {
       "line_split_policy": "none",
@@ -1125,8 +1125,8 @@
     }
   },
   "quest.7F5729C2350E3087.quest_desc": {
-    "original": "You'll need items from the \u00269Otherworld\u0026r to progress further, and \u0026aSpirit Fire\u0026r does just that.\n\nThrowing a \u0026aDemon's Dream Fruit\u0026r on the ground and setting it on fire will produce \u0026dSpirit Fire\u0026r, which never burns out and does not harm entities.\n\nThrowing items into the \u0026dSpirit Fire\u0026r will convert them into their \u00269Otherworld\u0026r equivalent.",
-    "translation": "你需要來自\u00269異界\u0026r的物品，才能進一步推進研究，而\u0026a靈火\u0026r正是為此而生的。\n\n將\u0026a魔鬼之夢果\u0026r丟在地上並點火，將會產生\u0026d靈火\u0026r。\n\n靈火永不熄滅，且不會傷害實體。\n\n將物品丟入\u0026d靈火\u0026r中，會將它們轉化成對應的\u00269異界\u0026r物品。",
+    "original": "You'll need items from the &9Otherworld&r to progress further, and &aSpirit Fire&r does just that.\n\nThrowing a &aDemon's Dream Fruit&r on the ground and setting it on fire will produce &dSpirit Fire&r, which never burns out and does not harm entities.\n\nThrowing items into the &dSpirit Fire&r will convert them into their &9Otherworld&r equivalent.",
+    "translation": "你需要來自&9異界&r的物品，才能進一步推進研究，而&a靈火&r正是為此而生的。\n\n將&a魔鬼之夢果&r丟在地上並點火，將會產生&d靈火&r。\n\n靈火永不熄滅，且不會傷害實體。\n\n將物品丟入&d靈火&r中，會將它們轉化成對應的&9異界&r物品。",
     "context": "chapters/general_magic.snbt / quest 7F5729C2350E3087",
     "meta": {
       "line_split_policy": "lf",
@@ -1143,8 +1143,8 @@
     }
   },
   "task.00F90C52CBAECEBB.title": {
-    "original": "\u0026dSpell \u0026aInks",
-    "translation": "\u0026d法術\u0026a墨水",
+    "original": "&dSpell &aInks",
+    "translation": "&d法術&a墨水",
     "context": "chapters/general_magic.snbt / task 00F90C52CBAECEBB",
     "meta": {
       "line_split_policy": "none",
@@ -1161,8 +1161,8 @@
     }
   },
   "task.220AEB0F13353108.title": {
-    "original": "\u0026fCraftable Spellbook Upgrades",
-    "translation": "\u0026f可合成的法術書升級",
+    "original": "&fCraftable Spellbook Upgrades",
+    "translation": "&f可合成的法術書升級",
     "context": "chapters/general_magic.snbt / task 220AEB0F13353108",
     "meta": {
       "line_split_policy": "none",
@@ -1170,8 +1170,8 @@
     }
   },
   "task.2BAEE4414B32E48E.title": {
-    "original": "\u0026eObserve\u0026f: \u00267Foliot \u0026fCrusher Demon",
-    "translation": "\u0026e觀察\u0026f：\u00267魔精\u0026f碎礦者",
+    "original": "&eObserve&f: &7Foliot &fCrusher Demon",
+    "translation": "&e觀察&f：&7魔精&f碎礦者",
     "context": "chapters/general_magic.snbt / task 2BAEE4414B32E48E",
     "meta": {
       "line_split_policy": "none",

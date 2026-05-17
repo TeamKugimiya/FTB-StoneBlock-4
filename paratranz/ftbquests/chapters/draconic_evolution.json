@@ -9,8 +9,8 @@
     }
   },
   "quest.0F7CB818AC0A9187.quest_desc": {
-    "original": "You gain access to \u0026zTiny Chaos Fragments\u0026r after facing off against the \u0026zMighty Ender Chicken\u0026r.\n\nYou will need to use a \u0026aFluid Laser\u0026r to extract \u0026zMolten Chaos\u0026r, which can be turned into \u00266Tiny Chaos Fragments\u0026r.\n\n[\"You can learn more about how to do this in the \", {\"text\": \"Bringing Home The Chicken quest\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D7C7DE95E56C7B3\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Quest\"}}, \" in the T5 chapter.\"]",
-    "translation": "在面對過\u0026z偉大終界雞\u0026r後，你就能夠獲取\u0026z微型混沌碎片\u0026r。\n\n你需要使用\u0026a流體雷射鑽\u0026r來提取\u0026z熔融混沌\u0026r，隨後便能將其轉化成\u00266微型混沌碎片\u0026r。\n\n[\"你可以在第五章的\", {\"text\": \"「為家庭帶來雞」任務\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D7C7DE95E56C7B3\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往任務\"}}, \"中，瞭解更多關於如何執行此操作的資訊。\"]",
+    "original": "You gain access to &zTiny Chaos Fragments&r after facing off against the &zMighty Ender Chicken&r.\n\nYou will need to use a &aFluid Laser&r to extract &zMolten Chaos&r, which can be turned into &6Tiny Chaos Fragments&r.\n\n[\"You can learn more about how to do this in the \", {\"text\": \"Bringing Home The Chicken quest\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D7C7DE95E56C7B3\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Quest\"}}, \" in the T5 chapter.\"]",
+    "translation": "在面對過&z偉大終界雞&r後，你就能夠獲取&z微型混沌碎片&r。\n\n你需要使用&a流體雷射鑽&r來提取&z熔融混沌&r，隨後便能將其轉化成&6微型混沌碎片&r。\n\n[\"你可以在第五章的\", {\"text\": \"「為家庭帶來雞」任務\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D7C7DE95E56C7B3\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往任務\"}}, \"中，瞭解更多關於如何執行此操作的資訊。\"]",
     "context": "chapters/draconic_evolution.snbt / quest 0F7CB818AC0A9187",
     "meta": {
       "line_split_policy": "lf",
@@ -18,8 +18,8 @@
     }
   },
   "quest.0F7CB818AC0A9187.title": {
-    "original": "\u0026zChaos Fragments",
-    "translation": "\u0026z混沌碎片",
+    "original": "&zChaos Fragments",
+    "translation": "&z混沌碎片",
     "context": "chapters/draconic_evolution.snbt / quest 0F7CB818AC0A9187",
     "meta": {
       "line_split_policy": "none",
@@ -27,8 +27,8 @@
     }
   },
   "quest.18A36EA79A9355C4.quest_desc": {
-    "original": "To upgrade to the \u0026dWyvern Fusion Injectors\u0026r, you will need at least 8 \u0026dDraconium Injectors\u0026r placed around the Core.\n\nYou can right-click each item the injectors need to craft the upgrade. Each injector will also need power.\n\nWith all items placed in the injectors, you can place the main item in the \u0026aCore\u0026r, and the craft should start once it has a redstone signal.",
-    "translation": "若要升級至\u0026d雙足飛龍聚合注入器\u0026r，你需要在核心周圍放置至少 8 個\u0026d龍族聚合注入器\u0026r。\n\n你可以對著注入器所需的每個物品按右鍵來進行合成升級。每個注入器也都需要能量。\n\n當所有物品都放入注入器後，你可以將主物品放入\u0026a核心\u0026r，一旦接收到紅石訊號，合成便會開始。",
+    "original": "To upgrade to the &dWyvern Fusion Injectors&r, you will need at least 8 &dDraconium Injectors&r placed around the Core.\n\nYou can right-click each item the injectors need to craft the upgrade. Each injector will also need power.\n\nWith all items placed in the injectors, you can place the main item in the &aCore&r, and the craft should start once it has a redstone signal.",
+    "translation": "若要升級至&d雙足飛龍聚合注入器&r，你需要在核心周圍放置至少 8 個&d龍族聚合注入器&r。\n\n你可以對著注入器所需的每個物品按右鍵來進行合成升級。每個注入器也都需要能量。\n\n當所有物品都放入注入器後，你可以將主物品放入&a核心&r，一旦接收到紅石訊號，合成便會開始。",
     "context": "chapters/draconic_evolution.snbt / quest 18A36EA79A9355C4",
     "meta": {
       "line_split_policy": "lf",
@@ -36,8 +36,8 @@
     }
   },
   "quest.18A36EA79A9355C4.title": {
-    "original": "\u0026dWyvern \u0026fInfusion",
-    "translation": "\u0026d雙足飛龍\u0026f聚合",
+    "original": "&dWyvern &fInfusion",
+    "translation": "&d雙足飛龍&f聚合",
     "context": "chapters/draconic_evolution.snbt / quest 18A36EA79A9355C4",
     "meta": {
       "line_split_policy": "none",
@@ -45,8 +45,8 @@
     }
   },
   "quest.1D87C5E9D52341C4.quest_desc": {
-    "original": "To craft more advanced items in \u0026eDraconic Evolution\u0026r, you will need a special crafting setup called \u0026dFusion Crafting\u0026r.\n\nThe \u0026dFusion Crafting Core\u0026r must be the middle of the setup, with \u0026dDraconium Fusion Crafting Ejectors\u0026r placed facing towards the Core 2 blocks apart.\n\nThe Core will also need a redstone signal to start.",
-    "translation": "若要在\u0026e《龍族進化》\u0026r中合成更進階的物品，你需要一種名為\u0026d聚合合成\u0026r的特殊合成裝置。\n\n\u0026d聚合核心\u0026r必須位於這套裝置的中央，而\u0026d龍族聚合注入器\u0026r則需面向核心放置，並與核心保持 2 格的距離。\n\n核心還需要紅石訊號才能啟動。",
+    "original": "To craft more advanced items in &eDraconic Evolution&r, you will need a special crafting setup called &dFusion Crafting&r.\n\nThe &dFusion Crafting Core&r must be the middle of the setup, with &dDraconium Fusion Crafting Ejectors&r placed facing towards the Core 2 blocks apart.\n\nThe Core will also need a redstone signal to start.",
+    "translation": "若要在&e《龍族進化》&r中合成更進階的物品，你需要一種名為&d聚合合成&r的特殊合成裝置。\n\n&d聚合核心&r必須位於這套裝置的中央，而&d龍族聚合注入器&r則需面向核心放置，並與核心保持 2 格的距離。\n\n核心還需要紅石訊號才能啟動。",
     "context": "chapters/draconic_evolution.snbt / quest 1D87C5E9D52341C4",
     "meta": {
       "line_split_policy": "lf",
@@ -63,8 +63,8 @@
     }
   },
   "quest.1E6E38DC6183463A.quest_desc": {
-    "original": "The \u0026eDE\u0026r energy core is a tiered energy storage solution capable of storing a near-infinite quantity of power when fully upgraded.\n\nIts core components are the \u0026aEnergy Core\u0026r and the \u00262Energy Core Stabilizers\u0026r, which can be placed in any direction up to 8 blocks away from the core.\n\nTo insert or extract power from the Core, you'll need to place down an \u0026bEnergy Pylon\u0026r within 10 blocks of the core, then place a glass block under or above it.\n{@pagebreak}\nTo upgrade the core, you'll need to surround the \u0026aEnergy Core\u0026r with more \u0026dDraconium Blocks\u0026r per tier. At tier 8, you'll also need to surround it with \u00266Awakened Draconium Blocks\u0026r.\n\nThe energy core has a build guide within its interface when you interact with it that can automatically place the blocks in their position from your inventory.\n\nAt tier 8, you will also need to upgrade your \u00262Stabilizers\u0026r into a ring, requiring a total of 36 blocks (9 per ring).",
-    "translation": "\u0026e《龍族進化》\u0026r的能量核心是一種分階式的能量儲存方案，完全升級後能夠儲存近乎無限的電量。\n\n其核心元件是\u0026a能量核心\u0026r與\u00262能量核心穩定器\u0026r，穩定器可以放置在距離核心最多 8 格遠的任何方向。\n\n若要向核心輸入或提取電力，你需要在核心 10 格範圍內，放置一個\n\u0026b能量塔\u0026r，然後在其下方或上方放置一個玻璃方塊。\n{@pagebreak}\n若要升級核心，你需要根據階級，在\u0026a能量核心\u0026r周圍放置更多\u0026d龍金屬方塊\u0026r。在第 8 階，你還需要用\u00266覺醒龍金屬方塊\u0026r來圍繞它。\n\n能量核心的介面中有建築指南，與其互動後，建築指南將自動從你的物品欄中將方塊放置到對應位置。\n\n在第 8 階，你還需要將\u00262穩定器\u0026r升級成環狀，總共需要 36 個方塊\n（每環 9 個）。",
+    "original": "The &eDE&r energy core is a tiered energy storage solution capable of storing a near-infinite quantity of power when fully upgraded.\n\nIts core components are the &aEnergy Core&r and the &2Energy Core Stabilizers&r, which can be placed in any direction up to 8 blocks away from the core.\n\nTo insert or extract power from the Core, you'll need to place down an &bEnergy Pylon&r within 10 blocks of the core, then place a glass block under or above it.\n{@pagebreak}\nTo upgrade the core, you'll need to surround the &aEnergy Core&r with more &dDraconium Blocks&r per tier. At tier 8, you'll also need to surround it with &6Awakened Draconium Blocks&r.\n\nThe energy core has a build guide within its interface when you interact with it that can automatically place the blocks in their position from your inventory.\n\nAt tier 8, you will also need to upgrade your &2Stabilizers&r into a ring, requiring a total of 36 blocks (9 per ring).",
+    "translation": "&e《龍族進化》&r的能量核心是一種分階式的能量儲存方案，完全升級後能夠儲存近乎無限的電量。\n\n其核心元件是&a能量核心&r與&2能量核心穩定器&r，穩定器可以放置在距離核心最多 8 格遠的任何方向。\n\n若要向核心輸入或提取電力，你需要在核心 10 格範圍內，放置一個\n&b能量塔&r，然後在其下方或上方放置一個玻璃方塊。\n{@pagebreak}\n若要升級核心，你需要根據階級，在&a能量核心&r周圍放置更多&d龍金屬方塊&r。在第 8 階，你還需要用&6覺醒龍金屬方塊&r來圍繞它。\n\n能量核心的介面中有建築指南，與其互動後，建築指南將自動從你的物品欄中將方塊放置到對應位置。\n\n在第 8 階，你還需要將&2穩定器&r升級成環狀，總共需要 36 個方塊\n（每環 9 個）。",
     "context": "chapters/draconic_evolution.snbt / quest 1E6E38DC6183463A",
     "meta": {
       "line_split_policy": "lf",
@@ -72,8 +72,8 @@
     }
   },
   "quest.1E6E38DC6183463A.title": {
-    "original": "\u0026eDE \u0026fEnergy Core",
-    "translation": "\u0026e龍族進化\u0026f能量核心",
+    "original": "&eDE &fEnergy Core",
+    "translation": "&e龍族進化&f能量核心",
     "context": "chapters/draconic_evolution.snbt / quest 1E6E38DC6183463A",
     "meta": {
       "line_split_policy": "none",
@@ -81,8 +81,8 @@
     }
   },
   "quest.2D1B390B363E0F27.quest_desc": {
-    "original": "\u0026eDE \u0026bEnergy Crystals\u0026r can transfer RF power to linked blocks via an energy network with at least one \u0026aI/O Crystal\u0026r and one \u00262Wireless Crystal\u0026r. \n\nShift + Right-click your Wireless Crystal to start linking it to other blocks by Right-clicking.\n\n\u0026aRelays\u0026r can only connect to other Network components, so they are only used to extend the range of your network.\n\n\u00267\u0026oCheck the next page for transfer rates -\u003e\n{@pagebreak}\nEach crystal tier can output a different amount of power per connection:\n\nThe \u0026aBasic Tier\u0026r can transfer up to 32,000 RF/t\n\nThe \u0026dWyvern Tier\u0026r can transfer up to 128,000 RF/t\n\nThe \u00266Draconic Tier\u0026r can transfer up to 256,000 RF/t",
-    "translation": "\u0026e《龍族進化》\u0026f的\u0026b能量水晶\u0026r，可以透過包含至少一個 \u0026aI/O 水晶\u0026r，\n和一個\u00262無線水晶\u0026r的能量網路，將 RF 能量傳輸至連結的方塊。 \n\n對你的無線水晶按下 Shift + 右鍵，接著透過點擊其他方塊來開始連結。\n\n\u0026a中繼水晶\u0026r只能連接到其他網路元件，因此它們僅用於延伸網路的範圍。\n\n\u00267\u0026o查看下一頁以瞭解傳輸速率 -\u003e\n{@pagebreak}\n每個水晶階級在每次連接中，可輸出的電量不同：\n\n\u0026a基礎階級\u0026r最高可傳輸 32,000 RF/t\n\n\u0026d雙足飛龍階級\u0026r最高可傳輸 128,000 RF/t\n\n\u00266神龍階級\u0026r最高可傳輸 256,000 RF/t",
+    "original": "&eDE &bEnergy Crystals&r can transfer RF power to linked blocks via an energy network with at least one &aI/O Crystal&r and one &2Wireless Crystal&r. \n\nShift + Right-click your Wireless Crystal to start linking it to other blocks by Right-clicking.\n\n&aRelays&r can only connect to other Network components, so they are only used to extend the range of your network.\n\n&7&oCheck the next page for transfer rates ->\n{@pagebreak}\nEach crystal tier can output a different amount of power per connection:\n\nThe &aBasic Tier&r can transfer up to 32,000 RF/t\n\nThe &dWyvern Tier&r can transfer up to 128,000 RF/t\n\nThe &6Draconic Tier&r can transfer up to 256,000 RF/t",
+    "translation": "&e《龍族進化》&f的&b能量水晶&r，可以透過包含至少一個 &aI/O 水晶&r，\n和一個&2無線水晶&r的能量網路，將 RF 能量傳輸至連結的方塊。 \n\n對你的無線水晶按下 Shift + 右鍵，接著透過點擊其他方塊來開始連結。\n\n&a中繼水晶&r只能連接到其他網路元件，因此它們僅用於延伸網路的範圍。\n\n&7&o查看下一頁以瞭解傳輸速率 ->\n{@pagebreak}\n每個水晶階級在每次連接中，可輸出的電量不同：\n\n&a基礎階級&r最高可傳輸 32,000 RF/t\n\n&d雙足飛龍階級&r最高可傳輸 128,000 RF/t\n\n&6神龍階級&r最高可傳輸 256,000 RF/t",
     "context": "chapters/draconic_evolution.snbt / quest 2D1B390B363E0F27",
     "meta": {
       "line_split_policy": "lf",
@@ -99,8 +99,8 @@
     }
   },
   "quest.2D95FEECCF48B088.quest_desc": {
-    "original": "\u0026aDraconic Capacitors\u0026r are portable batteries that can store and provide power to other items within your inventory.\n\n\u0026eNote\u0026f: Capacitors can also go in your Curio Slots.\n\n[\"At this point you will also gain access to \", { \"text\": \"Wyvern Tools\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Tools Quest\"}}, \", \", { \"text\": \"Wyvern Weapons\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0B65713A23351790\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \", and the \", {\"text\": \"Wyvern Chestpiece\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2DF77DA2ED65FBAC\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Chestpiece Quest\"}}, \".\"]",
-    "translation": "\u0026a龍族電容\u0026r是攜帶式電池，可以儲存能量並為物品欄中的其他物品供電。\n\n\u0026e注意\u0026f：電容也可以放入飾品欄位。\n\n[\"在此階段，你還將獲取\", { \"text\": \"「雙足飛龍工具」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍工具任務\"}}, \"、\", { \"text\": \"「雙足飛龍武器」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0B65713A23351790\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍武器任務\"}}, \" 以及\", {\"text\": \"「雙足飛龍護胸」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2DF77DA2ED65FBAC\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍護胸任務\"}}, \"的使用權限。\"]",
+    "original": "&aDraconic Capacitors&r are portable batteries that can store and provide power to other items within your inventory.\n\n&eNote&f: Capacitors can also go in your Curio Slots.\n\n[\"At this point you will also gain access to \", { \"text\": \"Wyvern Tools\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Tools Quest\"}}, \", \", { \"text\": \"Wyvern Weapons\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0B65713A23351790\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \", and the \", {\"text\": \"Wyvern Chestpiece\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2DF77DA2ED65FBAC\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Chestpiece Quest\"}}, \".\"]",
+    "translation": "&a龍族電容&r是攜帶式電池，可以儲存能量並為物品欄中的其他物品供電。\n\n&e注意&f：電容也可以放入飾品欄位。\n\n[\"在此階段，你還將獲取\", { \"text\": \"「雙足飛龍工具」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"056990503617C147\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍工具任務\"}}, \"、\", { \"text\": \"「雙足飛龍武器」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0B65713A23351790\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍武器任務\"}}, \" 以及\", {\"text\": \"「雙足飛龍護胸」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2DF77DA2ED65FBAC\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍護胸任務\"}}, \"的使用權限。\"]",
     "context": "chapters/draconic_evolution.snbt / quest 2D95FEECCF48B088",
     "meta": {
       "line_split_policy": "lf",
@@ -108,8 +108,8 @@
     }
   },
   "quest.2D95FEECCF48B088.title": {
-    "original": "\u0026dDraconic \u0026fCapacitors",
-    "translation": "\u0026d龍族\u0026f電容器",
+    "original": "&dDraconic &fCapacitors",
+    "translation": "&d龍族&f電容器",
     "context": "chapters/draconic_evolution.snbt / quest 2D95FEECCF48B088",
     "meta": {
       "line_split_policy": "none",
@@ -117,8 +117,8 @@
     }
   },
   "quest.48935E2DFCA1E835.quest_desc": {
-    "original": "By milking the \u0026zMighty Ender Chicken\u0026r, you can acquire \u0026zMolten Chaos\u0026r that can be solidified into \u0026zChaos Shards\u0026r used to upgrade your infusion setup and craft the most advanced \u0026eDE\u0026r items.\n\nYou can now upgrade your \u00266Draconic Gear\u0026r to \u0026zChaotic Tier\u0026r.",
-    "translation": "透過雷射鑽提取\u0026z偉大終界雞\u0026r，你會獲得\u0026z熔融混沌\u0026r，它可以凝固成\u0026z混沌碎片\u0026r，用於升級你的聚合設備，並合成最高階的\u0026e《龍族進化》\u0026r物品。\n\n你現在可以將你的\u00266神龍裝備\u0026r升級至\u0026z混沌階級\u0026r。",
+    "original": "By milking the &zMighty Ender Chicken&r, you can acquire &zMolten Chaos&r that can be solidified into &zChaos Shards&r used to upgrade your infusion setup and craft the most advanced &eDE&r items.\n\nYou can now upgrade your &6Draconic Gear&r to &zChaotic Tier&r.",
+    "translation": "透過雷射鑽提取&z偉大終界雞&r，你會獲得&z熔融混沌&r，它可以凝固成&z混沌碎片&r，用於升級你的聚合設備，並合成最高階的&e《龍族進化》&r物品。\n\n你現在可以將你的&6神龍裝備&r升級至&z混沌階級&r。",
     "context": "chapters/draconic_evolution.snbt / quest 48935E2DFCA1E835",
     "meta": {
       "line_split_policy": "lf",
@@ -126,8 +126,8 @@
     }
   },
   "quest.48935E2DFCA1E835.title": {
-    "original": "\u0026zChaotic Infusion",
-    "translation": "\u0026z混沌聚合",
+    "original": "&zChaotic Infusion",
+    "translation": "&z混沌聚合",
     "context": "chapters/draconic_evolution.snbt / quest 48935E2DFCA1E835",
     "meta": {
       "line_split_policy": "none",
@@ -135,8 +135,8 @@
     }
   },
   "quest.4A1DBDE0963407E7.quest_desc": {
-    "original": "\u0026eDraconic Evolution\u0026r (\u0026eDE\u0026r)is a mid-game to late-game mod focused around dragons, energy, and very overpowered equipment.\n\nTo get started with \u0026eDE\u0026r, you'll first need to gather some \u0026aDraconium Dust.\n\n[\"The main way to acquire this dust is to level up your \", {\"text\": \"Dimensionalist Unearther\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Dimensionalist Quest\"}}, \" at least tier 4, but you may also acquire it through other methods (check JEI).\"]\n\nYou can also just manually brush \u0026eEnd Stone\u0026r once your \u0026aUnearther Level\u0026r is high enough.",
-    "translation": "\u0026e《龍族進化》\u0026r是一款專注於龍族科技、能量，以及極強大裝備的中後期模組。\n\n若要開始深入\u0026e《龍族進化》\u0026r，你首先需要收集一些\u0026a龍塵\u0026r。\n\n[\"獲取此粉末的主要方式，是將\", {\"text\": \"「維度學家」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往維度學家任務\"}},\"的職業等級，\"] \n提升至專家級，但你也能透過其他方式取得龍金屬。\n\n當你的\u0026a發掘等級\u0026r夠高時，你也可以直接手動刷掃\u0026e終界石\u0026r。",
+    "original": "&eDraconic Evolution&r (&eDE&r)is a mid-game to late-game mod focused around dragons, energy, and very overpowered equipment.\n\nTo get started with &eDE&r, you'll first need to gather some &aDraconium Dust.\n\n[\"The main way to acquire this dust is to level up your \", {\"text\": \"Dimensionalist Unearther\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Dimensionalist Quest\"}}, \" at least tier 4, but you may also acquire it through other methods (check JEI).\"]\n\nYou can also just manually brush &eEnd Stone&r once your &aUnearther Level&r is high enough.",
+    "translation": "&e《龍族進化》&r是一款專注於龍族科技、能量，以及極強大裝備的中後期模組。\n\n若要開始深入&e《龍族進化》&r，你首先需要收集一些&a龍塵&r。\n\n[\"獲取此粉末的主要方式，是將\", {\"text\": \"「維度學家」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往維度學家任務\"}},\"的職業等級，\"] \n提升至專家級，但你也能透過其他方式取得龍金屬。\n\n當你的&a發掘等級&r夠高時，你也可以直接手動刷掃&e終界石&r。",
     "context": "chapters/draconic_evolution.snbt / quest 4A1DBDE0963407E7",
     "meta": {
       "line_split_policy": "lf",
@@ -144,8 +144,8 @@
     }
   },
   "quest.4A1DBDE0963407E7.title": {
-    "original": "\u0026fWelcome to \u0026eDraconic Evolution",
-    "translation": "\u0026f歡迎來到\u0026e《龍族進化》\u0026r！",
+    "original": "&fWelcome to &eDraconic Evolution",
+    "translation": "&f歡迎來到&e《龍族進化》&r！",
     "context": "chapters/draconic_evolution.snbt / quest 4A1DBDE0963407E7",
     "meta": {
       "line_split_policy": "none",
@@ -153,8 +153,8 @@
     }
   },
   "quest.4E474C940C683371.quest_desc": {
-    "original": "The \u00266Draconic Reactor\u0026r is the ultimate energy generator, capable of producing hundreds of millions of RF/t with the correct setup. \u0026cThis Reactor can explode!\u0026r\n\nTo start setting one, place the \u00266Reactor Core\u0026r in the center with the \u0026aStabilizers\u0026r up to 5 blocks away from it each in a separate direction, and the \u00262Injector\u0026r above or below it.\n\nTo fuel the Reactor, you must provide it with \u00266Awakened Draconium\u0026r (max 8 blocks at a time) and a massive amount of energy: the more energy you provide, the more energy it'll produce.\n\n\u00267\u0026oMore information on the next page -\u003e\n{@pagebreak}\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_charge.png width:150 height:133 align:center}\nBefore you can power on your reactor, you'll be met with this interface, and you'll need to know what's what to avoid a Reactor meltdown that will nuke everything within 500 blocks.\n\nWe'll go over the interface, from left to right, on the next page -\u003e\n{@pagebreak}\n- Core Temperature: Requires at least 2000°C to Activate the Reactor. A temperature of 8000°C or higher will begin heating up the core exponentially, increasing the chance of a meltdown occurring.\n\n- Containment Field Strength: Controls the protection around the core. If this reaches 0 the Reactor will explode. The lower this value the more power you can make.\n\n- Energy Saturation: Increases as it absorbs more energy and reduces when you pull out energy. The higher the saturation the lower the generation rate. Higher Saturation also increases temperature\n\n- Fuel Conversion: How much fuel you have left and how much has been converted into energy (how much fuel is spent per tick to keep the reactor going). A perfectly balanced reactor burns nothing per tick. The Longer it stays balanced the longer it'll maintain its temperature.\n\n\u00267\u0026oMore on the next page -\u003e\n{@pagebreak}\nOnce everything is in place and you've provided fuel to your Reactor, you can safely hit \"Charge\" to start the Reactor.\n\nFirst, it'll change the Containment Field and Energy Saturation to 50%, then start heating up to 2kC. At this point it'll give you the option to Activate the reactor. If all goes well, nothing blows up.\n\nYour \"Active\" interface should look something like this:\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_activate.png width:188 height:166 align:center}",
-    "translation": "\u00266神龍反應爐\u0026r是終極的發電機，在正確設定下，其發電量每刻可達數億 RF/t。\n\u0026c此反應爐可能會爆炸！\u0026r\n\n若要開始設置反應爐，\n請將\u00266反應爐核心\u0026r放置在中心，並將\u0026a穩定器\u0026r放置在距離核心最多 5 格的各個方向上，\n而\u00262注入器\u0026r則置於核心上方或下方。\n\n若要為反應爐提供燃料，你必須向其提供\u00266覺醒龍金屬\u0026r（一次最多 8 個方塊）\n和龐大的能量：你提供的能量越多，它產出的能量也就越多。\n\n\u00267\u0026o更多資訊請見下一頁 -\u003e\n{@pagebreak}\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_charge.png width:150 height:133 align:center}\n在啟動反應爐之前，你會看到此介面，你需要瞭解各項數值以避免反應爐熔毀，否則方圓 500 格內的一切都將灰飛煙滅。\n\n我們將在下一頁由左至右逐一介紹介面內容 -\u003e\n{@pagebreak}\n- 核心溫度：需要至少 2000°C 才能啟動反應爐。當溫度達到 8000°C 或更高時，\n核心會開始呈指數級升溫，從而增加發生爐心熔毀的機率。\n\n- 控制場強度：控制核心周圍的保護力場。若此值降至 0，反應爐就會爆炸。\n此值越低，你能產生的能量就越多。\n\n- 能量飽和度：隨著吸收更多能量而增加，隨著提取能量而減少。\n飽和度越高，發電效率越低。較高的飽和度也會使溫度升高。\n\n- 燃料轉換：剩餘多少燃料以及有多少燃料已轉換為能量\n\n（每刻消耗多少燃料來維持反應爐運轉）。\n\n完美平衡的反應爐每刻不會燃燒任何燃料。\n\n維持平衡的時間越長，保持溫度的時間也越長。\n\n\u00267\u0026o更多資訊請見下一頁 -\u003e\n{@pagebreak}\n一旦一切就緒且你已為反應爐提供燃料，你就可以安全地點擊「充能」來啟動反應爐。\n\n首先，它會將控制場與能量飽和度調整至 50%，然後開始升溫至 2000°C。\n此時它會為你提供啟動反應爐的選項。若一切順利，就不會發生爆炸。\n\n你的「運轉中」介面看起來應該像這樣：\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_activate.png width:188 height:166 align:center}",
+    "original": "The &6Draconic Reactor&r is the ultimate energy generator, capable of producing hundreds of millions of RF/t with the correct setup. &cThis Reactor can explode!&r\n\nTo start setting one, place the &6Reactor Core&r in the center with the &aStabilizers&r up to 5 blocks away from it each in a separate direction, and the &2Injector&r above or below it.\n\nTo fuel the Reactor, you must provide it with &6Awakened Draconium&r (max 8 blocks at a time) and a massive amount of energy: the more energy you provide, the more energy it'll produce.\n\n&7&oMore information on the next page ->\n{@pagebreak}\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_charge.png width:150 height:133 align:center}\nBefore you can power on your reactor, you'll be met with this interface, and you'll need to know what's what to avoid a Reactor meltdown that will nuke everything within 500 blocks.\n\nWe'll go over the interface, from left to right, on the next page ->\n{@pagebreak}\n- Core Temperature: Requires at least 2000°C to Activate the Reactor. A temperature of 8000°C or higher will begin heating up the core exponentially, increasing the chance of a meltdown occurring.\n\n- Containment Field Strength: Controls the protection around the core. If this reaches 0 the Reactor will explode. The lower this value the more power you can make.\n\n- Energy Saturation: Increases as it absorbs more energy and reduces when you pull out energy. The higher the saturation the lower the generation rate. Higher Saturation also increases temperature\n\n- Fuel Conversion: How much fuel you have left and how much has been converted into energy (how much fuel is spent per tick to keep the reactor going). A perfectly balanced reactor burns nothing per tick. The Longer it stays balanced the longer it'll maintain its temperature.\n\n&7&oMore on the next page ->\n{@pagebreak}\nOnce everything is in place and you've provided fuel to your Reactor, you can safely hit \"Charge\" to start the Reactor.\n\nFirst, it'll change the Containment Field and Energy Saturation to 50%, then start heating up to 2kC. At this point it'll give you the option to Activate the reactor. If all goes well, nothing blows up.\n\nYour \"Active\" interface should look something like this:\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_activate.png width:188 height:166 align:center}",
+    "translation": "&6神龍反應爐&r是終極的發電機，在正確設定下，其發電量每刻可達數億 RF/t。\n&c此反應爐可能會爆炸！&r\n\n若要開始設置反應爐，\n請將&6反應爐核心&r放置在中心，並將&a穩定器&r放置在距離核心最多 5 格的各個方向上，\n而&2注入器&r則置於核心上方或下方。\n\n若要為反應爐提供燃料，你必須向其提供&6覺醒龍金屬&r（一次最多 8 個方塊）\n和龐大的能量：你提供的能量越多，它產出的能量也就越多。\n\n&7&o更多資訊請見下一頁 ->\n{@pagebreak}\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_charge.png width:150 height:133 align:center}\n在啟動反應爐之前，你會看到此介面，你需要瞭解各項數值以避免反應爐熔毀，否則方圓 500 格內的一切都將灰飛煙滅。\n\n我們將在下一頁由左至右逐一介紹介面內容 ->\n{@pagebreak}\n- 核心溫度：需要至少 2000°C 才能啟動反應爐。當溫度達到 8000°C 或更高時，\n核心會開始呈指數級升溫，從而增加發生爐心熔毀的機率。\n\n- 控制場強度：控制核心周圍的保護力場。若此值降至 0，反應爐就會爆炸。\n此值越低，你能產生的能量就越多。\n\n- 能量飽和度：隨著吸收更多能量而增加，隨著提取能量而減少。\n飽和度越高，發電效率越低。較高的飽和度也會使溫度升高。\n\n- 燃料轉換：剩餘多少燃料以及有多少燃料已轉換為能量\n\n（每刻消耗多少燃料來維持反應爐運轉）。\n\n完美平衡的反應爐每刻不會燃燒任何燃料。\n\n維持平衡的時間越長，保持溫度的時間也越長。\n\n&7&o更多資訊請見下一頁 ->\n{@pagebreak}\n一旦一切就緒且你已為反應爐提供燃料，你就可以安全地點擊「充能」來啟動反應爐。\n\n首先，它會將控制場與能量飽和度調整至 50%，然後開始升溫至 2000°C。\n此時它會為你提供啟動反應爐的選項。若一切順利，就不會發生爆炸。\n\n你的「運轉中」介面看起來應該像這樣：\n{image:ftb:textures/quests/draconic_evolution/reactor_ui_activate.png width:188 height:166 align:center}",
     "context": "chapters/draconic_evolution.snbt / quest 4E474C940C683371",
     "meta": {
       "line_split_policy": "lf",
@@ -162,8 +162,8 @@
     }
   },
   "quest.4E474C940C683371.title": {
-    "original": "\u00266The Draconic Reactor",
-    "translation": "\u00266神龍反應爐",
+    "original": "&6The Draconic Reactor",
+    "translation": "&6神龍反應爐",
     "context": "chapters/draconic_evolution.snbt / quest 4E474C940C683371",
     "meta": {
       "line_split_policy": "none",
@@ -171,8 +171,8 @@
     }
   },
   "quest.53060D307C063C25.quest_desc": {
-    "original": "The \u0026aWyvern Core\u0026r is an upgraded crafting component used for most \u0026eDE\u0026r recipes and items.",
-    "translation": "\u0026a雙足飛龍核心\u0026r是用於大多數\u0026e《龍族進化》\u0026r配方和物品的進階合成元件。",
+    "original": "The &aWyvern Core&r is an upgraded crafting component used for most &eDE&r recipes and items.",
+    "translation": "&a雙足飛龍核心&r是用於大多數&e《龍族進化》&r配方和物品的進階合成元件。",
     "context": "chapters/draconic_evolution.snbt / quest 53060D307C063C25",
     "meta": {
       "line_split_policy": "lf",
@@ -180,8 +180,8 @@
     }
   },
   "quest.5BE257CE3FD1FDAC.quest_desc": {
-    "original": "With \u00266Awakened Draconium\u0026r, you can now upgrade your Infusion setup to craft more advanced items.\n\nYou can now upgrade your \u0026dWyvern Gear\u0026r to \u00266Draconic Tier\u0026r.",
-    "translation": "有了\u00266覺醒龍金屬\u0026r，你現在可以升級你的聚能設置來合成更進階的物品。\n\n你現在可以將你的\u0026d雙足飛龍裝備\u0026r升級至\u00266神龍階級\u0026r。",
+    "original": "With &6Awakened Draconium&r, you can now upgrade your Infusion setup to craft more advanced items.\n\nYou can now upgrade your &dWyvern Gear&r to &6Draconic Tier&r.",
+    "translation": "有了&6覺醒龍金屬&r，你現在可以升級你的聚能設置來合成更進階的物品。\n\n你現在可以將你的&d雙足飛龍裝備&r升級至&6神龍階級&r。",
     "context": "chapters/draconic_evolution.snbt / quest 5BE257CE3FD1FDAC",
     "meta": {
       "line_split_policy": "lf",
@@ -189,8 +189,8 @@
     }
   },
   "quest.5BE257CE3FD1FDAC.title": {
-    "original": "\u00266Awakened Infusion",
-    "translation": "\u00266覺醒聚合",
+    "original": "&6Awakened Infusion",
+    "translation": "&6覺醒聚合",
     "context": "chapters/draconic_evolution.snbt / quest 5BE257CE3FD1FDAC",
     "meta": {
       "line_split_policy": "none",
@@ -198,8 +198,8 @@
     }
   },
   "quest.7279FFED00B223D7.quest_desc": {
-    "original": "The \u0026aDraconium Core\u0026r is one of the main crafting components in \u0026eDE\u0026r and can be used in some basic recipes for items and \u0026bModules\u0026r used in Draconic Armor and Tools.",
-    "translation": "\u0026a龍族核心\u0026r是\u0026e《龍族進化》\u0026r的重要合成元件。\n\n主要用於打造基礎道具、護胸裝備及工具的\u0026b升級模組\u0026r。",
+    "original": "The &aDraconium Core&r is one of the main crafting components in &eDE&r and can be used in some basic recipes for items and &bModules&r used in Draconic Armor and Tools.",
+    "translation": "&a龍族核心&r是&e《龍族進化》&r的重要合成元件。\n\n主要用於打造基礎道具、護胸裝備及工具的&b升級模組&r。",
     "context": "chapters/draconic_evolution.snbt / quest 7279FFED00B223D7",
     "meta": {
       "line_split_policy": "lf",
@@ -207,8 +207,8 @@
     }
   },
   "quest.73FD015A3696ABFB.quest_desc": {
-    "original": "By infusing a \u0026aDragon's Heart\u0026r into your \u0026dDraconium\u0026r, you can acquire \u00266Awakened Draconium\u0026r which you'll need if you wish to upgrade your existing \u0026eDE\u0026r setups.",
-    "translation": "透過將\u0026a龍族之心\u0026r聚能至\u0026d龍金屬\u0026r中，你會獲得\u00266覺醒龍金屬\u0026r，若你想升級現有的\u0026e《龍族進化》\u0026r設備，就會需要它。",
+    "original": "By infusing a &aDragon's Heart&r into your &dDraconium&r, you can acquire &6Awakened Draconium&r which you'll need if you wish to upgrade your existing &eDE&r setups.",
+    "translation": "透過將&a龍族之心&r聚能至&d龍金屬&r中，你會獲得&6覺醒龍金屬&r，若你想升級現有的&e《龍族進化》&r設備，就會需要它。",
     "context": "chapters/draconic_evolution.snbt / quest 73FD015A3696ABFB",
     "meta": {
       "line_split_policy": "lf",
@@ -216,8 +216,8 @@
     }
   },
   "quest.73FD015A3696ABFB.title": {
-    "original": "\u00266Awakened Draconium",
-    "translation": "\u00266覺醒龍金屬",
+    "original": "&6Awakened Draconium",
+    "translation": "&6覺醒龍金屬",
     "context": "chapters/draconic_evolution.snbt / quest 73FD015A3696ABFB",
     "meta": {
       "line_split_policy": "none",

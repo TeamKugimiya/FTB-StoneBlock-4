@@ -36,8 +36,8 @@
     }
   },
   "quest.09D15AF118F0C8D8.quest_desc": {
-    "original": "Once you have acquired all of the above \u0026zcreative\u0026r items, it's time for you to decide which system you want to give infinite power to.",
-    "translation": "當你取得了以上所有\u0026z創造模式\u0026r物品之後，是時候該選擇你想要為哪種系統提供無盡能量了。",
+    "original": "Once you have acquired all of the above &zcreative&r items, it's time for you to decide which system you want to give infinite power to.",
+    "translation": "當你取得了以上所有&z創造模式&r物品之後，是時候該選擇你想要為哪種系統提供無盡能量了。",
     "context": "chapters/thebackrooms.snbt / quest 09D15AF118F0C8D8",
     "meta": {
       "line_split_policy": "lf",
@@ -54,8 +54,8 @@
     }
   },
   "quest.0BE524ECA97A0E63.quest_desc": {
-    "original": "\u0026cWARNING\u0026r: Completing this quest will instantly skip all pack progression.\n\n\u0026oOnly use this if you know what you're doing. There is no undo button.",
-    "translation": "\u0026cWARNING\u0026r: Completing this quest will instantly skip all pack progression.\n\n\u0026oOnly use this if you know what you're doing. There is no undo button.",
+    "original": "&cWARNING&r: Completing this quest will instantly skip all pack progression.\n\n&oOnly use this if you know what you're doing. There is no undo button.",
+    "translation": "&cWARNING&r: Completing this quest will instantly skip all pack progression.\n\n&oOnly use this if you know what you're doing. There is no undo button.",
     "context": "chapters/thebackrooms.snbt / quest 0BE524ECA97A0E63",
     "meta": {
       "line_split_policy": "lf",
@@ -63,8 +63,8 @@
     }
   },
   "quest.1617D99EA1AE47E4.quest_desc": {
-    "original": "\u0026bCheck\u0026f: \u0026lSubmitting\u0026r Chronon Generator\n\n\u0026bUnlocks\u0026f:",
-    "translation": "\u0026bCheck\u0026f: \u0026lSubmitting\u0026r Chronon Generator\n\n\u0026bUnlocks\u0026f:",
+    "original": "&bCheck&f: &lSubmitting&r Chronon Generator\n\n&bUnlocks&f:",
+    "translation": "&bCheck&f: &lSubmitting&r Chronon Generator\n\n&bUnlocks&f:",
     "context": "chapters/thebackrooms.snbt / quest 1617D99EA1AE47E4",
     "meta": {
       "line_split_policy": "lf",
@@ -207,8 +207,8 @@
     }
   },
   "quest.4C52D3DE2F7701D0.quest_desc": {
-    "original": "\u0026bCheck\u0026f: Crafting the brush\n\n\u0026bUnlocks\u0026f:",
-    "translation": "\u0026bCheck\u0026f: Crafting the brush\n\n\u0026bUnlocks\u0026f:",
+    "original": "&bCheck&f: Crafting the brush\n\n&bUnlocks&f:",
+    "translation": "&bCheck&f: Crafting the brush\n\n&bUnlocks&f:",
     "context": "chapters/thebackrooms.snbt / quest 4C52D3DE2F7701D0",
     "meta": {
       "line_split_policy": "lf",
@@ -252,8 +252,8 @@
     }
   },
   "quest.6120A9478D66C2F9.quest_desc": {
-    "original": "With the \u0026aStraw\u0026r that you've made, you are finally able to make a basic version of the most important tool on your journey: \u00263The Crude Brush\u0026r.\n\nWith a gentle hand and a stroke of the \u00263Brush\u0026r, you'll be able to find the minerals hidden inside the broken stones.\n\nYou should return to the \u0026dEcho of Guidance\u0026r to show him your progress.\n\n\u0026eNote\u0026r: You can use /spawn to return to the lobby.",
-    "translation": "透過你剛剛製造出來的\u0026a稻梗\u0026r，你終於能夠做出這趟旅程中最重要的工具......的基本版：\u00263粗製刷子\u0026r。\n\n使用\u00263刷子\u0026r輕輕幾划，你就能夠找到藏於破碎石頭中的細小礦物。\n\n是時候返回\u0026d指引嚮導之回聲\u0026r處，向他報告你的進展了。\n\n\u0026e備註\u0026r：你可以使用「/spawn」指令回到大廳。",
+    "original": "With the &aStraw&r that you've made, you are finally able to make a basic version of the most important tool on your journey: &3The Crude Brush&r.\n\nWith a gentle hand and a stroke of the &3Brush&r, you'll be able to find the minerals hidden inside the broken stones.\n\nYou should return to the &dEcho of Guidance&r to show him your progress.\n\n&eNote&r: You can use /spawn to return to the lobby.",
+    "translation": "透過你剛剛製造出來的&a稻梗&r，你終於能夠做出這趟旅程中最重要的工具......的基本版：&3粗製刷子&r。\n\n使用&3刷子&r輕輕幾划，你就能夠找到藏於破碎石頭中的細小礦物。\n\n是時候返回&d指引嚮導之回聲&r處，向他報告你的進展了。\n\n&e備註&r：你可以使用「/spawn」指令回到大廳。",
     "context": "chapters/thebackrooms.snbt / quest 6120A9478D66C2F9",
     "meta": {
       "line_split_policy": "lf",
@@ -261,8 +261,8 @@
     }
   },
   "quest.6120A9478D66C2F9.title": {
-    "original": "\u0026fThe Strands of Time",
-    "translation": "\u0026f一縷縷時間",
+    "original": "&fThe Strands of Time",
+    "translation": "&f一縷縷時間",
     "context": "chapters/thebackrooms.snbt / quest 6120A9478D66C2F9",
     "meta": {
       "line_split_policy": "none",
@@ -306,8 +306,8 @@
     }
   },
   "quest.6D5A9E9E8B0D8AC2.quest_desc": {
-    "original": "With the materials you've gathered, you should be able to craft the \u00263Chronon Generator\u0026r like the \u0026dEcho\u0026r wanted!\n\nIt's time to submit the \u0026aChronon Generator\u0026r and return to the \u0026dEcho of Guidance\u0026r. Doing this will award all players on your team a \u0026aCell\u0026r and a \u00262Generator\u0026r.\n\n\u0026eNote\u0026f: You must submit the \u0026aChronon Generator\u0026r to complete this quest and update the \u0026dEcho of Guidance\u0026r. ",
-    "translation": "使用你剛剛採集到的資源，你就可以合成出\u0026d回聲\u0026r想要的\u00263時空粒子產生器\u0026r了！\n\n是時候交出\u0026a時間粒子產生器\u0026r並返回\u0026d指引嚮導之回聲\u0026r處了。完成這項任務會給予你隊伍中的所有玩家各一台\u0026a單元\u0026r和一台\u0026r產生器\u0026r。\n\n\u0026e備註\u0026f：你會需要提交這台\u0026a時空粒子產生器\u0026r才能完成這項任務並取得\u0026d指引嚮導之回聲\u0026r的下一步指示。",
+    "original": "With the materials you've gathered, you should be able to craft the &3Chronon Generator&r like the &dEcho&r wanted!\n\nIt's time to submit the &aChronon Generator&r and return to the &dEcho of Guidance&r. Doing this will award all players on your team a &aCell&r and a &2Generator&r.\n\n&eNote&f: You must submit the &aChronon Generator&r to complete this quest and update the &dEcho of Guidance&r. ",
+    "translation": "使用你剛剛採集到的資源，你就可以合成出&d回聲&r想要的&3時空粒子產生器&r了！\n\n是時候交出&a時間粒子產生器&r並返回&d指引嚮導之回聲&r處了。完成這項任務會給予你隊伍中的所有玩家各一台&a單元&r和一台&r產生器&r。\n\n&e備註&f：你會需要提交這台&a時空粒子產生器&r才能完成這項任務並取得&d指引嚮導之回聲&r的下一步指示。",
     "context": "chapters/thebackrooms.snbt / quest 6D5A9E9E8B0D8AC2",
     "meta": {
       "line_split_policy": "lf",
@@ -315,8 +315,8 @@
     }
   },
   "quest.6D5A9E9E8B0D8AC2.title": {
-    "original": "\u0026fChronon Generator",
-    "translation": "\u0026f時空粒子產生器",
+    "original": "&fChronon Generator",
+    "translation": "&f時空粒子產生器",
     "context": "chapters/thebackrooms.snbt / quest 6D5A9E9E8B0D8AC2",
     "meta": {
       "line_split_policy": "none",

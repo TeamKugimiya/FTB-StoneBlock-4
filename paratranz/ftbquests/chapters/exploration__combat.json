@@ -9,8 +9,8 @@
     }
   },
   "quest.0219C9D8447C8936.quest_desc": {
-    "original": "The \u00262Timedoor Projector\u0026r is a crude device that can open up timedoors for travel!\n\nSneak to place it on the ground then insert a \u0026aLocation Card\u0026r into it, or use a location card on the item while in your inventory.\n\nOnce a location card is inserted and you have enough \u0026bChronon\u0026r, you can open a portal door.\n\nThis is done one of two ways: non-sneaking use from your hand, or when receiving a redstone signal in block mode.",
-    "translation": "\u00262時空門投影儀\u0026r是一種基礎裝置，可以開啟時空門來進行傳送。\n\n潛行時右鍵可將它置於地上，再插入\u0026a傳送點卡片\u0026r；也可以在物品欄中，游標持著卡片，對投影儀點擊右鍵放入。\n\n插入卡片後，只要你有足夠的\u0026b時空粒子\u0026r，就能開啟時空門。\n\n可透過兩種方式啟動：手持狀態下直接右鍵使用（非潛行），或置於地面上時，給予它紅石訊號。",
+    "original": "The &2Timedoor Projector&r is a crude device that can open up timedoors for travel!\n\nSneak to place it on the ground then insert a &aLocation Card&r into it, or use a location card on the item while in your inventory.\n\nOnce a location card is inserted and you have enough &bChronon&r, you can open a portal door.\n\nThis is done one of two ways: non-sneaking use from your hand, or when receiving a redstone signal in block mode.",
+    "translation": "&2時空門投影儀&r是一種基礎裝置，可以開啟時空門來進行傳送。\n\n潛行時右鍵可將它置於地上，再插入&a傳送點卡片&r；也可以在物品欄中，游標持著卡片，對投影儀點擊右鍵放入。\n\n插入卡片後，只要你有足夠的&b時空粒子&r，就能開啟時空門。\n\n可透過兩種方式啟動：手持狀態下直接右鍵使用（非潛行），或置於地面上時，給予它紅石訊號。",
     "context": "chapters/exploration__combat.snbt / quest 0219C9D8447C8936",
     "meta": {
       "line_split_policy": "lf",
@@ -18,8 +18,8 @@
     }
   },
   "quest.0219C9D8447C8936.title": {
-    "original": "\u00262Timedoor Projector",
-    "translation": "\u00262時空門投影儀",
+    "original": "&2Timedoor Projector",
+    "translation": "&2時空門投影儀",
     "context": "chapters/exploration__combat.snbt / quest 0219C9D8447C8936",
     "meta": {
       "line_split_policy": "none",
@@ -27,8 +27,8 @@
     }
   },
   "quest.056492E163706EC5.quest_desc": {
-    "original": "The \u0026aDislocator\u0026r can be used to store a teleport location by Sneak + Right-clicking with it in the world.\n\nOnce stored, simply Right-click to teleport to that stored location, up to 32 times.\n\n\u0026aUn-bound Dislocators\u0026r can be set then placed onto a \u0026aDislocator Pedestal\u0026r to act as waystones to teleport you places. Using the pedestal doesn't use durability!",
-    "translation": "\u0026a傳送符咒\u0026r可在世界中潛行並點擊右鍵，儲存一個傳送位置。\n\n儲存後只要點擊右鍵，即可傳送到該位置，最多可使用 32 次。\n\n\u0026a未綁定的傳送符咒\u0026r可先設定位置，再放到\u0026a傳送符咒基座\u0026r上作為傳送錨點。使用基座不會消耗耐久！",
+    "original": "The &aDislocator&r can be used to store a teleport location by Sneak + Right-clicking with it in the world.\n\nOnce stored, simply Right-click to teleport to that stored location, up to 32 times.\n\n&aUn-bound Dislocators&r can be set then placed onto a &aDislocator Pedestal&r to act as waystones to teleport you places. Using the pedestal doesn't use durability!",
+    "translation": "&a傳送符咒&r可在世界中潛行並點擊右鍵，儲存一個傳送位置。\n\n儲存後只要點擊右鍵，即可傳送到該位置，最多可使用 32 次。\n\n&a未綁定的傳送符咒&r可先設定位置，再放到&a傳送符咒基座&r上作為傳送錨點。使用基座不會消耗耐久！",
     "context": "chapters/exploration__combat.snbt / quest 056492E163706EC5",
     "meta": {
       "line_split_policy": "lf",
@@ -36,8 +36,8 @@
     }
   },
   "quest.056492E163706EC5.title": {
-    "original": "\u0026aDislocator",
-    "translation": "\u0026a傳送符咒",
+    "original": "&aDislocator",
+    "translation": "&a傳送符咒",
     "context": "chapters/exploration__combat.snbt / quest 056492E163706EC5",
     "meta": {
       "line_split_policy": "none",
@@ -54,8 +54,8 @@
     }
   },
   "quest.066B47D2AB72355C.title": {
-    "original": "Finding an \u0026dArcane Grove",
-    "translation": "找到一座\u0026d祕法源林",
+    "original": "Finding an &dArcane Grove",
+    "translation": "找到一座&d祕法源林",
     "context": "chapters/exploration__combat.snbt / quest 066B47D2AB72355C",
     "meta": {
       "line_split_policy": "none",
@@ -63,8 +63,8 @@
     }
   },
   "quest.087D1FBAE8A425C0.quest_desc": {
-    "original": "Using the power of Teleportation Cores, you can create your own \u0026dPortals\u0026r using \u00266Mekanism\u0026r to quickly travel around our bases, even across dimensions!\n\nTo build one, you'll need 1 \u0026dTeleporter\u0026r block and 9 \u0026bTeleporter Frame\u0026r blocks. Once built, you'll want to give the Teleporter block power, and then you can open it up and set a name for the frequency. Make sure to click the checkmark button when you are done naming it!\n\n\u0026eNote\u0026r: To make these, it requires the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r.\n{@pagebreak}\nAll other Teleporters will now be able to see that frequency, and you can build another Teleporter and select the frequency to link them up.\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\nThe \u0026dPortable Teleporter\u0026r allows you to access all of your Teleporters, allowing for instant travel to any of them as long as it has power!\n\nBy holding it in your hand and using it, you will see a list of your frequencies. You can then select one and click teleport!",
-    "translation": "透過傳送核心的力量，你可以透過《\u00266通用機械\u0026r》建立自己的\u0026d傳送門\u0026r，\n在基地各區快速移動，甚至跨維度行動！\n\n要建造它，你需要 1 個\u0026d傳送機\u0026r，與 9 個\u0026b傳送框架\u0026r。\n搭好後先為傳送機供電，再開啟介面設定頻率名稱。命名完成後記得按下勾選按鈕！\n\n\u0026e備註\u0026r：製作這些裝置，需要\u0026b力場子注能方塊\u0026r的\u00266世界引擎升級\u0026r。\n{@pagebreak}\n其他傳送機都會看到這個頻率；你可以再建一組傳送機並選擇相同頻率，讓兩者互相連線。\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\n\u0026d便攜傳送器\u0026r可讓你存取所有傳送機；只要有能量，就能立即傳送到任一傳送機！\n\n手持並使用它，會顯示你的頻率清單。選擇目標後按下傳送即可！",
+    "original": "Using the power of Teleportation Cores, you can create your own &dPortals&r using &6Mekanism&r to quickly travel around our bases, even across dimensions!\n\nTo build one, you'll need 1 &dTeleporter&r block and 9 &bTeleporter Frame&r blocks. Once built, you'll want to give the Teleporter block power, and then you can open it up and set a name for the frequency. Make sure to click the checkmark button when you are done naming it!\n\n&eNote&r: To make these, it requires the &bFortron Infused Block&r &6World Engine Upgrade&r.\n{@pagebreak}\nAll other Teleporters will now be able to see that frequency, and you can build another Teleporter and select the frequency to link them up.\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\nThe &dPortable Teleporter&r allows you to access all of your Teleporters, allowing for instant travel to any of them as long as it has power!\n\nBy holding it in your hand and using it, you will see a list of your frequencies. You can then select one and click teleport!",
+    "translation": "透過傳送核心的力量，你可以透過《&6通用機械&r》建立自己的&d傳送門&r，\n在基地各區快速移動，甚至跨維度行動！\n\n要建造它，你需要 1 個&d傳送機&r，與 9 個&b傳送框架&r。\n搭好後先為傳送機供電，再開啟介面設定頻率名稱。命名完成後記得按下勾選按鈕！\n\n&e備註&r：製作這些裝置，需要&b力場子注能方塊&r的&6世界引擎升級&r。\n{@pagebreak}\n其他傳送機都會看到這個頻率；你可以再建一組傳送機並選擇相同頻率，讓兩者互相連線。\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\n&d便攜傳送器&r可讓你存取所有傳送機；只要有能量，就能立即傳送到任一傳送機！\n\n手持並使用它，會顯示你的頻率清單。選擇目標後按下傳送即可！",
     "context": "chapters/exploration__combat.snbt / quest 087D1FBAE8A425C0",
     "meta": {
       "line_split_policy": "lf",
@@ -81,8 +81,8 @@
     }
   },
   "quest.087D1FBAE8A425C0.title": {
-    "original": "\u0026fMaking \u0026dPortals\u0026f!",
-    "translation": "\u0026f打造\u0026d傳送門\u0026f！",
+    "original": "&fMaking &dPortals&f!",
+    "translation": "&f打造&d傳送門&f！",
     "context": "chapters/exploration__combat.snbt / quest 087D1FBAE8A425C0",
     "meta": {
       "line_split_policy": "none",
@@ -90,8 +90,8 @@
     }
   },
   "quest.094A534C72917405.quest_desc": {
-    "original": "This dungeon spawns in the lower parts of the \u0026bOcean\u0026r ring.",
-    "translation": "此地牢會出現於\u0026b海洋\u0026r環帶的較低處。",
+    "original": "This dungeon spawns in the lower parts of the &bOcean&r ring.",
+    "translation": "此地牢會出現於&b海洋&r環帶的較低處。",
     "context": "chapters/exploration__combat.snbt / quest 094A534C72917405",
     "meta": {
       "line_split_policy": "lf",
@@ -99,8 +99,8 @@
     }
   },
   "quest.094A534C72917405.title": {
-    "original": "Finding an \u0026bIce Spider Den",
-    "translation": "找到一座\u0026b冰霜蜘蛛巢穴",
+    "original": "Finding an &bIce Spider Den",
+    "translation": "找到一座&b冰霜蜘蛛巢穴",
     "context": "chapters/exploration__combat.snbt / quest 094A534C72917405",
     "meta": {
       "line_split_policy": "none",
@@ -108,8 +108,8 @@
     }
   },
   "quest.13C8B2286F5184C7.quest_desc": {
-    "original": "When charged, using the \u00263Teleport Staff\u0026r will teleport you in the direction you are looking, up to 100 blocks away.",
-    "translation": "當\u00263傳送法杖\u0026r內部有足夠能量時，使用它可以將你傳送至你面朝的方向最多 100 格遠。",
+    "original": "When charged, using the &3Teleport Staff&r will teleport you in the direction you are looking, up to 100 blocks away.",
+    "translation": "當&3傳送法杖&r內部有足夠能量時，使用它可以將你傳送至你面朝的方向最多 100 格遠。",
     "context": "chapters/exploration__combat.snbt / quest 13C8B2286F5184C7",
     "meta": {
       "line_split_policy": "lf",
@@ -117,8 +117,8 @@
     }
   },
   "quest.165A1B6F56051FA6.quest_desc": {
-    "original": "\u0026eTempad\u0026r is a teleportation mod that uses special temporary portals called timedoors to travel between locations.\n\nYou've already gotten started with the \u0026eTempad\u0026r mod by making the \u00266Chronon Generator\u0026r and \u0026aChronon Cell\u0026r.\n\n\u0026aLocation Cards\u0026r are the next step, and can be used to register location data for use in other devices such as the \u00262Timedoor Projector\u0026r or \u00266Tempad\u0026r.\n\nThese can be stored in a \u0026aWallet\u0026r to keep your inventory clean.",
-    "translation": "\u0026e時空平板\u0026r模組是一套傳送系統，透過名為時空門的特殊暫時傳送門在各地點間移動。\n\n你已透過製作\u00266時空粒子產生器\u0026r與\u0026a時空粒子單元\u0026r，開始接觸\u0026e時空平板\u0026r模組。\n\n下一步是製作\u0026a傳送點卡片\u0026r，可用來記錄座標資料，供\u00262時空門投影儀\u0026r或\u00266時空平板\u0026r等裝置使用。\n\n這些卡片可以存放在\u0026a卡片錢包\u0026r中，讓你的物品欄更整潔。",
+    "original": "&eTempad&r is a teleportation mod that uses special temporary portals called timedoors to travel between locations.\n\nYou've already gotten started with the &eTempad&r mod by making the &6Chronon Generator&r and &aChronon Cell&r.\n\n&aLocation Cards&r are the next step, and can be used to register location data for use in other devices such as the &2Timedoor Projector&r or &6Tempad&r.\n\nThese can be stored in a &aWallet&r to keep your inventory clean.",
+    "translation": "&e時空平板&r模組是一套傳送系統，透過名為時空門的特殊暫時傳送門在各地點間移動。\n\n你已透過製作&6時空粒子產生器&r與&a時空粒子單元&r，開始接觸&e時空平板&r模組。\n\n下一步是製作&a傳送點卡片&r，可用來記錄座標資料，供&2時空門投影儀&r或&6時空平板&r等裝置使用。\n\n這些卡片可以存放在&a卡片錢包&r中，讓你的物品欄更整潔。",
     "context": "chapters/exploration__combat.snbt / quest 165A1B6F56051FA6",
     "meta": {
       "line_split_policy": "lf",
@@ -126,8 +126,8 @@
     }
   },
   "quest.165A1B6F56051FA6.title": {
-    "original": "The \u00266Tempad\u0026r Mod",
-    "translation": "\u00266《時空平板》\u0026r模組",
+    "original": "The &6Tempad&r Mod",
+    "translation": "&6《時空平板》&r模組",
     "context": "chapters/exploration__combat.snbt / quest 165A1B6F56051FA6",
     "meta": {
       "line_split_policy": "none",
@@ -135,8 +135,8 @@
     }
   },
   "quest.1E061D2E5C560867.quest_desc": {
-    "original": "The \u0026cChesed Arena\u0026r is a massive structure found in the \u0026eEnd\u0026r ring.\n\nThis arena comes with its own boss fight!",
-    "translation": "\u0026c『慈悲』競技場\u0026r是能夠在\u0026e終界\u0026r環帶中找到的大型結構。\n\n此競技場內有一場專屬的魔王戰！",
+    "original": "The &cChesed Arena&r is a massive structure found in the &eEnd&r ring.\n\nThis arena comes with its own boss fight!",
+    "translation": "&c『慈悲』競技場&r是能夠在&e終界&r環帶中找到的大型結構。\n\n此競技場內有一場專屬的魔王戰！",
     "context": "chapters/exploration__combat.snbt / quest 1E061D2E5C560867",
     "meta": {
       "line_split_policy": "lf",
@@ -144,8 +144,8 @@
     }
   },
   "quest.1E061D2E5C560867.title": {
-    "original": "Finding a \u0026cChesed Arena",
-    "translation": "找到一座\u0026c『慈悲』競技場\u0026r",
+    "original": "Finding a &cChesed Arena",
+    "translation": "找到一座&c『慈悲』競技場&r",
     "context": "chapters/exploration__combat.snbt / quest 1E061D2E5C560867",
     "meta": {
       "line_split_policy": "none",
@@ -153,8 +153,8 @@
     }
   },
   "quest.214D210F200CD11F.quest_desc": {
-    "original": "The \u0026dTime Twister\u0026r records important events such as deaths or changing dimensions on a timeline. You can then teleport to the exact location of these timeline events, provided you have enough \u0026bChronon\u0026r.\n\nWhich events are recorded can be configured via the Time Twister's interface.",
-    "translation": "\u0026d時空扭曲器\u0026r會在時間線上記錄重要事件，例如死亡或變換維度。\n\n只要有足夠的\u0026b時空粒子\u0026r，你就能傳送至這些事件的精確位置。\n\n要記錄哪些事件，可在時空扭曲器介面中進行設定。",
+    "original": "The &dTime Twister&r records important events such as deaths or changing dimensions on a timeline. You can then teleport to the exact location of these timeline events, provided you have enough &bChronon&r.\n\nWhich events are recorded can be configured via the Time Twister's interface.",
+    "translation": "&d時空扭曲器&r會在時間線上記錄重要事件，例如死亡或變換維度。\n\n只要有足夠的&b時空粒子&r，你就能傳送至這些事件的精確位置。\n\n要記錄哪些事件，可在時空扭曲器介面中進行設定。",
     "context": "chapters/exploration__combat.snbt / quest 214D210F200CD11F",
     "meta": {
       "line_split_policy": "lf",
@@ -162,8 +162,8 @@
     }
   },
   "quest.21A521011401074F.quest_desc": {
-    "original": "This dungeon spawns in the \u00267Deepslate\u0026r and \u0026cNetherrack\u0026r rings.",
-    "translation": "此地牢會出現於\u00267深板岩\u0026r和\u0026c地獄岩\u0026r環帶。",
+    "original": "This dungeon spawns in the &7Deepslate&r and &cNetherrack&r rings.",
+    "translation": "此地牢會出現於&7深板岩&r和&c地獄岩&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 21A521011401074F",
     "meta": {
       "line_split_policy": "lf",
@@ -171,8 +171,8 @@
     }
   },
   "quest.21A521011401074F.title": {
-    "original": "Finding a \u0026cNether Dungeon",
-    "translation": "找到一座\u0026c地獄地牢",
+    "original": "Finding a &cNether Dungeon",
+    "translation": "找到一座&c地獄地牢",
     "context": "chapters/exploration__combat.snbt / quest 21A521011401074F",
     "meta": {
       "line_split_policy": "none",
@@ -180,8 +180,8 @@
     }
   },
   "quest.2D20EDB447787183.quest_desc": {
-    "original": "While you can use \u0026ebelts\u0026r as an automatic sidewalk and \u0026eweighted ejectors\u0026r to fling yourself, there are more sophisticated methods of travel around the different sections of your base using the \u00266Create\u0026r mod. Namely: \u00266Hypertubes\u0026r!\n\nSingle or dual direction \u0026bhypertube paths\u0026r can be made by placing down \u0026aHypertube Entrance Blocks\u0026r, then clicking with some \u0026aHyper\u0026mlink\u0026r\u0026atube Blocks\u0026r to extend out to a separate point. You can place down hypertube blocks to set up connection points for longer distances.\n\n\u00267\u0026oAny resemblance to Ficsit technologies current or previous is coincidental.",
-    "translation": "雖然你可以把\u0026e輸送帶\u0026r當作自動步道，或用\u0026e彈射置物台\u0026r將自己彈出去，\n但要在基地各區之間移動，\u00266動力機械\u0026r還有更進階的方法：\u00266超級管道\u0026r！\n\n你可以先放置\u0026a超級管道入口方塊\u0026r，再用\u0026a超級管道方塊\u0026r延伸路線，建立單向或雙向的\u0026b超級管道通道\u0026r。也可在途中加設節點，串接更長距離。\n\n\u00267\u0026o如與 Ficsit 現行或過往技術雷同，純屬巧合。",
+    "original": "While you can use &ebelts&r as an automatic sidewalk and &eweighted ejectors&r to fling yourself, there are more sophisticated methods of travel around the different sections of your base using the &6Create&r mod. Namely: &6Hypertubes&r!\n\nSingle or dual direction &bhypertube paths&r can be made by placing down &aHypertube Entrance Blocks&r, then clicking with some &aHyper&mlink&r&atube Blocks&r to extend out to a separate point. You can place down hypertube blocks to set up connection points for longer distances.\n\n&7&oAny resemblance to Ficsit technologies current or previous is coincidental.",
+    "translation": "雖然你可以把&e輸送帶&r當作自動步道，或用&e彈射置物台&r將自己彈出去，\n但要在基地各區之間移動，&6動力機械&r還有更進階的方法：&6超級管道&r！\n\n你可以先放置&a超級管道入口方塊&r，再用&a超級管道方塊&r延伸路線，建立單向或雙向的&b超級管道通道&r。也可在途中加設節點，串接更長距離。\n\n&7&o如與 Ficsit 現行或過往技術雷同，純屬巧合。",
     "context": "chapters/exploration__combat.snbt / quest 2D20EDB447787183",
     "meta": {
       "line_split_policy": "lf",
@@ -189,8 +189,8 @@
     }
   },
   "quest.2D20EDB447787183.title": {
-    "original": "\u00266Create: Hypertubes",
-    "translation": "\u00266動力機械：超級管道",
+    "original": "&6Create: Hypertubes",
+    "translation": "&6動力機械：超級管道",
     "context": "chapters/exploration__combat.snbt / quest 2D20EDB447787183",
     "meta": {
       "line_split_policy": "none",
@@ -198,8 +198,8 @@
     }
   },
   "quest.2E53319ED51DC7C8.quest_desc": {
-    "original": "You wouldn't believe it, but this dungeon spawns in the \u0026eEnd\u0026r ring.",
-    "translation": "或許難以置信，但此地牢會出現於\u0026e終界\u0026r環帶。",
+    "original": "You wouldn't believe it, but this dungeon spawns in the &eEnd&r ring.",
+    "translation": "或許難以置信，但此地牢會出現於&e終界&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 2E53319ED51DC7C8",
     "meta": {
       "line_split_policy": "lf",
@@ -207,8 +207,8 @@
     }
   },
   "quest.2E53319ED51DC7C8.title": {
-    "original": "Finding an \u0026dEnd Dungeon",
-    "translation": "找到一座\u0026d終界地牢",
+    "original": "Finding an &dEnd Dungeon",
+    "translation": "找到一座&d終界地牢",
     "context": "chapters/exploration__combat.snbt / quest 2E53319ED51DC7C8",
     "meta": {
       "line_split_policy": "none",
@@ -216,8 +216,8 @@
     }
   },
   "quest.3A43CCB33A024711.quest_desc": {
-    "original": "The \u00266Workstation\u0026r serves as an in-world \u0026eTempad\u0026r device.\n\nYou must dock a \u00266Tempad\u0026r on it for it to function, granting the Workstation its functionalities as well as the \u0026dTime Twister's\u0026r timeline ability if installed.\n\nIt comes with more options and more configurations such as keeping the timedoor open longer, as well the ability to install optional upgrades on your tempad.\n{@pagebreak}\nThe \u0026dPlayer Teleport Upgrade\u0026r allows your \u00266Tempad\u0026r to discover players equipped with an active \u0026aLocation Broadcaster\u0026r or \u0026dScreening Device\u0026r.",
-    "translation": "\u00266工作站\u0026r可作為放置於世界上的\u0026e時空平板\u0026r裝置。\n\n你必須先將\u00266時空平板\u0026r放上底座才可啟用，工作站會提供自身功能；若已安裝\u0026d時空扭曲器\u0026r，也能使用其時間線功能。\n\n它提供更多選項與設定，例如讓時空門維持更久，也能為時空平板安裝額外升級。\n{@pagebreak}\n\u0026d玩家傳送升級\u0026r可讓你的\u00266時空平板\u0026r，偵測到已啟用\u0026a傳送點廣播器\u0026r或\u0026d篩選裝置\u0026r的玩家。",
+    "original": "The &6Workstation&r serves as an in-world &eTempad&r device.\n\nYou must dock a &6Tempad&r on it for it to function, granting the Workstation its functionalities as well as the &dTime Twister's&r timeline ability if installed.\n\nIt comes with more options and more configurations such as keeping the timedoor open longer, as well the ability to install optional upgrades on your tempad.\n{@pagebreak}\nThe &dPlayer Teleport Upgrade&r allows your &6Tempad&r to discover players equipped with an active &aLocation Broadcaster&r or &dScreening Device&r.",
+    "translation": "&6工作站&r可作為放置於世界上的&e時空平板&r裝置。\n\n你必須先將&6時空平板&r放上底座才可啟用，工作站會提供自身功能；若已安裝&d時空扭曲器&r，也能使用其時間線功能。\n\n它提供更多選項與設定，例如讓時空門維持更久，也能為時空平板安裝額外升級。\n{@pagebreak}\n&d玩家傳送升級&r可讓你的&6時空平板&r，偵測到已啟用&a傳送點廣播器&r或&d篩選裝置&r的玩家。",
     "context": "chapters/exploration__combat.snbt / quest 3A43CCB33A024711",
     "meta": {
       "line_split_policy": "lf",
@@ -225,8 +225,8 @@
     }
   },
   "quest.3A43CCB33A024711.title": {
-    "original": "\u00266Workstation",
-    "translation": "\u00266工作站",
+    "original": "&6Workstation",
+    "translation": "&6工作站",
     "context": "chapters/exploration__combat.snbt / quest 3A43CCB33A024711",
     "meta": {
       "line_split_policy": "none",
@@ -234,8 +234,8 @@
     }
   },
   "quest.3B9DB4204A7CC6CD.quest_desc": {
-    "original": "The \u00262Timedoor Marker\u0026r is placed on the ground to mark a specific location in the world.\n\nRight-clicking it opens an interface that allows you to configure its display name, color, and access settings.\n\nThe \u00266Chronomark\u0026r is an upgraded version which allows for more customization options.",
-    "translation": "\u00262時空門標記器\u0026r可放置在地面上，用來標記世界中的特定位置。\n\n對它點擊右鍵可開啟介面，設定顯示名稱、顏色與存取權限。\n\n\u00266時空標記\u0026r是進階版本，提供更多自訂選項。",
+    "original": "The &2Timedoor Marker&r is placed on the ground to mark a specific location in the world.\n\nRight-clicking it opens an interface that allows you to configure its display name, color, and access settings.\n\nThe &6Chronomark&r is an upgraded version which allows for more customization options.",
+    "translation": "&2時空門標記器&r可放置在地面上，用來標記世界中的特定位置。\n\n對它點擊右鍵可開啟介面，設定顯示名稱、顏色與存取權限。\n\n&6時空標記&r是進階版本，提供更多自訂選項。",
     "context": "chapters/exploration__combat.snbt / quest 3B9DB4204A7CC6CD",
     "meta": {
       "line_split_policy": "lf",
@@ -252,8 +252,8 @@
     }
   },
   "quest.3B9E10A560C565CC.quest_desc": {
-    "original": "\u0026aTeleporters\u0026r from the \u00266Simple Teleporters\u0026r can be used to set up quick teleport pads within the world.\n\n\u0026dEnder Shards\u0026r can be Sneak + Right-clicked on a \u0026aTeleporter\u0026r to store its location data, then you can install the Shard into another \u0026aTeleporter\u0026r.\n\nOnce done, you can Sneak on top of the \u0026aTeleporter\u0026r to teleport!",
-    "translation": "使用《\u00266簡易傳送器\u0026r》的\u0026a傳送器\u0026r，可在世界中建立快速傳送點。\n\n手持\u0026d終界碎片\u0026r，對\u0026a傳送器\u0026r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台\u0026a傳送器\u0026r。\n\n設定完成後，站上\u0026a傳送器\u0026r並按下潛行即可傳送！",
+    "original": "&aTeleporters&r from the &6Simple Teleporters&r can be used to set up quick teleport pads within the world.\n\n&dEnder Shards&r can be Sneak + Right-clicked on a &aTeleporter&r to store its location data, then you can install the Shard into another &aTeleporter&r.\n\nOnce done, you can Sneak on top of the &aTeleporter&r to teleport!",
+    "translation": "使用《&6簡易傳送器&r》的&a傳送器&r，可在世界中建立快速傳送點。\n\n手持&d終界碎片&r，對&a傳送器&r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台&a傳送器&r。\n\n設定完成後，站上&a傳送器&r並按下潛行即可傳送！",
     "context": "chapters/exploration__combat.snbt / quest 3B9E10A560C565CC",
     "meta": {
       "line_split_policy": "lf",
@@ -270,8 +270,8 @@
     }
   },
   "quest.3CFDFD0BA7D30118.quest_desc": {
-    "original": "In \u00266Stoneblock 4\u0026r, the world is generated in rings!\n\nYou spawn into a pre-generated stone ring that extends out about 712 blocks. Each subsequent ring only extends out 512 blocks.\n{@pagebreak}\nThe rings are in this order:\n\n1. \u00263Stone\u0026r\n2. \u00267Deepslate\u0026r\n3. \u0026cNether\u0026r\n4. \u0026eEnd\u0026r\n5. \u0026dTwilight Forest\u0026r (Maze Stone)\n6. \u0026bOcean\u0026r (Mossy Cobblestone)\n7. \u0026zVoid Chasms\u0026r (Otherrock, with Skystone in the upper layer)\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
-    "translation": "在\u00266《只有石頭的世界 4》\u0026r中，世界生成分為好幾個環帶！\n\n你的重生點是一個預先生成好的石頭環帶（大約半經 712 格方塊內）。\n\n其餘每個環帶都只會向外延伸 512 格方塊遠。\n{@pagebreak}\n環帶的順序如下：\n\n1. \u00263石頭\u0026r\n2. \u00267深板岩\u0026r\n3. \u0026c地獄\u0026r\n4. \u0026e終界\u0026r\n5. \u0026d暮光森林\u0026r（迷宮石）\n6. \u0026b海洋\u0026r（青苔鵝卵石）\n7. \u0026d虛空斷層\u0026r（世界石，上面幾層為隕石）\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
+    "original": "In &6Stoneblock 4&r, the world is generated in rings!\n\nYou spawn into a pre-generated stone ring that extends out about 712 blocks. Each subsequent ring only extends out 512 blocks.\n{@pagebreak}\nThe rings are in this order:\n\n1. &3Stone&r\n2. &7Deepslate&r\n3. &cNether&r\n4. &eEnd&r\n5. &dTwilight Forest&r (Maze Stone)\n6. &bOcean&r (Mossy Cobblestone)\n7. &zVoid Chasms&r (Otherrock, with Skystone in the upper layer)\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
+    "translation": "在&6《只有石頭的世界 4》&r中，世界生成分為好幾個環帶！\n\n你的重生點是一個預先生成好的石頭環帶（大約半經 712 格方塊內）。\n\n其餘每個環帶都只會向外延伸 512 格方塊遠。\n{@pagebreak}\n環帶的順序如下：\n\n1. &3石頭&r\n2. &7深板岩&r\n3. &c地獄&r\n4. &e終界&r\n5. &d暮光森林&r（迷宮石）\n6. &b海洋&r（青苔鵝卵石）\n7. &d虛空斷層&r（世界石，上面幾層為隕石）\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
     "context": "chapters/exploration__combat.snbt / quest 3CFDFD0BA7D30118",
     "meta": {
       "line_split_policy": "lf",
@@ -279,8 +279,8 @@
     }
   },
   "quest.4032C8BD158D1776.quest_desc": {
-    "original": "\u0026dWarp Scrolls\u0026r from \u00266Ars Nouveau\u0026r have two different uses.\n\nWhen Sneak + Right-clicked, the scroll will store your location data for future use. The scroll can used to teleport you back to that spot, consuming the scroll.\n\nInstead, you can create a portal frame out of \u0026aSourcestone\u0026r and throw the scroll in to create a one-way portal!\n\n\u0026eNote\u0026r: \u0026aWarp Scrolls\u0026r require the \u0026bTwilight Forest\u0026r \u00266World Engine Upgrade\u0026r to craft.\n{@pagebreak}\n\u0026dStabilized Warp Scrolls\u0026r can also be used to store your location, then when used on a block, it opens up a temporary portal for you.",
-    "translation": "《\u00266新生魔藝\u0026r》的\u0026d折躍卷軸\u0026r有兩種用途。\n\n潛行並點擊右鍵時，卷軸會儲存你目前的位置資料。之後可消耗該卷軸，把你傳回這個地點。\n\n你也可以用\u0026a魔源石\u0026r搭建門框，將卷軸丟入其中，建立單向傳送門！\n\n\u0026e備註\u0026r：製作\u0026a折躍卷軸\u0026r需要\u0026b暮光森林\u0026r的\u00266世界引擎升級\u0026r。\n{@pagebreak}\n\u0026d穩定化折躍卷軸\u0026r也能儲存位置；對方塊使用時，會為你開啟暫時的傳送門。",
+    "original": "&dWarp Scrolls&r from &6Ars Nouveau&r have two different uses.\n\nWhen Sneak + Right-clicked, the scroll will store your location data for future use. The scroll can used to teleport you back to that spot, consuming the scroll.\n\nInstead, you can create a portal frame out of &aSourcestone&r and throw the scroll in to create a one-way portal!\n\n&eNote&r: &aWarp Scrolls&r require the &bTwilight Forest&r &6World Engine Upgrade&r to craft.\n{@pagebreak}\n&dStabilized Warp Scrolls&r can also be used to store your location, then when used on a block, it opens up a temporary portal for you.",
+    "translation": "《&6新生魔藝&r》的&d折躍卷軸&r有兩種用途。\n\n潛行並點擊右鍵時，卷軸會儲存你目前的位置資料。之後可消耗該卷軸，把你傳回這個地點。\n\n你也可以用&a魔源石&r搭建門框，將卷軸丟入其中，建立單向傳送門！\n\n&e備註&r：製作&a折躍卷軸&r需要&b暮光森林&r的&6世界引擎升級&r。\n{@pagebreak}\n&d穩定化折躍卷軸&r也能儲存位置；對方塊使用時，會為你開啟暫時的傳送門。",
     "context": "chapters/exploration__combat.snbt / quest 4032C8BD158D1776",
     "meta": {
       "line_split_policy": "lf",
@@ -297,8 +297,8 @@
     }
   },
   "quest.4402F6855A75B7F6.quest_desc": {
-    "original": "This dungeon spawns in the lower parts of the \u00262Twilight Forest\u0026r ring.",
-    "translation": "此地牢會出現於\u00262暮光森林\u0026r環帶的較低處。",
+    "original": "This dungeon spawns in the lower parts of the &2Twilight Forest&r ring.",
+    "translation": "此地牢會出現於&2暮光森林&r環帶的較低處。",
     "context": "chapters/exploration__combat.snbt / quest 4402F6855A75B7F6",
     "meta": {
       "line_split_policy": "lf",
@@ -306,8 +306,8 @@
     }
   },
   "quest.4402F6855A75B7F6.title": {
-    "original": "Finding a \u00262Troll Cave",
-    "translation": "找到一座\u00262巨魔洞穴",
+    "original": "Finding a &2Troll Cave",
+    "translation": "找到一座&2巨魔洞穴",
     "context": "chapters/exploration__combat.snbt / quest 4402F6855A75B7F6",
     "meta": {
       "line_split_policy": "none",
@@ -315,8 +315,8 @@
     }
   },
   "quest.466E449BFD87E62F.quest_desc": {
-    "original": "The \u0026cAncient Battleground\u0026r can be found within the upper part of the \u0026cNether\u0026r ring.",
-    "translation": "\u0026c軍團前哨\u0026r會出現於\u0026c地獄\u0026r環帶的較高處。",
+    "original": "The &cAncient Battleground&r can be found within the upper part of the &cNether&r ring.",
+    "translation": "&c軍團前哨&r會出現於&c地獄&r環帶的較高處。",
     "context": "chapters/exploration__combat.snbt / quest 466E449BFD87E62F",
     "meta": {
       "line_split_policy": "lf",
@@ -324,8 +324,8 @@
     }
   },
   "quest.466E449BFD87E62F.title": {
-    "original": "Finding an \u0026cAncient Battleground",
-    "translation": "找到一座\u0026c軍團前哨",
+    "original": "Finding an &cAncient Battleground",
+    "translation": "找到一座&c軍團前哨",
     "context": "chapters/exploration__combat.snbt / quest 466E449BFD87E62F",
     "meta": {
       "line_split_policy": "none",
@@ -333,8 +333,8 @@
     }
   },
   "quest.4A2EB77748103124.quest_desc": {
-    "original": "This dungeon can be found in the \u00263Stone\u0026r and \u00267Deepslate\u0026r rings.",
-    "translation": "此地牢會出現於\u00263石頭\u0026r和\u00267深板岩\u0026r環帶。",
+    "original": "This dungeon can be found in the &3Stone&r and &7Deepslate&r rings.",
+    "translation": "此地牢會出現於&3石頭&r和&7深板岩&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 4A2EB77748103124",
     "meta": {
       "line_split_policy": "lf",
@@ -342,8 +342,8 @@
     }
   },
   "quest.4A2EB77748103124.title": {
-    "original": "Finding a \u00262Trial Chamber",
-    "translation": "找到一座\u00262試煉密室",
+    "original": "Finding a &2Trial Chamber",
+    "translation": "找到一座&2試煉密室",
     "context": "chapters/exploration__combat.snbt / quest 4A2EB77748103124",
     "meta": {
       "line_split_policy": "none",
@@ -351,8 +351,8 @@
     }
   },
   "quest.4BB5ADD98F958712.quest_desc": {
-    "original": "This dungeon spawns in the \u00267Stone\u0026r and \u00267Deepslate\u0026r rings.",
-    "translation": "此地牢會出現於\u00263石頭\u0026r和\u00267深板岩\u0026r環帶。",
+    "original": "This dungeon spawns in the &7Stone&r and &7Deepslate&r rings.",
+    "translation": "此地牢會出現於&3石頭&r和&7深板岩&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 4BB5ADD98F958712",
     "meta": {
       "line_split_policy": "lf",
@@ -360,7 +360,7 @@
     }
   },
   "quest.4BB5ADD98F958712.title": {
-    "original": "Finding a \u00267Stone Dungeon",
+    "original": "Finding a &7Stone Dungeon",
     "translation": "找到一座石頭地牢",
     "context": "chapters/exploration__combat.snbt / quest 4BB5ADD98F958712",
     "meta": {
@@ -369,8 +369,8 @@
     }
   },
   "quest.4E623BAFD92591EE.quest_desc": {
-    "original": "The \u0026aStaff of Travelling\u0026r is a powerful tool that allows you to teleport forward a short distance by Sneak + Right-clicking.\n\n\u0026aTravel Anchors\u0026r allow you to set a waypoint that can be teleported to when holding the \u0026aStaff of Travelling\u0026r, so long as that block waypoint is within visible range.\n\n\u0026eNote\u0026r: \u0026aTravel Anchors\u0026r require the \u0026bFortron Infused Block\u0026r \u00266World Engine Upgrade\u0026r to craft.",
-    "translation": "\u0026a旅行權杖\u0026r是一種強力工具，潛行並按下右鍵即可向前短距離傳送。\n\n\u0026a旅行錨\u0026r可設定用於傳送的目標點。手持\u0026a旅行權杖\u0026r時，只要該錨點方塊在可視範圍內，就能傳送過去。\n\n\u0026e備註\u0026r：製作\u0026a旅行錨\u0026r需要\u0026b力場子注能方塊\u0026r的\u00266世界引擎升級\u0026r。",
+    "original": "The &aStaff of Travelling&r is a powerful tool that allows you to teleport forward a short distance by Sneak + Right-clicking.\n\n&aTravel Anchors&r allow you to set a waypoint that can be teleported to when holding the &aStaff of Travelling&r, so long as that block waypoint is within visible range.\n\n&eNote&r: &aTravel Anchors&r require the &bFortron Infused Block&r &6World Engine Upgrade&r to craft.",
+    "translation": "&a旅行權杖&r是一種強力工具，潛行並按下右鍵即可向前短距離傳送。\n\n&a旅行錨&r可設定用於傳送的目標點。手持&a旅行權杖&r時，只要該錨點方塊在可視範圍內，就能傳送過去。\n\n&e備註&r：製作&a旅行錨&r需要&b力場子注能方塊&r的&6世界引擎升級&r。",
     "context": "chapters/exploration__combat.snbt / quest 4E623BAFD92591EE",
     "meta": {
       "line_split_policy": "lf",
@@ -378,8 +378,8 @@
     }
   },
   "quest.54A1D7A1D89C1A04.quest_desc": {
-    "original": "The \u0026bFrosted Prison\u0026r dungeon can be found in the upper parts of the \u0026bOcean\u0026r ring.",
-    "translation": "\u0026b苦寒監牢\u0026r會出現於\u0026b海洋\u0026r環帶的較高處。",
+    "original": "The &bFrosted Prison&r dungeon can be found in the upper parts of the &bOcean&r ring.",
+    "translation": "&b苦寒監牢&r會出現於&b海洋&r環帶的較高處。",
     "context": "chapters/exploration__combat.snbt / quest 54A1D7A1D89C1A04",
     "meta": {
       "line_split_policy": "lf",
@@ -387,8 +387,8 @@
     }
   },
   "quest.54A1D7A1D89C1A04.title": {
-    "original": "Finding a \u0026bFrosted Prison",
-    "translation": "找到一座\u0026b苦寒監牢",
+    "original": "Finding a &bFrosted Prison",
+    "translation": "找到一座&b苦寒監牢",
     "context": "chapters/exploration__combat.snbt / quest 54A1D7A1D89C1A04",
     "meta": {
       "line_split_policy": "none",
@@ -396,8 +396,8 @@
     }
   },
   "quest.54B7D149B45635F4.quest_desc": {
-    "original": "The \u0026dChronometer\u0026r is a better version of the \u0026aChronon Generator\u0026r, passively producing more \u0026bChronon\u0026r than before.",
-    "translation": "\u0026d時空儀表\u0026r是\u0026a時空粒子產生器\u0026r的強化版本，可被動生產比以往更多的\u0026b時空粒子\u0026r。",
+    "original": "The &dChronometer&r is a better version of the &aChronon Generator&r, passively producing more &bChronon&r than before.",
+    "translation": "&d時空儀表&r是&a時空粒子產生器&r的強化版本，可被動生產比以往更多的&b時空粒子&r。",
     "context": "chapters/exploration__combat.snbt / quest 54B7D149B45635F4",
     "meta": {
       "line_split_policy": "lf",
@@ -405,8 +405,8 @@
     }
   },
   "quest.575A111D4418BFB6.quest_desc": {
-    "original": "The \u00266Metronome\u0026r is the ultimate \u0026bChronon\u0026r generation tool.\n\nYou must provide it with about \u0026b2000 Chronon\u0026r to kickstart its production.\n\nThe \u00266Metronome\u0026r has input and output slots that make it function as a \u0026dChronon Battery\u0026r, and it can link to other \u00266Metronomes\u0026r on an internal network, which can also be set to private.\n\n\u0026eNote\u0026f: The \u00266Metronome\u0026r is \u0026cNOT\u0026f a reliable chronon storage for teleporting via the \u0026aAction Pad\u0026r.",
-    "translation": "\u00266節拍器\u0026r是頂級的\u0026b時空粒子\u0026r生產裝置。\n\n你必須先提供約 \u0026b2000 時空粒子\u0026r，才能啟動它的生產機制。\n\n\u00266節拍器\u0026r具備輸入與輸出欄位，可作為\u0026d時空粒子電池\u0026r使用；也能透過內部網路連結其他\u00266節拍器\u0026r，並可設定為私人網路。\n\n\u0026e備註\u0026f：\u00266節拍器\u0026r\u0026c不適合\u0026f當作透過\u0026a操作面板\u0026r傳送時的可靠時空粒子儲存來源。",
+    "original": "The &6Metronome&r is the ultimate &bChronon&r generation tool.\n\nYou must provide it with about &b2000 Chronon&r to kickstart its production.\n\nThe &6Metronome&r has input and output slots that make it function as a &dChronon Battery&r, and it can link to other &6Metronomes&r on an internal network, which can also be set to private.\n\n&eNote&f: The &6Metronome&r is &cNOT&f a reliable chronon storage for teleporting via the &aAction Pad&r.",
+    "translation": "&6節拍器&r是頂級的&b時空粒子&r生產裝置。\n\n你必須先提供約 &b2000 時空粒子&r，才能啟動它的生產機制。\n\n&6節拍器&r具備輸入與輸出欄位，可作為&d時空粒子電池&r使用；也能透過內部網路連結其他&6節拍器&r，並可設定為私人網路。\n\n&e備註&f：&6節拍器&r&c不適合&f當作透過&a操作面板&r傳送時的可靠時空粒子儲存來源。",
     "context": "chapters/exploration__combat.snbt / quest 575A111D4418BFB6",
     "meta": {
       "line_split_policy": "lf",
@@ -414,8 +414,8 @@
     }
   },
   "quest.575A111D4418BFB6.title": {
-    "original": "\u00266Metronome",
-    "translation": "\u00266節拍器",
+    "original": "&6Metronome",
+    "translation": "&6節拍器",
     "context": "chapters/exploration__combat.snbt / quest 575A111D4418BFB6",
     "meta": {
       "line_split_policy": "none",
@@ -423,8 +423,8 @@
     }
   },
   "quest.61D55FA7CEA6F414.quest_desc": {
-    "original": "This dungeon can be found in the \u0026dVoid Chasm\u0026r ring.",
-    "translation": "此地牢會出現於\u0026d虛空斷層\u0026r環帶。",
+    "original": "This dungeon can be found in the &dVoid Chasm&r ring.",
+    "translation": "此地牢會出現於&d虛空斷層&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 61D55FA7CEA6F414",
     "meta": {
       "line_split_policy": "lf",
@@ -432,8 +432,8 @@
     }
   },
   "quest.61D55FA7CEA6F414.title": {
-    "original": "Finding an \u0026dOtherworld Dungeon",
-    "translation": "找到一座\u0026d異界地牢",
+    "original": "Finding an &dOtherworld Dungeon",
+    "translation": "找到一座&d異界地牢",
     "context": "chapters/exploration__combat.snbt / quest 61D55FA7CEA6F414",
     "meta": {
       "line_split_policy": "none",
@@ -441,8 +441,8 @@
     }
   },
   "quest.634884134E2786B2.quest_desc": {
-    "original": "The \u0026dMalkuth Arena\u0026r is a massive structure found within the \u0026dVoid Chasms\u0026r ring.\n\nThis arena comes with its own boss fight!",
-    "translation": "\u0026d『王國』競技場\u0026r是能夠在\u0026d虛空斷層\u0026r環帶中找到的大型結構。\n\n此競技場內有一場專屬的魔王戰！",
+    "original": "The &dMalkuth Arena&r is a massive structure found within the &dVoid Chasms&r ring.\n\nThis arena comes with its own boss fight!",
+    "translation": "&d『王國』競技場&r是能夠在&d虛空斷層&r環帶中找到的大型結構。\n\n此競技場內有一場專屬的魔王戰！",
     "context": "chapters/exploration__combat.snbt / quest 634884134E2786B2",
     "meta": {
       "line_split_policy": "lf",
@@ -450,8 +450,8 @@
     }
   },
   "quest.634884134E2786B2.title": {
-    "original": "Finding a \u0026dMalkuth Arena\u0026r",
-    "translation": "找到一座\u0026d『王國』競技場\u0026r",
+    "original": "Finding a &dMalkuth Arena&r",
+    "translation": "找到一座&d『王國』競技場&r",
     "context": "chapters/exploration__combat.snbt / quest 634884134E2786B2",
     "meta": {
       "line_split_policy": "none",
@@ -459,8 +459,8 @@
     }
   },
   "quest.6910347C765AE7C6.title": {
-    "original": "Finding an \u0026bOcean Dungeon",
-    "translation": "找到一座\u0026b海洋地牢",
+    "original": "Finding an &bOcean Dungeon",
+    "translation": "找到一座&b海洋地牢",
     "context": "chapters/exploration__combat.snbt / quest 6910347C765AE7C6",
     "meta": {
       "line_split_policy": "none",
@@ -468,8 +468,8 @@
     }
   },
   "quest.6D28E1AFBB33C43E.quest_desc": {
-    "original": "\u0026eTime Steel\u0026r is used to craft better versions of your existing devices, and a few new gadgets as well.\n\nThe \u0026dChronon Battery\u0026r is the first upgrade you should craft.\n\nIt can store much more \u0026bChronon\u0026r than the simple \u0026aChronon Cell\u0026r, and is also a crafting ingredient used in some of the more advanced \u0026eTempad\u0026r recipes.\n\n\u0026eNote\u0026r: You must have the \u0026eChroniton Glass\u0026r and \u0026aMachine Block\u0026r \u00266World Engine Upgrades\u0026r to craft this.",
-    "translation": "\u0026e時空鋼\u0026r可用來製作現有裝置的強化版本，以及一些全新的裝置。\n\n\u0026d時空粒子電池\u0026r是你應該優先製作的第一項升級。\n\n它比基礎的\u0026a時空粒子單元\u0026r能儲存更多\u0026b時空粒子\u0026r，且也是部分進階《\u0026e時空平板\u0026r》配方的材料。\n\n\u0026e備註\u0026r：製作前必須先取得\u0026e時空粒子玻璃\u0026r與\u0026a世界引擎機器方塊\u0026r\u00266升級\u0026r。",
+    "original": "&eTime Steel&r is used to craft better versions of your existing devices, and a few new gadgets as well.\n\nThe &dChronon Battery&r is the first upgrade you should craft.\n\nIt can store much more &bChronon&r than the simple &aChronon Cell&r, and is also a crafting ingredient used in some of the more advanced &eTempad&r recipes.\n\n&eNote&r: You must have the &eChroniton Glass&r and &aMachine Block&r &6World Engine Upgrades&r to craft this.",
+    "translation": "&e時空鋼&r可用來製作現有裝置的強化版本，以及一些全新的裝置。\n\n&d時空粒子電池&r是你應該優先製作的第一項升級。\n\n它比基礎的&a時空粒子單元&r能儲存更多&b時空粒子&r，且也是部分進階《&e時空平板&r》配方的材料。\n\n&e備註&r：製作前必須先取得&e時空粒子玻璃&r與&a世界引擎機器方塊&r&6升級&r。",
     "context": "chapters/exploration__combat.snbt / quest 6D28E1AFBB33C43E",
     "meta": {
       "line_split_policy": "lf",
@@ -477,8 +477,8 @@
     }
   },
   "quest.6D28E1AFBB33C43E.title": {
-    "original": "\u0026eTime Steel\u0026r",
-    "translation": "\u0026e時空鋼\u0026r",
+    "original": "&eTime Steel&r",
+    "translation": "&e時空鋼&r",
     "context": "chapters/exploration__combat.snbt / quest 6D28E1AFBB33C43E",
     "meta": {
       "line_split_policy": "none",
@@ -486,8 +486,8 @@
     }
   },
   "quest.754ADB22C6B8041F.quest_desc": {
-    "original": "This structure spawns in the lower \u00267Deepslate\u0026r ring.\n\nThe \u0026aWeeping Well\u0026r will be needed to progress in \u00266Malum\u0026r!\n\n\u0026eNote\u0026r: You can also find the \u0026aWeeping Well\u0026r in the \u0026dArcane Grove\u0026r.",
-    "translation": "此地牢會出現於\u00262深板岩\u0026r環帶的下半部。\n\n\u0026a哭泣之井\u0026r是推動\u00266《靈災》\u0026r模組進展的必要結構！\n\n\u0026e備註\u0026r：你也能夠在\u0026d祕法源林\u0026r中找到\u0026a哭泣之井\u0026r。",
+    "original": "This structure spawns in the lower &7Deepslate&r ring.\n\nThe &aWeeping Well&r will be needed to progress in &6Malum&r!\n\n&eNote&r: You can also find the &aWeeping Well&r in the &dArcane Grove&r.",
+    "translation": "此地牢會出現於&2深板岩&r環帶的下半部。\n\n&a哭泣之井&r是推動&6《靈災》&r模組進展的必要結構！\n\n&e備註&r：你也能夠在&d祕法源林&r中找到&a哭泣之井&r。",
     "context": "chapters/exploration__combat.snbt / quest 754ADB22C6B8041F",
     "meta": {
       "line_split_policy": "lf",
@@ -495,8 +495,8 @@
     }
   },
   "quest.754ADB22C6B8041F.title": {
-    "original": "Finding a \u00265Weeping Well",
-    "translation": "找到一座\u00265哭泣之井",
+    "original": "Finding a &5Weeping Well",
+    "translation": "找到一座&5哭泣之井",
     "context": "chapters/exploration__combat.snbt / quest 754ADB22C6B8041F",
     "meta": {
       "line_split_policy": "none",
@@ -504,8 +504,8 @@
     }
   },
   "quest.78A644464D4C506A.quest_desc": {
-    "original": "The \u00266Portal Gun\u0026r is an incredibly fun gadget that can create portals for you to travel through. This does require power to function!\n\nLeft clicking will create a blue portal, while right clicking will create an orange portal. Traveling through either will send you to the other.\n\nThe \u0026dAdvanced Portal Gun\u0026r allows you to save locations to teleport to, provided it has power and \u0026dPortal Fluid\u0026r.\n\n\u0026eNote\u0026r: To craft these, it requires the \u0026bChroniton Glass\u0026r \u00266World Engine Upgrade\u0026r to craft.",
-    "translation": "\u00266傳送槍\u0026r是非常有趣的裝置，可建立供你穿越的傳送門，但需要能量才能運作！\n\n左鍵會建立藍色傳送門，右鍵會建立橙色傳送門。穿越任一傳送門都會把你送到另一側位置。\n\n\u0026d進階傳送槍\u0026r可儲存傳送位置；只要能量與\u0026d傳送門流體\u0026r充足，就能夠進行傳送。\n\n\u0026e備註\u0026r：製作這些裝置需要\u0026b時空玻璃粒子\u0026r的\u00266世界引擎升級\u0026r。",
+    "original": "The &6Portal Gun&r is an incredibly fun gadget that can create portals for you to travel through. This does require power to function!\n\nLeft clicking will create a blue portal, while right clicking will create an orange portal. Traveling through either will send you to the other.\n\nThe &dAdvanced Portal Gun&r allows you to save locations to teleport to, provided it has power and &dPortal Fluid&r.\n\n&eNote&r: To craft these, it requires the &bChroniton Glass&r &6World Engine Upgrade&r to craft.",
+    "translation": "&6傳送槍&r是非常有趣的裝置，可建立供你穿越的傳送門，但需要能量才能運作！\n\n左鍵會建立藍色傳送門，右鍵會建立橙色傳送門。穿越任一傳送門都會把你送到另一側位置。\n\n&d進階傳送槍&r可儲存傳送位置；只要能量與&d傳送門流體&r充足，就能夠進行傳送。\n\n&e備註&r：製作這些裝置需要&b時空玻璃粒子&r的&6世界引擎升級&r。",
     "context": "chapters/exploration__combat.snbt / quest 78A644464D4C506A",
     "meta": {
       "line_split_policy": "lf",
@@ -513,8 +513,8 @@
     }
   },
   "quest.7B772A85691C60F5.quest_desc": {
-    "original": "For each ring, there are 4 pre-built \u0026dTelepads\u0026r; one for each cardinal direction.\n\nYou might run into these as you dig out, but you can also buy \u0026dEnder Shards\u0026r that are linked to them from the \u0026zShop\u0026r!",
-    "translation": "每個環帶都預先建有 4 個\u0026d傳送點\u0026r結構，分別對應四個方位。\n\n你從基地向外挖掘時可能會遇到它們；也可以在\u0026z商店\u0026r購買已連結這些傳送點的\u0026d終界碎片\u0026r！",
+    "original": "For each ring, there are 4 pre-built &dTelepads&r; one for each cardinal direction.\n\nYou might run into these as you dig out, but you can also buy &dEnder Shards&r that are linked to them from the &zShop&r!",
+    "translation": "每個環帶都預先建有 4 個&d傳送點&r結構，分別對應四個方位。\n\n你從基地向外挖掘時可能會遇到它們；也可以在&z商店&r購買已連結這些傳送點的&d終界碎片&r！",
     "context": "chapters/exploration__combat.snbt / quest 7B772A85691C60F5",
     "meta": {
       "line_split_policy": "lf",
@@ -531,8 +531,8 @@
     }
   },
   "quest.7C72E7E48CCA7BB1.quest_desc": {
-    "original": "The \u0026dAdvanced Dislocator\u0026r allows you to store multiple warp points at once. It has infinite uses, but needs to be fueled by \u0026dEnder Pearls\u0026r to work.\n\nTo fuel it, open up the interface with Ender Pearls in your inventory, then click the + buttons at the bottom of the GUI to add them in as fuel.",
-    "translation": "\u0026d進階傳送符咒\u0026r可同時儲存多個傳送點。可無限次使用，但需要使用\u0026d終界珍珠\u0026r作為燃料。\n\n要補充燃料，先在物品欄中放入終界珍珠，並開啟符咒介面，再按下介面底部的「+」按鈕來加入燃料。",
+    "original": "The &dAdvanced Dislocator&r allows you to store multiple warp points at once. It has infinite uses, but needs to be fueled by &dEnder Pearls&r to work.\n\nTo fuel it, open up the interface with Ender Pearls in your inventory, then click the + buttons at the bottom of the GUI to add them in as fuel.",
+    "translation": "&d進階傳送符咒&r可同時儲存多個傳送點。可無限次使用，但需要使用&d終界珍珠&r作為燃料。\n\n要補充燃料，先在物品欄中放入終界珍珠，並開啟符咒介面，再按下介面底部的「+」按鈕來加入燃料。",
     "context": "chapters/exploration__combat.snbt / quest 7C72E7E48CCA7BB1",
     "meta": {
       "line_split_policy": "lf",
@@ -540,8 +540,8 @@
     }
   },
   "quest.7DE9A4C7979AC1FA.quest_desc": {
-    "original": "The \u00266Tempad\u0026r allows you to open a door to any marked location.\n\nIt also allows you to manually add new locations via current coordinates, and has several configuration options. Pinned locations can be teleported to via keybinds.\n\n\u0026aLocation Cards\u0026r can also be used in the Tempad interface to register or copy locations.\n\n\u0026eNote\u0026f: The \u00266Tempad\u0026r does \u0026cNOT\u0026f function as a chronon storage for teleporting via the \u0026aAction Pad\u0026r.",
-    "translation": "\u00266時空平板\u0026r可讓你開啟通往任何已標記位置的時空門。\n\n你也能透過目前座標手動新增位置，並調整多種設定；釘選的位置可透過快捷鍵快速傳送。\n\n\u0026a傳送點卡片\u0026r也能在時空平板介面中，用於登錄或複製位置。\n\n\u0026e備註\u0026f：\u00266時空平板\u0026r\u0026c不能\u0026f作為使用\u0026a操作面板\u0026r傳送時的時空粒子儲存來源。",
+    "original": "The &6Tempad&r allows you to open a door to any marked location.\n\nIt also allows you to manually add new locations via current coordinates, and has several configuration options. Pinned locations can be teleported to via keybinds.\n\n&aLocation Cards&r can also be used in the Tempad interface to register or copy locations.\n\n&eNote&f: The &6Tempad&r does &cNOT&f function as a chronon storage for teleporting via the &aAction Pad&r.",
+    "translation": "&6時空平板&r可讓你開啟通往任何已標記位置的時空門。\n\n你也能透過目前座標手動新增位置，並調整多種設定；釘選的位置可透過快捷鍵快速傳送。\n\n&a傳送點卡片&r也能在時空平板介面中，用於登錄或複製位置。\n\n&e備註&f：&6時空平板&r&c不能&f作為使用&a操作面板&r傳送時的時空粒子儲存來源。",
     "context": "chapters/exploration__combat.snbt / quest 7DE9A4C7979AC1FA",
     "meta": {
       "line_split_policy": "lf",
@@ -549,8 +549,8 @@
     }
   },
   "quest.7DE9A4C7979AC1FA.title": {
-    "original": "\u00266Tempad",
-    "translation": "\u00266時空平板",
+    "original": "&6Tempad",
+    "translation": "&6時空平板",
     "context": "chapters/exploration__combat.snbt / quest 7DE9A4C7979AC1FA",
     "meta": {
       "line_split_policy": "none",

@@ -1,7 +1,7 @@
 {
   "quest.0171649B0F984DBB.quest_desc": {
-    "original": "This quest will set up a waypoint to the \u0026dWyrmwright's \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to the \u0026dWyrmwright's \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to the &dWyrmwright's &6Archive&r.",
+    "translation": "This quest will set up a waypoint to the &dWyrmwright's &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 0171649B0F984DBB",
     "meta": {
       "line_split_policy": "lf",
@@ -9,8 +9,8 @@
     }
   },
   "quest.0171649B0F984DBB.title": {
-    "original": "\u0026fLocating \u0026dThe Wyrmwright",
-    "translation": "\u0026fLocating \u0026dThe Wyrmwright",
+    "original": "&fLocating &dThe Wyrmwright",
+    "translation": "&fLocating &dThe Wyrmwright",
     "context": "unassigned/quest.snbt / quest 0171649B0F984DBB",
     "meta": {
       "line_split_policy": "none",
@@ -18,8 +18,8 @@
     }
   },
   "quest.0173ED2BED248CF6.quest_desc": {
-    "original": "\u0026aMatter\u0026r \u0026eTransmitters\u0026r and \u0026aReceivers\u0026r can be used to set up teleportation back and forth within the world. ",
-    "translation": "\u0026aMatter\u0026r \u0026eTransmitters\u0026r and \u0026aReceivers\u0026r can be used to set up teleportation back and forth within the world. ",
+    "original": "&aMatter&r &eTransmitters&r and &aReceivers&r can be used to set up teleportation back and forth within the world. ",
+    "translation": "&aMatter&r &eTransmitters&r and &aReceivers&r can be used to set up teleportation back and forth within the world. ",
     "context": "unassigned/quest.snbt / quest 0173ED2BED248CF6",
     "meta": {
       "line_split_policy": "lf",
@@ -36,8 +36,8 @@
     }
   },
   "quest.03BEFC2150D09E7A.quest_desc": {
-    "original": "\u0026dWireless Grids\u0026r allow remote access to your storage network when within range of the \u00263Wireless Transmitter\u0026r.\n\nEach \u0026dWireless Grid\u0026r provides the same functionality as their corresponding \u0026aGrids\u0026r.",
-    "translation": "\u0026dWireless Grids\u0026r allow remote access to your storage network when within range of the \u00263Wireless Transmitter\u0026r.\n\nEach \u0026dWireless Grid\u0026r provides the same functionality as their corresponding \u0026aGrids\u0026r.",
+    "original": "&dWireless Grids&r allow remote access to your storage network when within range of the &3Wireless Transmitter&r.\n\nEach &dWireless Grid&r provides the same functionality as their corresponding &aGrids&r.",
+    "translation": "&dWireless Grids&r allow remote access to your storage network when within range of the &3Wireless Transmitter&r.\n\nEach &dWireless Grid&r provides the same functionality as their corresponding &aGrids&r.",
     "context": "unassigned/quest.snbt / quest 03BEFC2150D09E7A",
     "meta": {
       "line_split_policy": "lf",
@@ -72,8 +72,8 @@
     }
   },
   "quest.051AA9C595DC9B02.quest_desc": {
-    "original": "This quest will set up a waypoint to \u0026dThe Catalyst's \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to \u0026dThe Catalyst's \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to &dThe Catalyst's &6Archive&r.",
+    "translation": "This quest will set up a waypoint to &dThe Catalyst's &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 051AA9C595DC9B02",
     "meta": {
       "line_split_policy": "lf",
@@ -81,8 +81,8 @@
     }
   },
   "quest.051AA9C595DC9B02.title": {
-    "original": "\u0026fLocating \u0026dThe Catalyst",
-    "translation": "\u0026fLocating \u0026dThe Catalyst",
+    "original": "&fLocating &dThe Catalyst",
+    "translation": "&fLocating &dThe Catalyst",
     "context": "unassigned/quest.snbt / quest 051AA9C595DC9B02",
     "meta": {
       "line_split_policy": "none",
@@ -90,8 +90,8 @@
     }
   },
   "quest.05BB2A6101B519A0.quest_desc": {
-    "original": "The \u00266Dimension Card\u0026r grants you access to your network across dimensions at a hefty energy cost.",
-    "translation": "The \u00266Dimension Card\u0026r grants you access to your network across dimensions at a hefty energy cost.",
+    "original": "The &6Dimension Card&r grants you access to your network across dimensions at a hefty energy cost.",
+    "translation": "The &6Dimension Card&r grants you access to your network across dimensions at a hefty energy cost.",
     "context": "unassigned/quest.snbt / quest 05BB2A6101B519A0",
     "meta": {
       "line_split_policy": "lf",
@@ -117,8 +117,8 @@
     }
   },
   "quest.082551D21363A1D9.title": {
-    "original": "\u0026dArs Weaponry",
-    "translation": "\u0026dArs Weaponry",
+    "original": "&dArs Weaponry",
+    "translation": "&dArs Weaponry",
     "context": "unassigned/quest.snbt / quest 082551D21363A1D9",
     "meta": {
       "line_split_policy": "none",
@@ -135,8 +135,8 @@
     }
   },
   "quest.0D864FD6A668D8C6.quest_desc": {
-    "original": "\u00263Interfaces\u0026r can input into and output from your network at the same time, functioning as an \u0026aImporter\u0026r and \u00262Exporter\u0026r within the same blockspace.",
-    "translation": "\u00263Interfaces\u0026r can input into and output from your network at the same time, functioning as an \u0026aImporter\u0026r and \u00262Exporter\u0026r within the same blockspace.",
+    "original": "&3Interfaces&r can input into and output from your network at the same time, functioning as an &aImporter&r and &2Exporter&r within the same blockspace.",
+    "translation": "&3Interfaces&r can input into and output from your network at the same time, functioning as an &aImporter&r and &2Exporter&r within the same blockspace.",
     "context": "unassigned/quest.snbt / quest 0D864FD6A668D8C6",
     "meta": {
       "line_split_policy": "lf",
@@ -153,8 +153,8 @@
     }
   },
   "quest.0F1B7185D8F4CDE6.quest_desc": {
-    "original": "\u00267Dark Matter Tools\u0026r are fast and unbreakable, and the dark matter \u0026aPickaxe\u0026r can switch modes from normal to 3-block-wide mining.\n\n\u0026eProjectE\u0026r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
-    "translation": "\u00267Dark Matter Tools\u0026r are fast and unbreakable, and the dark matter \u0026aPickaxe\u0026r can switch modes from normal to 3-block-wide mining.\n\n\u0026eProjectE\u0026r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
+    "original": "&7Dark Matter Tools&r are fast and unbreakable, and the dark matter &aPickaxe&r can switch modes from normal to 3-block-wide mining.\n\n&eProjectE&r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
+    "translation": "&7Dark Matter Tools&r are fast and unbreakable, and the dark matter &aPickaxe&r can switch modes from normal to 3-block-wide mining.\n\n&eProjectE&r tools can be charged (default: \"V\") with EMC to empower powerful Area of Effect abilities when Right-Clicking each tool.",
     "context": "unassigned/quest.snbt / quest 0F1B7185D8F4CDE6",
     "meta": {
       "line_split_policy": "lf",
@@ -162,8 +162,8 @@
     }
   },
   "quest.0F1B7185D8F4CDE6.title": {
-    "original": "\u00267Dark Matter \u0026fTools",
-    "translation": "\u00267Dark Matter \u0026fTools",
+    "original": "&7Dark Matter &fTools",
+    "translation": "&7Dark Matter &fTools",
     "context": "unassigned/quest.snbt / quest 0F1B7185D8F4CDE6",
     "meta": {
       "line_split_policy": "none",
@@ -171,8 +171,8 @@
     }
   },
   "quest.0FED418633235211.title": {
-    "original": "\u0026fMidgame Vanilla Swords",
-    "translation": "\u0026fMidgame Vanilla Swords",
+    "original": "&fMidgame Vanilla Swords",
+    "translation": "&fMidgame Vanilla Swords",
     "context": "unassigned/quest.snbt / quest 0FED418633235211",
     "meta": {
       "line_split_policy": "none",
@@ -189,8 +189,8 @@
     }
   },
   "quest.133ECE7BDDC8C13D.quest_desc": {
-    "original": "Now that you've acquired \u003cblank\u003e, the \u00266Echo of Guidance\u0026r mentioned further \u0026dArchives\u0026r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
-    "translation": "Now that you've acquired \u003cblank\u003e, the \u00266Echo of Guidance\u0026r mentioned further \u0026dArchives\u0026r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
+    "original": "Now that you've acquired <blank>, the &6Echo of Guidance&r mentioned further &dArchives&r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
+    "translation": "Now that you've acquired <blank>, the &6Echo of Guidance&r mentioned further &dArchives&r that can be uncovered.\n\nHead back to the lobby to see what you can find!",
     "context": "unassigned/quest.snbt / quest 133ECE7BDDC8C13D",
     "meta": {
       "line_split_policy": "lf",
@@ -207,8 +207,8 @@
     }
   },
   "quest.133ECE7BDDC8C13D.title": {
-    "original": "\u0026fUncovering The Lost Echoes",
-    "translation": "\u0026fUncovering The Lost Echoes",
+    "original": "&fUncovering The Lost Echoes",
+    "translation": "&fUncovering The Lost Echoes",
     "context": "unassigned/quest.snbt / quest 133ECE7BDDC8C13D",
     "meta": {
       "line_split_policy": "none",
@@ -225,8 +225,8 @@
     }
   },
   "quest.13D1BC0C49543326.quest_desc": {
-    "original": "This quest will set up a waypoint to \u0026dThe Ancient's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to \u0026dThe Ancient's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to &dThe Ancient's &6Archive&r.\n\n&eNote&f: &dTwilight&r and &dThe Ancient&r share the same &6Archive&r.",
+    "translation": "This quest will set up a waypoint to &dThe Ancient's &6Archive&r.\n\n&eNote&f: &dTwilight&r and &dThe Ancient&r share the same &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 13D1BC0C49543326",
     "meta": {
       "line_split_policy": "lf",
@@ -234,8 +234,8 @@
     }
   },
   "quest.13D1BC0C49543326.title": {
-    "original": "\u0026fLocating \u0026dThe Ancient",
-    "translation": "\u0026fLocating \u0026dThe Ancient",
+    "original": "&fLocating &dThe Ancient",
+    "translation": "&fLocating &dThe Ancient",
     "context": "unassigned/quest.snbt / quest 13D1BC0C49543326",
     "meta": {
       "line_split_policy": "none",
@@ -279,8 +279,8 @@
     }
   },
   "quest.1DC5DE6E9F0D0B2C.quest_desc": {
-    "original": "Spells can be cast by equipping your \u0026aSpell Book\u0026r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the \u0026bR\u0026r keybind by default. Casting the selected spell can be done by pressing \u0026bV\u0026r.\n\nThese can all be changed in your keybinds. Try searching for \u0026acategory:\"Iron's Spells 'n Spellbooks - General\"\u0026r.\n\nThere are also quick cast options!",
-    "translation": "Spells can be cast by equipping your \u0026aSpell Book\u0026r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the \u0026bR\u0026r keybind by default. Casting the selected spell can be done by pressing \u0026bV\u0026r.\n\nThese can all be changed in your keybinds. Try searching for \u0026acategory:\"Iron's Spells 'n Spellbooks - General\"\u0026r.\n\nThere are also quick cast options!",
+    "original": "Spells can be cast by equipping your &aSpell Book&r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the &bR&r keybind by default. Casting the selected spell can be done by pressing &bV&r.\n\nThese can all be changed in your keybinds. Try searching for &acategory:\"Iron's Spells 'n Spellbooks - General\"&r.\n\nThere are also quick cast options!",
+    "translation": "Spells can be cast by equipping your &aSpell Book&r in its curio slot.\n\nOnce equipped, you can open up the scroll wheel using the &bR&r keybind by default. Casting the selected spell can be done by pressing &bV&r.\n\nThese can all be changed in your keybinds. Try searching for &acategory:\"Iron's Spells 'n Spellbooks - General\"&r.\n\nThere are also quick cast options!",
     "context": "unassigned/quest.snbt / quest 1DC5DE6E9F0D0B2C",
     "meta": {
       "line_split_policy": "lf",
@@ -288,8 +288,8 @@
     }
   },
   "quest.1DC5DE6E9F0D0B2C.title": {
-    "original": "\u0026bCasting Spells",
-    "translation": "\u0026bCasting Spells",
+    "original": "&bCasting Spells",
+    "translation": "&bCasting Spells",
     "context": "unassigned/quest.snbt / quest 1DC5DE6E9F0D0B2C",
     "meta": {
       "line_split_policy": "none",
@@ -378,8 +378,8 @@
     }
   },
   "quest.2BFD68083AD1B894.quest_desc": {
-    "original": "\u0026aConstructors\u0026r can place resources from your network into the world as blocks or item entities.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
-    "translation": "\u0026aConstructors\u0026r can place resources from your network into the world as blocks or item entities.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "original": "&aConstructors&r can place resources from your network into the world as blocks or item entities.\n\nEach &eCable Tiers&r upgrade works faster than its previous tier and has more filter slots.\n\n&7&oCheck each item's tooltip for exact speeds.",
+    "translation": "&aConstructors&r can place resources from your network into the world as blocks or item entities.\n\nEach &eCable Tiers&r upgrade works faster than its previous tier and has more filter slots.\n\n&7&oCheck each item's tooltip for exact speeds.",
     "context": "unassigned/quest.snbt / quest 2BFD68083AD1B894",
     "meta": {
       "line_split_policy": "lf",
@@ -396,8 +396,8 @@
     }
   },
   "quest.2C141655079AC173.quest_desc": {
-    "original": "\u0026dWyvern\u0026r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
-    "translation": "\u0026dWyvern\u0026r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "original": "&dWyvern&r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
+    "translation": "&dWyvern&r weapons consume power instead of durability and can be customized via modules placed into their inventories.\n\nTheir module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
     "context": "unassigned/quest.snbt / quest 2C141655079AC173",
     "meta": {
       "line_split_policy": "lf",
@@ -405,8 +405,8 @@
     }
   },
   "quest.2C141655079AC173.title": {
-    "original": "\u0026dWyvern \u0026fWeapons",
-    "translation": "\u0026dWyvern \u0026fWeapons",
+    "original": "&dWyvern &fWeapons",
+    "translation": "&dWyvern &fWeapons",
     "context": "unassigned/quest.snbt / quest 2C141655079AC173",
     "meta": {
       "line_split_policy": "none",
@@ -423,8 +423,8 @@
     }
   },
   "quest.2DB9D91CFB15C210.quest_desc": {
-    "original": "Use the Infuser to make the circuitry needed for the \u00262Machine Frames\u0026r.",
-    "translation": "Use the Infuser to make the circuitry needed for the \u00262Machine Frames\u0026r.",
+    "original": "Use the Infuser to make the circuitry needed for the &2Machine Frames&r.",
+    "translation": "Use the Infuser to make the circuitry needed for the &2Machine Frames&r.",
     "context": "unassigned/quest.snbt / quest 2DB9D91CFB15C210",
     "meta": {
       "line_split_policy": "lf",
@@ -432,8 +432,8 @@
     }
   },
   "quest.2DB9D91CFB15C210.title": {
-    "original": "\u0026fBasic Circuitry",
-    "translation": "\u0026fBasic Circuitry",
+    "original": "&fBasic Circuitry",
+    "translation": "&fBasic Circuitry",
     "context": "unassigned/quest.snbt / quest 2DB9D91CFB15C210",
     "meta": {
       "line_split_policy": "none",
@@ -459,8 +459,8 @@
     }
   },
   "quest.310F815C02B2CAF8.quest_desc": {
-    "original": "This quest will set up a waypoint to the \u0026dTwilight's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to the \u0026dTwilight's \u00266Archive\u0026r.\n\n\u0026eNote\u0026f: \u0026dTwilight\u0026r and \u0026dThe Ancient\u0026r share the same \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to the &dTwilight's &6Archive&r.\n\n&eNote&f: &dTwilight&r and &dThe Ancient&r share the same &6Archive&r.",
+    "translation": "This quest will set up a waypoint to the &dTwilight's &6Archive&r.\n\n&eNote&f: &dTwilight&r and &dThe Ancient&r share the same &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 310F815C02B2CAF8",
     "meta": {
       "line_split_policy": "lf",
@@ -468,8 +468,8 @@
     }
   },
   "quest.310F815C02B2CAF8.title": {
-    "original": "\u0026fLocating \u0026dTwilight",
-    "translation": "\u0026fLocating \u0026dTwilight",
+    "original": "&fLocating &dTwilight",
+    "translation": "&fLocating &dTwilight",
     "context": "unassigned/quest.snbt / quest 310F815C02B2CAF8",
     "meta": {
       "line_split_policy": "none",
@@ -494,8 +494,8 @@
     }
   },
   "quest.364B2143B874582D.title": {
-    "original": "\u0026fUncovering The World Engine",
-    "translation": "\u0026fUncovering The World Engine",
+    "original": "&fUncovering The World Engine",
+    "translation": "&fUncovering The World Engine",
     "context": "unassigned/quest.snbt / quest 364B2143B874582D",
     "meta": {
       "line_split_policy": "none",
@@ -511,8 +511,8 @@
     }
   },
   "quest.36CB035F6484A70F.title": {
-    "original": "\u0026fLeather",
-    "translation": "\u0026fLeather",
+    "original": "&fLeather",
+    "translation": "&fLeather",
     "context": "unassigned/quest.snbt / quest 36CB035F6484A70F",
     "meta": {
       "line_split_policy": "none",
@@ -547,8 +547,8 @@
     }
   },
   "quest.3B0DA478464D29CC.title": {
-    "original": "\u0026fEarlygame Vanilla Swords",
-    "translation": "\u0026fEarlygame Vanilla Swords",
+    "original": "&fEarlygame Vanilla Swords",
+    "translation": "&fEarlygame Vanilla Swords",
     "context": "unassigned/quest.snbt / quest 3B0DA478464D29CC",
     "meta": {
       "line_split_policy": "none",
@@ -556,8 +556,8 @@
     }
   },
   "quest.3C25B0FAC773D70A.title": {
-    "original": "\u0026dArs' Tools",
-    "translation": "\u0026dArs' Tools",
+    "original": "&dArs' Tools",
+    "translation": "&dArs' Tools",
     "context": "unassigned/quest.snbt / quest 3C25B0FAC773D70A",
     "meta": {
       "line_split_policy": "none",
@@ -664,8 +664,8 @@
     }
   },
   "quest.50EFBD8BDE0C88AF.quest_desc": {
-    "original": "The \u0026aRange Upgrade\u0026r increases the range of the \u00263Wireless Transmitter\u0026r, from 16 up to 48 blocks.",
-    "translation": "The \u0026aRange Upgrade\u0026r increases the range of the \u00263Wireless Transmitter\u0026r, from 16 up to 48 blocks.",
+    "original": "The &aRange Upgrade&r increases the range of the &3Wireless Transmitter&r, from 16 up to 48 blocks.",
+    "translation": "The &aRange Upgrade&r increases the range of the &3Wireless Transmitter&r, from 16 up to 48 blocks.",
     "context": "unassigned/quest.snbt / quest 50EFBD8BDE0C88AF",
     "meta": {
       "line_split_policy": "lf",
@@ -709,8 +709,8 @@
     }
   },
   "quest.594911C1304689E9.quest_desc": {
-    "original": "\u0026aExporters\u0026r are used to move resources out of your network.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
-    "translation": "\u0026aExporters\u0026r are used to move resources out of your network.\n\nEach \u0026eCable Tiers\u0026r upgrade works faster than its previous tier and has more filter slots.\n\n\u00267\u0026oCheck each item's tooltip for exact speeds.",
+    "original": "&aExporters&r are used to move resources out of your network.\n\nEach &eCable Tiers&r upgrade works faster than its previous tier and has more filter slots.\n\n&7&oCheck each item's tooltip for exact speeds.",
+    "translation": "&aExporters&r are used to move resources out of your network.\n\nEach &eCable Tiers&r upgrade works faster than its previous tier and has more filter slots.\n\n&7&oCheck each item's tooltip for exact speeds.",
     "context": "unassigned/quest.snbt / quest 594911C1304689E9",
     "meta": {
       "line_split_policy": "lf",
@@ -763,8 +763,8 @@
     }
   },
   "quest.62BB5925FB6C05C6.title": {
-    "original": "\u0026dEcho of The Magician \u0026fWaypoint",
-    "translation": "\u0026dEcho of The Magician \u0026fWaypoint",
+    "original": "&dEcho of The Magician &fWaypoint",
+    "translation": "&dEcho of The Magician &fWaypoint",
     "context": "unassigned/quest.snbt / quest 62BB5925FB6C05C6",
     "meta": {
       "line_split_policy": "none",
@@ -790,8 +790,8 @@
     }
   },
   "quest.6697F832067F1A9C.quest_desc": {
-    "original": "\u0026eOritech's \u00263Enderic Railgun\u0026r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle \u0026bMining Mode\u0026r on/off.\n\nIn \u0026bMining Mode\u0026r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
-    "translation": "\u0026eOritech's \u00263Enderic Railgun\u0026r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle \u0026bMining Mode\u0026r on/off.\n\nIn \u0026bMining Mode\u0026r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
+    "original": "&eOritech's &3Enderic Railgun&r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle &bMining Mode&r on/off.\n\nIn &bMining Mode&r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
+    "translation": "&eOritech's &3Enderic Railgun&r can shoot out both a concentrated laser beam and an explosive damaging beam depending on its mode. You can Shift + Right-click to toggle &bMining Mode&r on/off.\n\nIn &bMining Mode&r this All-In-One tool mines blocks directly into your inventory with infinite block interaction range.",
     "context": "unassigned/quest.snbt / quest 6697F832067F1A9C",
     "meta": {
       "line_split_policy": "lf",
@@ -817,8 +817,8 @@
     }
   },
   "quest.67F596597F0B2825.title": {
-    "original": "\u0026fMeet The Guide",
-    "translation": "\u0026fMeet The Guide",
+    "original": "&fMeet The Guide",
+    "translation": "&fMeet The Guide",
     "context": "unassigned/quest.snbt / quest 67F596597F0B2825",
     "meta": {
       "line_split_policy": "none",
@@ -826,8 +826,8 @@
     }
   },
   "quest.69997DAB93184551.quest_desc": {
-    "original": "The \u0026dWyvern Chestpiece\u0026r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via \u0026aUpgrade Modules\u0026r.\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
-    "translation": "The \u0026dWyvern Chestpiece\u0026r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via \u0026aUpgrade Modules\u0026r.\n\nIts module inventory can be accessed via the keybind \u0026eTool Modules\u0026r, which isn't bound by default.",
+    "original": "The &dWyvern Chestpiece&r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via &aUpgrade Modules&r.\n\nIts module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
+    "translation": "The &dWyvern Chestpiece&r provides an energy shield when powered that nullifies damage taken by the player when worn in a Curios Slot. This can be upgraded via &aUpgrade Modules&r.\n\nIts module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
     "context": "unassigned/quest.snbt / quest 69997DAB93184551",
     "meta": {
       "line_split_policy": "lf",
@@ -835,8 +835,8 @@
     }
   },
   "quest.69997DAB93184551.title": {
-    "original": "\u0026dWyvern \u0026fChestpiece",
-    "translation": "\u0026dWyvern \u0026fChestpiece",
+    "original": "&dWyvern &fChestpiece",
+    "translation": "&dWyvern &fChestpiece",
     "context": "unassigned/quest.snbt / quest 69997DAB93184551",
     "meta": {
       "line_split_policy": "none",
@@ -862,8 +862,8 @@
     }
   },
   "quest.6DB6B40C3E07E389.quest_desc": {
-    "original": "If you manage to find your way through the puzzles of this vault, the \u00262Chroniton Star\u0026r should be yours for the taking.\n\nJust remember, the cake is a lie.",
-    "translation": "If you manage to find your way through the puzzles of this vault, the \u00262Chroniton Star\u0026r should be yours for the taking.\n\nJust remember, the cake is a lie.",
+    "original": "If you manage to find your way through the puzzles of this vault, the &2Chroniton Star&r should be yours for the taking.\n\nJust remember, the cake is a lie.",
+    "translation": "If you manage to find your way through the puzzles of this vault, the &2Chroniton Star&r should be yours for the taking.\n\nJust remember, the cake is a lie.",
     "context": "unassigned/quest.snbt / quest 6DB6B40C3E07E389",
     "meta": {
       "line_split_policy": "lf",
@@ -898,8 +898,8 @@
     }
   },
   "quest.70D3D4701167B4D5.title": {
-    "original": "\u0026fAlways greener on the other side",
-    "translation": "\u0026fAlways greener on the other side",
+    "original": "&fAlways greener on the other side",
+    "translation": "&fAlways greener on the other side",
     "context": "unassigned/quest.snbt / quest 70D3D4701167B4D5",
     "meta": {
       "line_split_policy": "none",
@@ -916,8 +916,8 @@
     }
   },
   "quest.7379486ABDDE4430.quest_desc": {
-    "original": "This quest will set up a waypoint to \u0026dThe Light Bender's \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to \u0026dThe Light Bender's \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to &dThe Light Bender's &6Archive&r.",
+    "translation": "This quest will set up a waypoint to &dThe Light Bender's &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 7379486ABDDE4430",
     "meta": {
       "line_split_policy": "lf",
@@ -925,8 +925,8 @@
     }
   },
   "quest.7379486ABDDE4430.title": {
-    "original": "\u0026fLocating \u0026dThe Light Bender",
-    "translation": "\u0026fLocating \u0026dThe Light Bender",
+    "original": "&fLocating &dThe Light Bender",
+    "translation": "&fLocating &dThe Light Bender",
     "context": "unassigned/quest.snbt / quest 7379486ABDDE4430",
     "meta": {
       "line_split_policy": "none",
@@ -952,8 +952,8 @@
     }
   },
   "quest.7614FCF3E2012C48.title": {
-    "original": "\u0026dPsimetal Exosuit",
-    "translation": "\u0026dPsimetal Exosuit",
+    "original": "&dPsimetal Exosuit",
+    "translation": "&dPsimetal Exosuit",
     "context": "unassigned/quest.snbt / quest 7614FCF3E2012C48",
     "meta": {
       "line_split_policy": "none",
@@ -978,8 +978,8 @@
     }
   },
   "quest.77ABD20EB652F302.title": {
-    "original": "\u0026fSpawning Farm Animals",
-    "translation": "\u0026fSpawning Farm Animals",
+    "original": "&fSpawning Farm Animals",
+    "translation": "&fSpawning Farm Animals",
     "context": "unassigned/quest.snbt / quest 77ABD20EB652F302",
     "meta": {
       "line_split_policy": "none",
@@ -996,8 +996,8 @@
     }
   },
   "quest.7A1BCD0876713992.quest_desc": {
-    "original": "Flawed Budding Block is available to craft in the \u0026bWorld Engine\u0026r that has the basic \u0026aMachine Block\u0026r upgrade.",
-    "translation": "Flawed Budding Block is available to craft in the \u0026bWorld Engine\u0026r that has the basic \u0026aMachine Block\u0026r upgrade.",
+    "original": "Flawed Budding Block is available to craft in the &bWorld Engine&r that has the basic &aMachine Block&r upgrade.",
+    "translation": "Flawed Budding Block is available to craft in the &bWorld Engine&r that has the basic &aMachine Block&r upgrade.",
     "context": "unassigned/quest.snbt / quest 7A1BCD0876713992",
     "meta": {
       "line_split_policy": "lf",
@@ -1014,8 +1014,8 @@
     }
   },
   "quest.7C6BB27CCDA5E878.quest_desc": {
-    "original": "This quest will set up a waypoint to \u0026dThe Infernal's \u00266Archive\u0026r.",
-    "translation": "This quest will set up a waypoint to \u0026dThe Infernal's \u00266Archive\u0026r.",
+    "original": "This quest will set up a waypoint to &dThe Infernal's &6Archive&r.",
+    "translation": "This quest will set up a waypoint to &dThe Infernal's &6Archive&r.",
     "context": "unassigned/quest.snbt / quest 7C6BB27CCDA5E878",
     "meta": {
       "line_split_policy": "lf",
@@ -1023,8 +1023,8 @@
     }
   },
   "quest.7C6BB27CCDA5E878.title": {
-    "original": "\u0026fLocating \u0026dThe Infernal",
-    "translation": "\u0026fLocating \u0026dThe Infernal",
+    "original": "&fLocating &dThe Infernal",
+    "translation": "&fLocating &dThe Infernal",
     "context": "unassigned/quest.snbt / quest 7C6BB27CCDA5E878",
     "meta": {
       "line_split_policy": "none",
@@ -1032,8 +1032,8 @@
     }
   },
   "quest.7E062B48AD37EAF1.quest_desc": {
-    "original": "Processors are used to craft most of the core components of your \u0026eRS2\u0026r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
-    "translation": "Processors are used to craft most of the core components of your \u0026eRS2\u0026r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
+    "original": "Processors are used to craft most of the core components of your &eRS2&r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
+    "translation": "Processors are used to craft most of the core components of your &eRS2&r network.\n\n[\"These can only be assembled inside a \", { \"text\": \"Circuit Fabricator\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"663460DE8AF7E464\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Circuit Fabricator Quest\"} }, \".\"]",
     "context": "unassigned/quest.snbt / quest 7E062B48AD37EAF1",
     "meta": {
       "line_split_policy": "lf",
@@ -1050,8 +1050,8 @@
     }
   },
   "quest.7E0E4E6260C1D61E.quest_desc": {
-    "original": "With infinite power for your storage system and access to \u0026zcreative spells\u0026r from \u00266Ars\u0026r, that only leaves one more thing to take care of before you can shape the world around you.\n\n\u0026zCreative Power\u0026r for everything.",
-    "translation": "With infinite power for your storage system and access to \u0026zcreative spells\u0026r from \u00266Ars\u0026r, that only leaves one more thing to take care of before you can shape the world around you.\n\n\u0026zCreative Power\u0026r for everything.",
+    "original": "With infinite power for your storage system and access to &zcreative spells&r from &6Ars&r, that only leaves one more thing to take care of before you can shape the world around you.\n\n&zCreative Power&r for everything.",
+    "translation": "With infinite power for your storage system and access to &zcreative spells&r from &6Ars&r, that only leaves one more thing to take care of before you can shape the world around you.\n\n&zCreative Power&r for everything.",
     "context": "unassigned/quest.snbt / quest 7E0E4E6260C1D61E",
     "meta": {
       "line_split_policy": "lf",

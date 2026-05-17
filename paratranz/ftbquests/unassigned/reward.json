@@ -405,8 +405,8 @@
     }
   },
   "reward.594E158A9C86929B.title": {
-    "original": "\u0026aTier 1 Glyph",
-    "translation": "\u0026a1 級魔符",
+    "original": "&aTier 1 Glyph",
+    "translation": "&a1 級魔符",
     "context": "unassigned/reward.snbt / reward 594E158A9C86929B",
     "meta": {
       "line_split_policy": "none",
@@ -540,8 +540,8 @@
     }
   },
   "reward.6B56D274F5BC5918.title": {
-    "original": "\u00263Light Bender's Vault Compass",
-    "translation": "\u00263Light Bender's Vault Compass",
+    "original": "&3Light Bender's Vault Compass",
+    "translation": "&3Light Bender's Vault Compass",
     "context": "unassigned/reward.snbt / reward 6B56D274F5BC5918",
     "meta": {
       "line_split_policy": "none",
@@ -549,8 +549,8 @@
     }
   },
   "reward.6B6E3D9E6F38918E.title": {
-    "original": "\u0026dTier 3 Glyph",
-    "translation": "\u0026d3 級魔符",
+    "original": "&dTier 3 Glyph",
+    "translation": "&d3 級魔符",
     "context": "unassigned/reward.snbt / reward 6B6E3D9E6F38918E",
     "meta": {
       "line_split_policy": "none",
@@ -594,8 +594,8 @@
     }
   },
   "reward.742CB3E07E4CCEB1.title": {
-    "original": "\u0026bTier 2 Glyph",
-    "translation": "\u0026b2 級魔符",
+    "original": "&bTier 2 Glyph",
+    "translation": "&b2 級魔符",
     "context": "unassigned/reward.snbt / reward 742CB3E07E4CCEB1",
     "meta": {
       "line_split_policy": "none",

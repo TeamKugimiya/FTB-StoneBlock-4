@@ -9,8 +9,8 @@
     }
   },
   "quest.08000D28B577EF94.quest_desc": {
-    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 08000D28B577EF94",
     "meta": {
       "line_split_policy": "lf",
@@ -18,8 +18,8 @@
     }
   },
   "quest.08000D28B577EF94.title": {
-    "original": "\u0026fLocating \u0026dThe Enchanter",
-    "translation": "\u0026f定位：\u0026d附魔道長",
+    "original": "&fLocating &dThe Enchanter",
+    "translation": "&f定位：&d附魔道長",
     "context": "chapters/world_engine__tier_2.snbt / quest 08000D28B577EF94",
     "meta": {
       "line_split_policy": "none",
@@ -27,8 +27,8 @@
     }
   },
   "quest.0A3C1CD48C85E17D.quest_desc": {
-    "original": "Within the lower parts of the \u00267Deepslate\u0026r ring, you have a chance to run into the \u0026dAncient City\u0026r.\n\nSurely there is nothing bad down there. Just quietly sneak in and find a few of \u0026dEcho Shards\u0026r.\n\nYou should see the \u0026dEcho of The Enchanter\u0026r after acquiring this shard.\n\n\u0026eNote\u0026r: The \u0026dEnchanter\u0026r mentioned that the \u0026dWayfinder\u0026r can also offer you some that you can buy once you've completed some of their tasks.",
-    "translation": "你有機會在\u00267深板岩\u0026r環帶的較低處遇到\u0026d遠古城市\u0026r。\n\n當然，那邊沒有任何的危險。你只要安靜的潛行進入，並找到幾片\u0026d回聲碎片\u0026r就好了。\n\n當取得這片碎片後，回去找\u0026d附魔道長之回聲\u0026r交差。\n\n\u0026e備註\u0026r：\u0026d附魔道長\u0026r提到說：\u0026d尋路先鋒\u0026r會在你完成他的任務之後賣給你一些\u0026d回聲碎片\u0026r。",
+    "original": "Within the lower parts of the &7Deepslate&r ring, you have a chance to run into the &dAncient City&r.\n\nSurely there is nothing bad down there. Just quietly sneak in and find a few of &dEcho Shards&r.\n\nYou should see the &dEcho of The Enchanter&r after acquiring this shard.\n\n&eNote&r: The &dEnchanter&r mentioned that the &dWayfinder&r can also offer you some that you can buy once you've completed some of their tasks.",
+    "translation": "你有機會在&7深板岩&r環帶的較低處遇到&d遠古城市&r。\n\n當然，那邊沒有任何的危險。你只要安靜的潛行進入，並找到幾片&d回聲碎片&r就好了。\n\n當取得這片碎片後，回去找&d附魔道長之回聲&r交差。\n\n&e備註&r：&d附魔道長&r提到說：&d尋路先鋒&r會在你完成他的任務之後賣給你一些&d回聲碎片&r。",
     "context": "chapters/world_engine__tier_2.snbt / quest 0A3C1CD48C85E17D",
     "meta": {
       "line_split_policy": "lf",
@@ -36,8 +36,8 @@
     }
   },
   "quest.0A3C1CD48C85E17D.title": {
-    "original": "\u0026fStealing From Wardens",
-    "translation": "\u0026f伏守者大盜",
+    "original": "&fStealing From Wardens",
+    "translation": "&f伏守者大盜",
     "context": "chapters/world_engine__tier_2.snbt / quest 0A3C1CD48C85E17D",
     "meta": {
       "line_split_policy": "none",
@@ -45,8 +45,8 @@
     }
   },
   "quest.0B02B72259362345.quest_desc": {
-    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 0B02B72259362345",
     "meta": {
       "line_split_policy": "lf",
@@ -54,8 +54,8 @@
     }
   },
   "quest.0B02B72259362345.title": {
-    "original": "\u0026fLocating \u0026dThe Fabricator",
-    "translation": "\u0026f定位：\u0026d熱力謙者",
+    "original": "&fLocating &dThe Fabricator",
+    "translation": "&f定位：&d熱力謙者",
     "context": "chapters/world_engine__tier_2.snbt / quest 0B02B72259362345",
     "meta": {
       "line_split_policy": "none",
@@ -63,8 +63,8 @@
     }
   },
   "quest.101B8D9769D835AB.quest_desc": {
-    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_2.snbt / quest 101B8D9769D835AB",
     "meta": {
       "line_split_policy": "lf",
@@ -72,8 +72,8 @@
     }
   },
   "quest.101B8D9769D835AB.title": {
-    "original": "\u0026fAuto-Build The \u00263Chroniton Upgrade",
-    "translation": "\u0026f自動建造\u00263時空粒子升級",
+    "original": "&fAuto-Build The &3Chroniton Upgrade",
+    "translation": "&f自動建造&3時空粒子升級",
     "context": "chapters/world_engine__tier_2.snbt / quest 101B8D9769D835AB",
     "meta": {
       "line_split_policy": "none",
@@ -81,8 +81,8 @@
     }
   },
   "quest.18AF36E1C2375101.quest_desc": {
-    "original": "Using the latent magical powers of \u00267Deepslate\u0026r, you should be able to craft a bookshelf that can grant even stronger enchants within your table.",
-    "translation": "利用殘存於\u00267深板岩\u0026r內的古代魔力，你可以合成出一些能夠為你的附魔台提供更強大附魔的書櫃。",
+    "original": "Using the latent magical powers of &7Deepslate&r, you should be able to craft a bookshelf that can grant even stronger enchants within your table.",
+    "translation": "利用殘存於&7深板岩&r內的古代魔力，你可以合成出一些能夠為你的附魔台提供更強大附魔的書櫃。",
     "context": "chapters/world_engine__tier_2.snbt / quest 18AF36E1C2375101",
     "meta": {
       "line_split_policy": "lf",
@@ -99,8 +99,8 @@
     }
   },
   "quest.18AF36E1C2375101.title": {
-    "original": "\u0026fMagics of The Deep",
-    "translation": "\u0026f「深邃」魔法",
+    "original": "&fMagics of The Deep",
+    "translation": "&f「深邃」魔法",
     "context": "chapters/world_engine__tier_2.snbt / quest 18AF36E1C2375101",
     "meta": {
       "line_split_policy": "none",
@@ -108,8 +108,8 @@
     }
   },
   "quest.1F66695405A4863D.quest_desc": {
-    "original": "The \u0026dChroniton Star\u0026r is filled with the power to alter time and space.\n\nUsing the \u00266World Engine\u0026r, you should be able to drain this power to upgrade the \u00266World Engine\u0026r itself by infusing its own power into \u00262Chroniton Glass\u0026r.\n\n\u0026eNote\u0026r: The \u0026dChroniton Star\u0026r can be restored once you've upgraded the \u00266World Engine\u0026r with the glass.",
-    "translation": "\u0026d時空粒子之星\u0026r之中富含著能夠影響時空的能量。\n\n透過\u00266世界引擎\u0026r，你應當能夠汲取到這種能量，並將它灌注為\u00262時空粒子玻璃\u0026r：你的下一項\u00266世界引擎\u0026r升級。\n\n\u0026e備註\u0026r：當你使用該玻璃升級\u00266世界引擎\u0026r後，你將能夠再次為\u0026d時空粒子之星\u0026r進行充能。",
+    "original": "The &dChroniton Star&r is filled with the power to alter time and space.\n\nUsing the &6World Engine&r, you should be able to drain this power to upgrade the &6World Engine&r itself by infusing its own power into &2Chroniton Glass&r.\n\n&eNote&r: The &dChroniton Star&r can be restored once you've upgraded the &6World Engine&r with the glass.",
+    "translation": "&d時空粒子之星&r之中富含著能夠影響時空的能量。\n\n透過&6世界引擎&r，你應當能夠汲取到這種能量，並將它灌注為&2時空粒子玻璃&r：你的下一項&6世界引擎&r升級。\n\n&e備註&r：當你使用該玻璃升級&6世界引擎&r後，你將能夠再次為&d時空粒子之星&r進行充能。",
     "context": "chapters/world_engine__tier_2.snbt / quest 1F66695405A4863D",
     "meta": {
       "line_split_policy": "lf",
@@ -126,8 +126,8 @@
     }
   },
   "quest.1F66695405A4863D.title": {
-    "original": "\u0026fTime-Space Glass",
-    "translation": "\u0026f時空玻璃",
+    "original": "&fTime-Space Glass",
+    "translation": "&f時空玻璃",
     "context": "chapters/world_engine__tier_2.snbt / quest 1F66695405A4863D",
     "meta": {
       "line_split_policy": "none",
@@ -144,8 +144,8 @@
     }
   },
   "quest.2AB58696A843E9C2.quest_desc": {
-    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Fabricator\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock the \u0026cHeat Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo fabricator\u00267.",
-    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d熱力謙者之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263熱源升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo fabricator\u00267」。",
+    "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Fabricator&r.\n\nWork with this &dEcho&r to unlock the &cHeat Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo fabricator&7.",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d熱力謙者之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3熱源升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo fabricator&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 2AB58696A843E9C2",
     "meta": {
       "line_split_policy": "lf",
@@ -153,8 +153,8 @@
     }
   },
   "quest.2AB58696A843E9C2.title": {
-    "original": "\u0026fMeet \u0026dThe Fabricator",
-    "translation": "\u0026f初訪\u0026d熱力謙者",
+    "original": "&fMeet &dThe Fabricator",
+    "translation": "&f初訪&d熱力謙者",
     "context": "chapters/world_engine__tier_2.snbt / quest 2AB58696A843E9C2",
     "meta": {
       "line_split_policy": "none",
@@ -162,8 +162,8 @@
     }
   },
   "quest.30689B890F5E7A03.quest_desc": {
-    "original": "The basics of infusing magic into your items starts with an \u0026dEnchanting Table\u0026r.\n\nThis table will draw in the latent magical energies of bookshelves around them. Basic bookshelves will only get you so far!\n\n\u0026eNote\u0026r: You'll need either \u0026aInfused Hellshelves\u0026r or \u0026aInfused Seashelves\u0026r to reach the required \u0026bEterna\u0026r levels for progression!",
-    "translation": "為物品進行魔法灌注的基石就是\u0026d附魔台\u0026r。\n\n它會從附近汲取潛藏於書櫃中的魔法能量。但最基礎的書櫃能做到的事情非常有限！\n\n\u0026e備註\u0026r：你會需要\u0026a地獄灌注書櫃\u0026r或\u0026a海洋灌注書櫃\u0026r其一，才能達到推動進展所需的\u0026b位階\u0026r等級！",
+    "original": "The basics of infusing magic into your items starts with an &dEnchanting Table&r.\n\nThis table will draw in the latent magical energies of bookshelves around them. Basic bookshelves will only get you so far!\n\n&eNote&r: You'll need either &aInfused Hellshelves&r or &aInfused Seashelves&r to reach the required &bEterna&r levels for progression!",
+    "translation": "為物品進行魔法灌注的基石就是&d附魔台&r。\n\n它會從附近汲取潛藏於書櫃中的魔法能量。但最基礎的書櫃能做到的事情非常有限！\n\n&e備註&r：你會需要&a地獄灌注書櫃&r或&a海洋灌注書櫃&r其一，才能達到推動進展所需的&b位階&r等級！",
     "context": "chapters/world_engine__tier_2.snbt / quest 30689B890F5E7A03",
     "meta": {
       "line_split_policy": "lf",
@@ -171,8 +171,8 @@
     }
   },
   "quest.30689B890F5E7A03.title": {
-    "original": "\u0026fInfusing The Magic",
-    "translation": "\u0026f灌注魔法",
+    "original": "&fInfusing The Magic",
+    "translation": "&f灌注魔法",
     "context": "chapters/world_engine__tier_2.snbt / quest 30689B890F5E7A03",
     "meta": {
       "line_split_policy": "none",
@@ -207,8 +207,8 @@
     }
   },
   "quest.370B05FC62884456.quest_desc": {
-    "original": "The \u0026aSuperheating Element\u0026r is perfect for the core of a heater.\n\nWhile it may seem like you have 2 options for the type of heater you choose to make, the \u0026cFuelwood Heater\u0026r can only produce heat via coal or wood, rendering it insufficient to heat your \u00266World Engine\u0026r.\n\nThe \u0026cResistive Heater\u0026r, however, specializes in converting power directly into heat. It allows for fine-tuning how much power is converted, and generates significantly more heat.\n\n\u0026eNote\u0026r: 2k FE/t is ideal for hitting around 350°C.\n{@pagebreak}\nTo power the heater, you can either bring some generators or energy cubes down, or use \u0026dSpectre Coils\u0026r for wireless power transfer.\n\nMost crafts will require around \u0026c350°C\u0026r to work, and you will need to maintain that temperature during the craft for it to complete.",
-    "translation": "\u0026a導熱元件\u0026r是一台加熱器的完美核心。\n\n縱使你似乎可以選擇做出兩種不同的加熱器之一，\u0026c木料加熱器\u0026r只能透過煤炭或木頭等燃料產生熱量，這對於加熱你的\u00266世界引擎\u0026r來說是非常沒效率的。\n\n\u0026c電阻加熱器\u0026r則能夠直接將能量轉換為熱量。它能夠設定該轉換多少能量，並能夠顯著產出更多熱量。\n\n\u0026e備註\u0026r：為了達到 350°C，將用電量設置為 2k FE/t 是最理想的選擇。",
+    "original": "The &aSuperheating Element&r is perfect for the core of a heater.\n\nWhile it may seem like you have 2 options for the type of heater you choose to make, the &cFuelwood Heater&r can only produce heat via coal or wood, rendering it insufficient to heat your &6World Engine&r.\n\nThe &cResistive Heater&r, however, specializes in converting power directly into heat. It allows for fine-tuning how much power is converted, and generates significantly more heat.\n\n&eNote&r: 2k FE/t is ideal for hitting around 350°C.\n{@pagebreak}\nTo power the heater, you can either bring some generators or energy cubes down, or use &dSpectre Coils&r for wireless power transfer.\n\nMost crafts will require around &c350°C&r to work, and you will need to maintain that temperature during the craft for it to complete.",
+    "translation": "&a導熱元件&r是一台加熱器的完美核心。\n\n縱使你似乎可以選擇做出兩種不同的加熱器之一，&c木料加熱器&r只能透過煤炭或木頭等燃料產生熱量，這對於加熱你的&6世界引擎&r來說是非常沒效率的。\n\n&c電阻加熱器&r則能夠直接將能量轉換為熱量。它能夠設定該轉換多少能量，並能夠顯著產出更多熱量。\n\n&e備註&r：為了達到 350°C，將用電量設置為 2k FE/t 是最理想的選擇。",
     "context": "chapters/world_engine__tier_2.snbt / quest 370B05FC62884456",
     "meta": {
       "line_split_policy": "lf",
@@ -225,8 +225,8 @@
     }
   },
   "quest.370B05FC62884456.title": {
-    "original": "\u0026fHeating Things Up",
-    "translation": "\u0026f讓這裡熱起來",
+    "original": "&fHeating Things Up",
+    "translation": "&f讓這裡熱起來",
     "context": "chapters/world_engine__tier_2.snbt / quest 370B05FC62884456",
     "meta": {
       "line_split_policy": "none",
@@ -234,8 +234,8 @@
     }
   },
   "quest.3E1DB27DAB197F6B.quest_desc": {
-    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Wayfinder\u0026r.\n\nHelp this \u0026dEcho\u0026r to unlock the \u0026aChroniton Glass\u0026r upgrade for your \u0026bWorld Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo wayfinder\u00267.",
-    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d尋路先鋒之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263時空粒子玻璃升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo wayfinder\u00267」。",
+    "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Wayfinder&r.\n\nHelp this &dEcho&r to unlock the &aChroniton Glass&r upgrade for your &bWorld Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo wayfinder&7.",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d尋路先鋒之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3時空粒子玻璃升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wayfinder&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 3E1DB27DAB197F6B",
     "meta": {
       "line_split_policy": "lf",
@@ -243,8 +243,8 @@
     }
   },
   "quest.3E1DB27DAB197F6B.title": {
-    "original": "\u0026fMeet \u0026dThe Wayfinder",
-    "translation": "\u0026f初訪\u0026d尋路先鋒",
+    "original": "&fMeet &dThe Wayfinder",
+    "translation": "&f初訪&d尋路先鋒",
     "context": "chapters/world_engine__tier_2.snbt / quest 3E1DB27DAB197F6B",
     "meta": {
       "line_split_policy": "none",
@@ -252,8 +252,8 @@
     }
   },
   "quest.3FA9D6A475E4D1C6.quest_desc": {
-    "original": "The \u0026dWayfinder\u0026r knows everything there is to know about traversing this world.\n\nHe mentioned a secret power hidden within a \u00263Vault\u0026r encased in the \u00263Deepslate\u0026r ring.\n\n\u0026eNote\u0026r: It might be worth making an \u0026aExplorer's Compass\u0026r to help locate the \u00263Vault\u0026r!\n\nIf you manage to find your way through this \u00263Vault's\u0026r puzzles, the \u0026dChroniton Star\u0026r should be yours for the taking.",
-    "translation": "\u0026d尋路先鋒\u0026r深諳遊歷這個世界的一切之道。\n\n他提到了一座藏於\u00263深板岩\u0026r環帶中的\u00263寶庫\u0026r中有著一種秘密能源。\n\n\u0026e備註\u0026r：製造一個\u0026a探索者羅盤\u0026r有助於定位該\u00263寶庫\u0026r！\n\n如果你順利完成了\u00263寶庫\u0026r中的謎題，\u0026d時空粒子之星\u0026r將會是你的囊中之物。",
+    "original": "The &dWayfinder&r knows everything there is to know about traversing this world.\n\nHe mentioned a secret power hidden within a &3Vault&r encased in the &3Deepslate&r ring.\n\n&eNote&r: It might be worth making an &aExplorer's Compass&r to help locate the &3Vault&r!\n\nIf you manage to find your way through this &3Vault's&r puzzles, the &dChroniton Star&r should be yours for the taking.",
+    "translation": "&d尋路先鋒&r深諳遊歷這個世界的一切之道。\n\n他提到了一座藏於&3深板岩&r環帶中的&3寶庫&r中有著一種秘密能源。\n\n&e備註&r：製造一個&a探索者羅盤&r有助於定位該&3寶庫&r！\n\n如果你順利完成了&3寶庫&r中的謎題，&d時空粒子之星&r將會是你的囊中之物。",
     "context": "chapters/world_engine__tier_2.snbt / quest 3FA9D6A475E4D1C6",
     "meta": {
       "line_split_policy": "lf",
@@ -261,8 +261,8 @@
     }
   },
   "quest.3FA9D6A475E4D1C6.title": {
-    "original": "\u0026fFinding the \u00262Chroniton Star",
-    "translation": "\u0026f找到\u00262時空粒子之星",
+    "original": "&fFinding the &2Chroniton Star",
+    "translation": "&f找到&2時空粒子之星",
     "context": "chapters/world_engine__tier_2.snbt / quest 3FA9D6A475E4D1C6",
     "meta": {
       "line_split_policy": "none",
@@ -270,8 +270,8 @@
     }
   },
   "quest.456904808D93A9E3.quest_desc": {
-    "original": "This compass points to the location of a \u00263Vault.\n\n\u00267\u0026oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!\u0026r",
-    "translation": "這個羅盤指向一座\u00263寶庫\u0026r的確切地點。\n\n\u00267\u0026o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！\u0026r",
+    "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
+    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_2.snbt / quest 456904808D93A9E3",
     "meta": {
       "line_split_policy": "lf",
@@ -279,8 +279,8 @@
     }
   },
   "quest.456904808D93A9E3.title": {
-    "original": "\u0026fLocating The \u00263Vault",
-    "translation": "\u0026f定位：\u00263寶庫",
+    "original": "&fLocating The &3Vault",
+    "translation": "&f定位：&3寶庫",
     "context": "chapters/world_engine__tier_2.snbt / quest 456904808D93A9E3",
     "meta": {
       "line_split_policy": "none",
@@ -288,8 +288,8 @@
     }
   },
   "quest.456B067C9CC123AD.quest_desc": {
-    "original": "Once you've crafted a \u0026cHeater\u0026r, you should return to the \u0026dFabricator\u0026r to learn how to use it with the \u00266World Engine\u0026r.",
-    "translation": "當你合成出\u0026d加熱器\u0026r後，你是時候該回訪\u0026d熱力謙者\u0026r，並向他學習該如何在\u00266世界引擎\u0026r上使用它了。",
+    "original": "Once you've crafted a &cHeater&r, you should return to the &dFabricator&r to learn how to use it with the &6World Engine&r.",
+    "translation": "當你合成出&d加熱器&r後，你是時候該回訪&d熱力謙者&r，並向他學習該如何在&6世界引擎&r上使用它了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 456B067C9CC123AD",
     "meta": {
       "line_split_policy": "lf",
@@ -297,8 +297,8 @@
     }
   },
   "quest.4A87B0D25DE57F3F.quest_desc": {
-    "original": "Before you can complete the \u0026dEnchanter's\u0026r first task, you'll need to find a tougher version of stone.\n\nDig out further into the world until you find some \u00267Deepslate\u0026r.\n\nWhile it might not look magical, the remnants of ancient magic can be tapped into for their enchanting powers.",
-    "translation": "在你足以完成\u0026d附魔道長\u0026r的第一項任務之前，你會需要找到一種更堅硬的石頭。\n\n挖穿這個世界，直到你找到一些\u00267深板岩\u0026r。\n\n縱使它看起來不太「魔法」，殘存於其內的古代魔力能夠發揮其附魔之力。",
+    "original": "Before you can complete the &dEnchanter's&r first task, you'll need to find a tougher version of stone.\n\nDig out further into the world until you find some &7Deepslate&r.\n\nWhile it might not look magical, the remnants of ancient magic can be tapped into for their enchanting powers.",
+    "translation": "在你足以完成&d附魔道長&r的第一項任務之前，你會需要找到一種更堅硬的石頭。\n\n挖穿這個世界，直到你找到一些&7深板岩&r。\n\n縱使它看起來不太「魔法」，殘存於其內的古代魔力能夠發揮其附魔之力。",
     "context": "chapters/world_engine__tier_2.snbt / quest 4A87B0D25DE57F3F",
     "meta": {
       "line_split_policy": "lf",
@@ -306,8 +306,8 @@
     }
   },
   "quest.4A87B0D25DE57F3F.title": {
-    "original": "\u0026fDigging Deeper",
-    "translation": "\u0026f挖到更深處",
+    "original": "&fDigging Deeper",
+    "translation": "&f挖到更深處",
     "context": "chapters/world_engine__tier_2.snbt / quest 4A87B0D25DE57F3F",
     "meta": {
       "line_split_policy": "none",
@@ -315,8 +315,8 @@
     }
   },
   "quest.4BFF8EE3F588E006.quest_desc": {
-    "original": "With more \u00266Archives\u0026r unlocked, it is time to explore the lobby and find the \u0026dEcho of The Enchanter\u0026r.\n\nWork with this \u0026dEcho\u0026r to unlock the \u00263Enchanting Upgrade\u0026r for your \u00266World Engine\u0026r.\n\n\u00267\u0026oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using \u0026e/echo enchanter\u00267.",
-    "translation": "隨著更多\u00266檔案庫\u0026r的解鎖，是時候探索大廳並找出\u0026d附魔道長之回聲\u0026r了。\n\n和這位\u0026d回聲\u0026r協力為你的\u00266世界引擎\u0026r解鎖\u00263附魔升級\u0026r吧。\n\n\u00267\u0026o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「\u0026e/echo enchanter\u00267」。",
+    "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Enchanter&r.\n\nWork with this &dEcho&r to unlock the &3Enchanting Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo enchanter&7.",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d附魔道長之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3附魔升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo enchanter&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 4BFF8EE3F588E006",
     "meta": {
       "line_split_policy": "lf",
@@ -324,8 +324,8 @@
     }
   },
   "quest.4BFF8EE3F588E006.title": {
-    "original": "\u0026fMeet \u0026dThe Enchanter",
-    "translation": "\u0026f初訪\u0026d附魔道長",
+    "original": "&fMeet &dThe Enchanter",
+    "translation": "&f初訪&d附魔道長",
     "context": "chapters/world_engine__tier_2.snbt / quest 4BFF8EE3F588E006",
     "meta": {
       "line_split_policy": "none",
@@ -333,8 +333,8 @@
     }
   },
   "quest.4D754E91D203A89A.quest_desc": {
-    "original": "Now that you've unlocked a few \u00266World Engine\u0026r upgrades, you should head back to the \u0026dEcho of Guidance\u0026r.\n\nMake sure you've claimed any outstanding rewards from the other \u0026dEchoes\u0026r.",
-    "translation": "現在，你已經解鎖了一些\u00266世界引擎\u0026r升級了，是時候返回\u0026d指引嚮導之回聲\u0026r處了。\n\n請確保你已經向其他\u0026d回聲\u0026r領取所有未發放的獎勵了。",
+    "original": "Now that you've unlocked a few &6World Engine&r upgrades, you should head back to the &dEcho of Guidance&r.\n\nMake sure you've claimed any outstanding rewards from the other &dEchoes&r.",
+    "translation": "現在，你已經解鎖了一些&6世界引擎&r升級了，是時候返回&d指引嚮導之回聲&r處了。\n\n請確保你已經向其他&d回聲&r領取所有未發放的獎勵了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 4D754E91D203A89A",
     "meta": {
       "line_split_policy": "lf",
@@ -351,8 +351,8 @@
     }
   },
   "quest.4D754E91D203A89A.title": {
-    "original": "\u0026fNeeding More Guidance",
-    "translation": "\u0026f需要更多指引",
+    "original": "&fNeeding More Guidance",
+    "translation": "&f需要更多指引",
     "context": "chapters/world_engine__tier_2.snbt / quest 4D754E91D203A89A",
     "meta": {
       "line_split_policy": "none",
@@ -369,8 +369,8 @@
     }
   },
   "quest.50B0E45705EDB5F2.quest_desc": {
-    "original": "Submitting the blocks required for the \u00263Upgrade\u0026f and claiming its rewards will automatically assemble your team's \u00266World Engine\u0026r.\n\n\u0026eNote\u0026f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該\u00263升級\u0026r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的\u00266世界引擎\u0026r之中。\n\n\u0026e備註\u0026f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
+    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_2.snbt / quest 50B0E45705EDB5F2",
     "meta": {
       "line_split_policy": "lf",
@@ -378,8 +378,8 @@
     }
   },
   "quest.50B0E45705EDB5F2.title": {
-    "original": "\u0026fAuto-Build The \u00263Enchanting Upgrade",
-    "translation": "\u0026f自動建造\u00263附魔升級",
+    "original": "&fAuto-Build The &3Enchanting Upgrade",
+    "translation": "&f自動建造&3附魔升級",
     "context": "chapters/world_engine__tier_2.snbt / quest 50B0E45705EDB5F2",
     "meta": {
       "line_split_policy": "none",
@@ -387,8 +387,8 @@
     }
   },
   "quest.50B7A38F7E66139C.quest_desc": {
-    "original": "Heat is easy to generate, but very easy to lose when transferring between machines.\n\nTo reduce the loss of heat, there are special cables for this specific use.\n\nCraft a few of the \u0026dUltimate Thermodynamic Conductors\u0026r. These should do the trick.",
-    "translation": "熱量很容易產生，但非常容易在傳輸於機器間時逸散。\n\n這裡有種特別的線纜能夠滿足我們的需求：它能夠巨幅減少熱量的逸散。\n\n合成一些\u0026d終極導熱線纜\u0026r。它們很棒。",
+    "original": "Heat is easy to generate, but very easy to lose when transferring between machines.\n\nTo reduce the loss of heat, there are special cables for this specific use.\n\nCraft a few of the &dUltimate Thermodynamic Conductors&r. These should do the trick.",
+    "translation": "熱量很容易產生，但非常容易在傳輸於機器間時逸散。\n\n這裡有種特別的線纜能夠滿足我們的需求：它能夠巨幅減少熱量的逸散。\n\n合成一些&d終極導熱線纜&r。它們很棒。",
     "context": "chapters/world_engine__tier_2.snbt / quest 50B7A38F7E66139C",
     "meta": {
       "line_split_policy": "lf",
@@ -396,8 +396,8 @@
     }
   },
   "quest.50B7A38F7E66139C.title": {
-    "original": "\u0026fTransferring Heat",
-    "translation": "\u0026f輸送熱量",
+    "original": "&fTransferring Heat",
+    "translation": "&f輸送熱量",
     "context": "chapters/world_engine__tier_2.snbt / quest 50B7A38F7E66139C",
     "meta": {
       "line_split_policy": "none",
@@ -414,8 +414,8 @@
     }
   },
   "quest.66E73F99D943365C.quest_desc": {
-    "original": "The first task from the \u0026dFabricator\u0026r is to create an element that can withstand very high temperatures.\n\nThe \u00266World Engine\u0026r should be able to forge these elements, as long as you have the \u00263Machine Block Upgrade\u0026r.",
-    "translation": "來自\u0026d熱力謙者\u0026r的第一個任務是製造一個可以承受極度高溫的元件。\n\n如果\u00266世界引擎\u0026r擁有\u00263機器方塊升級\u0026r的話，你應當能夠鍛造出這項元件。",
+    "original": "The first task from the &dFabricator&r is to create an element that can withstand very high temperatures.\n\nThe &6World Engine&r should be able to forge these elements, as long as you have the &3Machine Block Upgrade&r.",
+    "translation": "來自&d熱力謙者&r的第一個任務是製造一個可以承受極度高溫的元件。\n\n如果&6世界引擎&r擁有&3機器方塊升級&r的話，你應當能夠鍛造出這項元件。",
     "context": "chapters/world_engine__tier_2.snbt / quest 66E73F99D943365C",
     "meta": {
       "line_split_policy": "lf",
@@ -423,8 +423,8 @@
     }
   },
   "quest.66E73F99D943365C.title": {
-    "original": "\u0026fSuperheated",
-    "translation": "\u0026f超級加熱",
+    "original": "&fSuperheated",
+    "translation": "&f超級加熱",
     "context": "chapters/world_engine__tier_2.snbt / quest 66E73F99D943365C",
     "meta": {
       "line_split_policy": "none",
@@ -432,8 +432,8 @@
     }
   },
   "quest.66FF7D88B712C969.quest_desc": {
-    "original": "Claiming this quest reward will set a waypoint at the \u0026dEcho's \u00266Archive\u0026r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該\u0026d回聲\u0026r的\u00266檔案庫\u0026r的入口處設置一個定位點。",
+    "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 66FF7D88B712C969",
     "meta": {
       "line_split_policy": "lf",
@@ -441,8 +441,8 @@
     }
   },
   "quest.66FF7D88B712C969.title": {
-    "original": "\u0026fLocating \u0026dThe Wayfinder",
-    "translation": "\u0026f定位：\u0026d尋路先鋒",
+    "original": "&fLocating &dThe Wayfinder",
+    "translation": "&f定位：&d尋路先鋒",
     "context": "chapters/world_engine__tier_2.snbt / quest 66FF7D88B712C969",
     "meta": {
       "line_split_policy": "none",
@@ -450,8 +450,8 @@
     }
   },
   "quest.6E149F8E8B3F150B.quest_desc": {
-    "original": "Once you've crafted the \u00262Echoing Deepshelves\u0026r, head back to the \u0026dEcho of the Enchanter\u0026r to learn how to install it into the \u00266World Engine\u0026r as an upgrade.",
-    "translation": "當你合成出了足夠多的\u00262回聲深板岩書櫃\u0026r後，你是時候該回訪\u0026d附魔道長\u0026r，並向他學習該如何在\u00266世界引擎\u0026r安裝這項升級了。",
+    "original": "Once you've crafted the &2Echoing Deepshelves&r, head back to the &dEcho of the Enchanter&r to learn how to install it into the &6World Engine&r as an upgrade.",
+    "translation": "當你合成出了足夠多的&2回聲深板岩書櫃&r後，你是時候該回訪&d附魔道長&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 6E149F8E8B3F150B",
     "meta": {
       "line_split_policy": "lf",
@@ -459,8 +459,8 @@
     }
   },
   "quest.7191726ECAAFE40F.quest_desc": {
-    "original": "Once you've crafted enough \u00262Chroniton Glass\u0026r, head back to the \u0026dEcho of the Wayfinder\u0026r to learn how to install it into the \u00266World Engine\u0026r as an upgrade.",
-    "translation": "當你合成出了足夠多的\u00262時空粒子玻璃\u0026r後，你是時候該回訪\u0026d尋路先鋒\u0026r，並向他學習該如何在\u00266世界引擎\u0026r安裝這項升級了。",
+    "original": "Once you've crafted enough &2Chroniton Glass&r, head back to the &dEcho of the Wayfinder&r to learn how to install it into the &6World Engine&r as an upgrade.",
+    "translation": "當你合成出了足夠多的&2時空粒子玻璃&r後，你是時候該回訪&d尋路先鋒&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 7191726ECAAFE40F",
     "meta": {
       "line_split_policy": "lf",
@@ -468,8 +468,8 @@
     }
   },
   "reward.174EEA65827DF6EA.title": {
-    "original": "Assemble The \u00263Chroniton Upgrade",
-    "translation": "安裝\u00263時空粒子升級",
+    "original": "Assemble The &3Chroniton Upgrade",
+    "translation": "安裝&3時空粒子升級",
     "context": "chapters/world_engine__tier_2.snbt / reward 174EEA65827DF6EA",
     "meta": {
       "line_split_policy": "none",
@@ -477,8 +477,8 @@
     }
   },
   "reward.1FC841321A5BA9AB.title": {
-    "original": "Assemble The \u00263Enchanting Upgrade",
-    "translation": "安裝\u00263附魔升級",
+    "original": "Assemble The &3Enchanting Upgrade",
+    "translation": "安裝&3附魔升級",
     "context": "chapters/world_engine__tier_2.snbt / reward 1FC841321A5BA9AB",
     "meta": {
       "line_split_policy": "none",
@@ -486,8 +486,8 @@
     }
   },
   "reward.29048AE32290DDAB.title": {
-    "original": "\u00263Wayfinder's Vault Compass",
-    "translation": "\u00263尋路先鋒寶庫羅盤",
+    "original": "&3Wayfinder's Vault Compass",
+    "translation": "&3尋路先鋒寶庫羅盤",
     "context": "chapters/world_engine__tier_2.snbt / reward 29048AE32290DDAB",
     "meta": {
       "line_split_policy": "none",
@@ -495,8 +495,8 @@
     }
   },
   "reward.307426CA8BF12CAC.title": {
-    "original": "\u0026dWayfinder \u0026fWaypoint",
-    "translation": "\u0026d尋路先鋒\u0026f定位點",
+    "original": "&dWayfinder &fWaypoint",
+    "translation": "&d尋路先鋒&f定位點",
     "context": "chapters/world_engine__tier_2.snbt / reward 307426CA8BF12CAC",
     "meta": {
       "line_split_policy": "none",
@@ -504,8 +504,8 @@
     }
   },
   "reward.30A58719DB130EE9.title": {
-    "original": "\u0026dFabricator \u0026fWaypoint",
-    "translation": "\u0026d熱力謙者\u0026f定位點",
+    "original": "&dFabricator &fWaypoint",
+    "translation": "&d熱力謙者&f定位點",
     "context": "chapters/world_engine__tier_2.snbt / reward 30A58719DB130EE9",
     "meta": {
       "line_split_policy": "none",
@@ -522,8 +522,8 @@
     }
   },
   "reward.61E89C638FD700C4.title": {
-    "original": "\u0026eMax \u00263Unearther Level",
-    "translation": "\u0026e升滿\u00263發掘等級",
+    "original": "&eMax &3Unearther Level",
+    "translation": "&e升滿&3發掘等級",
     "context": "chapters/world_engine__tier_2.snbt / reward 61E89C638FD700C4",
     "meta": {
       "line_split_policy": "none",
@@ -540,8 +540,8 @@
     }
   },
   "reward.696B39000701CF3E.title": {
-    "original": "\u0026dEnchanter \u0026fWaypoint",
-    "translation": "\u0026d附魔道長\u0026f定位點",
+    "original": "&dEnchanter &fWaypoint",
+    "translation": "&d附魔道長&f定位點",
     "context": "chapters/world_engine__tier_2.snbt / reward 696B39000701CF3E",
     "meta": {
       "line_split_policy": "none",
@@ -558,8 +558,8 @@
     }
   },
   "task.159400992FB94254.title": {
-    "original": "\u0026eObserve\u0026f: Deepslate",
-    "translation": "\u0026e觀察\u0026f：深板岩",
+    "original": "&eObserve&f: Deepslate",
+    "translation": "&e觀察&f：深板岩",
     "context": "chapters/world_engine__tier_2.snbt / task 159400992FB94254",
     "meta": {
       "line_split_policy": "none",
@@ -576,8 +576,8 @@
     }
   },
   "task.1D40F0B8F9A522A0.title": {
-    "original": "\u0026eLocate\u0026f: \u0026dFabricator",
-    "translation": "\u0026e尋找\u0026f：\u0026d熱力謙者",
+    "original": "&eLocate&f: &dFabricator",
+    "translation": "&e尋找&f：&d熱力謙者",
     "context": "chapters/world_engine__tier_2.snbt / task 1D40F0B8F9A522A0",
     "meta": {
       "line_split_policy": "none",
@@ -585,8 +585,8 @@
     }
   },
   "task.2DD1C42797FC03F0.title": {
-    "original": "\u0026fSpeak With The \u0026dEcho of The Enchanter",
-    "translation": "\u0026f與\u0026d附魔道長之回聲\u0026r交談",
+    "original": "&fSpeak With The &dEcho of The Enchanter",
+    "translation": "&f與&d附魔道長之回聲&r交談",
     "context": "chapters/world_engine__tier_2.snbt / task 2DD1C42797FC03F0",
     "meta": {
       "line_split_policy": "none",
@@ -594,8 +594,8 @@
     }
   },
   "task.2E08C0DD181858C1.title": {
-    "original": "\u0026eLocate\u0026f: \u0026dWayfinder",
-    "translation": "\u0026e尋找\u0026f：\u0026d尋路先鋒",
+    "original": "&eLocate&f: &dWayfinder",
+    "translation": "&e尋找&f：&d尋路先鋒",
     "context": "chapters/world_engine__tier_2.snbt / task 2E08C0DD181858C1",
     "meta": {
       "line_split_policy": "none",
@@ -630,8 +630,8 @@
     }
   },
   "task.655EA10D763BC971.title": {
-    "original": "\u0026eLocate\u0026f: \u0026dEnchanter",
-    "translation": "\u0026e尋找\u0026f：\u0026d附魔道長",
+    "original": "&eLocate&f: &dEnchanter",
+    "translation": "&e尋找&f：&d附魔道長",
     "context": "chapters/world_engine__tier_2.snbt / task 655EA10D763BC971",
     "meta": {
       "line_split_policy": "none",
@@ -639,8 +639,8 @@
     }
   },
   "task.6A6EB35F2D0397D5.title": {
-    "original": "\u0026fSpeak With The \u0026dEcho of The Wayfinder",
-    "translation": "\u0026f與\u0026d尋路先鋒之回聲\u0026r交談",
+    "original": "&fSpeak With The &dEcho of The Wayfinder",
+    "translation": "&f與&d尋路先鋒之回聲&r交談",
     "context": "chapters/world_engine__tier_2.snbt / task 6A6EB35F2D0397D5",
     "meta": {
       "line_split_policy": "none",
@@ -648,8 +648,8 @@
     }
   },
   "task.6B46A4D5E6915E1B.title": {
-    "original": "\u0026fSpeak With The \u0026dEcho of The Fabricator",
-    "translation": "\u0026f與\u0026d熱力謙者之回聲\u0026r交談",
+    "original": "&fSpeak With The &dEcho of The Fabricator",
+    "translation": "&f與&d熱力謙者之回聲&r交談",
     "context": "chapters/world_engine__tier_2.snbt / task 6B46A4D5E6915E1B",
     "meta": {
       "line_split_policy": "none",
@@ -675,8 +675,8 @@
     }
   },
   "task.7ECEEC776BBA8B53.title": {
-    "original": "Speak With The \u0026dEcho of Guidance",
-    "translation": "與\u0026d指引嚮導之回聲\u0026r交談",
+    "original": "Speak With The &dEcho of Guidance",
+    "translation": "與&d指引嚮導之回聲&r交談",
     "context": "chapters/world_engine__tier_2.snbt / task 7ECEEC776BBA8B53",
     "meta": {
       "line_split_policy": "none",

@@ -1,7 +1,7 @@
 {
   "chapter_group.1B747BDF0A1FE37A.title": {
-    "original": "\u00266Forgotten Technology",
-    "translation": "\u00266掩埋的科技",
+    "original": "&6Forgotten Technology",
+    "translation": "&6掩埋的科技",
     "context": "chapter_group.snbt / chapter_group 1B747BDF0A1FE37A",
     "meta": {
       "line_split_policy": "none",
@@ -9,8 +9,8 @@
     }
   },
   "chapter_group.337473E1389D8A71.title": {
-    "original": "\u00266Forgotten Knowledge",
-    "translation": "\u00266掩埋的知識",
+    "original": "&6Forgotten Knowledge",
+    "translation": "&6掩埋的知識",
     "context": "chapter_group.snbt / chapter_group 337473E1389D8A71",
     "meta": {
       "line_split_policy": "none",
@@ -18,8 +18,8 @@
     }
   },
   "chapter_group.4B65568899D62A0C.title": {
-    "original": "\u00266Echoes of History",
-    "translation": "\u00266古賢之回聲",
+    "original": "&6Echoes of History",
+    "translation": "&6古賢之回聲",
     "context": "chapter_group.snbt / chapter_group 4B65568899D62A0C",
     "meta": {
       "line_split_policy": "none",

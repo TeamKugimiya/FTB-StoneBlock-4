@@ -1,7 +1,7 @@
 {
   "file.0000000000000001.title": {
-    "original": "\u00266Stoneblock 4",
-    "translation": "\u00266只有石頭的世界 4",
+    "original": "&6Stoneblock 4",
+    "translation": "&6只有石頭的世界 4",
     "context": "file.snbt / file 0000000000000001",
     "meta": {
       "line_split_policy": "none",
