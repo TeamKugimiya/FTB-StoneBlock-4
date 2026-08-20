@@ -15,6 +15,7 @@
 			alpha: 155
 			color: 0
 			height: 9.5d
+			id: "0C13FD216491F429"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -25,6 +26,7 @@
 			alpha: 155
 			color: 0
 			height: 9.5d
+			id: "00188A63E43191DB"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -35,6 +37,7 @@
 			alpha: 155
 			color: 0
 			height: 9.5d
+			id: "2D9A54B3A11037D7"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -44,6 +47,7 @@
 		{
 			dependency: "43A632369D0E2CE0"
 			height: 4.0d
+			id: "4C5101440F72927B"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d
@@ -54,6 +58,7 @@
 		{
 			dependency: "43A632369D0E2CE0"
 			height: 4.0d
+			id: "5DB780F99DB562EF"
 			image: "malum:textures/gui/book/widgets/runewood_frame_gilded.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -63,6 +68,7 @@
 		{
 			dependency: "3DCD6DC36B31EEF4"
 			height: 2.0d
+			id: "7BAA4BDA50F4FD04"
 			image: "malum:textures/gui/book/widgets/runewood_frame_grand.png"
 			order: -1
 			rotation: 0.0d
@@ -73,6 +79,7 @@
 		{
 			dependency: "6D0C1811DA909BBD"
 			height: 2.0d
+			id: "4880B311515F274D"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -82,6 +89,7 @@
 		{
 			dependency: "012DF07A81C69AAA"
 			height: 2.0d
+			id: "64A2BC6B973DF4ED"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -91,6 +99,7 @@
 		{
 			dependency: "32653261B16850B3"
 			height: 2.0d
+			id: "02A4B9E744EF1935"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -100,6 +109,7 @@
 		{
 			dependency: "6D0C1811DA909BBD"
 			height: 1.5d
+			id: "02583BF5F27A2C13"
 			image: "relics:textures/gui/description/ability/reroll_button_active_quick.png"
 			order: 1
 			rotation: 0.0d
@@ -110,6 +120,7 @@
 		{
 			dependency: "012DF07A81C69AAA"
 			height: 1.5d
+			id: "2005CA8D6BB3ACFD"
 			image: "relics:textures/gui/description/ability/page_counter.png"
 			order: 1
 			rotation: 0.0d
@@ -120,6 +131,7 @@
 		{
 			dependency: "32653261B16850B3"
 			height: 1.5d
+			id: "0DD8D821A62D6D80"
 			image: "relics:textures/gui/description/ability/reroll_button_active_warning.png"
 			order: 1
 			rotation: 0.0d
@@ -164,6 +176,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_wyrmwright_meet"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "3F66A8861E4C10F4"
+					stage: "echo_wyrmwright_meet"
 					type: "gamestage"
 				}
 				{
@@ -225,6 +243,12 @@
 				}
 				{
 					auto: "invisible"
+					id: "34A91A2E3B0E2900"
+					stage: "echo_twilight_meet"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
 					command: "/ftbechoes progress player @s ftbechoes:t4_echo_twilight set_stage 1"
 					id: "487D74BB14FE82A9"
 					permission_level: 4
@@ -278,6 +302,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_ancient_meet"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "347166293B9217A9"
+					stage: "echo_ancient_meet"
 					type: "gamestage"
 				}
 				{
@@ -336,6 +366,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "68B9A2C1493C507C"
+					stage: "echo_ancient_stage4_task1_completed"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -375,6 +411,12 @@
 					id: "4944B155B00A45EB"
 					stage: "echo_wyrmwright_stage4_task1_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "50F5FA1C459ED5E6"
+					stage: "echo_wyrmwright_stage4_task1_completed"
 					type: "gamestage"
 				}
 				{
@@ -433,6 +475,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "4257ECB9B7879E13"
+					stage: "echo_wyrmwright_stage4_task2_completed"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -479,6 +527,12 @@
 					ignore_reward_blocking: true
 					stage: "tf_unlock_yeti"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "014354DE5651DB42"
+					stage: "tf_unlock_yeti"
 					type: "gamestage"
 				}
 			]
@@ -573,6 +627,12 @@
 					id: "7E30AAA334E6F012"
 					stage: "echo_wyrmwright_stage5_task1_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "7395A20F8D790AC9"
+					stage: "echo_wyrmwright_stage5_task1_completed"
 					type: "gamestage"
 				}
 			]
@@ -777,9 +837,21 @@
 				}
 				{
 					auto: "invisible"
+					id: "5C185D714CBC4E03"
+					stage: "tf_unlock_snow"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
 					id: "64B881CEAB018CF5"
 					stage: "tf_unlock_hydra"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "735E93D981FC4AD9"
+					stage: "tf_unlock_hydra"
 					type: "gamestage"
 				}
 			]
@@ -888,6 +960,12 @@
 					id: "64330F5382A0CDD0"
 					stage: "echo_twilight_stage4_task1_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "280452FD037A8940"
+					stage: "echo_twilight_stage4_task1_completed"
 					type: "gamestage"
 				}
 				{
