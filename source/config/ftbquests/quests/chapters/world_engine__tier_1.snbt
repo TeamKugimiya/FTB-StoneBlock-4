@@ -15,6 +15,7 @@
 			alpha: 155
 			color: 0
 			height: 10.0d
+			id: "0F315887E63822BB"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -25,6 +26,7 @@
 			alpha: 155
 			color: 0
 			height: 10.0d
+			id: "1E151D546266A20B"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -35,6 +37,7 @@
 			alpha: 155
 			color: 0
 			height: 10.0d
+			id: "15835F93FE38E8D0"
 			image: "ftb:textures/quests/backgrounds/smallbgs/roundedbg.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -44,6 +47,7 @@
 		{
 			dependency: "7408FB23D476F791"
 			height: 4.0d
+			id: "65C0F0B53F1813BA"
 			image: "malum:textures/gui/book/widgets/runewood_frame_gilded.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -53,6 +57,7 @@
 		{
 			dependency: "7408FB23D476F791"
 			height: 4.0d
+			id: "18CB28C4756FBF3D"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d
@@ -63,6 +68,7 @@
 		{
 			dependency: "7D1FB9A40B5CAE97"
 			height: 2.0d
+			id: "29C49A549B5F202C"
 			image: "malum:textures/gui/book/widgets/runewood_frame_grand.png"
 			order: -1
 			rotation: 0.0d
@@ -73,6 +79,7 @@
 		{
 			dependency: "48005B47655AD525"
 			height: 2.0d
+			id: "68821019EF3C7EDF"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -82,6 +89,7 @@
 		{
 			dependency: "48005B47655AD525"
 			height: 1.5d
+			id: "1E7B6741C1B2820C"
 			image: "relics:textures/gui/description/ability/reroll_button_active_quick.png"
 			order: 1
 			rotation: 0.0d
@@ -92,6 +100,7 @@
 		{
 			dependency: "79EB0239FE299185"
 			height: 1.5d
+			id: "613FA2FA0A10F266"
 			image: "relics:textures/gui/description/ability/page_counter.png"
 			order: 1
 			rotation: 0.0d
@@ -102,6 +111,7 @@
 		{
 			dependency: "79EB0239FE299185"
 			height: 2.0d
+			id: "30F20C7CE468C50C"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -111,6 +121,7 @@
 		{
 			dependency: "62531896A7E58F55"
 			height: 2.0d
+			id: "18FB62146B34FE9B"
 			image: "ftbechoes:block/echo_projector_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -120,6 +131,7 @@
 		{
 			dependency: "62531896A7E58F55"
 			height: 1.5d
+			id: "35ACB7EF4B108273"
 			image: "relics:textures/gui/description/ability/reroll_button_active_warning.png"
 			order: 1
 			rotation: 0.0d
@@ -159,6 +171,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_quartermaster_meet"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "2950D310F471C2EF"
+					stage: "echo_quartermaster_meet"
 					type: "gamestage"
 				}
 				{
@@ -227,6 +245,12 @@
 				}
 				{
 					auto: "invisible"
+					id: "7A6B07AE9F029ACB"
+					stage: "echo_magician_meet"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
 					command: "/ftbechoes progress player @s ftbechoes:t1_echo_magician set_stage 1"
 					id: "25D64615B89106AC"
 					permission_level: 4
@@ -279,6 +303,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "0DDB04D9D545C6D2"
+					stage: "echo_machinist_meet"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			size: 1.25d
@@ -327,6 +357,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "4367ECE95009E507"
+					stage: "echo_machinist_stage1_task2_completed"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -367,6 +403,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_quartermaster_stage1_task2_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "39522B74F5C8B722"
+					stage: "echo_quartermaster_stage1_task2_completed"
 					type: "gamestage"
 				}
 			]
@@ -417,6 +459,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_magician_stage1_task1_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "352EBA240C2FD413"
+					stage: "echo_magician_stage1_task1_completed"
 					type: "gamestage"
 				}
 			]
@@ -504,6 +552,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "591A69027005449D"
+					stage: "echo_magician_stage1_task2_completed"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -553,6 +607,12 @@
 					team_reward: true
 					type: "gamestage"
 				}
+				{
+					auto: "invisible"
+					id: "66E6C1A8E0523D79"
+					stage: "echo_quartermaster_stage1_task1_completed"
+					type: "gamestage"
+				}
 			]
 			shape: "gear"
 			tasks: [
@@ -600,6 +660,12 @@
 					ignore_reward_blocking: true
 					stage: "echo_machinist_stage1_task1_completed"
 					team_reward: true
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "7CB71A975036A48B"
+					stage: "echo_machinist_stage1_task1_completed"
 					type: "gamestage"
 				}
 			]
@@ -859,10 +925,7 @@
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
 			icon: {
-				components: {
-					"ftbquests:icon": "owo:textures/gui/config_search.png"
-				}
-				id: "ftbquests:custom_icon"
+				id: "apothic_enchanting:stoneshelf"
 			}
 			id: "615D1A52ED3A9C78"
 			min_width: 300
