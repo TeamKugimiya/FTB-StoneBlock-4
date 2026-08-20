@@ -199,7 +199,6 @@
   },
   "quest.106A9E7AD6051D8C.title": {
     "original": "Guidance Completed 3",
-    "translation": "Guidance Completed 3",
     "context": "chapters/world_engine__tier_3.snbt / quest 106A9E7AD6051D8C",
     "meta": {
       "line_split_policy": "none",
@@ -271,7 +270,6 @@
   },
   "quest.1D52FC5D0EAD911B.title": {
     "original": "Guidance Check 2",
-    "translation": "Guidance Check 2",
     "context": "chapters/world_engine__tier_3.snbt / quest 1D52FC5D0EAD911B",
     "meta": {
       "line_split_policy": "none",
@@ -280,7 +278,6 @@
   },
   "quest.1E307C13D534A75C.title": {
     "original": "Light Bender Check 1",
-    "translation": "Light Bender Check 1",
     "context": "chapters/world_engine__tier_3.snbt / quest 1E307C13D534A75C",
     "meta": {
       "line_split_policy": "none",
@@ -307,7 +304,6 @@
   },
   "quest.206F8B25D5A3CB7E.title": {
     "original": "Catalyst Meet",
-    "translation": "Catalyst Meet",
     "context": "chapters/world_engine__tier_3.snbt / quest 206F8B25D5A3CB7E",
     "meta": {
       "line_split_policy": "none",
@@ -361,7 +357,6 @@
   },
   "quest.2D99F429A18BEED1.title": {
     "original": "Catalyst Check 2",
-    "translation": "Catalyst Check 2",
     "context": "chapters/world_engine__tier_3.snbt / quest 2D99F429A18BEED1",
     "meta": {
       "line_split_policy": "none",
@@ -388,7 +383,6 @@
   },
   "quest.375DBC764A420D98.title": {
     "original": "Infernal Meet",
-    "translation": "Infernal Meet",
     "context": "chapters/world_engine__tier_3.snbt / quest 375DBC764A420D98",
     "meta": {
       "line_split_policy": "none",
@@ -496,7 +490,6 @@
   },
   "quest.55DF810785A9B938.title": {
     "original": "Catalyst Check 1",
-    "translation": "Catalyst Check 1",
     "context": "chapters/world_engine__tier_3.snbt / quest 55DF810785A9B938",
     "meta": {
       "line_split_policy": "none",
@@ -541,7 +534,6 @@
   },
   "quest.5E2764E8DB1B789B.title": {
     "original": "Light Bender Meet",
-    "translation": "Light Bender Meet",
     "context": "chapters/world_engine__tier_3.snbt / quest 5E2764E8DB1B789B",
     "meta": {
       "line_split_policy": "none",
@@ -865,7 +857,6 @@
   },
   "reward.3982DCDCE0A66B83.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_3.snbt / reward 3982DCDCE0A66B83",
     "meta": {
       "line_split_policy": "none",
@@ -910,7 +901,6 @@
   },
   "reward.5A34161D4FD3FD66.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_3.snbt / reward 5A34161D4FD3FD66",
     "meta": {
       "line_split_policy": "none",
@@ -955,7 +945,6 @@
   },
   "reward.6E69E924D695FE30.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_3.snbt / reward 6E69E924D695FE30",
     "meta": {
       "line_split_policy": "none",
@@ -1072,7 +1061,6 @@
   },
   "task.6A32E04F83997A6D.title": {
     "original": "&eLocate&f: &dCatalyst",
-    "translation": "&eLocate&f: &dCatalyst",
     "context": "chapters/world_engine__tier_3.snbt / task 6A32E04F83997A6D",
     "meta": {
       "line_split_policy": "none",
@@ -1090,7 +1078,6 @@
   },
   "task.7747C8ECA64D179D.title": {
     "original": "&fSpeak With The &dEcho of Guidance",
-    "translation": "&fSpeak With The &dEcho of Guidance",
     "context": "chapters/world_engine__tier_3.snbt / task 7747C8ECA64D179D",
     "meta": {
       "line_split_policy": "none",

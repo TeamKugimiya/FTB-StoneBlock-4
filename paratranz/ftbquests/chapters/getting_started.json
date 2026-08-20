@@ -64,7 +64,7 @@
   },
   "quest.0ACCAD3AEF57F2E2.quest_desc": {
     "original": "Instead of picking through &7Dirt&r with a &2Crook&r, the &aCrude Brush&r can help you find smaller objects like &2Seeds&r to start a farm!\n\nGrass or &dDelightful Dirt&r can also be used to make a &aPassive Mob Farm&r that can be a good source of food and resources, especially &bLeather&r.\n\nThe &dEcho of Guidance&r also sells a Gateway containing passive mobs.",
-    "translation": "除了使用&2曲柄杖&r挑揀&7泥土&r之外，&a粗製刷子&r能夠幫助你找尋位於其中的更小物件，像是：各種「種子」，這樣你就可以開始進行農作了！\n\n草地或&d祝福之土&r能夠用來製造出一片&a被動生物農場&r，動物們能夠作為一種很好的食物來源，也能夠取得許多有用資源，\n像是「&b皮革&r」等。\n\n&d指引嚮導之回聲&r也有賣一個含有各種被動生物的「傳送門珍珠」。",
+    "translation": "除了使用&2曲柄杖&r挑揀&7泥土&r之外，&a粗製刷子&r能夠幫助你找尋位於其中的更小物件，像是：各種「種子」，這樣你就可以開始進行農作了！\n\n草地或&d祈福之土&r能夠用來製造出一片&a被動生物農場&r，動物們能夠作為一種很好的食物來源，也能夠取得許多有用資源，\n像是「&b皮革&r」等。\n\n&d指引嚮導之回聲&r也有賣一個含有各種被動生物的「傳送門珍珠」。",
     "context": "chapters/getting_started.snbt / quest 0ACCAD3AEF57F2E2",
     "meta": {
       "line_split_policy": "lf",
@@ -658,7 +658,6 @@
   },
   "reward.37F1C940A746F48C.title": {
     "original": "StoneBlock4 Official NFT",
-    "translation": "StoneBlock4 Official NFT",
     "context": "chapters/getting_started.snbt / reward 37F1C940A746F48C",
     "meta": {
       "line_split_policy": "none",
@@ -667,7 +666,6 @@
   },
   "reward.5AE23D826352677E.title": {
     "original": "Healing Spring Locator",
-    "translation": "Healing Spring Locator",
     "context": "chapters/getting_started.snbt / reward 5AE23D826352677E",
     "meta": {
       "line_split_policy": "none",
@@ -712,7 +710,6 @@
   },
   "task.18CB8C05E3A9150F.title": {
     "original": "Villager Info",
-    "translation": "Villager Info",
     "context": "chapters/getting_started.snbt / task 18CB8C05E3A9150F",
     "meta": {
       "line_split_policy": "none",
@@ -730,7 +727,6 @@
   },
   "task.2CB20E4080C1B6CC.title": {
     "original": "Teleporter",
-    "translation": "Teleporter",
     "context": "chapters/getting_started.snbt / task 2CB20E4080C1B6CC",
     "meta": {
       "line_split_policy": "none",
@@ -739,7 +735,6 @@
   },
   "task.2D2F59A031BC2E63.title": {
     "original": "Gear Quests",
-    "translation": "Gear Quests",
     "context": "chapters/getting_started.snbt / task 2D2F59A031BC2E63",
     "meta": {
       "line_split_policy": "none",
@@ -748,7 +743,6 @@
   },
   "task.34E4918707295C02.title": {
     "original": "Claim Compass",
-    "translation": "Claim Compass",
     "context": "chapters/getting_started.snbt / task 34E4918707295C02",
     "meta": {
       "line_split_policy": "none",
@@ -757,7 +751,6 @@
   },
   "task.36D65F0F76F3F5E9.title": {
     "original": "Ultimine Notes",
-    "translation": "Ultimine Notes",
     "context": "chapters/getting_started.snbt / task 36D65F0F76F3F5E9",
     "meta": {
       "line_split_policy": "none",
@@ -766,7 +759,6 @@
   },
   "task.379AF15FE59B449C.title": {
     "original": "All About Chronon",
-    "translation": "All About Chronon",
     "context": "chapters/getting_started.snbt / task 379AF15FE59B449C",
     "meta": {
       "line_split_policy": "none",
@@ -775,7 +767,6 @@
   },
   "task.37F6704E46F8E7BC.title": {
     "original": "Loot",
-    "translation": "Loot",
     "context": "chapters/getting_started.snbt / task 37F6704E46F8E7BC",
     "meta": {
       "line_split_policy": "none",

@@ -6,128 +6,145 @@
   "files": {
     "ftbquests/chapter_group.json": {
       "file_id": 3035606,
-      "last_pushed_hash": "97cc025f35f48ed3fe396d37796ed0c0d8ff8a3065da0114adf8a32e1d35c7be",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "7e20149d8d2b0df27233fe16fd59b0d92a7d0b0978b75c3bbdd3b13a0c22e69e07d90983f8942df1443b0ac511f05e45257d70c01d785e6789792411a2bc12c6",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/bounty_board.json": {
       "file_id": 3035607,
-      "last_pushed_hash": "9ac8d3c6ffb04b117005e127d9b2cf091ae3a05d62ae12fe8ddabbd8be826264",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "9d957dd14bc770f5b56c3ce2b57589d3c4bba58209e963c0159196052c5654763b82e77e4ccfb66b7fa447cf444e4f42ec2088a3f4b69ebae02323cab501a046",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/creative.json": {
       "file_id": 3035608,
-      "last_pushed_hash": "d7a5c89a81c6e24ae2983bcc0c181fb4e8b5159ddae063bafec864d2b0ef1fd0",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "a65f6ca9618d3883e8083c2c8e75f236f1bbdefe023c6fbdf2b55505c959faa3dfbe6d18e046b399bb695f3857e6e6173aa76b9698dd3ddccac4f10d8b630e56",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/draconic_evolution.json": {
       "file_id": 3035609,
-      "last_pushed_hash": "e9dc7c323af6a560d1963b82ff10c6d53c24ee7323c90a7abdc29bd0b528b73a",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "c5be33aa3934abead3bf0e7b9d1622cd185b605ebba31ce33d9b4908242e010886d44db9195cbde9b1c8e452ba274dbaaa6b373d451656c703def5f88b033070",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/exploration__combat.json": {
       "file_id": 3035610,
-      "last_pushed_hash": "f4436a3fc7a26bd33e47bad6d2aa786df17e2681e0ba3b55ae6ed2d41fae01fc",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "76f8cf6ec2aa6f2796aeff295f72b683f9f88aeacc817b1f0782241b2377dd90c8b4465aa64f3a451d286eb923d0562072b5ed5a2c906e08c3d8579e0dae082e",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/gearing_up.json": {
       "file_id": 3035611,
-      "last_pushed_hash": "7550507f5a95baf324173b1fbbcb6e14bec390164ebf7e6b4c93275847b53860",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "e1140e9037618b16faad5c0dca60b0d3d16a44056529b24fdc9fa64220f8f9a43456f94fdb564c57ba4fe2c60c0f855c965c434a22ea3ef5b8470fcc0872d93f",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/general_magic.json": {
       "file_id": 3035612,
-      "last_pushed_hash": "97ed3db7100d72475d03d5a950a9afd6e3faeed9031e3f70a0021b9815f58f63",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "3d3eead534851ff85ca6236b23b45a35d40573890352494645670663efc3cb6f1be1a0250f41fd59df931947f8043dcc991528a294597eabb1a369117053e399",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/getting_started.json": {
       "file_id": 3035613,
-      "last_pushed_hash": "278a91955d8ee7297adeb73362af9cc3b21171e9ab39ced86fabd26eb694eacc",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "8d05817ca1a479acce2ad31b0e3c31f8f90de356b5ae7357a61e1a97b2c3e426de9a8107e55a5555a52620ed67c46e6a3c66d098257b1575278d7ede50bcfbec",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/logistics__storage.json": {
       "file_id": 3035614,
-      "last_pushed_hash": "92972651e1cc7020cce5a2c884fbee074986eefdb23eb9fb1583288fc50aeb08",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "19d0a1a4608f12fc77d59e157ca88d2bcb395d2726875c6d5cf2c31c35853d1c23864ab417273c7b1eab862e8f4fac1a584955a151147455c130e6352ff06a40",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/mekanism.json": {
       "file_id": 3035615,
-      "last_pushed_hash": "a3763f4bba796a0ce065a30c1442323f4502b99b8e1a8a49be4ed2716376af11",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "c9b753e5204525733d0cbf1d9795ac940a95aa4cfcecf9b2fd59f8a047068529a19af091f2738e43724db26c4697bc643bceb2c35e87419f1f1416dba46d929f",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/oritech.json": {
       "file_id": 3035616,
-      "last_pushed_hash": "9baaae994936fe5117d6bf908bb27fb1fd4de46b9a99f1a6efa762c441187abb",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "66b97b1984020f8734f56df6efe8612fec8dfff3421dcb4280e7c2b8b8699bcc37cfdeebf17868bcea4b6b2a79fcd324786f8b4d8af7c542ea3d6d0b3024c292",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/power.json": {
       "file_id": 3035617,
-      "last_pushed_hash": "9db5e3653868abf802f2f784fb23b2db359229facdc7f0cd7d7d3ab523b4241a",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "c1ba9fc64bdcb48ee664967faf7d739e5803885686342d3ca6b28db080980e7feda1751cbfe0a9b643583766cd36f44c2c5a91ed9cea40b5c46a2996d4517372",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/processing__automation.json": {
       "file_id": 3035618,
-      "last_pushed_hash": "d896b16d0256234d39da265b108d2b10ef516f169dc3d32bee3f804552550991",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "a105dbc6ee1b1550335eb4a4353757ba6b3f0bfdc8d348e8a931300a666df1bcff8241548f08bf02e03a609f327f58192ac4920ef06e9b2de020374c44fac496",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/resource_generation.json": {
       "file_id": 3035619,
-      "last_pushed_hash": "9c2afd8fb950a660345569732806f718d64563913e59a0597c5512440ad6df43",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "40a2a5a447ba6ce2f577fddae1a1bcc8a2fa1c9e585a5b95b5a3e2e70f092da146a9d720e991e392d4d762658d9a5dc667c0000189dcf23fc09b630bd3e69025",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/technology.json": {
       "file_id": 3035620,
-      "last_pushed_hash": "58397bea9bdddf3fe530dbf20ec037ff4c310f3d0f48d42fcc8b7384810e4ffd",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "87f93a197d60246b045cfe962d2709b6d0499c91ba96c1a8f18d7561e6b35bfd638a9b32bee603efb7d37ba2d2069dd8f1ad0eb27df83a657bdf87054260c117",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/thebackrooms.json": {
       "file_id": 3035621,
-      "last_pushed_hash": "161e01fefe93b96c6e60286c46e383af8bbf9dd1e2c4ee9c3854a3322079b5e1",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "9c452fc410f722c6351b3b49ba53f1985978cc6b2db8861532f0bda46b745f2e4f0830dbc4e7446eabf616b5fe8044d1010e522c98ac3c3b6f59715622444964",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/useful_items_tips.json": {
       "file_id": 3035622,
-      "last_pushed_hash": "fc35d5f1a2c436bf35ce334eea0f3fa88fcef1ec95d14c30713a5aed256b441b",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "f818d2d2fc92b8d50332d392cd164fa54fe2d1635c642e0de61a222f7a05b0176d71caeaed10ac26b4fa8ba0a619334148e2bf71ac8242e4fa7190901639f036",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/welcome.json": {
       "file_id": 3035623,
-      "last_pushed_hash": "7df9b47a6c056c7401db289b0fc50009d781cfc178e32f1c1d5aa30952f58171",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "b8a8ba6f59279192473042d40f1a71fdcdd4e8124b020e16d1551ed7faa9948da8408c1c4431f0fda8d9aa8c9f0f761b0bde7a4bbebd890d3fc081baa7c3a0c2",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/world_engine__tier_1.json": {
       "file_id": 3035624,
-      "last_pushed_hash": "d723de19596a69d60663f1efce67de7870ee0e1f8066b3ac632cf1271e53216c",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "954cc2a57af7e22652124d524bd4cbd564a47d47f12fef4eb474e33e6ffb26c44a78e0698b4cf186ede8a59594096265a251ae78677d5b234cf31685e9b7b91e",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/world_engine__tier_2.json": {
       "file_id": 3035625,
-      "last_pushed_hash": "23b1bc11040886ce10d4d890e51ee96f455b95d8438931cef1e7a307c1db609b",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "3a51a5a4c5f08be5a6bb3a7ec9b7f2a444f2e5394b7dcf84a5934df4964e615d5793aca9b7a121f2aa85426438b97ccb29b3a66186302248bae3c9adc939eaad",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/world_engine__tier_3.json": {
       "file_id": 3035626,
-      "last_pushed_hash": "4b0789e6f6c6fdb06f24574c5eda7f970319bb0f6f30e2ebf4fe03a6563c0018",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "02b3aced8d0fe61907efdcb8c2009dc4fc5b92a759194f592d51c65301d06a6b581abbc46331e799ec877c8655650cccb96d57bfaa286d174db769b496a7b898",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/world_engine__tier_4.json": {
       "file_id": 3035627,
-      "last_pushed_hash": "7df4b0b6e17c77e08953b6ea015aadb67e684c39b8a9e459d1865c11fed69ba1",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "23b928126c559a8dce235001440f7b7f2a413dae00c2b6f33a5e58539eef269fafb90438c5da72dd845f072f7e0193a1ae1ed597630d6b0d0cd54f3cd4238dd8",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/chapters/world_engine__tier_5.json": {
       "file_id": 3035628,
-      "last_pushed_hash": "8a2fde9b7fa2fb91564bc36c9975ebdfb4accea3cf5f42e2fd3ff4fdd6119a05",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "d8ee78a7b2ed9873ad7e13af53ea727a8bbf48d42070f0d8d2e8c0f9373b41abef0125df8b95bbb394b9508ea4a6366bdbbc87105632b16039de0c6f1ef21e84",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/file.json": {
       "file_id": 3035629,
-      "last_pushed_hash": "95546492a1e661ce77cf786dc71b2d472a834e307d07e958a7f2a383f663dd6a",
-      "last_pushed_at": "2026-05-17T13:45:26Z"
+      "last_pushed_hash": "d8b7e83a6a4c6db25bf9ac5b3a17eebb2b436ed9e05ce83ca5ed2d581a4decadcab70cd84f5642b3a31d886350f8dd0d464e54e3af6678ccc7ce5d37e76cc6a7",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
+    },
+    "ftbquests/image.json": {
+      "file_id": 3337431,
+      "last_pushed_hash": "754c7bcfdced01493d2dd5f6f87d40bc071b3f3db2b86ff9ec36280c1a0dcf69cd9de6b8096e3d4dbc8a5e0251e6aee06fb57bc878052b9c5f877ea0c028afaa",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     },
     "ftbquests/reward_table.json": {
       "file_id": 3035630,
-      "last_pushed_hash": "66dc4f848899f31093732acb32cc63e811f88ec625db0a3803e3448d9c436e94",
-      "last_pushed_at": "2026-05-14T12:46:39Z"
+      "last_pushed_hash": "7f39d93427b30b138c7d4ebe0116ee6c5979e6de2072b9889a871967e9131e709d23878d59d89a2ea1de5e6e295061ecaf87ec0d3c41b9c0d363806012f3d557",
+      "last_pushed_at": "2026-08-20T10:07:52Z"
     }
+  },
+  "translation_progress": {
+    "artifact_id": 0,
+    "created_at": "",
+    "total": 0,
+    "translated": 0,
+    "untranslated": 0,
+    "disputed": 0,
+    "reviewed": 0,
+    "hidden": 0,
+    "duration_ms": 0,
+    "completion_percent": 0
   }
 }

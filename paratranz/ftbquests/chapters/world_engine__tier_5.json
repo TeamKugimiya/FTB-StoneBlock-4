@@ -46,7 +46,6 @@
   },
   "quest.027E1E97D874D0EB.title": {
     "original": "Infinity Meet",
-    "translation": "Infinity Meet",
     "context": "chapters/world_engine__tier_5.snbt / quest 027E1E97D874D0EB",
     "meta": {
       "line_split_policy": "none",
@@ -100,7 +99,6 @@
   },
   "quest.0C2DAB30B7A2A7C0.title": {
     "original": "Stage 5 'and' Check",
-    "translation": "Stage 5 'and' Check",
     "context": "chapters/world_engine__tier_5.snbt / quest 0C2DAB30B7A2A7C0",
     "meta": {
       "line_split_policy": "none",
@@ -109,7 +107,6 @@
   },
   "quest.0DE73FC2EE3C60A9.title": {
     "original": "Guidance 5 Completed",
-    "translation": "Guidance 5 Completed",
     "context": "chapters/world_engine__tier_5.snbt / quest 0DE73FC2EE3C60A9",
     "meta": {
       "line_split_policy": "none",
@@ -190,7 +187,6 @@
   },
   "quest.1DE16238ECFB074D.title": {
     "original": "Chaos Meet",
-    "translation": "Chaos Meet",
     "context": "chapters/world_engine__tier_5.snbt / quest 1DE16238ECFB074D",
     "meta": {
       "line_split_policy": "none",
@@ -199,7 +195,6 @@
   },
   "quest.1F052C1F0AC1330C.title": {
     "original": "Radiance Meet",
-    "translation": "Radiance Meet",
     "context": "chapters/world_engine__tier_5.snbt / quest 1F052C1F0AC1330C",
     "meta": {
       "line_split_policy": "none",
@@ -370,7 +365,6 @@
   },
   "quest.37CC00D0136EFDAE.title": {
     "original": "Guidance Check 4.1",
-    "translation": "Guidance Check 4.1",
     "context": "chapters/world_engine__tier_5.snbt / quest 37CC00D0136EFDAE",
     "meta": {
       "line_split_policy": "none",
@@ -640,7 +634,6 @@
   },
   "quest.6B31A5D836677A89.title": {
     "original": "Wyrmwright Check 3",
-    "translation": "Wyrmwright Check 3",
     "context": "chapters/world_engine__tier_5.snbt / quest 6B31A5D836677A89",
     "meta": {
       "line_split_policy": "none",
@@ -730,7 +723,6 @@
   },
   "reward.4C092C94E484A165.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_5.snbt / reward 4C092C94E484A165",
     "meta": {
       "line_split_policy": "none",
@@ -739,7 +731,6 @@
   },
   "reward.75028F17C07E02D0.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_5.snbt / reward 75028F17C07E02D0",
     "meta": {
       "line_split_policy": "none",
@@ -748,7 +739,6 @@
   },
   "reward.7DA1DB3A1F6C52A0.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_5.snbt / reward 7DA1DB3A1F6C52A0",
     "meta": {
       "line_split_policy": "none",
@@ -766,7 +756,6 @@
   },
   "task.223A14462F14AFF6.title": {
     "original": "&6World Engine&f Energy Buffer Upgrades",
-    "translation": "&6World Engine&f Energy Buffer Upgrades",
     "context": "chapters/world_engine__tier_5.snbt / task 223A14462F14AFF6",
     "meta": {
       "line_split_policy": "none",

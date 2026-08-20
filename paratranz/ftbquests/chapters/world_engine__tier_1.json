@@ -199,7 +199,6 @@
   },
   "quest.2646D51DBAD8AD42.quest_desc": {
     "original": "&bCheck&f: Getting Shadow Casing\n\n&bUnlocks&f: \"Create Vault\" Technically players can get there before",
-    "translation": "&bCheck&f: Getting Shadow Casing\n\n&bUnlocks&f: \"Create Vault\" Technically players can get there before",
     "context": "chapters/world_engine__tier_1.snbt / quest 2646D51DBAD8AD42",
     "meta": {
       "line_split_policy": "lf",
@@ -208,7 +207,6 @@
   },
   "quest.2646D51DBAD8AD42.title": {
     "original": "Machinist Check 1",
-    "translation": "Machinist Check 1",
     "context": "chapters/world_engine__tier_1.snbt / quest 2646D51DBAD8AD42",
     "meta": {
       "line_split_policy": "none",
@@ -244,7 +242,6 @@
   },
   "quest.2D0E345C7C7B3AC0.title": {
     "original": "Quartermaster Meet",
-    "translation": "Quartermaster Meet",
     "context": "chapters/world_engine__tier_1.snbt / quest 2D0E345C7C7B3AC0",
     "meta": {
       "line_split_policy": "none",
@@ -307,7 +304,6 @@
   },
   "quest.3C0A24054C75BF91.title": {
     "original": "Quartermaster Check 1",
-    "translation": "Quartermaster Check 1",
     "context": "chapters/world_engine__tier_1.snbt / quest 3C0A24054C75BF91",
     "meta": {
       "line_split_policy": "none",
@@ -406,7 +402,6 @@
   },
   "quest.487BD65BA8F5337D.title": {
     "original": "Machinist Meet",
-    "translation": "Machinist Meet",
     "context": "chapters/world_engine__tier_1.snbt / quest 487BD65BA8F5337D",
     "meta": {
       "line_split_policy": "none",
@@ -433,7 +428,6 @@
   },
   "quest.50AC369D1F5B7DD8.quest_desc": {
     "original": "&bCheck&f: Getting Magical Trees and Saplings\n\n&bUnlocks&f: ",
-    "translation": "&bCheck&f: Getting Magical Trees and Saplings\n\n&bUnlocks&f: ",
     "context": "chapters/world_engine__tier_1.snbt / quest 50AC369D1F5B7DD8",
     "meta": {
       "line_split_policy": "lf",
@@ -442,7 +436,6 @@
   },
   "quest.50AC369D1F5B7DD8.title": {
     "original": "Magician Check 1",
-    "translation": "Magician Check 1",
     "context": "chapters/world_engine__tier_1.snbt / quest 50AC369D1F5B7DD8",
     "meta": {
       "line_split_policy": "none",
@@ -469,7 +462,6 @@
   },
   "quest.58BC57B1119204CA.title": {
     "original": "Magician Meet",
-    "translation": "Magician Meet",
     "context": "chapters/world_engine__tier_1.snbt / quest 58BC57B1119204CA",
     "meta": {
       "line_split_policy": "none",
@@ -559,7 +551,6 @@
   },
   "quest.7408FB23D476F791.title": {
     "original": "Guidance Completed 1",
-    "translation": "Guidance Completed 1",
     "context": "chapters/world_engine__tier_1.snbt / quest 7408FB23D476F791",
     "meta": {
       "line_split_policy": "none",
@@ -613,7 +604,6 @@
   },
   "quest.7D1FB9A40B5CAE97.quest_desc": {
     "original": "&bCheck&f: Getting Worker Token\n\n&bUnlocks&f: Doors to T1 Echoes and Chapter 1",
-    "translation": "&bCheck&f: Getting Worker Token\n\n&bUnlocks&f: Doors to T1 Echoes and Chapter 1",
     "context": "chapters/world_engine__tier_1.snbt / quest 7D1FB9A40B5CAE97",
     "meta": {
       "line_split_policy": "lf",
@@ -622,7 +612,6 @@
   },
   "quest.7D1FB9A40B5CAE97.title": {
     "original": "Guidance 1.3 check",
-    "translation": "Guidance 1.3 check",
     "context": "chapters/world_engine__tier_1.snbt / quest 7D1FB9A40B5CAE97",
     "meta": {
       "line_split_policy": "none",
@@ -667,7 +656,6 @@
   },
   "reward.235AF7EB3F88D642.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_1.snbt / reward 235AF7EB3F88D642",
     "meta": {
       "line_split_policy": "none",
@@ -721,7 +709,6 @@
   },
   "reward.59039114F2E02EBE.title": {
     "original": "Arcane Grove Locator",
-    "translation": "Arcane Grove Locator",
     "context": "chapters/world_engine__tier_1.snbt / reward 59039114F2E02EBE",
     "meta": {
       "line_split_policy": "none",

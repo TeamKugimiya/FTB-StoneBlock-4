@@ -1792,7 +1792,6 @@
   },
   "task.4A84D885C313D512.title": {
     "original": "Stack Upgrades",
-    "translation": "Stack Upgrades",
     "context": "chapters/logistics__storage.snbt / task 4A84D885C313D512",
     "meta": {
       "line_split_policy": "none",
@@ -1846,7 +1845,6 @@
   },
   "task.5290130556504104.title": {
     "original": "&aIron Chests&r",
-    "translation": "&aIron Chests&r",
     "context": "chapters/logistics__storage.snbt / task 5290130556504104",
     "meta": {
       "line_split_policy": "none",
@@ -1909,7 +1907,6 @@
   },
   "task.6DF527923993A57F.title": {
     "original": "In-World Chest Upgrades",
-    "translation": "In-World Chest Upgrades",
     "context": "chapters/logistics__storage.snbt / task 6DF527923993A57F",
     "meta": {
       "line_split_policy": "none",
@@ -1963,7 +1960,6 @@
   },
   "task.7F31E6F7A6728CF1.title": {
     "original": "Fortune Upgrades",
-    "translation": "Fortune Upgrades",
     "context": "chapters/logistics__storage.snbt / task 7F31E6F7A6728CF1",
     "meta": {
       "line_split_policy": "none",

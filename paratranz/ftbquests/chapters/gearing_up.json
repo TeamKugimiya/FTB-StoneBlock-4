@@ -521,7 +521,6 @@
   },
   "quest.25023C87AA259688.quest_subtitle": {
     "original": "&oSneaky Sneaky",
-    "translation": "&oSneaky Sneaky",
     "context": "chapters/gearing_up.snbt / quest 25023C87AA259688",
     "meta": {
       "line_split_policy": "none",
@@ -2159,7 +2158,6 @@
   },
   "task.5926E51F4409C90C.title": {
     "original": "extras",
-    "translation": "extras",
     "context": "chapters/gearing_up.snbt / task 5926E51F4409C90C",
     "meta": {
       "line_split_policy": "none",

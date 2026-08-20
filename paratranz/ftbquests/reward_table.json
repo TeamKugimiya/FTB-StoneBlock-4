@@ -1,7 +1,6 @@
 {
   "reward_table.01A8F0EB2209A24F.title": {
     "original": "Basic Draconic Gear",
-    "translation": "Basic Draconic Gear",
     "context": "reward_table.snbt / reward_table 01A8F0EB2209A24F",
     "meta": {
       "line_split_policy": "none",
@@ -154,7 +153,6 @@
   },
   "reward_table.54091F8A76F9E488.title": {
     "original": "Draconic Gear",
-    "translation": "Draconic Gear",
     "context": "reward_table.snbt / reward_table 54091F8A76F9E488",
     "meta": {
       "line_split_policy": "none",

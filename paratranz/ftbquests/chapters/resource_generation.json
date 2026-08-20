@@ -405,7 +405,6 @@
   },
   "quest.48B3D104BEFE1959.quest_desc": {
     "original": "Using a &aMechanical Saw&r from &6Create&r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a &aDeployer&r to plant the saplings back, and you'll have a cool looking tree farm.",
-    "translation": "Using a &aMechanical Saw&r from &6Create&r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a &aDeployer&r to plant the saplings back, and you'll have a cool looking tree farm.",
     "context": "chapters/resource_generation.snbt / quest 48B3D104BEFE1959",
     "meta": {
       "line_split_policy": "lf",
@@ -828,7 +827,6 @@
   },
   "quest.73268E8255CBB44A.quest_subtitle": {
     "original": "EnderIO",
-    "translation": "EnderIO",
     "context": "chapters/resource_generation.snbt / quest 73268E8255CBB44A",
     "meta": {
       "line_split_policy": "none",
@@ -927,7 +925,6 @@
   },
   "task.266AF5D6914A2BA5.title": {
     "original": "Chicken Soul",
-    "translation": "Chicken Soul",
     "context": "chapters/resource_generation.snbt / task 266AF5D6914A2BA5",
     "meta": {
       "line_split_policy": "none",
@@ -945,7 +942,6 @@
   },
   "task.46201BC3BAE0D15A.title": {
     "original": "Mekanism Lasers",
-    "translation": "Mekanism Lasers",
     "context": "chapters/resource_generation.snbt / task 46201BC3BAE0D15A",
     "meta": {
       "line_split_policy": "none",

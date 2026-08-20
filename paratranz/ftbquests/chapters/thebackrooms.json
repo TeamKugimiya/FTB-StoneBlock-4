@@ -1,7 +1,6 @@
 {
   "chapter.33808F1AE9F1266A.title": {
     "original": "Backstage",
-    "translation": "Backstage",
     "context": "chapters/thebackrooms.snbt / chapter 33808F1AE9F1266A",
     "meta": {
       "line_split_policy": "none",
@@ -10,7 +9,6 @@
   },
   "quest.0071ADE2804C1B24.title": {
     "original": "Light Bender Check 2",
-    "translation": "Light Bender Check 2",
     "context": "chapters/thebackrooms.snbt / quest 0071ADE2804C1B24",
     "meta": {
       "line_split_policy": "none",
@@ -19,7 +17,6 @@
   },
   "quest.0355F5FB00143754.title": {
     "original": "Fabricator Check 1",
-    "translation": "Fabricator Check 1",
     "context": "chapters/thebackrooms.snbt / quest 0355F5FB00143754",
     "meta": {
       "line_split_policy": "none",
@@ -28,7 +25,6 @@
   },
   "quest.091F82E2770F3011.title": {
     "original": "Ancient Check 1",
-    "translation": "Ancient Check 1",
     "context": "chapters/thebackrooms.snbt / quest 091F82E2770F3011",
     "meta": {
       "line_split_policy": "none",
@@ -55,7 +51,6 @@
   },
   "quest.0BE524ECA97A0E63.quest_desc": {
     "original": "&cWARNING&r: Completing this quest will instantly skip all pack progression.\n\n&oOnly use this if you know what you're doing. There is no undo button.",
-    "translation": "&cWARNING&r: Completing this quest will instantly skip all pack progression.\n\n&oOnly use this if you know what you're doing. There is no undo button.",
     "context": "chapters/thebackrooms.snbt / quest 0BE524ECA97A0E63",
     "meta": {
       "line_split_policy": "lf",
@@ -64,7 +59,6 @@
   },
   "quest.1617D99EA1AE47E4.quest_desc": {
     "original": "&bCheck&f: &lSubmitting&r Chronon Generator\n\n&bUnlocks&f:",
-    "translation": "&bCheck&f: &lSubmitting&r Chronon Generator\n\n&bUnlocks&f:",
     "context": "chapters/thebackrooms.snbt / quest 1617D99EA1AE47E4",
     "meta": {
       "line_split_policy": "lf",
@@ -73,7 +67,6 @@
   },
   "quest.1617D99EA1AE47E4.title": {
     "original": "Guidance 1.2 check",
-    "translation": "Guidance 1.2 check",
     "context": "chapters/thebackrooms.snbt / quest 1617D99EA1AE47E4",
     "meta": {
       "line_split_policy": "none",
@@ -82,7 +75,6 @@
   },
   "quest.19C13B2B7F137956.title": {
     "original": "Simple Teleporters",
-    "translation": "Simple Teleporters",
     "context": "chapters/thebackrooms.snbt / quest 19C13B2B7F137956",
     "meta": {
       "line_split_policy": "none",
@@ -91,7 +83,6 @@
   },
   "quest.2323A6EEDF97BE96.title": {
     "original": "Wayfinder Check 1",
-    "translation": "Wayfinder Check 1",
     "context": "chapters/thebackrooms.snbt / quest 2323A6EEDF97BE96",
     "meta": {
       "line_split_policy": "none",
@@ -100,7 +91,6 @@
   },
   "quest.26727A01D814C5A9.title": {
     "original": "Void Shards",
-    "translation": "Void Shards",
     "context": "chapters/thebackrooms.snbt / quest 26727A01D814C5A9",
     "meta": {
       "line_split_policy": "none",
@@ -109,7 +99,6 @@
   },
   "quest.28DB6A7095E20B2A.title": {
     "original": "Reactor",
-    "translation": "Reactor",
     "context": "chapters/thebackrooms.snbt / quest 28DB6A7095E20B2A",
     "meta": {
       "line_split_policy": "none",
@@ -118,7 +107,6 @@
   },
   "quest.2AB07DEF9E14C784.title": {
     "original": "Stage 3 'or' Check",
-    "translation": "Stage 3 'or' Check",
     "context": "chapters/thebackrooms.snbt / quest 2AB07DEF9E14C784",
     "meta": {
       "line_split_policy": "none",
@@ -127,7 +115,6 @@
   },
   "quest.2E7B0F8AF8BA8041.title": {
     "original": "Meka Teleporter",
-    "translation": "Meka Teleporter",
     "context": "chapters/thebackrooms.snbt / quest 2E7B0F8AF8BA8041",
     "meta": {
       "line_split_policy": "none",
@@ -136,7 +123,6 @@
   },
   "quest.300503F48627E3DB.title": {
     "original": "Nether Shards",
-    "translation": "Nether Shards",
     "context": "chapters/thebackrooms.snbt / quest 300503F48627E3DB",
     "meta": {
       "line_split_policy": "none",
@@ -145,7 +131,6 @@
   },
   "quest.31042D7EBA3B39AD.title": {
     "original": "Infinity Check 1",
-    "translation": "Infinity Check 1",
     "context": "chapters/thebackrooms.snbt / quest 31042D7EBA3B39AD",
     "meta": {
       "line_split_policy": "none",
@@ -154,7 +139,6 @@
   },
   "quest.35A0BC59FB62D5F9.title": {
     "original": "Ocean Shards",
-    "translation": "Ocean Shards",
     "context": "chapters/thebackrooms.snbt / quest 35A0BC59FB62D5F9",
     "meta": {
       "line_split_policy": "none",
@@ -163,7 +147,6 @@
   },
   "quest.364AA0C55F3312DE.title": {
     "original": "Deepslate Shards",
-    "translation": "Deepslate Shards",
     "context": "chapters/thebackrooms.snbt / quest 364AA0C55F3312DE",
     "meta": {
       "line_split_policy": "none",
@@ -172,7 +155,6 @@
   },
   "quest.375A2BF4EA6F4EA9.title": {
     "original": "Stage 4 'or' Check",
-    "translation": "Stage 4 'or' Check",
     "context": "chapters/thebackrooms.snbt / quest 375A2BF4EA6F4EA9",
     "meta": {
       "line_split_policy": "none",
@@ -181,7 +163,6 @@
   },
   "quest.3B06321F0E2F0EC9.title": {
     "original": "Tier 1 WE 'or' Check",
-    "translation": "Tier 1 WE 'or' Check",
     "context": "chapters/thebackrooms.snbt / quest 3B06321F0E2F0EC9",
     "meta": {
       "line_split_policy": "none",
@@ -190,7 +171,6 @@
   },
   "quest.3F8D9684ADAC01E8.title": {
     "original": "Catalyst Check 3",
-    "translation": "Catalyst Check 3",
     "context": "chapters/thebackrooms.snbt / quest 3F8D9684ADAC01E8",
     "meta": {
       "line_split_policy": "none",
@@ -199,7 +179,6 @@
   },
   "quest.4426687CCCDD759A.title": {
     "original": "Magician Check 2",
-    "translation": "Magician Check 2",
     "context": "chapters/thebackrooms.snbt / quest 4426687CCCDD759A",
     "meta": {
       "line_split_policy": "none",
@@ -208,7 +187,6 @@
   },
   "quest.4C52D3DE2F7701D0.quest_desc": {
     "original": "&bCheck&f: Crafting the brush\n\n&bUnlocks&f:",
-    "translation": "&bCheck&f: Crafting the brush\n\n&bUnlocks&f:",
     "context": "chapters/thebackrooms.snbt / quest 4C52D3DE2F7701D0",
     "meta": {
       "line_split_policy": "lf",
@@ -217,7 +195,6 @@
   },
   "quest.4C52D3DE2F7701D0.title": {
     "original": "Guidance 1.1 check",
-    "translation": "Guidance 1.1 check",
     "context": "chapters/thebackrooms.snbt / quest 4C52D3DE2F7701D0",
     "meta": {
       "line_split_policy": "none",
@@ -226,7 +203,6 @@
   },
   "quest.4E0BAFDCADC617C5.title": {
     "original": "TF Shards",
-    "translation": "TF Shards",
     "context": "chapters/thebackrooms.snbt / quest 4E0BAFDCADC617C5",
     "meta": {
       "line_split_policy": "none",
@@ -235,7 +211,6 @@
   },
   "quest.555BB3F7C11CD6F9.title": {
     "original": "Radiance Check 1",
-    "translation": "Radiance Check 1",
     "context": "chapters/thebackrooms.snbt / quest 555BB3F7C11CD6F9",
     "meta": {
       "line_split_policy": "none",
@@ -244,7 +219,6 @@
   },
   "quest.5777C137BF472784.title": {
     "original": "End Shards",
-    "translation": "End Shards",
     "context": "chapters/thebackrooms.snbt / quest 5777C137BF472784",
     "meta": {
       "line_split_policy": "none",
@@ -271,7 +245,6 @@
   },
   "quest.62CEFEB50E7D4489.title": {
     "original": "Quartermaster Check 2",
-    "translation": "Quartermaster Check 2",
     "context": "chapters/thebackrooms.snbt / quest 62CEFEB50E7D4489",
     "meta": {
       "line_split_policy": "none",
@@ -280,7 +253,6 @@
   },
   "quest.65C1A809B6A22758.title": {
     "original": "Wyrmwright Check 2",
-    "translation": "Wyrmwright Check 2",
     "context": "chapters/thebackrooms.snbt / quest 65C1A809B6A22758",
     "meta": {
       "line_split_policy": "none",
@@ -289,7 +261,6 @@
   },
   "quest.67AA6621E5A00E37.title": {
     "original": "Twilight Check 1",
-    "translation": "Twilight Check 1",
     "context": "chapters/thebackrooms.snbt / quest 67AA6621E5A00E37",
     "meta": {
       "line_split_policy": "none",
@@ -298,7 +269,6 @@
   },
   "quest.6C293F6A07C1657A.title": {
     "original": "Chaos Check 1",
-    "translation": "Chaos Check 1",
     "context": "chapters/thebackrooms.snbt / quest 6C293F6A07C1657A",
     "meta": {
       "line_split_policy": "none",
@@ -325,7 +295,6 @@
   },
   "quest.71EF740F3234EA08.title": {
     "original": "Mycelial Reactor",
-    "translation": "Mycelial Reactor",
     "context": "chapters/thebackrooms.snbt / quest 71EF740F3234EA08",
     "meta": {
       "line_split_policy": "none",
@@ -334,7 +303,6 @@
   },
   "quest.73FEE6C6149817E7.title": {
     "original": "Infernal Check 1",
-    "translation": "Infernal Check 1",
     "context": "chapters/thebackrooms.snbt / quest 73FEE6C6149817E7",
     "meta": {
       "line_split_policy": "none",
@@ -343,7 +311,6 @@
   },
   "quest.78610F56E29472F7.title": {
     "original": "Stage 0 Check",
-    "translation": "Stage 0 Check",
     "context": "chapters/thebackrooms.snbt / quest 78610F56E29472F7",
     "meta": {
       "line_split_policy": "none",
@@ -352,7 +319,6 @@
   },
   "quest.78D488A506FD3EB8.title": {
     "original": "Machinist Check 2",
-    "translation": "Machinist Check 2",
     "context": "chapters/thebackrooms.snbt / quest 78D488A506FD3EB8",
     "meta": {
       "line_split_policy": "none",
@@ -361,7 +327,6 @@
   },
   "quest.7E1A18D82B74B6CC.title": {
     "original": "Enchanter Check 2",
-    "translation": "Enchanter Check 2",
     "context": "chapters/thebackrooms.snbt / quest 7E1A18D82B74B6CC",
     "meta": {
       "line_split_policy": "none",
@@ -370,7 +335,6 @@
   },
   "reward.07FDE2A45E2F6200.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 07FDE2A45E2F6200",
     "meta": {
       "line_split_policy": "none",
@@ -379,7 +343,6 @@
   },
   "reward.12C21B2BC1C5906A.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 12C21B2BC1C5906A",
     "meta": {
       "line_split_policy": "none",
@@ -388,7 +351,6 @@
   },
   "reward.13B35A67AAF5C0DF.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 13B35A67AAF5C0DF",
     "meta": {
       "line_split_policy": "none",
@@ -397,7 +359,6 @@
   },
   "reward.1A2533930620554A.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 1A2533930620554A",
     "meta": {
       "line_split_policy": "none",
@@ -406,7 +367,6 @@
   },
   "reward.1F113E78DDABE6A6.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 1F113E78DDABE6A6",
     "meta": {
       "line_split_policy": "none",
@@ -415,7 +375,6 @@
   },
   "reward.2392A43EE7851C85.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 2392A43EE7851C85",
     "meta": {
       "line_split_policy": "none",
@@ -424,7 +383,6 @@
   },
   "reward.2AA4A91EF3A6EE48.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 2AA4A91EF3A6EE48",
     "meta": {
       "line_split_policy": "none",
@@ -433,7 +391,6 @@
   },
   "reward.2D7E2A69C45D8ABD.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 2D7E2A69C45D8ABD",
     "meta": {
       "line_split_policy": "none",
@@ -442,7 +399,6 @@
   },
   "reward.4CF243911064BB93.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 4CF243911064BB93",
     "meta": {
       "line_split_policy": "none",
@@ -451,7 +407,6 @@
   },
   "reward.5EE4C3B77DCAD15A.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/thebackrooms.snbt / reward 5EE4C3B77DCAD15A",
     "meta": {
       "line_split_policy": "none",
@@ -460,7 +415,6 @@
   },
   "task.02CC4D7DB653D0B6.title": {
     "original": "Check",
-    "translation": "Check",
     "context": "chapters/thebackrooms.snbt / task 02CC4D7DB653D0B6",
     "meta": {
       "line_split_policy": "none",
@@ -469,7 +423,6 @@
   },
   "task.1986452842DD2E46.title": {
     "original": "Check",
-    "translation": "Check",
     "context": "chapters/thebackrooms.snbt / task 1986452842DD2E46",
     "meta": {
       "line_split_policy": "none",
@@ -478,7 +431,6 @@
   },
   "task.3B60BAD2A4BEA950.title": {
     "original": "Check",
-    "translation": "Check",
     "context": "chapters/thebackrooms.snbt / task 3B60BAD2A4BEA950",
     "meta": {
       "line_split_policy": "none",
@@ -487,7 +439,6 @@
   },
   "task.76D42E59F98B63FA.title": {
     "original": "Reward Check",
-    "translation": "Reward Check",
     "context": "chapters/thebackrooms.snbt / task 76D42E59F98B63FA",
     "meta": {
       "line_split_policy": "none",

@@ -46,7 +46,6 @@
   },
   "quest.068C117DD3DD10C2.title": {
     "original": "Guidance Check 3",
-    "translation": "Guidance Check 3",
     "context": "chapters/world_engine__tier_4.snbt / quest 068C117DD3DD10C2",
     "meta": {
       "line_split_policy": "none",
@@ -55,7 +54,6 @@
   },
   "quest.0B3FD3C2AD980AD7.title": {
     "original": "Ancient Meet",
-    "translation": "Ancient Meet",
     "context": "chapters/world_engine__tier_4.snbt / quest 0B3FD3C2AD980AD7",
     "meta": {
       "line_split_policy": "none",
@@ -64,7 +62,6 @@
   },
   "quest.0BD2630DFA958C65.title": {
     "original": "Twilight Meet",
-    "translation": "Twilight Meet",
     "context": "chapters/world_engine__tier_4.snbt / quest 0BD2630DFA958C65",
     "meta": {
       "line_split_policy": "none",
@@ -217,7 +214,6 @@
   },
   "quest.30453DA99EE2BCBF.title": {
     "original": "Wyrmwright Meet",
-    "translation": "Wyrmwright Meet",
     "context": "chapters/world_engine__tier_4.snbt / quest 30453DA99EE2BCBF",
     "meta": {
       "line_split_policy": "none",
@@ -343,7 +339,6 @@
   },
   "quest.43A632369D0E2CE0.title": {
     "original": "Guidance Completed 4.1",
-    "translation": "Guidance Completed 4.1",
     "context": "chapters/world_engine__tier_4.snbt / quest 43A632369D0E2CE0",
     "meta": {
       "line_split_policy": "none",
@@ -523,7 +518,6 @@
   },
   "quest.67181BD1F2434E2C.title": {
     "original": "Wyrmwright Check 1",
-    "translation": "Wyrmwright Check 1",
     "context": "chapters/world_engine__tier_4.snbt / quest 67181BD1F2434E2C",
     "meta": {
       "line_split_policy": "none",
@@ -622,7 +616,6 @@
   },
   "reward.0C0AB23B4929400B.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_4.snbt / reward 0C0AB23B4929400B",
     "meta": {
       "line_split_policy": "none",
@@ -712,7 +705,6 @@
   },
   "reward.4AE89E9586399F31.title": {
     "original": "{\"translate\": \"ftb.shop.notification\"}",
-    "translation": "{\"translate\": \"ftb.shop.notification\"}",
     "context": "chapters/world_engine__tier_4.snbt / reward 4AE89E9586399F31",
     "meta": {
       "line_split_policy": "none",
