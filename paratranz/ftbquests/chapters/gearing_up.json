@@ -18,7 +18,7 @@
     }
   },
   "quest.00A7C1FE54F86429.quest_desc": {
-    "original": "&eApotheosis&r overhauls the vanilla enchanting system with three new values, allowing for high-level enchants with upgradable progression. You will want to manage these values as you progress through upgrading your enchanting setup:\n\n&aEterna&r: The power of the enchanting table, capped based on the tier of your bookshelves. This stat determines the maximum level of enchants.\n\n&cQuanta&r: The chaos inherent when enchanting at higher power. This determines the randomness of enchants.\n\n&dArcana&r: The overall quality and quantity of the enchantments. This determines the rarity of enchants, as well as how many enchants are applied per use.",
+    "original": "&eApotheosis&r overhauls the vanilla enchanting system with three new values, allowing for high-level enchants with upgradable progression. You will want to manage these values as you progress through upgrading your enchanting setup:\n\n[\"\", {\"text\": \"Eterna\", \"color\": \"green\"}, \": The power of the enchanting table, capped based on the tier of your bookshelves as well as your \", { \"text\": \"World Tier\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"011DBD2652E49B97\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to World Tiers Quest\"} }, \". This stat determines the maximum level of enchants.\" ]\n\n&cQuanta&r: The chaos inherent when enchanting at higher power. This determines the randomness of enchants.\n\n&dArcana&r: The overall quality and quantity of the enchantments. This determines the rarity of enchants, as well as how many enchants are applied per use.",
     "translation": "《&e神化&r》澈底改造了原版的附魔系統，讓你能在可持續升級的進度中，追求更高等級附魔。\n\n你在強化附魔設置時，必須同時管理這三項全新數值：\n\n&a位階&r：附魔台的基礎強度，上限取決於你使用的書櫃階級。此數值決定附魔的最高等級。\n\n&c量子化&r：高強度附魔時伴隨的混沌值。此數值決定附魔結果的隨機性。\n\n&d阿卡那&r：附魔的整體品質與數量。此數值決定附魔稀有度，以及每次可附加的附魔數量。",
     "context": "chapters/gearing_up.snbt / quest 00A7C1FE54F86429",
     "meta": {
@@ -45,7 +45,7 @@
     }
   },
   "quest.011DBD2652E49B97.quest_desc": {
-    "original": "&6Apotheosis&r has a new &bWorld Tier&r system that can be accessed using \"CTRL + T\" by default.\n\n[\"You start at \", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" upon acquiring your first \", {\"text\": \"Affix Item\", \"color\": \"#55FF55\"}, \", and unlock more tiers as you advance in the mod.\"]\n\nHigher tiers increase the difficulty and rewards across all dimensions. These rewards can be checked in the Tiers menu (\"CTRL + T\").\n\nIn order to progress your &bWorld Tier&r, you can check the &6Apotheosis&r advancements using \"L\" by default, and going to the tab with a skull to guide you through the progression.\n\nYou can also check the next page on this quest for all of the requirements.\n{@pagebreak}\n&bWorld Tiers&r\n\n[\"\", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" - Acquire your first \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear.\"]\n\n[\"\", {\"text\": \"Frontier\", \"color\": \"#55FF55\"}, \" - Equip a full set of \", {\"text\": \"Common\", \"color\": \"#7E7E7E\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear.\"]\n\n[\"\", {\"text\": \"Ascent\", \"color\": \"#5454FC\"}, \" - Equip a full set of \", {\"text\": \"Uncommon\", \"color\": \"#55FF55\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay an \", {\"text\": \"Apotheosis\", \"color\": \"#FFAA00\"}, \" boss monster.\"]\n\n[\"\", {\"text\": \"Summit\", \"color\": \"#B900B9\"}, \" - Equip a full set of \", {\"text\": \"Rare\", \"color\": \"#5454FC\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay the Wither\"]\n\n[\"\", {\"text\": \"Pinnacle\", \"color\": \"#EA6F14\"}, \" - Equip a full set of \", {\"text\": \"Epic\", \"color\": \"#B900B9\"}, \" or higher \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" gear and slay the Chicken Jockey Boss\"]\n\nChanges for each tier can be checked in the &bWorld Tiers&r menu (\"CTRL + T\" by default).",
+    "original": "[\"\", {\"text\": \"Apotheosis\", \"color\": \"yellow\"}, \" has a \", {\"text\": \"World Tier\", \"color\": \"aqua\"}, \" system that can be accessed by pressing \", {\"keybind\": \"key.apotheosis.open_world_tier_select\", \"color\": \"yellow\", \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Default: CTRL + T\"}}, \".\" ]\n\n[\"You start at \", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" upon acquiring your first \", {\"text\": \"Affix Item\", \"color\": \"#55FF55\"}, \", and unlock more tiers as you advance in the mod.\"]\n\nHigher tiers increase mob stats and rewards across all dimensions, and reduce your max &aEterna&f cap. These can be viewed in the Tiers menu.",
     "translation": "《&6神化&r》新增了&b世界階級&r系統，預設可用「CTRL + T」開啟。\n\n[\"當你取得第一件\", {\"text\": \"詞綴物品\", \"color\": \"#55FF55\"}, \"時，會從\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \"開始，並隨著模組進度逐步解鎖更高階級。\"]\n\n更高的階級會提升所有維度的難度與獎勵。獎勵內容可在階級選單（CTRL + T）中查看。\n\n要推進你的&b世界階級&r，可用預設鍵「L」查看《&6神化&r》進度，並切到骷髏圖示分頁來依序完成。\n\n此任務下一頁也整理了所有需求。\n{@pagebreak}\n&b世界階級&r\n\n[\"\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \" - 取得第一件\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備。\"]\n\n[\"\", {\"text\": \"邊境\", \"color\": \"#55FF55\"}, \" - 裝備全套\", {\"text\": \"普通\", \"color\": \"#7E7E7E\"},\"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備。\"]\n\n[\"\", {\"text\": \"攀升\", \"color\": \"#5454FC\"}, \" - 裝備全套\", {\"text\": \"罕見\", \"color\": \"#55FF55\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺一隻\", {\"text\": \"神化\", \"color\": \"#FFAA00\"}, \"入侵者。\"]\n\n[\"\", {\"text\": \"高峰\", \"color\": \"#B900B9\"}, \" - 裝備全套\", {\"text\": \"稀有\", \"color\": \"#5454FC\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺凋零怪。\"]\n\n[\"\", {\"text\": \"頂點\", \"color\": \"#EA6F14\"}, \" - 裝備全套\", {\"text\": \"史詩\", \"color\": \"#B900B9\"}, \"或更高稀有度的\", {\"text\": \"詞綴\", \"color\": \"#55FFFF\"}, \"裝備，並擊殺雞騎士 Boss。\"]\n\n每個階級的詳細變化可在&b世界階級&r選單中查看（預設「CTRL + T」）。",
     "context": "chapters/gearing_up.snbt / quest 011DBD2652E49B97",
     "meta": {
@@ -99,7 +99,7 @@
     }
   },
   "quest.01D2CEAF59872C33.quest_desc": {
-    "original": "The &aGem Cutting Table&r is used to upgrade &bGems&r.\n\nUpgrading a &bGem&r costs &aGem Dust&r, rarity materials, and a second &bGem&r of the same rarity. The material and dust cost of upgrading a &bGem&r increases with its rarity.\n\nThe exact upgrade costs will be shown in the table's interface.",
+    "original": "The &dGem Case&f is used to store and upgrade &bGems&r. \n\nIt's a direct upgrade to the &aGem Cutting Table&f, which is only used to upgrade gems.\n\nUpgrading a &bGem&r costs &aGem Dust&r, rarity materials, and a second &bGem&r of the same rarity. The material and dust cost of upgrading a &bGem&r increases with its rarity. The exact upgrade costs will be shown in the interface.",
     "translation": "&a寶石切割台&r用於升級&b寶石&r。\n\n升級&b寶石&r需消耗&a寶石粉&r、稀有度材料，以及另一顆同稀有度&b寶石&r。稀有度越高，所需粉末與材料越多。\n\n確切升級成本會顯示在切割台介面中。",
     "context": "chapters/gearing_up.snbt / quest 01D2CEAF59872C33",
     "meta": {
@@ -440,6 +440,22 @@
       "snbt_value_shape": "string"
     }
   },
+  "quest.1D464EAED6D9BE28.quest_desc": {
+    "original": "Once you've maximized your &aEterna&f, you'll want to craft the &zEnchanting Table of the Raven&f.\n\nThis enchantment table allows you to manually configure your &aEterna&f, &cQuanta&f, and &dArcana&f values without requiring any nearby bookshelves.",
+    "context": "chapters/gearing_up.snbt / quest 1D464EAED6D9BE28",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D464EAED6D9BE28.title": {
+    "original": "&zEnchanting Table of the Raven",
+    "context": "chapters/gearing_up.snbt / quest 1D464EAED6D9BE28",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
   "quest.213FE1D19D589513.quest_desc": {
     "original": "&eBaubley Heart Crystals&r allows you to increase your maximum health by up to 80 hearts (160 health points). This can be done by placing up to 20 canisters of each tier inside the &aHeart Amulet&r.\n\n&cRed Hearts&r can drop when killing hostile mobs.\n\n&eYellow Hearts&r are dropped by most bosses.\n\n&aGreen Hearts&r are dropped by the &dWarden&r and &cIgnis&r.\n\n&9Blue Hearts&r are dropped by &zMighty Ender Chicken&r, &6Leviathan&r, &6Tyros&r, and &cMaledictus&r.",
     "translation": "《&e心形墜飾&r》能讓你增加最大生命值，最高可額外提升 80 顆心（160 點血量）。\n只要在&a心形墜飾&r中，放入各階級最多 20 個心罐即可達成。\n\n&c紅心&r：擊殺敵對生物時有機率掉落。\n\n&e黃心&r：大多數的 Boss 都會掉落。\n\n&a綠心&r：由&d伏守者&r與&c熾焰魔&r掉落。\n\n&9藍心&r：由&z偉大終界雞&r、&6利維坦&r、&6提洛斯&r，以及&c咒翼靈骸&r掉落。",
@@ -540,7 +556,7 @@
     }
   },
   "quest.268CC540E5B605A9.quest_desc": {
-    "original": "The final tier of bookshelves is locked behind the infusion of &dDragon's Breath&r.\n\nTo do this, you will need &a80&r &6Eterna&r, between &a15&r to &a30&r &cQuanta&r, and at least &a60&r &dArcana&r.\n\nIf you don't have enough &dArcana,&r you can use candles, which provide a small boost.\n\n&eNote&r: &dDragon's Breath&r can be obtained from the &dChicken Jockey&r fight.",
+    "original": "The final tier of bookshelves is locked behind the infusion of &dDragon's Breath&r.\n\nTo do this, you will need &a80&r &6Eterna&r, between &a15&r to &a30&r &cQuanta&r, and at least &a60&r &dArcana&r. \n\nIf you don't have enough &dArcana,&r you can use candles, which provide a small boost.\n\n&eNote&r: &dDragon's Breath&r can be obtained from the &dChicken Jockey&r fight.",
     "translation": "最終階級書櫃，需要先完成對&d龍之吐息&r的灌注才會解鎖。\n\n要進行注入，你需要 &a80&r &6位階&r、介於 &a15%&r 至 &a30%&r 的&c量子化&r，以及至少 &a60%&r 的&d阿卡那&r。\n\n若&d阿卡那&r不足，可用蠟燭提供小幅補強。\n\n&e備註&r：&d龍之吐息&r可在與&d雞騎士&r的戰鬥中取得。",
     "context": "chapters/gearing_up.snbt / quest 268CC540E5B605A9",
     "meta": {
@@ -711,7 +727,7 @@
     }
   },
   "quest.3208AF90091D1B6B.quest_desc": {
-    "original": "Using the &aSimple Reforging Table&r, you can now reforge an item with brand new affixes.\n\nReforging is not limited to items that already have &bAffixes&r, and can be performed with any valid item, any number of times.\n\nThe &aSimple Reforging Table&r allows you to reforge items up to &9Rare&r rarity. You'll need to upgrade this table if you wish to reforge higher rarity items.\n{@pagebreak}\nReforging Tables have three input slots:\n\n- The center slot holds the item you wish to reforge;\n\n- The top-left slot holds the rarity materials for the rarity you would like to reforge with;\n\n- The bottom-right slot holds &aSigils of Rebirth&r, which are used as fuel during reforging.\n\nThere is a base cost of experience, sigils, and materials for reforges of each rarity, which can be doubled or tripled if choosing the other two options.",
+    "original": "Using the &aSimple Reforging Table&r, you can now reforge an item with brand new affixes.\n\nReforging is not limited to items that already have &bAffixes&r, and can be performed with any valid item, any number of times.\n\nThe &aSimple Reforging Table&r allows you to reforge items up to &9Rare&r rarity. You'll need to upgrade this table if you wish to reforge higher rarity items.\n{@pagebreak}\nReforging Tables have three input slots:\n\nThe center slot holds the item you wish to reforge, the top-left slot holds the rarity materials for the rarity you would like to reforge with, and the bottom-right slot holds &aSigils of Rebirth&r, which are used as fuel during reforging.\n\nThere is a base cost of experience, sigils, and materials for reforges of each rarity, which can be doubled or tripled if choosing the other two options.",
     "translation": "使用&a簡易重鑄台&r，你可以為物品重鑄出全新的詞綴。\n\n重鑄不限於已有&b詞綴&r的物品，任何符合條件的物品都可反覆重鑄。\n\n&a簡易重鑄台&r最多只能重鑄到&9稀有&r等級。若要重鑄更高稀有度，需升級此工作台。\n{@pagebreak}\n重鑄台有三個輸入欄位：\n\n- 中央欄位放置要重鑄的物品；\n\n- 左上欄位放置你要重鑄到該稀有度所需的材料；\n\n- 右下欄位放置&a重生咒符&r，作為重鑄材料。\n\n每個稀有度重鑄都有基礎經驗、咒符與材料成本；\n\n若選擇其他兩種結果，成本可能會提升至 2 或 3 倍。",
     "context": "chapters/gearing_up.snbt / quest 3208AF90091D1B6B",
     "meta": {
@@ -747,7 +763,7 @@
     }
   },
   "quest.353F6C94B5D5FF0B.quest_desc": {
-    "original": "To push your &6Eterna&r even higher, you will need to create and infuse &3Deepshelves&r.\n\nThese shelves can push your &6Eterna&r to a max of &a75&r. \n\nYou can also use a &zDeepshelf of Arcane Treasures&r to allow your enchanting table to enchant &zTreasure Enchantments&r.\n\n&eNote&r: Deepshelves can be used for a &6World Engine Upgrade&r.",
+    "original": "To push your &6Eterna&r even higher, you will need to create and infuse &3Deepshelves&r and also reach the &6Summit &bWorld Tier&f.\n\nThese shelves can push your &6Eterna&r to a max of &a75&r. \n\nYou can also use a &zDeepshelf of Arcane Treasures&r to allow your enchanting table to enchant &zTreasure Enchantments&r.\n\n&eNote&r: Deepshelves can be used for a &6World Engine Upgrade&r.",
     "translation": "若要把&6位階&r再往上提升，你需要製作並灌注&3深板岩書櫃&r。\n\n這類書櫃可將&6位階&r上限提升至 &a75&r。 \n\n你還能使用&z祕寶深板岩書櫃&r，讓附魔台能附出&z寶藏附魔&r。\n\n&e備註&r：深板岩書櫃可用於&6世界引擎升級&r。",
     "context": "chapters/gearing_up.snbt / quest 353F6C94B5D5FF0B",
     "meta": {
@@ -882,7 +898,7 @@
     }
   },
   "quest.3A7774F5F0FD174E.quest_desc": {
-    "original": "To get to the next upgrade, you want to get your &6Eterna&r to &a45&r. This can be done with upgraded shelves.\n\nThe &cHellshelf&r is easier to craft, and focuses on boosting &cQuanta&r.\n\n&bSeashelves&r will require some fishing to get started, but instead builds up your &dArcana&r values instead.\n\n&dSpirit Attuned Crystals&r from &6Occultism&r also work great for hitting the 45 mark.",
+    "original": "To get to the next upgrade, you want to get your &6Eterna&r to &a45&r by reaching the &aFrontier &6World Tier&f. This can be done with upgraded shelves.\n\nThe &cHellshelf&r is easier to craft, and focuses on boosting &cQuanta&r.\n\n&bSeashelves&r will require some fishing to get started, but instead builds up your &dArcana&r values instead.\n\n&dSpirit Attuned Crystals&r from &6Occultism&r also work great for hitting the 45 mark.",
     "translation": "要進入下一階段，你需要把&6位階&r提高至 &a45&r。\n這能透過擺放進階書櫃達成。\n\n&c地獄書櫃&r較容易製作，重點在提升&c量子化&r。\n\n&b海洋書櫃&r起步需要先釣魚取得材料，但能有效拉高&d阿卡那&r。\n\n來自《&6神祕學&r》的&d魔靈同調水晶&r也很適合拿來補足 45 門檻。",
     "context": "chapters/gearing_up.snbt / quest 3A7774F5F0FD174E",
     "meta": {
@@ -1044,7 +1060,7 @@
     }
   },
   "quest.4498E3F4B2DC24FC.quest_desc": {
-    "original": "To get started on getting your ultimate &eApotheosis&r gear, you'll need to fight monsters and explore the world for &bGems&r!\n\n&bGems&r are crystals that provide powerful bonuses when applied to &bAffix&r items.\n{@pagebreak}\nTo apply a &bGem&r to an item, you must combine it with the item in a &aSmithing Table&r. The item must have an open &aGem Socket&r for this to work.\n\nGems give different bonuses when slotted in different item types, and can be upgraded in the &aGem Cutting Table&r.\n\n&cUnique Gems&r can only be socketed once per item, while most other gems can be socketed multiple times for stacking bonuses.\n\nThere are a variety of &eApotheosis&r &bGems&r, which you can get by killing mobs and bosses.\n{@pagebreak}\n&bGems&r can also be crushed by an anvil to create &aGem Dust&r.\n\nYou can use &aGem Dust&r for a variety of things, but the first thing you'll want to make is a &aSalvaging Table&r!",
+    "original": "To get started on getting your ultimate &eApotheosis&r gear, you'll need to fight monsters or explore the world for &bGems&r!\n\n&bGems&r are crystals that provide powerful bonuses when applied to &bAffix&r items.\n\nTo apply a &bGem&r to an item, you must combine it with the item in a &2Smithing Table&r. The item must have an open &aGem Socket&r for this to work.\n{@pagebreak}\nGems give different bonuses when slotted in different item types, and can be upgraded in the &aGem Cutting Table&r.\n\n&cUnique Gems&r can only be socketed once per item, while most other gems can be socketed multiple times for stacking bonuses.\n\nThere are a variety of &eApotheosis&r &bGems&r, which you can get by killing mobs and bosses.\n{@pagebreak}\n&bGems&r can also be crushed by an anvil to create &aGem Dust&r.\n\nYou can use &aGem Dust&r for a variety of things, but the first thing you'll want to make is a &aSalvaging Table&r!",
     "translation": "想打造你的終極《&e神化&r》裝備，第一步就是狩獵怪物、探索世界，並收集&b寶石&r！\n\n&b寶石&r是能鑲嵌在&b詞綴&r物品上的水晶，能提供強力加成。\n{@pagebreak}\n要把&b寶石&r鑲嵌在物品上，必須在&a鍛造台&r中將兩者合成，且該物品需有可用的&a寶石鑲嵌槽&r。\n\n寶石在不同裝備類型上，會提供不同加成，並可在&a寶石切割台&r中進一步升級。\n\n&c獨特寶石&r表示每件物品只能鑲嵌一次；多數其他寶石則可多次鑲嵌以疊加效果。\n\n《&e神化&r》有多種&b寶石&r，可透過擊殺怪物與 Boss 取得。\n{@pagebreak}\n&b寶石&r也可用鐵砧壓碎，製成&a寶石粉&r。\n\n&a寶石粉&r有許多用途，而你最優先該做的是&a分解台&r！",
     "context": "chapters/gearing_up.snbt / quest 4498E3F4B2DC24FC",
     "meta": {
@@ -1251,7 +1267,7 @@
     }
   },
   "quest.59CBFA5583139A3B.quest_desc": {
-    "original": "The &dReforging Table&r is an improved version of the &aSimple Reforging Table&r, allowing you to reforge items of all rarities, including &zMythic&r items.",
+    "original": "[\"The \", {\"text\": \"Reforging Table\", \"color\": \"#B900B9\"}, \" is an improved version of the \", {\"text\": \"Simple Reforging Table\", \"color\":\"#55FF55\"}, \", allowing you reforge items of all rarities including \", {\"text\": \"Mythic\", \"color\":\"#EA6F14\"}, \" items.\"]",
     "translation": "&d重鑄台&r是&a簡易重鑄台&r的進階版本，可重鑄所有稀有度物品，包含&z神話&r稀有度。",
     "context": "chapters/gearing_up.snbt / quest 59CBFA5583139A3B",
     "meta": {
@@ -1386,7 +1402,7 @@
     }
   },
   "quest.60FDF616DEDE5E73.quest_desc": {
-    "original": "&eApotheosis&r overhauls exploration and combat by creating a more RPG-like experience.\n\nItems and mobs you can find in the world can have special &bAffixes&r on them, making them much stronger, and sometimes giving them special abilities to make things even more fun!\n\nIf you feel lost, you can always refer to the &aChronicle of Shadows&r, which is the guidebook for the mod.",
+    "original": "&eApotheosis&r overhauls exploration and combat by creating a more RPG-like experience.\n\nItems and mobs you can find in the world can have special &bAffixes&r on them, making them much stronger, and sometimes giving them special abilities to make things even more fun!\n\nIf you feel lost, you can always refer to the &aChronicle of Shadows&r, which is the guide book for the mod.",
     "translation": "《&e神化&r》改造了探索與戰鬥流程，帶來更接近 RPG 的體驗。\n\n你在世界中遇到的物品與怪物，都可能帶有特殊&b詞綴&r，讓它們更強，甚至擁有額外能力，戰鬥也更有變化！\n\n若你一時摸不著頭緒，可以隨時查閱本模組的指南手冊《&a闇影編年史&r》。",
     "context": "chapters/gearing_up.snbt / quest 60FDF616DEDE5E73",
     "meta": {
@@ -1530,7 +1546,7 @@
     }
   },
   "quest.722901B4259D8AEC.quest_desc": {
-    "original": "The next goal will be to hit &a60&r &6Eterna&r, &a40&r &cQuanta&r, and &a40&r &dArcana&r.\n\nThis will require upgrading the &dInfused Bookshelves&r. ",
+    "original": "The next goal will be to hit &a60&r &6Eterna&r, &a40&r &cQuanta&r, and &a40&r &dArcana&r. You'll need to reach &5Ascent &bWorld Tier&f for this.\n\nThis will require upgrading the &dInfused Bookshelves&r. ",
     "translation": "下一個目標是達到 &a60&r &6位階&r、&a40%&r &c量子化&r 與 &a40%&r &d阿卡那&r。\n\n這需要進一步升級&d灌注書櫃&r。 ",
     "context": "chapters/gearing_up.snbt / quest 722901B4259D8AEC",
     "meta": {
@@ -1728,7 +1744,7 @@
     }
   },
   "quest.7E685EAD7FB60B45.quest_desc": {
-    "original": "The &aSalvaging Table&r is used to break down affix items into their corresponding rarity materials:\n\n{\"text\": \"Common - Mysterious Scrap Metal\", \"color\": \"#7E7E7E\"}\n{\"text\": \"Uncommon - Timeworn Fabric\", \"color\": \"#55FF55\"}\n{\"text\": \"Rare - Luminous Crystal Shard\", \"color\": \"#5454FC\"}\n{\"text\": \"Epic - Arcane Sands\", \"color\": \"#B900B9\"}\n\nThe &aSalvaging Table&r can be automated by sending items in from the top or sides, and extracting them from the bottom of the table. Don't lose any items!\n\n&eNote&f: &#EA6F14Godforged Pearls &cCANNOT&r be salvaged in this pack. You will have to craft them via the &6World Engine&r after unlocking the &3Draconic Upgrade&r.",
+    "original": "The &aSalvaging Table&r is used to break down affix items into their corresponding rarity materials:\n\n{\"text\": \"Common - Mysterious Scrap Metal\", \"color\": \"#7E7E7E\"}\n{\"text\": \"Uncommon - Timeworn Fabric\", \"color\": \"#55FF55\"}\n{\"text\": \"Rare - Luminous Crystal Shard\", \"color\": \"#5454FC\"}\n{\"text\": \"Epic - Arcane Sands\", \"color\": \"#B900B9\"}\n{\"text\": \"Mythic - Godforged Pearls\", \"color\":\"#EA6F14\"}\n\nThe &aSalvaging Table&r can be automated by sending items in from the top or sides, and extracting them from the bottom of the table. Don't lose any items!\n\n&eNote&f: &#EA6F14Godforged Pearls &cCANNOT&r be salvaged in this pack. You will have to craft them via the &6World Engine&r after unlocking the &3Draconic Upgrade&r.",
     "translation": "&a分解台&r可將詞綴物品拆解為對應稀有度材料：\n\n{\"text\": \"普通 - 神秘金屬廢料\", \"color\": \"#7E7E7E\"}\n{\"text\": \"罕見 - 沉舊布料\", \"color\": \"#55FF55\"}\n{\"text\": \"稀有 - 發光水晶碎片\", \"color\": \"#5454FC\"}\n{\"text\": \"史詩 - 奧術沙\", \"color\": \"#B900B9\"}\n\n&a分解台&r可自動化：\n從上方或側面輸入物品，並從底部抽出。小心別把重要物品送進去了！\n\n&e備註&f：在本模組包中，&#EA6F14神鑄珍珠&c無法&r透過分解取得。\n\n你必須在解鎖&3龍族升級&r後，透過&6世界引擎&r合成。",
     "context": "chapters/gearing_up.snbt / quest 7E685EAD7FB60B45",
     "meta": {
@@ -1746,7 +1762,7 @@
     }
   },
   "quest.7E88C7654F281E43.quest_desc": {
-    "original": "The &#EA6F14Augmenting Table&r is an end-game crafting station used to augment the individual affixes on an item.\n\nIt can upgrade an existing Affix at the cost of two &#EA6F14Sigils of Enhancement&r, or can reroll affixes at the cost of 1 &#EA6F14Sigil of Enhancement&r.",
+    "original": "[\"The \", {\"text\": \"Augmenting Table\", \"color\": \"#EA6F14\"}, \" is an end-game crafting station used to augment the individual \", {\"text\": \"Affixes\", \"color\": \"#55FFFF\"}, \" of an item.\"]\n\nIt has two different uses:\n\n[\"Firstly, it can upgrade an existing \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \", costing two \", {\"text\": \"Sigils of Enhancement\", \"color\": \"#EA6F14\"}, \" to upgrade the \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" by 25%. How much of a boost this provides varies per \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \".\"]\n{@pagebreak}\n[\"Secondly, it can reroll an \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \", costing one \", {\"text\": \"Sigil of Enhancement\", \"color\": \"#EA6F14\"}, \" to swap out a selected \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" for another of the same type. The alternative options will be shown on the left.\"]\n\n[\"The \", {\"text\": \"Augmenting Table\", \"color\": \"#EA6F14\"}, \" has two input slots. The upper slot holds the item you wish to \", {\"text\": \"Augment\", \"color\": \"#FF55FF\"}, \", which must be an \", {\"text\": \"Affix\", \"color\": \"#55FFFF\"}, \" item. The lower slot holds the \", {\"text\": \"Sigils of Enhancement\", \"color\": \"#EA6F14\"}, \" used for \", {\"text\": \"Augmenting\", \"color\": \"#FF55FF\"}, \".\"]",
     "translation": "&#EA6F14詞綴改造台&r是遊戲後期的工作站，用來強化物品上的單一詞綴。\n\n可消耗兩個&#EA6F14強化咒符&r來升級現有詞綴，或消耗一個&#EA6F14強化咒符&r來重洗詞綴。",
     "context": "chapters/gearing_up.snbt / quest 7E88C7654F281E43",
     "meta": {

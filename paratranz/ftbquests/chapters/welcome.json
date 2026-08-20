@@ -8,6 +8,22 @@
       "snbt_value_shape": "string"
     }
   },
+  "quest.261B2184A4839741.quest_desc": {
+    "original": "If you're playing with friends and want to be in the same starting base, FTB Teams makes that very easy.\n\nWhen joining a world for the first time a team is automatically created for you, so you'll need to type &a/ftbteams party leave&f in chat, then once more to confirm it.\n\nAfter that is done, the party leader can invite new players by typing &a/ftbteams party invite <username>&f, and a message will show up in chat prompting the new party member to accept or decline the invite.",
+    "context": "chapters/welcome.snbt / quest 261B2184A4839741",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.261B2184A4839741.title": {
+    "original": "Creating and Joining a team",
+    "context": "chapters/welcome.snbt / quest 261B2184A4839741",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
   "quest.2B02D9425E19F560.quest_desc": {
     "original": "Found something that doesn't work like it should?\n\n[\"We'd love to know so we can fix it! You can stop by to let us know on \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the Discord invite\"]} }, \" or by making a bug report on \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the GitHub link\"]} }, \".\"]\n\nPlease &cdo not&r Force Complete quests in Editing Mode unless instructed to by a member of the &aFTB Team&f as it can completely break your pack progression.",
     "translation": "出現了一些理應不該發生的事情？\n\n[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]",

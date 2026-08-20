@@ -332,6 +332,14 @@
       "snbt_value_shape": "string"
     }
   },
+  "quest.37F6FA6FD524AB9F.quest_desc": {
+    "original": "The &6Data Center&f multiblock is a 7x7x7 structure that runs up to 25 &zSelf Aware&r data models at the same time.\n\nThe multiblock is built with a 7x7 &dObsidian&r platform at the bottom and &aBlack Stained Glass&r walls, leaving the interior hollow. Then, the &6Data Center&r block and 3 &bIO Ports&r must be placed on the outer bottom layer, each configured to a different mode: Energy, Inputs, Outputs.\n\nYou can optionally add a fourth Port confiured to Models for automatic input of data models, but this is not required.\n\nIf built correctly, a blue outline will display around the multiblock, otherwise you can clikc the main &6Data Model&f block for more details.\n\n[\"You can also check out the \", {\"text\": \"Data Center GuideMe\", \"underlined\": true, \"color\": \"aqua\", \"clickEvent\": {\"action\": \"run_command\", \"value\": \"/guidemec hostilenetworks:guide open\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Open Data Center GuideMe\"}}, \", for an example structure.\"]",
+    "context": "chapters/resource_generation.snbt / quest 37F6FA6FD524AB9F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
   "quest.39751E377C0F22EE.quest_desc": {
     "original": "The &aReplication Terminal&r allows you to request items to be replicated.\n\nThe Terminal will show you the items you have stored on &dMemory Chips&r within your network, as well as the total amount of matter stored in &aMatter Tanks&r on the right side.",
     "translation": "&a複製終端機&r能讓你下單請求複製物品。\n\n終端機會顯示你網路中儲存在&d記憶體晶片&r的物品，右側則會顯示&a物質儲罐&r內的物質總量。",
@@ -513,7 +521,7 @@
     }
   },
   "quest.52ADC3D46CCB2659.quest_desc": {
-    "original": "&aApotheosis&r provides the ability to relocate and upgrade &dMob Spawners&r that can be great for making your own mob farms. To move a spawner, break it with a pickaxe that has &bsilk touch&r on it.\n\nMob spawners can be changed by using a &aMob Egg&r on them, allowing you to create your own custom spawners. Using specific items on the spawners will also upgrade them to be faster, ignore spawning rules, and more!\n\nTo learn more about which items to use, check the recipes in JEI for a spawner.",
+    "original": "&aApothic Spawners&r provides the ability to relocate and upgrade &dMob Spawners&r to make your own mob farms. To move the spawner, break it with a pickaxe that has &bsilk touch&r on it.\n\nMob spawners can be changed by using a &aMob Egg&r of the monster you wish to change them to, creating custom, non-vanilla spawners.\n\n[ \"Exploding a spawner will drop \", {\"text\": \"Spawner Chains\", \"color\": \"dark_green\"}, \" which are used to craft upgrades that can be applied to your spawners, improving their abilities. You'll require a more \", { \"text\": \"Advanced Enchantment Setup\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"00A7C1FE54F86429\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Apothic Enchanting Quest\"} }, \" to make more advanced spawner upgrades.\" ]\n\nTo learn more about which items to use, check the recipes in &eJEI&f for a spawner.",
     "translation": "《&a神化&r》提供了搬移與升級&d生怪磚&r的能力，這對於建造刷怪塔非常有幫助。\n\n要移動生怪磚，只需使用帶有&b絲綢之觸&r附魔的十字鎬將其挖掘即可。\n\n你可以對著生怪磚使用&a生怪蛋&r，來變更其生成的生物。\n\n在生怪磚上使用特定的物品，還能對其進行升級，使其生成速度更快、無視生成條件等等！\n\n若要進一步了解可使用的升級物品，請在 JEI 中查看生怪磚\n的相關配方。",
     "context": "chapters/resource_generation.snbt / quest 52ADC3D46CCB2659",
     "meta": {
@@ -666,7 +674,7 @@
     }
   },
   "quest.60BBE214131DF6EB.quest_desc": {
-    "original": "Once you have a Data Model for a mob, you'll need to level it up to at least the &aBasic&r tier by killing that type of mob.\n\nWhen provided with a &2Prediction Matrix&r and power, the &aSimulation Chamber&r will run simulations as if you were killing that specific mob.\n\nIf the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeeds, you'll get that mob's &6Prediction&r.\n\nThis &6Prediction&r can be run through a &dLoot Fabricator&r to create loot!",
+    "original": "Once you have a Data Model for a mob, you'll need to level it up to at least the &aBasic&r tier by killing that type of mob.\n\nWhen provided with a &2Prediction Matrix&r and power, the &aSimulation Chamber&r will run simulations as if you were killing that specific mob.\n\nIf the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeeds, you'll get that mob's &6Prediction&r.\n\n{@pagebreak}\n\nThe &aSimulation Chamber&f has two modes: &2Training Mode&f runs simulations that upgrade the model's data and &dInference Mode&r produces predictions, but doesn't upgrade the model.\n\nThis &6Prediction&r can be run through a &dLoot Fabricator&r to create loot!\n\nYou can also switch the &dLoot Fabricator&f to &2Queue Mode&r, which lets you cycle through a list of outputs instead of producing only one fixed drop.",
     "translation": "一旦你獲得了某種生物的&c資料模型&r，就必須透過擊殺該生物，將模型等級提升至&a基礎&r。\n\n當提供了&2預測矩陣&r與能量後，&a戰鬥模擬室&r就會開始模擬戰鬥，效果等同於你正在擊殺該特定生物。\n\n若戰鬥模擬失敗，你會獲得&b通用化預測產物&r；若戰鬥模擬成功，你則會獲得該生物專屬的&6預測產物&r。\n\n這些&6預測產物&r可以放入&d戰利品製造機&r中，生產對應生物的戰利品！",
     "context": "chapters/resource_generation.snbt / quest 60BBE214131DF6EB",
     "meta": {

@@ -44,15 +44,6 @@
       "snbt_value_shape": "string"
     }
   },
-  "quest.0AFF8E28FC51B123.quest_desc": {
-    "original": "Need to swap two simple blocks with as little hassle as possible? Try the &cSwapper Wand&r!\n\nNeed to grab a block and place it somewhere else with as little hassle as possible? Try the Picker Wand!",
-    "translation": "想要盡可能輕鬆地，將兩個簡單的方塊對調位置嗎？試試&c交換法杖&r吧！\n\n想要盡可能輕鬆地，將一個方塊搬起，並放置在其他地方嗎？試試搬運法杖&r吧！",
-    "context": "chapters/useful_items_tips.snbt / quest 0AFF8E28FC51B123",
-    "meta": {
-      "line_split_policy": "lf",
-      "snbt_value_shape": "list_of_string"
-    }
-  },
   "quest.215E7EB95A7C64A3.quest_desc": {
     "original": "Every second matters, and that's why you should shove them in the &6Temporal Pouch&r.\n\nThis pouch stores time, as long as it is in your inventory. This time can be used to increase the ticks of pretty much anything by sneak-using the pouch on it.\n\nIf something is too slow, use some of your stored time to make it faster!\n\n&7&oWho says you can't buy time?",
     "translation": "每分每秒都至關重要，這就是為什麼你應該把它們塞進&6時間錦囊&r裡。\n\n只要這個錦囊在你的物品欄中，它就會儲存時間。\n\n這些時間可以透過使用錦囊，對任何機器「潛行+點擊右鍵」\n來增加其刻速率。\n\n若某些機器跑得太慢，就使用你儲存的一些時間來讓它變得更快！\n\n&7&o誰說時間是買不到的？",
@@ -435,15 +426,6 @@
     "original": "Time Wands",
     "translation": "時間法杖",
     "context": "chapters/useful_items_tips.snbt / task 57A5CC881C60B69D",
-    "meta": {
-      "line_split_policy": "none",
-      "snbt_value_shape": "string"
-    }
-  },
-  "task.64439911825F80B2.title": {
-    "original": "Block Wands",
-    "translation": "方塊法杖",
-    "context": "chapters/useful_items_tips.snbt / task 64439911825F80B2",
     "meta": {
       "line_split_policy": "none",
       "snbt_value_shape": "string"
