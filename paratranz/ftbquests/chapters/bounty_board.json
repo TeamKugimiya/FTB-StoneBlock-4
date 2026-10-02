@@ -521,6 +521,22 @@
       "snbt_value_shape": "string"
     }
   },
+  "quest.71C8BC0FFC1A3E58.quest_desc": {
+    "original": "Dying to certain bosses while the &eDeus Ex Machina&r status effect is active will grant you stacking damage resistance and attack damage against that boss\n\nDamage resistance and Attack Boost stacks up to 80%\n\nDefeating a Boss will reset the &eDeus Ex Machina&r buff for that Boss Type\n\n&eNote&f: Drinking a &aBottle of Ambrosia&r will toggle this mechanic (off by default) and clear any active buffs",
+    "context": "chapters/bounty_board.snbt / quest 71C8BC0FFC1A3E58",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.71C8BC0FFC1A3E58.title": {
+    "original": "Deus Ex Machina",
+    "context": "chapters/bounty_board.snbt / quest 71C8BC0FFC1A3E58",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
   "quest.72766EEF59130E19.title": {
     "original": "&fPlay For &c25 Hours",
     "translation": "遊玩時數：「&c25 小時&f」",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_slug": "ftb-stoneblock-4",
-  "upstream_artifact_id": "8629244",
+  "upstream_artifact_id": "8947694",
   "overlay_root": "overrides",
   "files": {
     "config/ftbquests/quests/chapter_groups.snbt": {
@@ -12,8 +12,8 @@
     },
     "config/ftbquests/quests/chapters/bounty_board.snbt": {
       "kind": "translatable",
-      "sha512": "cce88616ae9b4348a4c84582cc37f345dbdce48d8f31af8c86464aa143aaa212565dc8cdafe8818c4e42468d4ed37b4dde2591482ee357b5a39d06f2b5352dd4",
-      "size": 33427,
+      "sha512": "4959e21204c31cb5eb5754fffe2d7286224237b840002b4e6532823e547b7533c92545fcd0e014b337fd872be093d19a67b6c16f49044cb594cb1fdb1a0da42b",
+      "size": 33853,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/bounty_board.snbt"
     },
     "config/ftbquests/quests/chapters/creative.snbt": {
@@ -96,7 +96,7 @@
     },
     "config/ftbquests/quests/chapters/thebackrooms.snbt": {
       "kind": "translatable",
-      "sha512": "91d36426092e0f719752684fd13df41558afa7ef87aaeeb58c68d00383a2c245f529cebd92dc63652612b24d57c5416517e1a6282ed079d2f8fc333897f481a6",
+      "sha512": "5d3af40ccdc0301e9b9859f897d37c13542f1c5f7085f2d3175b2a78f71e2d766891fc7d2b71c805667c8131c0ca1b1b96320eec2dfe22320e36ce38c78c3c88",
       "size": 77590,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/thebackrooms.snbt"
     },
@@ -138,8 +138,8 @@
     },
     "config/ftbquests/quests/chapters/world_engine__tier_5.snbt": {
       "kind": "translatable",
-      "sha512": "26e268bc5b953dc6d2909e889b6bd88480c48cfccda371f34a9111ac80e13b052033f012d913f744243de6bcf727de6446c06d679efb62de27d36eadfafd4a6d",
-      "size": 27097,
+      "sha512": "f8b63cec5c75c123bd0a4c711946f8a126cb9e72a87092a60760eadc7a217f8a9a755b86a7eb9e2213bfd60d371aeb9fef0f5bcf553056da158a61e3648a4fc9",
+      "size": 27140,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_5.snbt"
     },
     "config/ftbquests/quests/data.snbt": {
@@ -150,8 +150,8 @@
     },
     "config/ftbquests/quests/lang/en_us.snbt": {
       "kind": "translatable",
-      "sha512": "80e57b72fe706fb4bef7cdfe6b2cd9ef79bb128c3cccf0f663aa527340b3f01d8ccb48e4759f885c253b6613207a9a8fda436709b15a4feb9c6f7b9b88521169",
-      "size": 444094,
+      "sha512": "e88507d021e79cc57cf5f8cfd49e22cd5f912968c049d00012e455ec154af2ca6c17cda356dfa74529958a201c2e2883fabd803c7c79f8766c7e38944b910c7c",
+      "size": 444613,
       "source_archive_path": "overrides/config/ftbquests/quests/lang/en_us.snbt"
     },
     "config/ftbquests/quests/reward_tables/0C5DDA99EE8027D3.snbt": {

@@ -4,12 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       modpack_version:
-        description: "模組包當前版本（預設為 v1.0）"
+        description: "適用的模組包版本"
         required: false
+        type: string
         default: "v1.0"
       tag:
         description: "發布版本，例如 v1.0（預設為 alpha）"
         required: false
+        type: string
         default: "alpha"
       per_release:
         description: "預先發布版"
@@ -22,27 +24,30 @@ permissions:
   contents: write
 
 jobs:
-  Resourcepack-Maker:
-    name: 資源包階段
-    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Resourcepack.yml@main
+  Validate:
+    name: 驗證專案
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Validate.yml@main
     with:
-      force_include_files: "LICENSE"
-      version: ${{ github.event.inputs.tag }}
+      strict: true
+    secrets:
+      toolkit_token: ${{ secrets.TOOLKIT_TOKEN }}
 
-  Patch-Maker:
-    name: 補丁階段
-    needs: [ Resourcepack-Maker ]
-    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Patch-Maker.yml@main
+  Build:
+    name: 打包補丁與資源包
+    needs: [ Validate ]
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Build.yml@main
     with:
-      modpack-version: ${{ github.event.inputs.tag }}
-      modpack-patch_resourcepack_maker: ${{ needs.Resourcepack-Maker.outputs.modpack_patch_resourcepack_maker }}
+      build_target: all
+    secrets:
+      toolkit_token: ${{ secrets.TOOLKIT_TOKEN }}
 
   Release-It:
     name: 發布階段
-    needs: [ Resourcepack-Maker, Patch-Maker ]
+    if: ${{ !inputs.no_release }}
+    needs: [ Build ]
     uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Release.yml@main
     with:
-      modpack-version: ${{ github.event.inputs.tag }}
-      modpack-official-version: ${{ github.event.inputs.modpack_version }}
-      modpack-per-release: ${{ github.event.inputs.per_release }}
-      modpack-release-ignore: ${{ github.event.inputs.no_release }}
+      artifact_pattern: ${{ needs.Build.outputs.artifact_pattern }}
+      version: ${{ inputs.tag }}
+      release_name: ${{ format('FTB StoneBlock 4 {0} 中文化補丁 {1}', inputs.modpack_version, inputs.tag) }}
+      prerelease: ${{ inputs.per_release }}
