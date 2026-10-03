@@ -152,7 +152,7 @@
   },
   "quest.6D06EDA1F34FA4E9.quest_desc": {
     "original": "With infinite power for your storage system and access to &zcreative spells&r from &6Ars&r, that only leaves one more thing to take care of before you can shape the world around you.\n\n&zCreative Power&r for everything.",
-    "translation": "當你為你的儲存系統接入了無盡能量，也接觸到了&6《新生魔藝》&r模組中的&z創造模式&r法術之後，在你能重塑此方天地之前，只剩下一件事待你完成了：\n\n給予一切事物&z創造模式能量&r。",
+    "translation": "有了供儲存系統使用的無盡能量，也能施展&6《新生魔藝》&r的&z創造模式法術&r後，只要再完成最後一件事，就能隨心所欲地改造這個世界：\n\n給予一切事物&z創造模式能量&r。",
     "context": "chapters/creative.snbt / quest 6D06EDA1F34FA4E9",
     "meta": {
       "line_split_policy": "lf",

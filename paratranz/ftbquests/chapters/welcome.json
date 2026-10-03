@@ -10,6 +10,7 @@
   },
   "quest.261B2184A4839741.quest_desc": {
     "original": "If you're playing with friends and want to be in the same starting base, FTB Teams makes that very easy.\n\nWhen joining a world for the first time a team is automatically created for you, so you'll need to type &a/ftbteams party leave&f in chat, then once more to confirm it.\n\nAfter that is done, the party leader can invite new players by typing &a/ftbteams party invite <username>&f, and a message will show up in chat prompting the new party member to accept or decline the invite.",
+    "translation": "如果你和朋友一起遊玩，並想共用同一座初始基地，FTB Teams 能讓組隊變得十分簡單。\n\n第一次進入世界時，系統會自動為你建立一支隊伍。因此，你需要先在聊天欄輸入 &a/ftbteams party leave&f，再輸入一次以確認離隊。\n\n完成後，隊長便能輸入 &a/ftbteams party invite <username>&f 邀請新玩家。聊天欄會顯示訊息，讓受邀玩家選擇接受或拒絕邀請。",
     "context": "chapters/welcome.snbt / quest 261B2184A4839741",
     "meta": {
       "line_split_policy": "lf",
@@ -18,6 +19,7 @@
   },
   "quest.261B2184A4839741.title": {
     "original": "Creating and Joining a team",
+    "translation": "建立與加入隊伍",
     "context": "chapters/welcome.snbt / quest 261B2184A4839741",
     "meta": {
       "line_split_policy": "none",
@@ -26,7 +28,7 @@
   },
   "quest.2B02D9425E19F560.quest_desc": {
     "original": "Found something that doesn't work like it should?\n\n[\"We'd love to know so we can fix it! You can stop by to let us know on \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the Discord invite\"]} }, \" or by making a bug report on \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"Open the GitHub link\"]} }, \".\"]\n\nPlease &cdo not&r Force Complete quests in Editing Mode unless instructed to by a member of the &aFTB Team&f as it can completely break your pack progression.",
-    "translation": "出現了一些理應不該發生的事情？\n\n[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]",
+    "translation": "出現了一些理應不該發生的事情？\n\n[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]\n\n請&c勿&r在編輯模式中強制完成任務，除非&aFTB 團隊&f成員指示你這麼做，否則可能徹底破壞模組包的遊戲進度。",
     "context": "chapters/welcome.snbt / quest 2B02D9425E19F560",
     "meta": {
       "line_split_policy": "lf",
@@ -35,7 +37,7 @@
   },
   "quest.2B02D9425E19F560.title": {
     "original": "&fFound A Bug?",
-    "translation": "出現了 BUG？",
+    "translation": "&f發現錯誤？",
     "context": "chapters/welcome.snbt / quest 2B02D9425E19F560",
     "meta": {
       "line_split_policy": "none",
@@ -44,7 +46,7 @@
   },
   "quest.2F15D918EF183051.quest_desc": {
     "original": "&6Stoneblock 4&r is a story-driven modpack with plenty of options to play and progress based on your playstyle.\n\nThis pack has tons of mods for all types of players. Mods may be gated with the storyline, so make sure to explore the different options for progression!\n\nFor those who want a challenge, the final challenge of the pack is completing the &dWorld Engine&r. Do you think you have what it takes?",
-    "translation": "《&6只有石頭的世界4&r》是一款劇情向的模組包：有著豐富多樣的遊玩選項，\n並能夠根據你的個人遊玩風格來推進劇情。\n\n本模組包含有適合所有類型玩家的成千上萬種不同的模組。部分模組可能與主線任務有關，所以在遊玩過程請記得去探索各種不同的選項以推動遊戲進度！\n\n給任何想要挑戰自我的玩家：本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？",
+    "translation": "《&6只有石頭的世界 4&r》是一款以劇情為核心的模組包，提供多樣的遊玩方式，讓你能依照自己的風格推進進度。\n\n本模組包含有大量適合各類玩家的模組。部分模組需要隨著劇情推進才能解鎖，所以別忘了探索各種推進遊戲進度的途徑！\n\n對於想挑戰自我的玩家，本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？",
     "context": "chapters/welcome.snbt / quest 2F15D918EF183051",
     "meta": {
       "line_split_policy": "lf",

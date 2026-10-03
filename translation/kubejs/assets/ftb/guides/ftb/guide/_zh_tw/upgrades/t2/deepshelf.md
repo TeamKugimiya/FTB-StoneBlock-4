@@ -16,7 +16,7 @@ item_ids:
 
 對使用《<Color id="gold">新生魔藝</Color>》的玩家來說，這項升級特別實用，因為它能進一步強化你的法術。
 
-與此同時，還能讓你合成數種附魔，以及《<Color id="gold">艾倫的珠寶與首飾</Color>》中的<Color id="gold">雙生</Color>配方。
+與此同時，還能讓你合成數種附魔，以及《艾倫的珠寶與首飾》中的<Color id="gold">雙生</Color>配方。
 
 ## <Color id="gold">可解鎖配方</Color>
 

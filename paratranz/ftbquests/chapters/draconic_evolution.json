@@ -82,7 +82,7 @@
   },
   "quest.2D1B390B363E0F27.quest_desc": {
     "original": "&eDE &bEnergy Crystals&r can transfer RF power to linked blocks via an energy network with at least one &aI/O Crystal&r and one &2Wireless Crystal&r. \n\nShift + Right-click your Wireless Crystal to start linking it to other blocks by Right-clicking.\n\n&aRelays&r can only connect to other Network components, so they are only used to extend the range of your network.\n\n&7&oCheck the next page for transfer rates ->\n{@pagebreak}\nEach crystal tier can output a different amount of power per connection:\n\nThe &aBasic Tier&r can transfer up to 32,000 RF/t\n\nThe &dWyvern Tier&r can transfer up to 128,000 RF/t\n\nThe &6Draconic Tier&r can transfer up to 256,000 RF/t",
-    "translation": "&e《龍族進化》&f的&b能量水晶&r，可以透過包含至少一個 &aI/O 水晶&r，\n和一個&2無線水晶&r的能量網路，將 RF 能量傳輸至連結的方塊。 \n\n對你的無線水晶按下 Shift + 右鍵，接著透過點擊其他方塊來開始連結。\n\n&a中繼水晶&r只能連接到其他網路元件，因此它們僅用於延伸網路的範圍。\n\n&7&o查看下一頁以瞭解傳輸速率 ->\n{@pagebreak}\n每個水晶階級在每次連接中，可輸出的電量不同：\n\n&a基礎階級&r最高可傳輸 32,000 RF/t\n\n&d雙足飛龍階級&r最高可傳輸 128,000 RF/t\n\n&6神龍階級&r最高可傳輸 256,000 RF/t",
+    "translation": "&e《龍族進化》的&b能量水晶&r，可以透過包含至少一個 &aI/O 水晶&r，\n和一個&2無線水晶&r的能量網路，將 RF 能量傳輸至連結的方塊。 \n\n對你的無線水晶按下 Shift + 右鍵，接著透過右鍵點擊其他方塊來開始連結。\n\n&a中繼水晶&r只能連接到其他網路元件，因此它們僅用於延伸網路的範圍。\n\n&7&o查看下一頁以瞭解傳輸速率 ->\n{@pagebreak}\n每個水晶階級的每條連線，可輸出的電量不同：\n\n&a基礎階級&r最高可傳輸 32,000 RF/t\n\n&d雙足飛龍階級&r最高可傳輸 128,000 RF/t\n\n&6神龍階級&r最高可傳輸 256,000 RF/t",
     "context": "chapters/draconic_evolution.snbt / quest 2D1B390B363E0F27",
     "meta": {
       "line_split_policy": "lf",
@@ -136,7 +136,7 @@
   },
   "quest.4A1DBDE0963407E7.quest_desc": {
     "original": "&eDraconic Evolution&r (&eDE&r)is a mid-game to late-game mod focused around dragons, energy, and very overpowered equipment.\n\nTo get started with &eDE&r, you'll first need to gather some &aDraconium Dust.\n\n[\"The main way to acquire this dust is to level up your \", {\"text\": \"Dimensionalist Unearther\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Dimensionalist Quest\"}}, \" at least tier 4, but you may also acquire it through other methods (check JEI).\"]\n\nYou can also just manually brush &eEnd Stone&r once your &aUnearther Level&r is high enough.",
-    "translation": "&e《龍族進化》&r是一款專注於龍族科技、能量，以及極強大裝備的中後期模組。\n\n若要開始深入&e《龍族進化》&r，你首先需要收集一些&a龍塵&r。\n\n[\"獲取此粉末的主要方式，是將\", {\"text\": \"「維度學家」\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往維度學家任務\"}},\"的職業等級，\"] \n提升至專家級，但你也能透過其他方式取得龍金屬。\n\n當你的&a發掘等級&r夠高時，你也可以直接手動刷掃&e終界石&r。",
+    "translation": "&e《龍族進化》&r（&eDE&r）是一款專注於龍族、能量，以及極強大裝備的中後期模組。\n\n若要開始深入&e《龍族進化》&r，你首先需要收集一些&a龍塵。\n\n[\"獲取此粉末的主要方式，是將\", {\"text\": \"資源發掘站中的維度學家\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6F91297C4FAA43FE\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往維度學家任務\"}}, \"的等級提升至至少 4 級，但你也能透過其他方式取得（請查看 JEI）。\"]\n\n你也可以直接手動刷掃&e終界石&r，只要你的&a發掘等級&r夠高即可。",
     "context": "chapters/draconic_evolution.snbt / quest 4A1DBDE0963407E7",
     "meta": {
       "line_split_policy": "lf",
@@ -145,7 +145,7 @@
   },
   "quest.4A1DBDE0963407E7.title": {
     "original": "&fWelcome to &eDraconic Evolution",
-    "translation": "&f歡迎來到&e《龍族進化》&r！",
+    "translation": "&f歡迎來到&e《龍族進化》！",
     "context": "chapters/draconic_evolution.snbt / quest 4A1DBDE0963407E7",
     "meta": {
       "line_split_policy": "none",
