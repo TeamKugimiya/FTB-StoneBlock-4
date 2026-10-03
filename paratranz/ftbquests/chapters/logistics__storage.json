@@ -937,7 +937,7 @@
   },
   "quest.4882D3E03CC01268.quest_desc": {
     "original": "&bStorage Buses&r allow your network to see and interact with items inside an external storage block/network, such as a chest, or &eStorage Controller&r (from &6Functional Storage&r mod).\n\n&bStorage Buses&r come in different types, and can also be filtered to only allow certain items to be stored and interacted with.\n\n&7&oIt is possible to create an essentially infinite storage network that only takes up one channel.",
-    "translation": "&bME 儲存匯流排&r能讓你的網路，讀取並操作外部儲存設備／網路中的資源，\n\n例如儲物箱或&e儲存控制器&r（來自《&6功能性儲存&r》）。\n\n&bME 儲存匯流排&r有多種不同的類型，且能藉由設定篩選條件，\n\n僅允許特定物品被儲存與存取。\n\n&7&o你甚至可以做出幾乎無限容量、且只占用一個頻道的儲存網路。",
+    "translation": "&bME 儲存匯流排&r能讓你的網路，讀取並操作外部儲存設備／網路中的資源，\n\n例如儲物箱或《&6功能性儲存&r》的&e儲存控制器&r。\n\n&bME 儲存匯流排&r有多種不同的類型，且能藉由設定篩選條件，\n\n僅允許特定物品被儲存與存取。\n\n&7&o你甚至可以做出幾乎無限容量、且只占用一個頻道的儲存網路。",
     "context": "chapters/logistics__storage.snbt / quest 4882D3E03CC01268",
     "meta": {
       "line_split_policy": "lf",

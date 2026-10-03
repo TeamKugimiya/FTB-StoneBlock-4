@@ -172,7 +172,7 @@
   },
   "quest.45CB3F325010A5AD.quest_desc": {
     "original": "Need a place to store all of your experience so you don't lose it when you die?\n\nThe &aExperience Holder&r from &6Just Dire Things&r is easy to use, and can also be used to collect experience around it in a configurable range.\n\nThe &aExperience Obelisk&r from &6Cognition&r works the same way!\n\n&7Even if you think you aren't going to die when going to the Arcane Grove, you probably should be safe and store your experience anyway.&r",
-    "translation": "需要一個地方來儲存你所有的經驗，以免在死亡時丟失嗎？\n\n&a經驗儲存器&r來自《&6Just Dire Things&r》，非常容易使用，\n還可用於在指定範圍內收集周圍的經驗球。\n\n&a經驗方尖碑&r來自《&6認知&r》，也有相同的功能！\n\n&7即使你認為去秘法源林時不會發生意外，\n\n但為了保險起見，還是建議你把經驗儲存起來。&r",
+    "translation": "需要一個地方來儲存你所有的經驗，以免在死亡時丟失嗎？\n\n《&6Just Dire Things&r》的&a經驗儲存器&r非常容易使用，\n還可用於在指定範圍內收集周圍的經驗球。\n\n《&6認知&r》的&a經驗方尖碑&r也有相同的功能！\n\n&7即使你認為去秘法源林時不會發生意外，\n\n但為了保險起見，還是建議你把經驗儲存起來。&r",
     "context": "chapters/useful_items_tips.snbt / quest 45CB3F325010A5AD",
     "meta": {
       "line_split_policy": "lf",

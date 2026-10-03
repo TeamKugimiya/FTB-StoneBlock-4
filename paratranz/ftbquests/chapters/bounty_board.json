@@ -64,7 +64,7 @@
   },
   "quest.0DF48D4589272952.title": {
     "original": "&fPlay For &a10 Hours",
-    "translation": "&f遊玩滿&a10 小時",
+    "translation": "&f遊玩滿 &a10 小時",
     "context": "chapters/bounty_board.snbt / quest 0DF48D4589272952",
     "meta": {
       "line_split_policy": "none",
@@ -217,7 +217,7 @@
   },
   "quest.34C8824842867F5D.quest_desc": {
     "original": "The &zMighty Ender Chicken&r has a home on both the North and South parts of the map, specifically in &eEnd&r ring. Rumor has it, the chicken has an impenetrable shield. Perhaps a &bChicken Stick&r might help with that...",
-    "translation": "&z偉大終界雞&r棲息於地圖北部與南部的&e終界&r環帶中。傳聞這隻雞擁有一面堅不可摧的護盾。說不定&b雞棒&r能夠派上用場……",
+    "translation": "&z偉大終界雞&r棲息於地圖北部與南部的&e終界&r環帶中。傳聞這隻雞擁有一面堅不可摧的護盾。說不定&b雞棒&r能夠派上用場......",
     "context": "chapters/bounty_board.snbt / quest 34C8824842867F5D",
     "meta": {
       "line_split_policy": "lf",
@@ -271,7 +271,7 @@
   },
   "quest.47C45A0552FBC1BD.title": {
     "original": "&fPlay For &d50 Hours",
-    "translation": "&f遊玩滿&d50 小時",
+    "translation": "&f遊玩滿 &d50 小時",
     "context": "chapters/bounty_board.snbt / quest 47C45A0552FBC1BD",
     "meta": {
       "line_split_policy": "none",
@@ -280,7 +280,7 @@
   },
   "quest.4DBD57AF035CAA6B.title": {
     "original": "&fPlay For &6100 Hours",
-    "translation": "&f遊玩滿&6100 小時",
+    "translation": "&f遊玩滿 &6100 小時",
     "context": "chapters/bounty_board.snbt / quest 4DBD57AF035CAA6B",
     "meta": {
       "line_split_policy": "none",
@@ -541,7 +541,7 @@
   },
   "quest.72766EEF59130E19.title": {
     "original": "&fPlay For &c25 Hours",
-    "translation": "&f遊玩滿&c25 小時",
+    "translation": "&f遊玩滿 &c25 小時",
     "context": "chapters/bounty_board.snbt / quest 72766EEF59130E19",
     "meta": {
       "line_split_policy": "none",

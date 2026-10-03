@@ -82,7 +82,7 @@
   },
   "quest.06C9E9DBE25887D9.quest_desc": {
     "original": "The &aLava Generator&r from &6Oritech&r generates RF by consuming lava. RF generation can be increased with &bAddons&r.",
-    "translation": "&a熔岩發電機&r來自《&6起源科技&r》，會透過消耗熔岩產生 RF，\n並可用&b升級插件&r提升發電量。",
+    "translation": "《&6起源科技&r》的&a熔岩發電機&r會透過消耗熔岩產生 RF，\n並可用&b升級插件&r提升發電量。",
     "context": "chapters/power.snbt / quest 06C9E9DBE25887D9",
     "meta": {
       "line_split_policy": "lf",
@@ -100,7 +100,7 @@
   },
   "quest.0D57D3662EB40CE3.quest_desc": {
     "original": "&aCapacitor Banks&r from &eEnderIO&r are used to store energy!\n\nThese are easily configurable within the interface. You can also stack these together to make multiblock power banks.",
-    "translation": "&a電容庫&r來自 &eEnderIO&r，可用來儲存能量！\n\n可在介面中輕鬆調整設定。你也能把它們堆疊組成多方塊能量庫。",
+    "translation": "&eEnderIO&r 的&a電容庫&r可用來儲存能量！\n\n可在介面中輕鬆調整設定。你也能把它們堆疊組成多方塊能量庫。",
     "context": "chapters/power.snbt / quest 0D57D3662EB40CE3",
     "meta": {
       "line_split_policy": "lf",
@@ -307,7 +307,7 @@
   },
   "quest.28F636FAA3397479.quest_desc": {
     "original": "The &aBasic Coal Generator&r from &6RFTools&r is a simple-to-use generator that burns furnace fuel items to generate power.",
-    "translation": "&a基礎煤炭發電機&r來自《&6RFTools&r》，能透過燃燒熔爐燃料物品來發電。",
+    "translation": "《&6RFTools&r》的&a基礎煤炭發電機&r能透過燃燒熔爐燃料物品來發電。",
     "context": "chapters/power.snbt / quest 28F636FAA3397479",
     "meta": {
       "line_split_policy": "lf",
@@ -415,7 +415,7 @@
   },
   "quest.39A6CE8A1D5B2D8F.quest_desc": {
     "original": "The &aSimple Coal Generator&r from &6Just Dire Things&r can burn regular burnable items like coal or wood, but it can also burn the different tiers of coal from the mod itself, like &aPrimal Coal&r!\n\nUsing these special coals will produce more power, with the higher tiers producing up to 960 RF/t.\n\nThe &aPocket Generator&r will do the same thing, but in your inventory to charge your items.",
-    "translation": "&a簡易煤炭發電機&r來自《&6Just Dire Things&r》，\n可燃燒一般可燃物（如煤炭、木材），也能燒模組內不同階級的煤，例如&a原初煤炭&r！\n\n使用這些特殊煤炭，能帶來更高的能量產出，最高階可達 960 RF/t。\n\n&a隨身發電機&r也是同樣原理，但可在物品欄內為你的物品充能。",
+    "translation": "《&6Just Dire Things&r》的&a簡易煤炭發電機&r\n可燃燒一般可燃物（如煤炭、木材），也能燒模組內不同階級的煤，例如&a原初煤炭&r！\n\n使用這些特殊煤炭，能帶來更高的能量產出，最高階可達 960 RF/t。\n\n&a隨身發電機&r也是同樣原理，但可在物品欄內為你的物品充能。",
     "context": "chapters/power.snbt / quest 39A6CE8A1D5B2D8F",
     "meta": {
       "line_split_policy": "lf",
@@ -613,7 +613,7 @@
   },
   "quest.57ED7DBAC5E8C5BE.quest_desc": {
     "original": "The &dEnergized Induction Matrix&r from &eMekanism&r is the ultimate way to store tons of power!\n\nThis is a custom multiblock structure that can be built up to 18x18x18 for all of your power storage needs. It only requires 1 &aInduction Cell&r, 1 &aInduction Provider&r, and &aInduction Ports&r to pull and push power out.\n{@pagebreak}\nTo build this, the smallest structure that can be made is a 3x4x3 multiblock. The frame must be made up of &aInduction Casings&r, and the faces can be &aStructural Glass&r or &aInduction Ports&r.\n\nInside of the structure, you'll place down your &aInduction Cells&r and &aProviders&r. Providers determine how fast the Matrix can push or pull power, whereas the Cells determine the maximum amount of power that can be stored. You can mix and match however many you want of each, as long as it is placed inside of the structure.\n{@pagebreak}\n&aInduction Ports&r can be configured to input or output power by sneak-using a &aConfigurator&r on them. I suggest using at least 2 for your first Matrix!",
-    "translation": "&d充能輸導矩陣&r來自《&e通用機械&r》，是儲存海量能量的終極方案！\n\n這是可自訂的多方塊結構，\n\n最大可建到 18x18x18，足以滿足各種儲能需求。\n\n至少需要 1 個&a輸導元件&r、1 個&a輸導供應器&r，\n\n與若干&a輸導端口&r來輸入與輸出能量。\n{@pagebreak}\n建造時最小尺寸為 3x4x3。\n\n外框必須使用&a輸導外殼&r，表面可用&a結構玻璃&r或&a輸導端口&r。\n\n在結構內部放置&a輸導元件&r與&a輸導供應器&r。\n\n供應器決定矩陣輸入/輸出速度，元件決定最大儲能量。只要放在結構內，兩者數量可自由搭配。\n{@pagebreak}\n&a輸導端口&r可切換輸入/輸出模式，只要手持&a調整器&r對它「潛行 + 右鍵」即可。\n\n建議你的第一座矩陣至少使用 2 個輸導端口！",
+    "translation": "《&e通用機械&r》的&d充能輸導矩陣&r是儲存海量能量的終極方案！\n\n這是可自訂的多方塊結構，\n\n最大可建到 18x18x18，足以滿足各種儲能需求。\n\n至少需要 1 個&a輸導元件&r、1 個&a輸導供應器&r，\n\n與若干&a輸導端口&r來輸入與輸出能量。\n{@pagebreak}\n建造時最小尺寸為 3x4x3。\n\n外框必須使用&a輸導外殼&r，表面可用&a結構玻璃&r或&a輸導端口&r。\n\n在結構內部放置&a輸導元件&r與&a輸導供應器&r。\n\n供應器決定矩陣輸入/輸出速度，元件決定最大儲能量。只要放在結構內，兩者數量可自由搭配。\n{@pagebreak}\n&a輸導端口&r可切換輸入/輸出模式，只要手持&a調整器&r對它「潛行 + 右鍵」即可。\n\n建議你的第一座矩陣至少使用 2 個輸導端口！",
     "context": "chapters/power.snbt / quest 57ED7DBAC5E8C5BE",
     "meta": {
       "line_split_policy": "lf",
@@ -694,7 +694,7 @@
   },
   "quest.6A4A2A2EFD552316.quest_desc": {
     "original": "If you're looking to store your power, &aEnergy Cells&r from &ePowah&r will do the trick.\n\nYou can also craft &aBatteries&r and charge them up using the Cells. The Batteries can then be used to charge items in your inventory in the early game!",
-    "translation": "若你想儲存能量，&a能量單元&r就能勝任，它來自《&e波瓦科技&r》。\n\n你也能製作&a電池&r，並用能量單元替電池充能。\n\n前期可用這些電池為物品欄中的道具充能！",
+    "translation": "若你想儲存能量，《&e波瓦科技&r》的&a能量單元&r就能勝任。\n\n你也能製作&a電池&r，並用能量單元替電池充能。\n\n前期可用這些電池為物品欄中的道具充能！",
     "context": "chapters/power.snbt / quest 6A4A2A2EFD552316",
     "meta": {
       "line_split_policy": "lf",
@@ -892,7 +892,7 @@
   },
   "quest.7B579D0762DB9F33.quest_desc": {
     "original": "Once you have some &aOsmium&r, you can easily start generating some basic power using the &eHeat Generator&r from &6Mekanism&r.\n\nThis &aGenerator&r can be fed any burnable item like coal or wood to generate power, but can also harness heat from &cLava&r around it to generate power passively.\n\nTo extract the power from the generator, you must connect a pipe or machine to the front face that has a square on it! ",
-    "translation": "當你取得一些&a鋨&r後，就能用&e熱力發電機&r輕鬆開始基礎發電，它來自《&6通用機械&r》。\n\n這台&a發電機&r可燃燒煤炭、木材等可燃物，也能利用周遭&c熔岩&r的熱量被動發電。\n\n要輸出能量，必須把管線或機器接在正面帶方框的那一面！",
+    "translation": "當你取得一些&a鋨&r後，就能用《&6通用機械&r》的&e熱力發電機&r輕鬆開始基礎發電。\n\n這台&a發電機&r可燃燒煤炭、木材等可燃物，也能利用周遭&c熔岩&r的熱量被動發電。\n\n要輸出能量，必須把管線或機器接在正面帶方框的那一面！",
     "context": "chapters/power.snbt / quest 7B579D0762DB9F33",
     "meta": {
       "line_split_policy": "lf",

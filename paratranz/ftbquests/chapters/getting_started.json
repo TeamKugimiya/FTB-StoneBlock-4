@@ -793,7 +793,7 @@
   },
   "task.4F171D8BC8C1C8F7.title": {
     "original": "Any &bHammer&r from &eJust Hammers",
-    "translation": "任意一把&b鎚&r，出自&e《鎚子合集》",
+    "translation": "&e《鎚子合集》&r的任意一把&b鎚",
     "context": "chapters/getting_started.snbt / task 4F171D8BC8C1C8F7",
     "meta": {
       "line_split_policy": "none",

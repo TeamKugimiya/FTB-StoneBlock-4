@@ -91,7 +91,7 @@
   },
   "quest.107C26E8BF309BC1.quest_desc": {
     "original": "Throughout your adventures, you'll run into plenty of &dArcane&r loot.\n\nThe most common item you'll find is &dArcane Essence&r. This can be used to create &dArcane Cloth&r, brew &bMana Potions&r, and more!\n{@pagebreak}\nYou'll also find &aBlank Runestones&r, which can be used to craft &2Runestones&r that create some of the most powerful gear in the mod. &aNon-blank Runestones&r can also be found after killing wizards.\n\n&bMithril&r is a legendary metal not obtainable through usual methods in the void, or at least what passes for usual. Perhaps some magical source could provide it, some sort of gate...",
-    "translation": "在你的冒險過程中，你會遇到大量的&d奧術&r戰利品。\n\n你最常發現的物品是&d奧術源質&r。這可以用於製作&d奧術布匹&r、釀造&b法力藥水&r等等！\n{@pagebreak}\n你還會發現&a空白符文&r，它們可以用於製作&2符文&r，進而打造模組中一些最強大的裝備。殺死巫師後也可以找到&a非空白符文&r。\n\n&b秘銀&r是一種傳說中的金屬，無法透過虛空中的通常方法獲得，或者至少是那些所謂的通常方法。\n\n也許某種魔法來源可以提供它，某種傳送門……",
+    "translation": "在你的冒險過程中，你會遇到大量的&d奧術&r戰利品。\n\n你最常發現的物品是&d奧術源質&r。這可以用於製作&d奧術布匹&r、釀造&b法力藥水&r等等！\n{@pagebreak}\n你還會發現&a空白符文&r，它們可以用於製作&2符文&r，進而打造模組中一些最強大的裝備。殺死巫師後也可以找到&a非空白符文&r。\n\n&b秘銀&r是一種傳說中的金屬，無法透過虛空中的通常方法獲得，或者至少是那些所謂的通常方法。\n\n也許某種魔法來源可以提供它，某種傳送門......",
     "context": "chapters/general_magic.snbt / quest 107C26E8BF309BC1",
     "meta": {
       "line_split_policy": "lf",
@@ -1008,7 +1008,7 @@
   },
   "quest.7A62B07AD0BCCCEA.quest_desc": {
     "original": "While at first it seems that collecting &bSpirit&r can only be done manually, a closer inspection into &5Wicked-aligned&r runewood &espirit rites&r shows a special synergy.\n\nThe lesser rite will &dslowly damage&r nearby hostile mobs down to low health, and the greater rite will &dcull mobs&r in both body and soul when they are at low health, generating &bSpirit&r alongside their standard drops!\n\n&7A similar synergy exists for passive animals among the various rites...",
-    "translation": "雖然起初看起來收集&b精魂&r只能手動完成，但對&5邪惡屬向&r的符文木&e精魂靈儀&r進行仔細觀察，會發現一種特殊的協同作用。\n\n初級靈儀會&d緩慢傷害&r附近的敵對生物，直到生命值變低；高級靈儀則會在生物生命值較低時，同時對其肉體和靈魂進行&d宰割&r，在產出其標準掉落物的同時生成&b精魂&r！\n\n&7在各種靈儀中，對於被動生物也存在類似的協同作用……",
+    "translation": "雖然起初看起來收集&b精魂&r只能手動完成，但對&5邪惡屬向&r的符文木&e精魂靈儀&r進行仔細觀察，會發現一種特殊的協同作用。\n\n初級靈儀會&d緩慢傷害&r附近的敵對生物，直到生命值變低；高級靈儀則會在生物生命值較低時，同時對其肉體和靈魂進行&d宰割&r，在產出其標準掉落物的同時生成&b精魂&r！\n\n&7在各種靈儀中，對於被動生物也存在類似的協同作用......",
     "context": "chapters/general_magic.snbt / quest 7A62B07AD0BCCCEA",
     "meta": {
       "line_split_policy": "lf",

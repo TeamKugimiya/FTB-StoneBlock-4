@@ -253,7 +253,7 @@
   },
   "quest.3B9E10A560C565CC.quest_desc": {
     "original": "&aTeleporters&r from the &6Simple Teleporters&r can be used to set up quick teleport pads within the world.\n\n&dEnder Shards&r can be Sneak + Right-clicked on a &aTeleporter&r to store its location data, then you can install the Shard into another &aTeleporter&r.\n\nOnce done, you can Sneak on top of the &aTeleporter&r to teleport!",
-    "translation": "&a傳送器&r來自《&6簡易傳送器&r》模組，可在世界中建立快速傳送點。\n\n手持&d終界碎片&r，對&a傳送器&r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台&a傳送器&r。\n\n設定完成後，站上&a傳送器&r並按下潛行即可傳送！",
+    "translation": "《&6簡易傳送器&r》的&a傳送器&r可在世界中建立快速傳送點。\n\n手持&d終界碎片&r，對&a傳送器&r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台&a傳送器&r。\n\n設定完成後，站上&a傳送器&r並按下潛行即可傳送！",
     "context": "chapters/exploration__combat.snbt / quest 3B9E10A560C565CC",
     "meta": {
       "line_split_policy": "lf",
@@ -280,7 +280,7 @@
   },
   "quest.4032C8BD158D1776.quest_desc": {
     "original": "&dWarp Scrolls&r from &6Ars Nouveau&r have two different uses.\n\nWhen Sneak + Right-clicked, the scroll will store your location data for future use. The scroll can used to teleport you back to that spot, consuming the scroll.\n\nInstead, you can create a portal frame out of &aSourcestone&r and throw the scroll in to create a one-way portal!\n\n&eNote&r: &aWarp Scrolls&r require the &bTwilight Forest&r &6World Engine Upgrade&r to craft.\n{@pagebreak}\n&dStabilized Warp Scrolls&r can also be used to store your location, then when used on a block, it opens up a temporary portal for you.",
-    "translation": "&d折躍卷軸&r來自《&6新生魔藝&r》，有兩種用途。\n\n潛行並點擊右鍵時，卷軸會儲存你目前的位置資料。之後可消耗該卷軸，把你傳回這個地點。\n\n你也可以用&a魔源石&r搭建門框，將卷軸丟入其中，建立單向傳送門！\n\n&e備註&r：製作&a折躍卷軸&r需要&b暮光森林&r的&6世界引擎升級&r。\n{@pagebreak}\n&d穩定化折躍卷軸&r也能儲存位置；對方塊使用時，會為你開啟暫時的傳送門。",
+    "translation": "《&6新生魔藝&r》的&d折躍卷軸&r有兩種用途。\n\n潛行並點擊右鍵時，卷軸會儲存你目前的位置資料。之後可消耗該卷軸，把你傳回這個地點。\n\n你也可以用&a魔源石&r搭建門框，將卷軸丟入其中，建立單向傳送門！\n\n&e備註&r：製作&a折躍卷軸&r需要&b暮光森林&r的&6世界引擎升級&r。\n{@pagebreak}\n&d穩定化折躍卷軸&r也能儲存位置；對方塊使用時，會為你開啟暫時的傳送門。",
     "context": "chapters/exploration__combat.snbt / quest 4032C8BD158D1776",
     "meta": {
       "line_split_policy": "lf",

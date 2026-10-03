@@ -901,7 +901,7 @@
   },
   "quest.3A7774F5F0FD174E.quest_desc": {
     "original": "To get to the next upgrade, you want to get your &6Eterna&r to &a45&r by reaching the &aFrontier &6World Tier&f. This can be done with upgraded shelves.\n\nThe &cHellshelf&r is easier to craft, and focuses on boosting &cQuanta&r.\n\n&bSeashelves&r will require some fishing to get started, but instead builds up your &dArcana&r values instead.\n\n&dSpirit Attuned Crystals&r from &6Occultism&r also work great for hitting the 45 mark.",
-    "translation": "要進入下一個升級階段，你需要把&6位階&r提高至 &a45&r，並達到&a邊境&6世界階級&f。位階可透過進階書櫃提升。\n\n&c地獄書櫃&r較容易製作，主要用於提升&c量子化&r。\n\n&b海洋書櫃&r需要先透過釣魚取得材料，主要用於提升&d阿卡那&r。\n\n&d魔靈同調水晶&r來自《&6神祕學&r》，也很適合用來達到 45 的門檻。",
+    "translation": "要進入下一個升級階段，你需要把&6位階&r提高至 &a45&r，並達到&a邊境&6世界階級&f。位階可透過進階書櫃提升。\n\n&c地獄書櫃&r較容易製作，主要用於提升&c量子化&r。\n\n&b海洋書櫃&r需要先透過釣魚取得材料，主要用於提升&d阿卡那&r。\n\n《&6神祕學&r》的&d魔靈同調水晶&r也很適合用來達到 45 的門檻。",
     "context": "chapters/gearing_up.snbt / quest 3A7774F5F0FD174E",
     "meta": {
       "line_split_policy": "lf",
@@ -991,7 +991,7 @@
   },
   "quest.3FE863C60B2D2719.quest_desc": {
     "original": "The &dDisenchanter&r from &6Draconic Evolution&r can be used to strip enchantments off an item at the cost of experience and some durability damage to the item.\n\nThe damage can be reduced by placing bookshelves around the &dDisenchanter&r, similar to a regular enchanting setup.",
-    "translation": "&d附魔拆解台&r來自《&6龍族進化&r》，能消耗經驗值並損耗物品的部分耐久度，將附魔從物品上取下。\n\n在&d附魔拆解台&r周圍擺放書櫃，可減少耐久損耗，配置方式與一般附魔設備類似。",
+    "translation": "《&6龍族進化&r》的&d附魔拆解台&r能消耗經驗值並損耗物品的部分耐久度，將附魔從物品上取下。\n\n在&d附魔拆解台&r周圍擺放書櫃，可減少耐久損耗，配置方式與一般附魔設備類似。",
     "context": "chapters/gearing_up.snbt / quest 3FE863C60B2D2719",
     "meta": {
       "line_split_policy": "lf",
@@ -1324,7 +1324,7 @@
   },
   "quest.5D20790BCDE45CF9.quest_desc": {
     "original": "The &dEnderic Railgun&r from &6Oritech&r is a powerful ranged weapon that fires a high-speed projectile, dealing significant damage to enemies and breaking blocks at a distance.\n\nLeft mouse button can fire a continuous beam that damages any entities in its path and can also mine the first block in line. Energy will be transferred to an energy containing block instead of breaking it. It can also transform mined blocks, similar to the &aEnderic Laser&r.\n{@pagebreak}\nMining-Mode can be toggled by Sneak + Right-Clicking with the item in hand.\n\nUsing the right mouse button fires a powerful projectile that explodes at the target location, destroying nearby blocks and entities.",
-    "translation": "&d終界雷射砲&r來自《&6起源科技&r》，是能發射高速彈體的強力遠程武器，可對敵人造成大量傷害，並從遠處破壞方塊。\n\n滑鼠左鍵會發射持續光束，傷害路徑上的實體，並可挖掘路徑上的第一個方塊。若方塊能容納能量，光束就會改為傳輸能量，而不會破壞它。光束也能轉化挖掘到的方塊，效果類似&a終界雷射&r。\n{@pagebreak}\n手持物品時，按住潛行鍵並點擊右鍵，即可切換挖掘模式。\n\n滑鼠右鍵會發射強力彈體，在目標位置爆炸，摧毀附近的方塊與實體。",
+    "translation": "《&6起源科技&r》的&d終界雷射砲&r是能發射高速彈體的強力遠程武器，可對敵人造成大量傷害，並從遠處破壞方塊。\n\n滑鼠左鍵會發射持續光束，傷害路徑上的實體，並可挖掘路徑上的第一個方塊。若方塊能容納能量，光束就會改為傳輸能量，而不會破壞它。光束也能轉化挖掘到的方塊，效果類似&a終界雷射&r。\n{@pagebreak}\n手持物品時，按住潛行鍵並點擊右鍵，即可切換挖掘模式。\n\n滑鼠右鍵會發射強力彈體，在目標位置爆炸，摧毀附近的方塊與實體。",
     "context": "chapters/gearing_up.snbt / quest 5D20790BCDE45CF9",
     "meta": {
       "line_split_policy": "lf",
@@ -1423,7 +1423,7 @@
   },
   "quest.620F29613800DC94.quest_desc": {
     "original": "The &aRune Inscribed Ring&r pattern allows you to inscribe &dRunes&r from the &6Iron's Spells&r mod.\n\nThese &dRunes&r will empower the ring with different powers. Make sure to experiment!\n\n&eNote&r: This can only be bought from the &dEnchanter's&r &zShop&r.",
-    "translation": "&a銘刻符文之戒&r的圖樣能讓你銘刻&d符文&r，這些符文來自《&6艾倫的法術&r》模組。\n\n不同&d符文&r會賦予戒指不同的力量，記得多加嘗試！\n\n&e注意&r：此圖樣只能在&d附魔道長&r的&z商店&r購買。",
+    "translation": "&a銘刻符文之戒&r的圖樣能讓你銘刻《&6艾倫的法術&r》的&d符文&r。\n\n不同&d符文&r會賦予戒指不同的力量，記得多加嘗試！\n\n&e注意&r：此圖樣只能在&d附魔道長&r的&z商店&r購買。",
     "context": "chapters/gearing_up.snbt / quest 620F29613800DC94",
     "meta": {
       "line_split_policy": "lf",
@@ -1603,7 +1603,7 @@
   },
   "quest.744120E37CD03AE0.quest_desc": {
     "original": "The &aAtomic Disassembler&r from &6Mekanism&r is an unbreakable tool that consumes power to break blocks.\n\nIt functions as a pickaxe, axe, and shovel simultaneously.",
-    "translation": "&a原子分解機&r來自《&6通用機械&r》，是一把不會損壞、消耗能量來破壞方塊的工具。\n\n它同時具備鎬、斧與鏟的功能。",
+    "translation": "《&6通用機械&r》的&a原子分解機&r是一把不會損壞、消耗能量來破壞方塊的工具。\n\n它同時具備鎬、斧與鏟的功能。",
     "context": "chapters/gearing_up.snbt / quest 744120E37CD03AE0",
     "meta": {
       "line_split_policy": "lf",
@@ -1684,7 +1684,7 @@
   },
   "quest.78C4840B377E14FD.quest_desc": {
     "original": "The &aEnchanter&r from &6EnderIO&r is an &dEnchantment Table&r that allows you to pick which enchantment you want to make.\n\nWhen provided with specific items and &2Experience&r, you can enchant &aBook \\&\\ Quills&r with an enchantment of your choice.\n\nTo see which enchantments you can make, make sure to check out the uses in JEI!",
-    "translation": "&a附魔器&r來自《&6EnderIO&r》，是一種能讓你指定附魔種類的&d附魔台&r。\n\n提供特定物品與&2經驗值&r後，就能為&a書和羽毛筆&r附上你選擇的附魔。\n\n想知道可製作哪些附魔，記得在 JEI 中查看它的用途！",
+    "translation": "《&6EnderIO&r》的&a附魔器&r是一種能讓你指定附魔種類的&d附魔台&r。\n\n提供特定物品與&2經驗值&r後，就能為&a書和羽毛筆&r附上你選擇的附魔。\n\n想知道可製作哪些附魔，記得在 JEI 中查看它的用途！",
     "context": "chapters/gearing_up.snbt / quest 78C4840B377E14FD",
     "meta": {
       "line_split_policy": "lf",
@@ -1729,7 +1729,7 @@
   },
   "quest.7B6A17901EC8180C.quest_desc": {
     "original": "The &zRed Morningstar&r is the ultimate all-in-one tool from &6ProjectE&r.",
-    "translation": "&z紅物質釘頭錘&r是來自《&6等價交換&r》的終極全能工具。",
+    "translation": "《&6等價交換&r》的&z紅物質釘頭錘&r是一把終極全能工具。",
     "context": "chapters/gearing_up.snbt / quest 7B6A17901EC8180C",
     "meta": {
       "line_split_policy": "lf",

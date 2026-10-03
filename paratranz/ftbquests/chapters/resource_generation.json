@@ -10,7 +10,7 @@
   },
   "quest.05F1EC4F14A449AD.quest_desc": {
     "original": "The &aOre Laser Base&r from &bIndustrial Foregoing&r can be used to infinitely generate ores using &aLaser Drills&r.\n\nWithin the UI, you can set the Y Lvl to determine what types of ores you want to find, as well as installing a &aColored Lens&r to allow the &aLaser Base&r to specialize in specific ore types.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "&a礦物雷射基座&r來自《&b工業先鋒&r》，可搭配&a雷射鑽&r無限產生礦物。\n\n你能在介面中設定 Y 軸高度，決定要尋找的礦物種類，也能安裝&a染色透鏡&r，讓&a雷射基座&r專門產出特定礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
+    "translation": "《&b工業先鋒&r》的&a礦物雷射基座&r可搭配&a雷射鑽&r無限產生礦物。\n\n你能在介面中設定 Y 軸高度，決定要尋找的礦物種類，也能安裝&a染色透鏡&r，讓&a雷射基座&r專門產出特定礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 05F1EC4F14A449AD",
     "meta": {
       "line_split_policy": "lf",
@@ -82,7 +82,7 @@
   },
   "quest.0EBA58B7FD2AF36D.quest_desc": {
     "original": "The &aExtractor&r from &bXycraft&r is a staple for easily generating niche resources like &dDragon Eggs&r or &7Sky Stone Dust&r.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "&a提取器&r來自《&bXy 工藝&r》，能輕鬆產生&d龍蛋&r或&7隕石粉&r等特殊資源，是相當實用的設備。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
+    "translation": "《&bXy 工藝&r》的&a提取器&r能輕鬆產生&d龍蛋&r或&7隕石粉&r等特殊資源，是相當實用的設備。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 0EBA58B7FD2AF36D",
     "meta": {
       "line_split_policy": "lf",
@@ -100,7 +100,7 @@
   },
   "quest.11C58E38DE9488BE.quest_desc": {
     "original": "The &aMob Masher&r from &bMob Grinding Utils&r can automate the killing process in mob farms when given a redstone signal.\n\nIt can also be upgraded to do more damage, drop more loot, or cause mobs to drop their heads!\n\n&aNote&r: You will still need something to pick up the items as they drop into the world.",
-    "translation": "&a生物粉碎機&r來自《&b刷怪塔實用設備&r》，接收紅石訊號後，就能在刷怪塔中自動擊殺生物。\n\n你也能安裝升級來增加傷害、提高戰利品掉落量，或讓生物掉落頭顱！\n\n&a注意&r：物品會掉落在世界中，因此你仍需要準備收集裝置。",
+    "translation": "《&b刷怪塔實用設備&r》的&a生物粉碎機&r接收紅石訊號後，就能在刷怪塔中自動擊殺生物。\n\n你也能安裝升級來增加傷害、提高戰利品掉落量，或讓生物掉落頭顱！\n\n&a注意&r：物品會掉落在世界中，因此你仍需要準備收集裝置。",
     "context": "chapters/resource_generation.snbt / quest 11C58E38DE9488BE",
     "meta": {
       "line_split_policy": "lf",
@@ -181,7 +181,7 @@
   },
   "quest.16F7490FA5DE307C.quest_desc": {
     "original": "The &aMob Crusher&r from &bIndustrial Foregoing&r can easily crush mobs for you within your mob farm.\n\nWhen powered, this machine will instantly kill any mob within its working area, automatically picking up the loot into its inventory.\n\nThe working area can be upgraded using addons, as well as how fast it activates.",
-    "translation": "&a生物屠殺裝置&r來自《&b工業先鋒&r》，可輕鬆替你處理刷怪塔中的生物。\n\n供電後，這台機器會立即殺死工作範圍內的生物，並自動將戰利品收進物品欄。\n\n透過升級插件，你可以擴大工作範圍，也能提高運作速度。",
+    "translation": "《&b工業先鋒&r》的&a生物屠殺裝置&r可輕鬆替你處理刷怪塔中的生物。\n\n供電後，這台機器會立即殺死工作範圍內的生物，並自動將戰利品收進物品欄。\n\n透過升級插件，你可以擴大工作範圍，也能提高運作速度。",
     "context": "chapters/resource_generation.snbt / quest 16F7490FA5DE307C",
     "meta": {
       "line_split_policy": "lf",
@@ -244,7 +244,7 @@
   },
   "quest.2E619195856B3B9F.quest_desc": {
     "original": "The &aOre Generator&r from &bMekanism&r allows you to charge &cLasers&r with power, then direct them into the generator to create ores.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "&a礦物製造機&r來自《&b通用機械&r》。你可以為&c雷射&r供電，再將光束導向製造機來產生礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
+    "translation": "使用《&b通用機械&r》的&a礦物製造機&r時，可以為&c雷射&r供電，再將光束導向製造機來產生礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 2E619195856B3B9F",
     "meta": {
       "line_split_policy": "lf",
@@ -262,7 +262,7 @@
   },
   "quest.2E9F9DD6660745B3.quest_desc": {
     "original": "The &aMechanical Harvester&r from &bCreate&r can be attached to a spinning contraption to auto-harvest any crops it comes in contact with.\n\nThis can be a great option for those who like to use &bCreate&r!",
-    "translation": "&a機械收割機&r來自《&b動力機械&r》，可安裝在旋轉的動能裝置上，自動收割接觸到的作物。\n\n對喜歡使用《&b動力機械&r》的玩家來說，這是個很棒的選擇！",
+    "translation": "《&b動力機械&r》的&a機械收割機&r可安裝在旋轉的動能裝置上，自動收割接觸到的作物。\n\n對喜歡使用《&b動力機械&r》的玩家來說，這是個很棒的選擇！",
     "context": "chapters/resource_generation.snbt / quest 2E9F9DD6660745B3",
     "meta": {
       "line_split_policy": "lf",
@@ -352,7 +352,7 @@
   },
   "quest.43919D8A9EB5C627.quest_desc": {
     "original": "The &2Hydroponic Bed&r from &bIndustrial Foregoing&r works as an accelerated soil for crops to grow on.\n\nIt can automatically harvest crops for you, and can also be upgraded in speed using upgrades and by using &bEther Gas&r from Withers.\n\nYou can also use the &dSimulated Hydroponic Bed&r to simulate the growth from a single crop into multiple beds!",
-    "translation": "&2水耕床&r來自《&b工業先鋒&r》，能作為加速作物生長的土壤。\n\n它會自動收穫作物，也能藉由安裝升級，以及使用取自凋零怪的&b乙醚氣體&r，進一步提高速度。\n\n你還能使用&d模擬水耕床&r，將單株作物的生長模擬到多個水耕床中！",
+    "translation": "《&b工業先鋒&r》的&2水耕床&r能作為加速作物生長的土壤。\n\n它會自動收穫作物，也能藉由安裝升級，以及使用取自凋零怪的&b乙醚氣體&r，進一步提高速度。\n\n你還能使用&d模擬水耕床&r，將單株作物的生長模擬到多個水耕床中！",
     "context": "chapters/resource_generation.snbt / quest 43919D8A9EB5C627",
     "meta": {
       "line_split_policy": "lf",
@@ -388,7 +388,7 @@
   },
   "quest.45CB4500F3CEF539.quest_desc": {
     "original": "The &aMaterial Stonework Factory&r from &bIndustrial Foregoing&r can infinitely generate different types of stone blocks over time.\n\nTo see the many different items the Factory can make, hit &bU&r on it while in JEI.",
-    "translation": "&a造石加工機&r來自《&b工業先鋒&r》，能持續無限生產各種石材方塊。\n\n在 JEI 中將游標移到這台機器上，按下&bU&r，就能查看它可製作的各種物品。",
+    "translation": "《&b工業先鋒&r》的&a造石加工機&r能持續無限生產各種石材方塊。\n\n在 JEI 中將游標移到這台機器上，按下&bU&r，就能查看它可製作的各種物品。",
     "context": "chapters/resource_generation.snbt / quest 45CB4500F3CEF539",
     "meta": {
       "line_split_policy": "lf",
@@ -406,7 +406,7 @@
   },
   "quest.48B3D104BEFE1959.quest_desc": {
     "original": "Using a &aMechanical Saw&r from &6Create&r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a &aDeployer&r to plant the saplings back, and you'll have a cool looking tree farm.",
-    "translation": "利用&a動力鋸&r，就能製作自動砍伐成熟樹木的裝置；這項設備來自《&6動力機械&r》。\n\n再搭配&a機械手&r重新種下樹苗，就能打造一座既實用又好看的自動樹場。",
+    "translation": "利用《&6動力機械&r》的&a動力鋸&r，就能製作自動砍伐成熟樹木的裝置。\n\n再搭配&a機械手&r重新種下樹苗，就能打造一座既實用又好看的自動樹場。",
     "context": "chapters/resource_generation.snbt / quest 48B3D104BEFE1959",
     "meta": {
       "line_split_policy": "lf",
