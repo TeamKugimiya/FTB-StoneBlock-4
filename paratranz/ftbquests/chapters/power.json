@@ -496,7 +496,7 @@
   },
   "quest.4843F5564CA5810C.quest_desc": {
     "original": "The &aDiesel Generator&r generates &dHV&r power by consuming fuels like &2Diesel&r.\n\nDepending on the fuel used, certain fuels will burn for longer inside the generator, creating more power.\n\nFor a full list of fuels check the &bEngineer's Manual&r or JEI.\n\nTo learn more about building and using them, refer to the &aElectrical Grids&r section of the &bEngineer's Manual&r.",
-    "translation": "&a柴油發電機&r可以產生&d高壓&r能量，消耗的燃料包括&2柴油&r。\n\n依使用的燃料不同，有些燃料會在發電機內燃燒更久，進而產生更多能量。\n\n完整燃料清單，請查閱&b工程師指南手冊&r或 JEI。\n\n若要進一步了解建造與使用方式，請參考&a電網&r章節，內容收錄於&b工程師指南手冊&r。",
+    "translation": "&a柴油發電機&r會消耗&2柴油&r等燃料，產生&d高壓&r能量。\n\n依使用的燃料不同，有些燃料會在發電機內燃燒更久，進而產生更多能量。\n\n完整燃料清單，請查閱&b工程師指南手冊&r或 JEI。\n\n若要進一步了解建造與使用方式，請參考&b工程師指南手冊&r的&a電網&r章節。",
     "context": "chapters/power.snbt / quest 4843F5564CA5810C",
     "meta": {
       "line_split_policy": "lf",
@@ -721,7 +721,7 @@
   },
   "quest.6C4783132CC50BF0.quest_desc": {
     "original": "&dSchrödinger's Safe&r is an energy storage multiblock that can store billions of RF when properly set up.\n\nThis multiblock requires a &bCapacity Block&r which changes the base storage multiplier of &dSchrödinger's Safe&r.\n\nLow, Medium, and High Capacity Blocks multiply the base storage by 0.3x, 1x, and 5x respectively. Check the item tooltip for a full list of available capacity blocks.\n\nYou can also exponentially increase the capacity of &dSchrödinger's Safe&r by powering its sides with &aEnderic Lasers&r, up to 5000x",
-    "translation": "&d薛丁格的保險箱&r是多方塊能量儲存結構，正確設置後可儲存數十億 RF。\n\n此多方塊需要&b容量方塊&r來調整&d薛丁格保險箱&r的基礎儲存倍率。\n\n低／中／高容量方塊分別提供 0.3x、1x、5x 基礎倍率。\n\n完整可用方塊請查看物品提示。\n\n你也可以將&d薛丁格保險箱&r容量以指數方式提升，只要用&a終界雷射&r為其側面供能，最高可達 5000 倍。",
+    "translation": "&d薛丁格的保險箱&r是多方塊能量儲存結構，正確設置後可儲存數十億 RF。\n\n此多方塊需要&b容量方塊&r來調整&d薛丁格保險箱&r的基礎儲存倍率。\n\n低／中／高容量方塊分別提供 0.3x、1x、5x 基礎倍率。\n\n完整可用方塊請查看物品提示。\n\n你也可以用&a終界雷射&r為&d薛丁格保險箱&r的側面供能，使其容量以指數方式提升，最高可達 5000 倍。",
     "context": "chapters/power.snbt / quest 6C4783132CC50BF0",
     "meta": {
       "line_split_policy": "lf",

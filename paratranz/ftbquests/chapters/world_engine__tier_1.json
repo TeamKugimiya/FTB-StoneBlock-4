@@ -64,7 +64,7 @@
   },
   "quest.0D159FD643581C18.quest_desc": {
     "original": "The &dMachinist&r mentioned a forgotten and potentially &cdangerous&r &3Vault&r that should contain the alloy needed to make the &6World Engine's &3Shadow Casing Upgrade&r.\n\nDig throughout the &3Stone&r and &3Deepslate&r rings to locate the &3Vault&r using the compass provided by the &dMachinist&r.",
-    "translation": "&d機械前輩&r提到了一座被遺忘且有潛在&c危險&r的&3寶庫&r：不過裡面可能有著我們製造&6世界引擎的&3暗影機殼升級&r所需的合金。\n\n在&3石頭&r和&3深板岩&r環帶之間且挖且行，找到那座&3寶庫&r吧，尋找時可使用&d機械前輩&r給予你的羅盤。",
+    "translation": "&d機械前輩&r提到了一座被遺忘且有潛在&c危險&r的&3寶庫&r：不過裡面可能有著我們製造&6世界引擎的&3暗影機殼升級&r所需的合金。\n\n在&3石頭&r和&3深板岩&r環帶之間且挖且行，用&d機械前輩&r給予你的羅盤，找到那座&3寶庫&r吧。",
     "context": "chapters/world_engine__tier_1.snbt / quest 0D159FD643581C18",
     "meta": {
       "line_split_policy": "lf",
@@ -444,7 +444,7 @@
   },
   "quest.584B4C34CBF0E028.quest_desc": {
     "original": "While the &aImbuement Chamber&r can slowly draw in the magical essence from the world, it cannot create the &dSource&r that you need to upgrade the &6World Engine&r.\n\n&dSource&r can be drawn from many different sources by using a &aSourcelink&r. There are many different options, but the &2Agronomic Sourcelink&r is a great starting point.\n\nYou'll also need a way to store the &dSource&r the link collects, which can easily be done by placing a &aSource Jar&r near the link.",
-    "translation": "雖然&a灌注室&r可以緩慢吸收世界中的魔法精華，但無法產生&d魔源&r，而這是升級&6世界引擎&r所需的資源。\n\n&d魔源&r可以從許多不同來源汲取，這要用到&a魔源通道&r。有許多不同的選項，但&2農藝魔源通道&r是很好的起點。\n\n你也需要儲存通道收集到的&d魔源&r，只要在通道附近放置一個&a魔源罐&r即可。",
+    "translation": "雖然&a灌注室&r可以緩慢吸收世界中的魔法精華，但無法產生升級&6世界引擎&r所需的&d魔源&r。\n\n&a魔源通道&r可以從各種來源汲取&d魔源&r；其中，&2農藝魔源通道&r是很好的起點。\n\n你也需要儲存通道收集到的&d魔源&r，只要在通道附近放置一個&a魔源罐&r即可。",
     "context": "chapters/world_engine__tier_1.snbt / quest 584B4C34CBF0E028",
     "meta": {
       "line_split_policy": "lf",

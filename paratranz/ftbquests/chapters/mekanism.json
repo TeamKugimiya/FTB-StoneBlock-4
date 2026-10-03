@@ -181,7 +181,7 @@
   },
   "quest.6A3BFD63419A15CE.quest_desc": {
     "original": "The &aCrusher&r has 3 main uses in &eMekanism&r.\n\n1. It is used to break down ingots directly into &bDusts&r, which can be useful for creating dusts needed for certain machines or upgrades.\n\n2. In the Tier 2 Ore Processing Chain, the &aCrusher&r takes &eore clumps&r made from the &aPurification Chamber&r and breaks them down into &aDirty Dusts&r.\n\n3. It can create &aBiofuel&r from organic materials, which is used to create new machines and byproducts that we'll need later down the road!",
-    "translation": "&a粉碎機&r在&e通用機械&r中有三個主要功能。\n\n1. 它可以將礦物錠直接磨碎成&b礦物粉&r，有些機器和升級需要礦物粉來製作。\n\n2. 在等級 2 礦物產線中，\n&a粉碎機&r會處理&e礦物碎塊&r，這些碎塊由&a淨化倉&r製成，並可進一步磨成&a汙濁礦物粉&r。\n\n3. 它能利用有機物製作&a生物燃料&r，用來製作新機器，並且之後我們會用到生物燃料做其他東西。",
+    "translation": "&a粉碎機&r在&e通用機械&r中有三個主要功能。\n\n1. 它可以將礦物錠直接磨碎成&b礦物粉&r，有些機器和升級需要礦物粉來製作。\n\n2. 在等級 2 礦物產線中，&a粉碎機&r會將&a淨化倉&r製成的&e礦物碎塊&r磨成&a汙濁礦物粉&r。\n\n3. 它能利用有機物製作&a生物燃料&r，用來製作新機器，並且之後我們會用到生物燃料做其他東西。",
     "context": "chapters/mekanism.snbt / quest 6A3BFD63419A15CE",
     "meta": {
       "line_split_policy": "lf",

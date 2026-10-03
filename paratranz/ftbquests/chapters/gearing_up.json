@@ -46,7 +46,7 @@
   },
   "quest.011DBD2652E49B97.quest_desc": {
     "original": "[\"\", {\"text\": \"Apotheosis\", \"color\": \"yellow\"}, \" has a \", {\"text\": \"World Tier\", \"color\": \"aqua\"}, \" system that can be accessed by pressing \", {\"keybind\": \"key.apotheosis.open_world_tier_select\", \"color\": \"yellow\", \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Default: CTRL + T\"}}, \".\" ]\n\n[\"You start at \", {\"text\": \"Haven\", \"color\": \"#7E7E7E\"}, \" upon acquiring your first \", {\"text\": \"Affix Item\", \"color\": \"#55FF55\"}, \", and unlock more tiers as you advance in the mod.\"]\n\nHigher tiers increase mob stats and rewards across all dimensions, and reduce your max &aEterna&f cap. These can be viewed in the Tiers menu.",
-    "translation": "[\"\", {\"text\": \"神化\", \"color\": \"yellow\"}, \"有一套\", {\"text\": \"世界階級\", \"color\": \"aqua\"}, \"系統，可按下\", {\"keybind\": \"key.apotheosis.open_world_tier_select\", \"color\": \"yellow\", \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"預設：CTRL + T\"}}, \"開啟。\" ]\n\n[\"你的起始階級為\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \"，取得第一件\", {\"text\": \"詞綴物品\", \"color\": \"#55FF55\"}, \"時便會開放，之後可隨著模組進度解鎖更多階級。\"]\n\n更高的階級會提高所有維度中生物的能力值與獎勵，並降低&a位階&f上限。這些變化可在階級選單中查看。",
+    "translation": "[\"\", {\"text\": \"神化\", \"color\": \"yellow\"}, \"有一套\", {\"text\": \"世界階級\", \"color\": \"aqua\"}, \"系統，可按下\", {\"keybind\": \"key.apotheosis.open_world_tier_select\", \"color\": \"yellow\", \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"預設：CTRL + T\"}}, \"開啟。\" ]\n\n[\"你的起始階級為\", {\"text\": \"避風港\", \"color\": \"#7E7E7E\"}, \"，取得第一件\", {\"text\": \"詞綴物品\", \"color\": \"#55FF55\"}, \"時便會開放，之後可隨著模組進度解鎖更多階級。\"]\n\n更高的世界階級會提高所有維度中生物的能力值與獎勵，並提高&a位階&f上限。這些變化可在階級選單中查看。",
     "context": "chapters/gearing_up.snbt / quest 011DBD2652E49B97",
     "meta": {
       "line_split_policy": "lf",
@@ -613,7 +613,7 @@
   },
   "quest.26D7C5298D95C69A.quest_desc": {
     "original": "When crafting &bJewelry&r, &aBanding Materials&r can be used by themselves to grant effects and/or stat increases.\n\nTheir main use, however, is to multiply &aGem&r effects with their quality multiplier.\n\nWhile most vanilla gems will work, you can also search for &ajewelry_metal&r in JEI for a list.",
-    "translation": "製作&b飾品&r時，&a戒指材料&r本身就能提供效果或屬性提升。\n\n不過它們的主要用途，是透過品質倍率放大&a寶石&r效果。\n\n雖然大多數原版寶石都能使用，你也可以在 JEI 搜尋「&ajewelry_metal&r」查看完整清單。",
+    "translation": "製作&b飾品&r時，&a戒指材料&r本身就能提供效果或屬性提升。\n\n不過它們的主要用途，是透過品質倍率放大&a寶石&r效果。\n\n雖然大多數原版金屬都能使用，你也可以在 JEI 搜尋「&ajewelry_metal&r」查看完整清單。",
     "context": "chapters/gearing_up.snbt / quest 26D7C5298D95C69A",
     "meta": {
       "line_split_policy": "lf",
@@ -1216,7 +1216,7 @@
   },
   "quest.5388B67410670702.quest_desc": {
     "original": "[\"\", {\"text\": \"Draconic\", \"color\": \"gold\"}, \" weapons are upgraded versions of \", {\"text\": \"Wyvern\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C141655079AC173\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Weapons Quest\"}}, \" weapons, with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and better customizability.\"]\n\nYou can also craft the &6Draconic Staff of Power&r, an All-In-One tool and weapon.\n\nTheir module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
-    "translation": "[\"\", {\"text\": \"神龍武器\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍武器\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"2C141655079AC173\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍武器任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與更高自訂性。\"]\n\n你也可以製作&6神龍力量權杖&r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
+    "translation": "[\"\", {\"text\": \"神龍武器\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍武器\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"0B65713A23351790\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍武器任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與更高自訂性。\"]\n\n你也可以製作&6神龍力量權杖&r，這是一把將工具與武器合二為一的裝備。\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
     "context": "chapters/gearing_up.snbt / quest 5388B67410670702",
     "meta": {
       "line_split_policy": "lf",
@@ -1522,7 +1522,7 @@
   },
   "quest.700716B4ACCBD4F4.quest_desc": {
     "original": "[\"The \", {\"text\": \"Draconic Chestpiece\", \"color\": \"gold\"}, \" is an upgraded versions of the \", {\"text\": \"Wyvern Chestpiece\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"69997DAB93184551\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Wyvern Chestpiece Quest\"}}, \", with room for more \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \".\"]\n\nIts module inventory can be accessed via the keybind &eTool Modules&r, which isn't bound by default.",
-    "translation": "[\"\", {\"text\": \"神龍護胸\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍護胸\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"69997DAB93184551\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍護胸任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間。\"]\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
+    "translation": "[\"\", {\"text\": \"神龍護胸\", \"color\": \"gold\"}, \"是\", {\"text\": \"雙足飛龍護胸\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"2DF77DA2ED65FBAC\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往雙足飛龍護胸任務\"}}, \"的升級版本，擁有更多\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間。\"]\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
     "context": "chapters/gearing_up.snbt / quest 700716B4ACCBD4F4",
     "meta": {
       "line_split_policy": "lf",
@@ -1558,7 +1558,7 @@
   },
   "quest.7244348CAB8356E0.quest_desc": {
     "original": "[\"The \", {\"text\": \"Chaotic Chestpiece\", \"color\": \"rainbow\"}, \" is the final upgrade to the \", {\"text\": \"Draconic Chestpiece\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5388B67410670702\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Draconic Chestpiece Quest\"}}, \", with the most room for \", {\"text\": \"Upgrade Modules\", \"color\": \"green\"}, \" and maximum customizability.\"]\n\nIts module inventory can be accessed via the keybind &eTool Modules&r, which isn't set by default.",
-    "translation": "[\"\", {\"text\": \"混沌護胸\", \"color\": \"rainbow\"}, \"是\", {\"text\": \"神龍護胸\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"5388B67410670702\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神龍護胸任務\"}}, \"的最終升級，擁有最多的\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與最高自訂性。\"]\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
+    "translation": "[\"\", {\"text\": \"混沌護胸\", \"color\": \"rainbow\"}, \"是\", {\"text\": \"神龍護胸\", \"color\": \"gold\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"700716B4ACCBD4F4\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神龍護胸任務\"}}, \"的最終升級，擁有最多的\", {\"text\": \"升級模組\", \"color\": \"green\"}, \"空間與最高自訂性。\"]\n\n其模組欄位可透過「&e工具模組&r」快捷鍵開啟；此快捷鍵預設未綁定。",
     "context": "chapters/gearing_up.snbt / quest 7244348CAB8356E0",
     "meta": {
       "line_split_policy": "lf",

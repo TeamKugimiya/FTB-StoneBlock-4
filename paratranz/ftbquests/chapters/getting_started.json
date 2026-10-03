@@ -370,7 +370,7 @@
   },
   "quest.4F27342D2DA7C605.quest_desc": {
     "original": "Smashing &7Gravel&r down further turns it into &aDirt&r!\n\n&aDirt&r is always filled with some kind of seed or sapling.\n\nTry breaking &aDirt&r with a &aStone Crook&r.",
-    "translation": "將&7礫石&r進一步粉碎，就能得到&a泥土&r！\n\n&a泥土&r中總藏著某些種子或樹苗。\n\n試著破壞&a泥土&r吧，用&a石製曲柄杖&r就行。",
+    "translation": "將&7礫石&r進一步粉碎，就能得到&a泥土&r！\n\n&a泥土&r中總藏著某些種子或樹苗。\n\n試著用&a石製曲柄杖&r破壞&a泥土&r吧。",
     "context": "chapters/getting_started.snbt / quest 4F27342D2DA7C605",
     "meta": {
       "line_split_policy": "lf",

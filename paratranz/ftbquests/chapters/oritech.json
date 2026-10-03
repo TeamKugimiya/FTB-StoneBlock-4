@@ -333,7 +333,7 @@
   },
   "quest.7791DA964DA2A80D.quest_desc": {
     "original": "When particles of different items collide, they can create new items. The particle starts from the &aParticle Accelerator Block&r, where you can insert any item to be used as a particle. A straight &aGuide Ring&r needs to be placed right behind the &aController&r, facing to the side, with visuals aligning correctly.\n{@pagebreak}\nOnce inserted, the particle travels along a route defined by the &aGuide Rings&r. They can be right-clicked to add a 45-degree turn on one side. Another &aGuide Ring&r needs to be in the particle's path as defined by the &aGuide Rings&r. Depending on the speed, the allowed distance between &aGuide Rings&r increases\n\nThis means that, at higher speeds, the distance between &aGuide Rings&r can be larger.",
-    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從&a粒子加速器&r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線&a導引環&r必須放置在&a加速器控制部件&r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由&a導引環&r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n另一個&a導引環&r必須放在粒子的行進路徑上，也就是由&a導引環&r所定義的路徑。隨著速度增加，&a導引環&r之間允許的最大距離也會增加。\n\n這表示在較高速度下，&a導引環&r之間的間距可以拉得更遠。",
+    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從&a粒子加速器&r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線&a導引環&r必須放置在&a加速器控制部件&r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由&a導引環&r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n下一個&a導引環&r必須放在粒子的行進路徑上。粒子速度越快，&a導引環&r之間允許的最大距離就越大。",
     "context": "chapters/oritech.snbt / quest 7791DA964DA2A80D",
     "meta": {
       "line_split_policy": "lf",

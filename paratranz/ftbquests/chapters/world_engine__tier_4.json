@@ -365,7 +365,7 @@
   },
   "quest.45BA73F16B7AE681.quest_desc": {
     "original": "Found within lower deepslate, the &3Ancient City&r holds a giant portal that can finally be activated, allowing you to defeat the boss within.\n\nUpon entering the portal you will receive a blindness effect that can only be cured by filling your &dSoul Cage&r with mob souls dropped from killing strengthened enemies inside the &3Vault&r.\n\n&cYou must hold the &dSoul Cage &cin your offhand to charge it!\n\nOnce you have filled your &dSoul Cage&r, you may start the boss fight by taking the elevator in the starting room.\n\n&eNote&r: Killing mobs with the &6Reaper&r enchantment will fill your Cage quicker (+1 per Level)",
-    "translation": "在深板岩環帶的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。\n\n當你進入傳送門之後，你會受到失明效果的影響。只有填滿&d靈魂牢籠&r才能治癒；你需要擊殺&3寶庫&r內經過強化的敵人，收集它們掉落的生物靈魂。\n\n&c你必須要將&d靈魂牢籠&c放在你的副手才能收集到靈魂！\n\n當你填滿你的&d靈魂牢籠&r之後，你就可以搭上起始房間之中的電梯開啟頭目戰了。\n\n&e備註&r：使用&6收割者&r附魔殺死怪物能夠讓你的牢籠填得更快。（每等級 +1）",
+    "translation": "在深板岩環帶的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。\n\n進入傳送門後，你會受到失明影響。將&d靈魂牢籠&r放在非慣用手，並擊殺&3寶庫&r內的強化敵人收集靈魂；牢籠只要存有靈魂，就能消耗一個靈魂，暫時解除失明。\n\n&c你必須要將&d靈魂牢籠&c放在你的非慣用手才能收集到靈魂！\n\n當你填滿你的&d靈魂牢籠&r之後，你就可以搭上起始房間之中的電梯開啟頭目戰了。\n\n&e備註&r：使用&6收割者&r附魔殺死怪物能夠讓你的牢籠填得更快。（每等級 +1）",
     "context": "chapters/world_engine__tier_4.snbt / quest 45BA73F16B7AE681",
     "meta": {
       "line_split_policy": "lf",
@@ -589,7 +589,7 @@
   },
   "quest.775BE99DF402AF0D.quest_desc": {
     "original": "Speak to &dThe Ancient&r once you have returned from the &3Vault&r.\n\nThey'll be able to show you how to install the &3Euphonium World Engine Upgrade&r.",
-    "translation": "與&d遠古族裔&r談話，等你從&3寶庫&r成功歸來後就去找他。\n\n他會教你該如何安裝&3低吟金屬世界引擎升級&r。",
+    "translation": "從&3寶庫&r成功歸來後，去找&d遠古族裔&r談話。\n\n他會教你該如何安裝&3低吟金屬世界引擎升級&r。",
     "context": "chapters/world_engine__tier_4.snbt / quest 775BE99DF402AF0D",
     "meta": {
       "line_split_policy": "lf",

@@ -73,7 +73,7 @@
   },
   "quest.05CEF45909A11F60.quest_desc": {
     "original": "&2Sophisticated Backpacks&r provide a simple solution to your inventory problems! They can also be upgraded to hold even more items, and have tons of cool upgrades to help you in your adventures, like the &aCrafting Upgrade&r for a portable crafting table.\n\nYou can place these in a &eCurio Slot&r as well for easy access using a keybind. These can also be placed down in the world by Sneak + Right-clicking while it's in your main hand.\n\n[\"You can place these in a curio slot for easy access using the keybind \", { \"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\" }, \".\"]\n\n&eNote&r: Backpacks do not connect to pipes or cables.",
-    "translation": "《&2精巧背包&r》為你的物品欄問題，提供了簡單解法！\n\n背包可透過升級來容納更多物品，還有大量實用升級可協助冒險，\n\n例如提供「隨身工作台」功能的&a合成升級&r。\n\n你可以將背包放在&e飾品欄&r，用快捷鍵快速開啟。將背包拿在慣用手時，使用「潛行 + 右鍵」還能將其置於世界上。\n\n[\"你可以將背包放在飾品欄，並用快捷鍵「\", { \"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\" }, \"」快速開啟。\"]\n\n&e注意&r：背包無法連接管道或線纜。",
+    "translation": "《&2精巧背包&r》為你的物品欄問題，提供了簡單解法！\n\n背包可透過升級來容納更多物品，還有大量實用升級可協助冒險，\n\n例如提供「隨身工作台」功能的&a合成升級&r。\n\n[\"將背包放入\", {\"text\": \"飾品欄\", \"color\": \"yellow\"}, \"後，可按「\", {\"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\"}, \"」快速開啟。\"]\n\n將背包拿在慣用手時，使用「潛行 + 右鍵」可將其放置在世界中。\n\n&e注意&r：背包無法連接管道或線纜。",
     "context": "chapters/logistics__storage.snbt / quest 05CEF45909A11F60",
     "meta": {
       "line_split_policy": "lf",
@@ -766,7 +766,7 @@
   },
   "quest.400FD8861E907DDA.quest_desc": {
     "original": "The &aDisk Interface&r transfers items between the storage network and provided &bStorage Disks&r.\n\n&bStorage Disks&r can alternatively be upgraded directly into the next tier by combining the upgraded part with the existing disk in a crafting grid, returning your old disk in the process while keeping all of your items.\n\n&eCable Tiers &aDisk Interfaces&r upgrade the speed at which items are transferred and have more filter slots.",
-    "translation": "&a磁碟介面&r用於在儲存網路，與提供的&b儲存磁碟&r間傳輸物品。\n\n&b儲存磁碟&r也能在合成欄中，將現有磁碟與升級材料直接合成至下一階；過程會返還舊磁碟，並保留所有物品。\n\n《&e高階線纜》的高階&a磁碟介面&r，會提升傳輸速度，並提供更多篩選欄位。",
+    "translation": "&a磁碟介面&r用於在儲存網路，與提供的&b儲存磁碟&r間傳輸物品。\n\n&b儲存磁碟&r也能在合成欄中，將現有磁碟與升級材料直接合成至下一階；過程會返還舊儲存元件，並保留磁碟中的所有物品。\n\n《&e高階線纜》的高階&a磁碟介面&r，會提升傳輸速度，並提供更多篩選欄位。",
     "context": "chapters/logistics__storage.snbt / quest 400FD8861E907DDA",
     "meta": {
       "line_split_policy": "lf",
@@ -1279,7 +1279,7 @@
   },
   "quest.6AA51581B0CA5271.quest_desc": {
     "original": "&aDisk Drives&r accept &bStorage Disks&r capable of holding different resources and have several configuration options such as storage priority, insert/extract mode, void mode, and more.\n\nYou can also filter what items can be stored within a &aDisk Drive&r by placing that item on one of the top 9 slots inside its interface.\n\n&bStorage Disks&r can be upgraded directly into the next tier by crafting the upgraded part with the existing &bStorage Disk&r, returning your old one in the process while keeping all of your items stored.\n\n&bStorage Disks&r can be separated from their housing by Shift + Right-clicking when it has no items stored inside it.",
-    "translation": "&a磁碟驅動器&r可安裝&b儲存磁碟&r來儲存不同資源，並提供多種設定選項，\n\n如儲存優先度、存取模式、銷毀模式等。\n\n你還能在&a磁碟驅動器&r的介面，上方 9 格欄位放入物品，篩選可儲存的資源類型。\n\n&b儲存磁碟&r可透過將升級材料與現有的&b儲存磁碟&r結合，直接合成至下一階，過程會返還舊元件，並保留儲存的所有物品。\n\n當磁碟內無物品時，可用「Shift + 右鍵」將&b儲存磁碟&r與外殼分離。",
+    "translation": "&a磁碟驅動器&r可安裝&b儲存磁碟&r來儲存不同資源，並提供多種設定選項，\n\n如儲存優先度、存取模式、銷毀模式等。\n\n你還能在&a磁碟驅動器&r的介面，上方 9 格欄位放入物品，篩選可儲存的資源類型。\n\n&b儲存磁碟&r可透過將升級材料與現有的&b儲存磁碟&r結合，直接合成至下一階，過程會返還舊儲存元件，並保留磁碟中的所有物品。\n\n&b儲存磁碟&r清空後，可用「Shift + 右鍵」拆出儲存元件與外殼。",
     "context": "chapters/logistics__storage.snbt / quest 6AA51581B0CA5271",
     "meta": {
       "line_split_policy": "lf",

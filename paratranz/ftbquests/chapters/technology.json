@@ -721,7 +721,7 @@
   },
   "quest.4BB6832FE4685131.quest_desc": {
     "original": "To use your &3Souls&r, point the &aSoul Surge&r at the block you want to accelerate and connect it to the &dSoul Laser Base&r using &aSoul Pipes&r.",
-    "translation": "要使用你的&3靈魂&r，請將&a靈魂湧動器&r對準你想要加速的方塊，並將其連結至&d靈魂雷射基座&r，連接時使用&a靈魂管道&r。",
+    "translation": "要使用你的&3靈魂&r，請將&a靈魂湧動器&r對準你想要加速的方塊，再用&a靈魂管道&r將其連接至&d靈魂雷射基座&r。",
     "context": "chapters/technology.snbt / quest 4BB6832FE4685131",
     "meta": {
       "line_split_policy": "lf",
@@ -937,7 +937,7 @@
   },
   "quest.6600E26635FD3D0E.quest_desc": {
     "original": "&2Speed Modules&r can be used to upgrade many &eMFFS&r machines, generally speeding up their performance.\n\nIt can also increase the generation rate of the &aCoercion Deriver&r and the &3Fortron&r transfer limit of the &aFortron Capacitor&r.\n\n&2Capacity Modules&r increase the amount of &3Fortron&r a machine can hold at once.",
-    "translation": "&2速度模組&r可用於升級許多 &eMFFS&r 機器，\n通常可以加快它們的效率。\n\n它還可以增加&a力場子衍生儀&r的產出速率，以及&3力場子&r的傳輸上限，這項效果作用於&a力場子容庫&r。\n\n&2容量模組&r則會增加機器一次可以容納的&3力場子&r數量。",
+    "translation": "&2速度模組&r可用於升級許多 &eMFFS&r 機器，\n通常可以加快它們的效率。\n\n它還可以提高&a力場子衍生儀&r的產出速率，以及&a力場子容庫&r的&3力場子&r傳輸上限。\n\n&2容量模組&r則會增加機器一次可以容納的&3力場子&r數量。",
     "context": "chapters/technology.snbt / quest 6600E26635FD3D0E",
     "meta": {
       "line_split_policy": "lf",

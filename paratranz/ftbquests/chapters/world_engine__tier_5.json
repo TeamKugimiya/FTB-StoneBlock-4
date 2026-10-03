@@ -257,7 +257,7 @@
   },
   "quest.28F9C2B43B31DE16.quest_desc": {
     "original": "The &dAtomic Forge&f can now combine your &oEnchanted&r &5Trinity Gem&f with a pair of &oEnchanted&r &dNeutronium Ingots&f to create a &6Fortified Containment Device&f.\n\n&eNote&f: The &5Trinity Gem&f needs Unbreaking 112 and Blast Protection 10 and the &dNeutronium Ingots&f need Unbreaking 16!\n\nOnce you have obtained the &6Containment Device&f to capture the &dAntimatter&f, it is time to create some!\n\nSmashing the &6Containment Device&f with a highly radioactive &2Plutonium Pellet&f at a high enough speed will generate plenty of &dAntimatter&f that the &6Containment Device&f can capture into an &dAntimatter Fragment&f before it dissipates.",
-    "translation": "&d原子鍛造廠&f現在可以將你&o附魔過的&r&5三位一體寶石&f，與一對&o附魔過的&r&d中子錠&f結合，合成出&6強化圍阻裝置&f。\n\n&e注意&f：&5三位一體寶石&f需要耐久 112 與爆炸保護 10，而&d中子錠&f需要耐久 16！\n\n當你取得了&6圍阻裝置&f，可以用來捕捉&d反物質&f後，是時候來開始生產了！\n\n以&6圍阻裝置&f為目標，讓具有高放射性的&2鈽燃料顆粒&f以足夠高的速度撞擊它，\n\n將會產生大量的&d反物質&f，&6圍阻裝置&f能夠在它消散之前，將其捕捉成&d反物質碎片&f。",
+    "translation": "&d原子鍛造廠&f現在可以將你&o附魔過的&r&5三位一體寶石&f，與一對&o附魔過的&r&d中子錠&f結合，合成出&6強化圍阻裝置&f。\n\n&e注意&f：&5三位一體寶石&f需要耐久 112 與爆炸保護 10，而&d中子錠&f需要耐久 16！\n\n取得用來捕捉&d反物質&f的&6圍阻裝置&f後，就可以開始生產了！\n\n讓具有高放射性的&2鈽燃料顆粒&f以足夠高的速度撞擊&6圍阻裝置&f，就會產生大量的&d反物質&f。&6圍阻裝置&f能在反物質消散前將其捕捉，形成&d反物質碎片&f。",
     "context": "chapters/world_engine__tier_5.snbt / quest 28F9C2B43B31DE16",
     "meta": {
       "line_split_policy": "lf",
