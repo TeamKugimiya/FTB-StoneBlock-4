@@ -10,7 +10,7 @@
   },
   "quest.05A6946A5AF26684.quest_desc": {
     "original": "If you're looking for wireless redstone, &6Create&r has a simple &aRedstone Link&r that can connect up to any other link for wireless redstone. Using a &aCreate Wrench&r, you can toggle which link will transmit the redstone signal.\n\n&6RFTools&r has something similar, but in two separate blocks. ",
-    "translation": "若你正在尋找無線紅石方案，《&6動力機械&r》提供了一個簡單的&a無線紅石訊號終端&r，與其他終端連接之後，可以無線傳遞紅石訊號。\n\n使用&a動力機械扳手&r對著終端點擊右鍵，可以將終端設定為接收端。\n\n&6RFTools&r 也有類似的東西，但分為兩個獨立的方塊。",
+    "translation": "若你正在尋找無線紅石方案，《&6動力機械&r》提供了一個簡單的&a無線紅石訊號終端&r，與其他終端連接之後，可以無線傳遞紅石訊號。\n\n使用&a動力機械扳手&r對著終端點擊右鍵，可以切換終端的發送與接收模式。\n\n&6RFTools&r 也有類似的東西，但分為兩個獨立的方塊。",
     "context": "chapters/useful_items_tips.snbt / quest 05A6946A5AF26684",
     "meta": {
       "line_split_policy": "lf",
@@ -73,7 +73,7 @@
   },
   "quest.2682A911828C2D88.title": {
     "original": "&2Framed Blocks",
-    "translation": "&e鑲框方塊",
+    "translation": "&2鑲框方塊",
     "context": "chapters/useful_items_tips.snbt / quest 2682A911828C2D88",
     "meta": {
       "line_split_policy": "none",
@@ -172,7 +172,7 @@
   },
   "quest.45CB3F325010A5AD.quest_desc": {
     "original": "Need a place to store all of your experience so you don't lose it when you die?\n\nThe &aExperience Holder&r from &6Just Dire Things&r is easy to use, and can also be used to collect experience around it in a configurable range.\n\nThe &aExperience Obelisk&r from &6Cognition&r works the same way!\n\n&7Even if you think you aren't going to die when going to the Arcane Grove, you probably should be safe and store your experience anyway.&r",
-    "translation": "需要一個地方來儲存你所有的經驗，以免在死亡時丟失嗎？\n\n來自《&6Just Dire Things&r》的&a經驗儲存器&r非常易於使用，\n還可用於在指定範圍內收集周圍的經驗球。\n\n來自《&6認知&r》的&a經驗方尖碑&r也有相同的功能！\n\n&7即使你認為去秘法源林時不會發生意外，&r\n\n&7但為了保險起見，還是建議你把經驗儲存起來。&r",
+    "translation": "需要一個地方來儲存你所有的經驗，以免在死亡時丟失嗎？\n\n&a經驗儲存器&r來自《&6Just Dire Things&r》，非常容易使用，\n還可用於在指定範圍內收集周圍的經驗球。\n\n&a經驗方尖碑&r來自《&6認知&r》，也有相同的功能！\n\n&7即使你認為去秘法源林時不會發生意外，\n\n但為了保險起見，還是建議你把經驗儲存起來。&r",
     "context": "chapters/useful_items_tips.snbt / quest 45CB3F325010A5AD",
     "meta": {
       "line_split_policy": "lf",

@@ -64,7 +64,7 @@
   },
   "quest.07062B805D9238C0.quest_desc": {
     "original": "The core device of the mod, the &aExperience Obelisk&r allows for lossless storage and fine manipulation of experience (XP) levels by converting it internally to and from a fluid called &bCognitium&r.\n\nOther Cognition devices can be linked to this block with the &aStaff of Attunement&r, Cognition's \"wrench,\" to enable or enhance their abilities. A &aMemory Tablet&r can be linked to remotely access an Obelisk in the general area. This link is per player.\n\n&7&oIt is also able to passively pick up XP orbs around it.",
-    "translation": "作為本模組的核心裝置，&a經驗方尖碑&r可以將「經驗」轉換為名為&b認知精華&r的流體，來實現無損儲存與精細操作。\n\n其他《&2認知&r》模組的裝置，可以透過&a調和之杖&r（本模組的「扳手」）綁定至此方塊，以啟用或增強其能力。\n\n&a記憶石板&r可以被綁定以遠端存取附近的方尖碑。\n此連結僅限於單個玩家。\n\n&7&o它還能被動拾取周圍的經驗球。",
+    "translation": "作為本模組的核心裝置，&a經驗方尖碑&r可以將「經驗」轉換為名為&b認知精華&r的流體，來實現無損儲存與精細操作。\n\n其他《認知》模組的裝置，可以透過&a調和之杖&r（本模組的「扳手」）綁定至此方塊，以啟用或增強其能力。\n\n&a記憶石板&r可以被綁定以遠端存取附近的方尖碑。\n此連結僅限於單個玩家。\n\n&7&o它還能被動拾取周圍的經驗球。",
     "context": "chapters/technology.snbt / quest 07062B805D9238C0",
     "meta": {
       "line_split_policy": "lf",
@@ -109,7 +109,7 @@
   },
   "quest.0B1E459D12D11A0D.quest_desc": {
     "original": "&aModes&r and &2Modules&r instruct the &dProjector&r on how to function.\n\n&aShape Modes&r define the form &bForce Field Blocks&r will be placed in and &2Directional Modules&r &7(next quest)&r specify its placement in the world.\n\nAn &eInverter Module&r in the matrix slots will fill the &lentire&r projected volume with &bfield blocks&r instead of just creating an outline.\n\n&7&oMore mode details on the next pages.\n{@pagebreak}\n&aCube Mode&r respects the directions of scale modules along an axis, and requires each of the three axes to be defined to form an enclosed field.\n\n&aSphere Mode&r treats every &2Scale module&r in the field slots as a single radius addition, allowing you to encase a vast area at the cost of reduced shape customization.\n\n&aTube Mode&r is nearly identical to &aCube Mode&r, but has two of the resulting faces open.\n\n&aPyramid Mode&r forms a 4-sided pyramid with points along the horizontal axes, requiring all three axes to be defined, respecting Up/Down directions for height.\n\n&aCylinder Mode&r uses the horizontal axis as a radius, and the Up/Down axis as one total height.\n{@pagebreak}\n&bCustom Mode&r can be used to set both opposing corners of an area. Sneak + Right-Clicking will set that field structure on any non-air blocks within that area. Sneak + Right-Clicking the air will clear the selection.\n\n&bThis mode&r ignores &2Scale Modules&r, and defaults its origin to the center of the selected area. A &dCamouflage Module&r will copy the selected blocks instead of its normal behavior.",
-    "translation": "&a模式&r與&2模組&r決定了&d力場投影儀&r如何運作。\n\n&a形狀模式&r定義了&b力場方塊&r放置的形狀，而&2方向性模組&r（下個任務）則指定其在世界中的放置位置。\n\n在矩陣欄位中放入&e反轉模組&r，會使&l整個&r投影體積填滿&b力場方塊&r，而不僅僅是建立一個輪廓。\n\n&7&o更多模式細節請見下頁。\n{@pagebreak}\n&a立方體模式&r會遵循各軸上的擴展模組方向，並需要定義完整三個軸才能形成封閉的力場。\n\n&a球體模式&r會將欄位中的每個&2擴展模組&r視為單一半徑的增加，允許你以降低形狀自訂性為代價，包裹住廣大區域。\n\n&a管狀模式&r與&a立方體模式&r幾乎相同，但其中兩個相對面是開放的。\n\n&a金字塔模式&r會形成一個延著水平軸對齊的四面金字塔，需要定義完整三個軸，並遵循高度的上／下方向。\n\n&a圓柱模式&r使用水平軸作為半徑，並使用上／下軸作為總高度。\n{@pagebreak}\n&b自訂模式&r可用於設定區域的兩個相對頂點。\n潛行+右鍵點擊區域內的任何非空氣方塊，可將該區域設定成力場結構。\n潛行+右鍵點擊空氣則會清除選擇。\n\n&b此模式&r會無視&2擴展模組&r，並預設其原點為所選區域的中心。\n\n&d偽裝模組&r則會複製所選方塊的外觀，而非其正常行為。",
+    "translation": "&a模式&r與&2模組&r決定了&d力場投影儀&r如何運作。\n\n&a形狀模式&r定義了&b力場方塊&r放置的形狀，而&2方向性模組&r&7（下個任務）&r則指定其在世界中的放置位置。\n\n在矩陣欄位中放入&e反轉模組&r，會使&l整個&r投影體積填滿&b力場方塊&r，而不僅僅是建立一個輪廓。\n\n&7&o更多模式細節請見下頁。\n{@pagebreak}\n&a立方體模式&r會遵循各軸上的擴展模組方向，並需要定義完整三個軸才能形成封閉的力場。\n\n&a球體模式&r會將欄位中的每個&2擴展模組&r視為單一半徑的增加，允許你以降低形狀自訂性為代價，包裹住廣大區域。\n\n&a管狀模式&r與&a立方體模式&r幾乎相同，但其中兩個相對面是開放的。\n\n&a金字塔模式&r會形成一個沿著水平軸對齊的四面金字塔，需要定義完整三個軸，並遵循高度的上／下方向。\n\n&a圓柱模式&r使用水平軸作為半徑，並使用上／下軸作為總高度。\n{@pagebreak}\n&b自訂模式&r可用於設定區域的兩個相對頂點。\n潛行+右鍵點擊區域內的任何非空氣方塊，可將該區域設定成力場結構。\n潛行+右鍵點擊空氣則會清除選擇。\n\n&b此模式&r會無視&2擴展模組&r，並預設其原點為所選區域的中心。\n\n&d偽裝模組&r則會複製所選方塊的外觀，而非其正常行為。",
     "context": "chapters/technology.snbt / quest 0B1E459D12D11A0D",
     "meta": {
       "line_split_policy": "lf",
@@ -127,7 +127,7 @@
   },
   "quest.0B92679772DB0C68.quest_desc": {
     "original": "&aShafts&r and &aCogwheels&r are the primary ways to transfer rotational force to your machines and contraptions.\n\nCheck the &aCogwheel&r &bPonder&r to see how they can also be used to increase/decrease &bRotation(s) Per Minute&r (&bRPM&r) within your system.",
-    "translation": "&a傳動桿&r和&a齒輪&r是在你的機器和裝置之間，傳輸動能的主要方式。\n\n查看&a齒輪&r的&b教學&r可以學到該如何利用它們來增加／減少系統的&b轉速&r。",
+    "translation": "&a傳動桿&r和&a齒輪&r是在你的機器和裝置之間，傳輸動能的主要方式。\n\n查看&a齒輪&r的&b教學&r可以學到該如何利用它們來增加／減少系統的&b每分鐘轉數&r（&bRPM&r）。",
     "context": "chapters/technology.snbt / quest 0B92679772DB0C68",
     "meta": {
       "line_split_policy": "lf",
@@ -154,7 +154,7 @@
   },
   "quest.0E107AC18FCFDB57.title": {
     "original": "&aGoo Transmutations&r",
-    "translation": "&a凝漿轉化",
+    "translation": "&a凝漿轉化&r",
     "context": "chapters/technology.snbt / quest 0E107AC18FCFDB57",
     "meta": {
       "line_split_policy": "none",
@@ -199,7 +199,7 @@
   },
   "quest.166BA0D04A1686C7.quest_desc": {
     "original": "&3Fortron&r can be extracted from the buffer of a &aCoercion Deriver&r or any other &bFortron-based machines&r.\n\nThis can be done by using any method of fluid extracting from other mods.\n\n&7&oCheck the \"Logistics\" quest chapter for some fluid management options.\n\n&7&oNote: to complete this quest, you'll need to pump a bucket's worth (1000mB) into an assigned &2Task Screen&r.",
-    "translation": "&3力場子&r可以從&a力場子衍生儀&r或任何其他&b力場子基礎機器&r的緩衝區中提取。\n\n這可以透過使用其他模組的任何流體提取方法來完成。\n\n&7&o請查看「物流」任務章節以瞭解一些流體管理選項。\n\n&7&o注意：要完成此任務，你需要向指定的&2任務螢幕&r，\n&7&o輸入一桶（1000mB）力場子。",
+    "translation": "&3力場子&r可以從&a力場子衍生儀&r或任何其他&b力場子基礎機器&r的緩衝區中提取。\n\n這可以透過使用其他模組的任何流體提取方法來完成。\n\n&7&o請查看「物流」任務章節以瞭解一些流體管理選項。\n\n&7&o注意：要完成此任務，你需要向指定的&2任務螢幕&r，\n輸入一桶（1000mB）力場子。",
     "context": "chapters/technology.snbt / quest 166BA0D04A1686C7",
     "meta": {
       "line_split_policy": "lf",
@@ -217,7 +217,7 @@
   },
   "quest.1B8BB733ADF897FE.quest_desc": {
     "original": "&eProductive Metalworks&r is used to smelt and forge alloys, and cast them into various different parts.\n\nStart by crafting some &cFire Clay&r and then smelting that into &4Fire Bricks&r. These will be used to build the structure of our &6Foundry&r.\n\nThe &aBig Book of Metallurgy&r can show you how to set up a &6Foundry&r.\n\n&eNote&r: The foundry has a maximum volume capacity of 200 blocks.",
-    "translation": "&e《高效金屬加工》&r用於熔煉與鍛造合金，並將其澆鑄成各種不同的部件。\n\n首先製作一些&c耐火黏土&r，然後將其熔煉成&4耐火磚頭&r。\n這些磚塊將用於建造我們的&6鑄造爐&r結構。\n\n《冶金大百科》中，有介紹如何搭建&6鑄造爐&r。",
+    "translation": "&e《高效金屬加工》&r用於熔煉與鍛造合金，並將其澆鑄成各種不同的部件。\n\n首先製作一些&c耐火黏土&r，然後將其熔煉成&4耐火磚頭&r。\n這些磚塊將用於建造我們的&6鑄造爐&r結構。\n\n《&a冶金大百科&r》中，有介紹如何搭建&6鑄造爐&r。\n\n&e注意&r：鑄造爐的最大容積為 200 格方塊。",
     "context": "chapters/technology.snbt / quest 1B8BB733ADF897FE",
     "meta": {
       "line_split_policy": "lf",
@@ -244,7 +244,7 @@
   },
   "quest.1BFDE3507411C116.title": {
     "original": "&fMain &6Foundry &fComponents",
-    "translation": "&f鑄造爐主要元件",
+    "translation": "&f主要&6鑄造爐&f元件",
     "context": "chapters/technology.snbt / quest 1BFDE3507411C116",
     "meta": {
       "line_split_policy": "none",
@@ -307,7 +307,7 @@
   },
   "quest.210753664AB84703.quest_desc": {
     "original": "The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as most Machines and Gizmos require some kind of Alloy produced here! oh and it can be upgraded with &bCapacitors&r.\n\nIn the &aAlloy Smelter's&r interface, you can configure it in many different ways to improve your automation. It allows for side input/output configuration, redstone configuration, and swapping between three modes:\n{@pagebreak}\n&eAlloy only mode&r: Only allows the Alloy Smelter to create alloys.\n\n&eFurnace only mode&r: Treats the Alloy Smelter as a furnace\n\n&eAlloying and Smelting&r: This mode will do both alloying and smelting, which can be bad when automating as some items will be smelted before turning into alloys.",
-    "translation": "&a合金爐&r將會是你在&e《Ender IO》&r模組中最常用的機器：\n各種機器和小東西都會用到某些合金！這台機器可以使用&b電容&r升級。\n\n在&a合金爐&r的介面之中，你可以用各種方式來設定它，藉以改善你的自動化。它能夠為每一面單獨設定輸入／輸出、紅石設定，並有著三種不同的熔煉模式：\n\n&e僅合金模式&r：讓合金爐只能用來製造合金。\n\n&e僅熔煉模式&r：將合金爐當成熔爐使用。\n\n&e合金與熔煉&r：\n\n此模式結合了上述兩種模式，但用來自動化不太方便：\n\n可能有些合金的原料會被熔煉掉，就沒辦法製造出該合金了。",
+    "translation": "&a合金爐&r將會是你在&e《Ender IO》&r模組中最常用的機器：\n各種機器和小東西都會用到某些合金！這台機器可以使用&b電容&r升級。\n\n在&a合金爐&r的介面之中，你可以用各種方式來設定它，藉以改善你的自動化。它能夠為每一面單獨設定輸入／輸出、紅石設定，並有著三種不同的熔煉模式：\n{@pagebreak}\n&e僅合金模式&r：讓合金爐只能用來製造合金。\n\n&e僅熔煉模式&r：將合金爐當成熔爐使用。\n\n&e合金與熔煉&r：\n\n此模式結合了上述兩種模式，但用來自動化不太方便：\n\n可能有些合金的原料會被熔煉掉，就沒辦法製造出該合金了。",
     "context": "chapters/technology.snbt / quest 210753664AB84703",
     "meta": {
       "line_split_policy": "lf",
@@ -343,7 +343,7 @@
   },
   "quest.269DC26776DD377D.quest_desc": {
     "original": "The &dAdvanced Empowerer&f is an improved multiblock version of the &2Empowerer&f.\n\nIt can take up to a stack of &eMekanism &aSpeed Upgrades&r to process recipes at tick-speed, making it ideal for late-game recipes.\n\n&e&nNote&r: Some recipes differ from the standard &2Empowerer&r, so be sure to check your automation.",
-    "translation": "&d進階充能台&f是&2充能台&f的改良版多方塊結構。\n\n它最多可以安裝一組&e《通用機械》&r的&a速度升級&r，以刻為單位的速度，處理遊戲後期的配方。\n\n&e&n注意&r：部分配方與標準&2充能台&r不同，因此請務必檢查你的自動化流程。",
+    "translation": "&d進階充能台&f是&2充能台&f的改良版多方塊結構。\n\n它最多可以安裝一組&e《通用機械》的&a速度升級&r，以刻為單位的速度，處理遊戲後期的配方。\n\n&e&n注意&r：部分配方與標準&2充能台&r不同，因此請務必檢查你的自動化流程。",
     "context": "chapters/technology.snbt / quest 269DC26776DD377D",
     "meta": {
       "line_split_policy": "lf",
@@ -379,7 +379,7 @@
   },
   "quest.2AD996C548EBF4A4.title": {
     "original": "Mob Melting",
-    "translation": "&6實體熔化",
+    "translation": "實體熔化",
     "context": "chapters/technology.snbt / quest 2AD996C548EBF4A4",
     "meta": {
       "line_split_policy": "none",
@@ -406,7 +406,7 @@
   },
   "quest.2CA74676EAC1A040.quest_desc": {
     "original": "&eModular Force Field System&r (&eMFFS&r for short) is a tech mod that adds force fields and other defensive measures to protect your base.\n\nTo get started, craft the &aCoercion Deriver&r.\n\n&7&oMFFS machines require a redstone signal to run by default, most of which can be inverted in the upper left corner of the interface.\n{@pagebreak}\nThe &aCoercion Deriver&r has two modes:\n\n&eDerive Mode&r converts energy from other mods or dischargeable items in its inventory to generate &3Fortron&r.\n\n&eIntegrate Mode&r converts &3Fortron&r into energy at a slight loss.\n\nPlacing &2Lapis&r or &2Nether Quartz&r inside will triple the &aCoercion Deriver's&r conversion rate when consumed.",
-    "translation": "&e《模組化力場系統》&r（簡稱 &eMFFS&r）是一款科技模組，\n加入了力場以及其他防禦措施來保護你的基地。\n\n若要開始深入這款模組，請合成一個&a力場子衍生儀&r。\n\n&7&oMFFS 的機器預設需要紅石訊號才能運作，\n\n&7&o大多數機器都可以在介面的左上角反轉此設定。\n{@pagebreak}\n&a力場子衍生儀&r有兩種模式：\n\n&e衍生模式&r可將來自其他模組的能量，或其內部物品的能量釋放，以轉換成&3力場子&r。\n\n&e整合模式&r則會將&3力場子&r轉換成能量，但會有少許損耗。\n\n消耗內部的&2青金石&r或&2地獄石英&r，會使&a力場子衍生儀&r的轉換效率提升為三倍。",
+    "translation": "&e《模組化力場系統》&r（簡稱 &eMFFS&r）是一款科技模組，\n加入了力場以及其他防禦措施來保護你的基地。\n\n若要開始深入這款模組，請合成一個&a力場子衍生儀&r。\n\n&7&oMFFS 的機器預設需要紅石訊號才能運作，\n\n大多數機器都可以在介面的左上角反轉此設定。\n{@pagebreak}\n&a力場子衍生儀&r有兩種模式：\n\n&e衍生模式&r可將來自其他模組的能量，或其內部物品的能量釋放，以轉換成&3力場子&r。\n\n&e整合模式&r則會將&3力場子&r轉換成能量，但會有少許損耗。\n\n消耗內部的&2青金石&r或&2地獄石英&r，會使&a力場子衍生儀&r的轉換效率提升為三倍。",
     "context": "chapters/technology.snbt / quest 2CA74676EAC1A040",
     "meta": {
       "line_split_policy": "lf",
@@ -415,7 +415,7 @@
   },
   "quest.2CA74676EAC1A040.title": {
     "original": "&eModular Force Field System&r",
-    "translation": "&e《模組化力場系統》",
+    "translation": "&e《模組化力場系統》&r",
     "context": "chapters/technology.snbt / quest 2CA74676EAC1A040",
     "meta": {
       "line_split_policy": "none",
@@ -424,7 +424,7 @@
   },
   "quest.2CB37185A7FAF348.quest_desc": {
     "original": "&eMFFS&r machines need to be part of a system in order to run. Machines on the same &bFrequency&r will become part of the same system.\n\nThe &bFrequency&r can be set in the interface, or via right clicking the block with a &aFrequency Card&r, which can copy a machine's &bFrequency&r when placed in the corresponding interface slot.",
-    "translation": "&eMFFS&r 的機器需要成為系統的一部分才能運轉。\n\n擁有相同&b頻率&r的機器將成為同一系統的一部分。\n\n&b頻率&r可以在介面中設定，或者對著機器右鍵使用&a頻率卡&r來設定。將&a頻率卡&r置於介面對應的欄位時，它也可以複製機器的&b頻率&r。",
+    "translation": "&eMFFS&r 的機器需要成為系統的一部分才能運轉。\n\n擁有相同&b頻率&r的機器將成為同一系統的一部分。\n\n&b頻率&r可以在介面中設定，或者對著機器右鍵使用&a頻率卡&r來設定。將頻率卡置於介面對應的欄位時，它也可以複製機器的&b頻率&r。",
     "context": "chapters/technology.snbt / quest 2CB37185A7FAF348",
     "meta": {
       "line_split_policy": "lf",
@@ -541,7 +541,7 @@
   },
   "quest.381B55C984A8BD33.title": {
     "original": "&fA Matter of &bSize",
-    "translation": "&f尺寸問題",
+    "translation": "&f關乎&b尺寸",
     "context": "chapters/technology.snbt / quest 381B55C984A8BD33",
     "meta": {
       "line_split_policy": "none",
@@ -577,7 +577,7 @@
   },
   "quest.3D0CD724F9302BDD.quest_desc": {
     "original": "The &zSlowmelter 9000&r is a basic machine that melts items. The speed will shock you.\n\nIt can create molten metals and alloys using power. If you attach a &aFoundry Tap&r from &6Productive Metalworks&r to the side of it, you can pour the metal out onto a &aCasting Table&r or &aCasting Basin&r as well.\n\nOnce you have the appropriate &aCast&r, you can use this to make plates, ingots, and more!\n\n&eNote&r: This can only hold one type of fluid at a time.",
-    "translation": "&z慢速冶煉爐 9000&r 是一款用於熔化物品的基礎機器。\n其速度絕對會令你「大吃一驚」。\n\n它可以消耗能量來製造熔融金屬與合金。\n若你將來自&e《高效金屬加工》&r的&a鑄造爐澆注口&r安裝在其側面，\n你也可以將金屬澆注到&a鑄造桌&r或&a鑄造盆&r中。\n\n一旦你擁有了合適的&a鑄模&r，\n你就可以使用它來製作板材、錠與更多內容！\n\n&e注意&r：此機器一次只能容納一種流體。",
+    "translation": "&z慢速冶煉爐 9000&r 是一款用於熔化物品的基礎機器。\n其速度絕對會令你「大吃一驚」。\n\n它可以消耗能量來製造熔融金屬與合金。\n若你在其側面安裝&a鑄造爐澆注口&r（來自&6《高效金屬加工》&r），\n就可以將金屬澆注到&a鑄造桌&r或&a鑄造盆&r中。\n\n一旦你擁有了合適的&a鑄模&r，\n你就可以使用它來製作板材、錠與更多內容！\n\n&e注意&r：此機器一次只能容納一種流體。",
     "context": "chapters/technology.snbt / quest 3D0CD724F9302BDD",
     "meta": {
       "line_split_policy": "lf",
@@ -604,7 +604,7 @@
   },
   "quest.3EB56937CCDFCB2A.title": {
     "original": "Casting",
-    "translation": "&6澆鑄",
+    "translation": "澆鑄",
     "context": "chapters/technology.snbt / quest 3EB56937CCDFCB2A",
     "meta": {
       "line_split_policy": "none",
@@ -631,7 +631,7 @@
   },
   "quest.417573A657CAED05.quest_desc": {
     "original": "Once you've gathered some materials from the &cNether&r ring, you can upgrade to the next tier of Goo.\n\n&cBlazebloom Goo&r will allow you to create a new tier of metal call &6Blazegold&r by converting &eBlocks of Gold&r, just like we did with Iron.\n\nTo activate it, you'll need to feed it either Nether Wart or Blaze Powder.\n\nIt also retains the ability to create &aFerricore Ore&r, so no need to make another Primogel Goo just for Iron. Not only that, it converts Iron faster than Primogel!",
-    "translation": "一旦你從&c地獄&r環帶中收集到一些材料，你就可以升級到下一階級的凝漿。\n\n&c烈蕾凝漿&r將允許你透過轉化&e金方塊&r，來創造一種\n更高階的金屬：&6烈焰金&r，就像我們對鐵方塊所做的一樣。\n\n要啟動它，你需要餵食它地獄疙瘩或烈焰粉。\n\n它還保留了創造&a核鐵礦簇&r的能力，因此不需要僅為了鐵而製作另一個原初凝漿。\n\n不僅如此，它轉化鐵的速度比原初凝漿更快！",
+    "translation": "一旦你從&c地獄&r環帶中收集到一些材料，你就可以升級到下一階級的凝漿。\n\n&c烈蕾凝漿&r能創造更高階的金屬——&6烈焰金&r，方法是轉化&e金方塊&r，就像我們對鐵方塊所做的一樣。\n\n要啟動它，你需要餵食它地獄疙瘩或烈焰粉。\n\n它還保留了創造&a核鐵礦簇&r的能力，因此不需要僅為了鐵而製作另一個原初凝漿。\n\n不僅如此，它轉化鐵的速度比原初凝漿更快！",
     "context": "chapters/technology.snbt / quest 417573A657CAED05",
     "meta": {
       "line_split_policy": "lf",
@@ -658,7 +658,7 @@
   },
   "quest.44599533471DFDCB.title": {
     "original": "&fThe &dStasis Chamber",
-    "translation": "&f靜滯室",
+    "translation": "&f&d靜滯室",
     "context": "chapters/technology.snbt / quest 44599533471DFDCB",
     "meta": {
       "line_split_policy": "none",
@@ -667,7 +667,7 @@
   },
   "quest.4468BC270F100F27.quest_desc": {
     "original": "&eEnderIO&r is a tech-mod with machines, inventory and automation tools, and many more features!\n\nTo get started, you'll need to obtain some &aGrains of Infinity&r.\n\nIn this pack, you can obtain some &aGrains of Infinity&r by throwing &aGravel&r into fire.",
-    "translation": "&e《Ender IO》&r模組，是一個有著機器、物流、自動化工具.....\\n等諸多功能的科技模組！\n\n你會需要取得一些&a基岩粉&r作為開頭。\n\n在本模組包中，你可以將&a礫石&r丟入火中取得&a基岩粉&r。",
+    "translation": "&e《Ender IO》&r模組，是一個有著機器、物流、自動化工具等諸多功能的科技模組！\n\n你會需要取得一些&a基岩粉&r作為開頭。\n\n在本模組包中，你可以將&a礫石&r丟入火中取得&a基岩粉&r。",
     "context": "chapters/technology.snbt / quest 4468BC270F100F27",
     "meta": {
       "line_split_policy": "lf",
@@ -721,7 +721,7 @@
   },
   "quest.4BB6832FE4685131.quest_desc": {
     "original": "To use your &3Souls&r, point the &aSoul Surge&r at the block you want to accelerate and connect it to the &dSoul Laser Base&r using &aSoul Pipes&r.",
-    "translation": "要使用你的&3靈魂&r，請將&a靈魂湧動器&r對準你想要加速的方塊，並使用&a靈魂管道&r將其連結至&d靈魂雷射基座&r。",
+    "translation": "要使用你的&3靈魂&r，請將&a靈魂湧動器&r對準你想要加速的方塊，並將其連結至&d靈魂雷射基座&r，連接時使用&a靈魂管道&r。",
     "context": "chapters/technology.snbt / quest 4BB6832FE4685131",
     "meta": {
       "line_split_policy": "lf",
@@ -784,7 +784,7 @@
   },
   "quest.53E949B1A0D04290.title": {
     "original": "&6Foundry &fOuter Structure",
-    "translation": "&6鑄造爐外部結構",
+    "translation": "&6鑄造爐&f外部結構",
     "context": "chapters/technology.snbt / quest 53E949B1A0D04290",
     "meta": {
       "line_split_policy": "none",
@@ -811,7 +811,7 @@
   },
   "quest.56E9C123DD727E46.quest_desc": {
     "original": "The &eInterdiction Matrix&r has 8 slots available for &bModules&r that work off the registration and rights defined in a system's &aBiometric Identifier&r.\n\n&bWarning Modules&r will increase the additional warning range of the &eMatrix&r by 1 block/module. By default, there is a 3 block radius beyond the range of other &bmodules&r that alerts unregistered players that they may be affected by the &eMatrix's&r actions. This is the only module that has a stacking effect.\n\n&bBlock Access Modules&r prevent interaction with levers, machines, and the like for players without the right to bypass it.\n\n&bBlock Alter Modules&r act similarly to the above module, but disallow the breaking and placement of blocks altogether.\n\n{@pagebreak}\n&bConfiscation Modules&r can be &4very nasty&r in multiplayer. Using the other 9 slots in the &eMatrix&r, up to 9 items can be selected to take from or leave in the inventory of unregistered players, with anything taken being dropped at the &ematrix&r or placed in adjacent inventories. This applies to armor as well. &4Be mindful&r when using this on normally &afriendly&r servers...\n\n&bAnti-Friendly&r, &b-Hostile&r, and &b-Personnel Modules&r will cause the matrix to kill animals, hostile creatures, and unregistered players respectively with extremely high damage.\n\nAn &bAnti-Spawn Module&r will prevent any and all mobs from spawning in the working radius of the &ematrix&r.",
-    "translation": "&e攔截矩陣&r有 8 個可用於&b模組&r的欄位，\n這些模組根據系統&a生物識別儀&r中定義的註冊身分與權限來運作。\n\n&b警告模組&r將使&e攔截矩陣&r的額外警告範圍增加 1 格／模組。\n\n預設情況下，在其他&b模組&r範圍之外有 3 格的半徑，\n用於提醒未註冊玩家他們可能會受到&e攔截矩陣&r行為的影響。這是唯一具有堆疊效果的模組。\n\n&b方塊存取模組&r防止沒有繞過權限的玩家與拉桿、機器等進行互動。\n\n&b方塊變更模組&r動作與上述模組類似，但完全禁止放置或破壞方塊。\n\n{@pagebreak}\n&b沒收模組&r在遊玩多人生存模式時，可能會令人&4非常討厭&r。\n\n使用&e攔截矩陣&r中的其餘 9 個欄位，\n最多可以選擇 9 種物品，從未註冊玩家的物品欄中拿走或留著，\n\n任何被拿走的物品都會掉落在&e攔截矩陣&r處或放入相鄰的容器中。這也適用於盔甲。在通常&a友好的&r伺服器上使用此模組時請&4務必留意&r...\n\n&b反友好生物&r、&b反敵對生物&r與&b反玩家模組&r將使矩陣分別以極高的傷害殺死動物、敵對生物與未註冊玩家。\n\n&b反生怪模組&r則會防止任何及所有生物在&e攔截矩陣&r的運作半徑內生成。",
+    "translation": "&e攔截矩陣&r有 8 個可用於&b模組&r的欄位，\n這些模組根據系統&a生物識別儀&r中定義的註冊身分與權限來運作。\n\n&b警告模組&r將使&e攔截矩陣&r的額外警告範圍增加 1 格／模組。\n\n預設情況下，在其他&b模組&r範圍之外有 3 格的半徑，\n用於提醒未註冊玩家他們可能會受到&e攔截矩陣&r行為的影響。這是唯一具有堆疊效果的模組。\n\n&b方塊存取模組&r防止沒有繞過權限的玩家與拉桿、機器等進行互動。\n\n&b方塊變更模組&r動作與上述模組類似，但完全禁止放置或破壞方塊。\n\n{@pagebreak}\n&b沒收模組&r在遊玩多人生存模式時，可能會令人&4非常討厭&r。\n\n使用&e攔截矩陣&r中的其餘 9 個欄位，\n最多可以選擇 9 種物品，從未註冊玩家的物品欄中拿走或留著，\n\n任何被拿走的物品都會掉落在&e攔截矩陣&r處或放入相鄰的容器中。這也適用於盔甲。使用此模組時請&4務必留意&r，尤其是在平時&a友善&r的伺服器上……\n\n&b反友好生物&r、&b反敵對生物&r與&b反玩家模組&r將使矩陣分別以極高的傷害殺死動物、敵對生物與未註冊玩家。\n\n&b反生怪模組&r則會防止任何及所有生物在&e攔截矩陣&r的運作半徑內生成。",
     "context": "chapters/technology.snbt / quest 56E9C123DD727E46",
     "meta": {
       "line_split_policy": "lf",
@@ -847,7 +847,7 @@
   },
   "quest.5D96F0CE1154B9B8.quest_desc": {
     "original": "&eCreate&r is a mod that offers a variety of tools and blocks for building, decorating, and aesthetic automation with cool-looking steampunky contraptions.\n\n&eCreate&r's visual in-game documentation, called &bPonder&r, will teach you how most blocks work. Hover over an item in JEI or in your inventory to see if it has a &bPonder&r.\n\nTo get started, craft some &aAndesite Alloys&r. You'll need a lot of these.\n{@pagebreak}\nThe &aWrench&r is a multipurpose tool for working with &eCreate&r contraptions.\n\nIt can rotate, configure, and dismantle blocks, contraptions, and more!",
-    "translation": "&e《動力機械》&r是一款提供多種用於建築、裝飾和美學自動化的工具與方塊的模組，並擁有酷炫的蒸氣龐克風裝置。\n\n&e《動力機械》&r的視覺化遊戲內文件稱為&b思索&r，它將教你大多數方塊的運作方式。將游標懸停在 JEI ，或物品欄中的物品上\n，查看它是否具有&b教學&r情境。\n\n若要開始深入這款模組，請製作一些&a安山合金&r。你會需要很多這些。\n{@pagebreak}\n&a扳手&r是一種用於操作&e《動力機械》&r裝置的多功能工具。\n\n它可以旋轉、設定和拆卸方塊、裝置以及更多內容！",
+    "translation": "&e《動力機械》&r是一款提供多種用於建築、裝飾和美學自動化的工具與方塊的模組，並擁有酷炫的蒸氣龐克風裝置。\n\n&e《動力機械》&r的視覺化遊戲內文件稱為&b思索&r，它將教你大多數方塊的運作方式。將游標懸停在 JEI 或物品欄中的物品上，查看它是否具有&b思索&r教學。\n\n若要開始深入這款模組，請製作一些&a安山合金&r。你會需要很多這些。\n{@pagebreak}\n&a扳手&r是一種用於操作&e《動力機械》&r裝置的多功能工具。\n\n它可以旋轉、設定和拆卸方塊、裝置以及更多內容！",
     "context": "chapters/technology.snbt / quest 5D96F0CE1154B9B8",
     "meta": {
       "line_split_policy": "lf",
@@ -883,7 +883,7 @@
   },
   "quest.609DF15D870AE2C0.quest_desc": {
     "original": "&eSoulplied Energistics&r is an addon mod for &eIF Souls&r that allows the transferring of souls using &eAE2&r.\n\nAttaching a &aStorage Bus&r to the &dSoul Laser Base&r will allow your network to access the &3Warden Souls&r inside it. Then, Right-click any &eIF Souls&r item on an &aInterface Filter&r to request &3Souls&r stored in your system.\n\nFinally, attach a &bSoul Pipe&r to the &aInterface&r and it will use its &3Warden Souls&r to power &bSoul Surges&r.",
-    "translation": "《&e靈魂能源&r》是《&e工業先鋒：靈魂&r》的附屬模組，能讓你透過 &eAE2&r 傳輸靈魂。\n\n將 &aME 儲存匯流排&r接上&d靈魂雷射基座&r後，你的網路就能存取\n其中的&3伏守者靈魂&r。\n\n接著在 &aME 介面&r的篩選介面中，使用《&e工業先鋒：靈魂&r》物\n品，對著篩選欄位按下右鍵，即可請求系統內儲存的&3靈魂&r。\n\n最後將&b靈魂管道&r接上 &aME 介面&r，\n\n它就會消耗&3伏守者靈魂&r來驅動&b靈魂湧動器&r。",
+    "translation": "《&e靈魂能源&r》是《&e工業先鋒：靈魂&r》的附屬模組，能讓你透過 &eAE2&r 傳輸靈魂。\n\n將 &aME 儲存匯流排&r接上&d靈魂雷射基座&r後，你的網路就能存取\n其中的&3伏守者靈魂&r。\n\n接著使用任意《&e工業先鋒：靈魂&r》物品，對著 &aME 介面篩選欄位&r按下右鍵，即可請求系統內儲存的&3靈魂&r。\n\n最後將&b靈魂管道&r接上 &aME 介面&r，\n\n它就會消耗&3伏守者靈魂&r來驅動&b靈魂湧動器&r。",
     "context": "chapters/technology.snbt / quest 609DF15D870AE2C0",
     "meta": {
       "line_split_policy": "lf",
@@ -937,7 +937,7 @@
   },
   "quest.6600E26635FD3D0E.quest_desc": {
     "original": "&2Speed Modules&r can be used to upgrade many &eMFFS&r machines, generally speeding up their performance.\n\nIt can also increase the generation rate of the &aCoercion Deriver&r and the &3Fortron&r transfer limit of the &aFortron Capacitor&r.\n\n&2Capacity Modules&r increase the amount of &3Fortron&r a machine can hold at once.",
-    "translation": "&2速度模組&r可用於升級許多 &eMFFS&r 機器，\n通常可以加快它們的效率。\n\n它還可以增加&a力場子衍生儀&r的產出速率，以及&a力場子容庫&r的&3力場子&r傳輸上限。\n\n&2容量模組&r則會增加機器一次可以容納的&3力場子&r數量。",
+    "translation": "&2速度模組&r可用於升級許多 &eMFFS&r 機器，\n通常可以加快它們的效率。\n\n它還可以增加&a力場子衍生儀&r的產出速率，以及&3力場子&r的傳輸上限，這項效果作用於&a力場子容庫&r。\n\n&2容量模組&r則會增加機器一次可以容納的&3力場子&r數量。",
     "context": "chapters/technology.snbt / quest 6600E26635FD3D0E",
     "meta": {
       "line_split_policy": "lf",
@@ -973,7 +973,7 @@
   },
   "quest.68258EA281734B4A.quest_desc": {
     "original": "The &bFortron Capacitor&r is required in every &eMFFS&r system to act as a &3Fortron&r buffer and transfers it throughout the registered &bFrequency&r. The large button in the middle of the UI adjusts how the &bCapacitor&r distributes &3Fortron&r throughout a system.\n\nEach &2Speed Module&r increases its transfer rate.\n\nEach &2Scale Module&r increases the base working range from a 15 block radius by 1 per module.\n\nEach &2Capacity Modules&r increases the storage capacity.",
-    "translation": "每個 &eMFFS&r 系統都需要一個&b力場子容庫&r，\n來充當&3力場子&r緩衝區，並在註冊的&b頻率&r中進行傳輸。\n\n介面中間的大按鈕，可以調整&b力場子容庫&r如何在系統中分配&3力場子&r。\n\n每個&2速度模組&r都會增加其傳輸速率。\n\n每個&2擴展模組&r都會使基礎 15 格的運作半徑增加 1 格。\n\n每個&2容量模組&r則會增加儲存容量。",
+    "translation": "&b力場子容庫&r是每個 &eMFFS&r 系統的必要裝置，\n用來充當&3力場子&r緩衝區，並在註冊的&b頻率&r中進行傳輸。\n\n介面中間的大按鈕，可以調整&b力場子容庫&r如何在系統中分配&3力場子&r。\n\n每個&2速度模組&r都會增加其傳輸速率。\n\n每個&2擴展模組&r都會使基礎 15 格的運作半徑增加 1 格。\n\n每個&2容量模組&r則會增加儲存容量。",
     "context": "chapters/technology.snbt / quest 68258EA281734B4A",
     "meta": {
       "line_split_policy": "lf",
@@ -991,7 +991,7 @@
   },
   "quest.68668718B414B6E4.quest_desc": {
     "original": "A &aFoundry Drain&r (or most other modded &2Tanks&f) with a &aFoundry Tap&r on it can extract the molten metals you create onto a &2Casting Table&r.\n\nThe molten metals will need some type of &bCast&r before they can be poured out onto the table.\n\nThe &2Casting Basin&r can be used to store and create metal blocks.\n\n&7&oThese can be dyed to match your base aesthetics.",
-    "translation": "在&a鑄造爐排液口&r上安裝&a鑄造爐澆注口&r，可以將你製造的熔融金屬抽取至&2鑄造桌&r上。\n\n熔融金屬需要特定類型的&b鑄模&r才能澆注在桌子上。\n\n&2鑄造盆&r可用於儲存與製造金屬方塊。\n\n&7&o這些方塊可以被染色，以符合你的基地美學。",
+    "translation": "在&a鑄造爐排液口&r（或其他模組的大部分&2儲罐&f）上安裝&a鑄造爐澆注口&r，可以將你製造的熔融金屬抽取至&2鑄造桌&r上。\n\n熔融金屬需要特定類型的&b鑄模&r才能澆注在桌子上。\n\n&2鑄造盆&r可用於儲存與製造金屬方塊。\n\n&7&o這些方塊可以被染色，以符合你的基地美學。",
     "context": "chapters/technology.snbt / quest 68668718B414B6E4",
     "meta": {
       "line_split_policy": "lf",
@@ -1000,7 +1000,7 @@
   },
   "quest.68668718B414B6E4.title": {
     "original": "&6Foundry &fDrains",
-    "translation": "&6鑄造爐排液口",
+    "translation": "&6鑄造爐&f排液口",
     "context": "chapters/technology.snbt / quest 68668718B414B6E4",
     "meta": {
       "line_split_policy": "none",
@@ -1027,7 +1027,7 @@
   },
   "quest.708CFC310C5408B6.quest_desc": {
     "original": "Lenses are placed on an &eAtomic Reconstructor&r to change its functionality.\n\nThe basic &aLens&r is only used as a crafting material for other lenses.",
-    "translation": "透鏡可以放置在&a原子重構機&r上來改變其功能。\n\n基礎的&a透鏡&r僅作為其他透鏡的合成材料。",
+    "translation": "透鏡可以放置在&e原子重構機&r上來改變其功能。\n\n基礎的&a透鏡&r僅作為其他透鏡的合成材料。",
     "context": "chapters/technology.snbt / quest 708CFC310C5408B6",
     "meta": {
       "line_split_policy": "lf",
@@ -1054,7 +1054,7 @@
   },
   "quest.726891EAC51F5F70.quest_desc": {
     "original": "To upgrade to the final tier of machine frames, we'll need to extract &bEther Gas&r from the &dWither&r.\n\nTo do this, you'll need the &dFluid Laser Base&r and some &aLaser Drills&r. You might also want to look into making the &dStasis Chamber&r to keep it from exploding!\n\nThe Laser Base is placed in the center above the Wither and needs the &aLaser Drills&r and &5Purple Laser Lens&r to work. \n{@pagebreak}\nThe &aLaser Drills&r are the main \"work\" machines in this setup. The Drills are placed connecting to either the Laser Base or another Laser Drill.\n\nThe easiest way to place this is by looking directly at the side of the Laser Base, then sneak-right click to place the Drill. The animated face should be pointing to you in placed properly.\n\nYou can open up the interface of one of the Laser Drills to see if it is connected to the base!\n{@pagebreak}\nInside of the &dFluid Laser Base&r, make sure to place in the &5Purple Laser Lens&r to tell it what type of fluid to extract.\n\nYou'll also need to adjust the &bY Level&r to match up with the Wither. If done properly, you'll start extracting &dEther Gas&r!",
-    "translation": "要升級到機械框架的最終階段，我們需要從&d凋零怪&r身上提取&b乙醚氣體&r。\n\n若要做到這一點，你需要一個&d流體雷射基座&r與一些&a雷射鑽&r。你也許還想考慮製作&d靜滯室&r，以防止他產生爆炸！\n\n雷射基座需放置在凋零怪正上方的中心位置，且需要&a雷射鑽&r與&5紫色雷射透鏡&r才能運作。 \n{@pagebreak}\n&a雷射鑽&r是此配置中的主要「工作」機器。雷射鑽被放置在與雷射基座或另一個雷射鑽連結的位置。\n\n最簡單的放置方式，是先手持雷射鑽，然後對著雷射基座\n「潛行並點擊右鍵」放置。\n\n若放置得當，有動畫效果的那一面應該會對著你。\n\n你可以開啟其中一台雷射鑽的介面，查看它是否已連結至基座！\n{@pagebreak}\n在&d流體雷射基座&r的內部，請務必放入&5紫色雷射透鏡&r，來告訴它要提取哪種類型的流體。\n\n你還需要調整&b Y 軸高度&r來對準凋零怪。\n\n若配置得當，你就會開始提取&b乙醚氣體&r！",
+    "translation": "要升級到機械框架的最終階段，我們需要提取&b乙醚氣體&r，來源是&d凋零怪&r。\n\n若要做到這一點，你需要一個&d流體雷射基座&r與一些&a雷射鑽&r。你也許還想考慮製作&d靜滯室&r，以防止它爆炸！\n\n雷射基座需放置在凋零怪正上方的中心位置，且需要&a雷射鑽&r與&5紫色雷射透鏡&r才能運作。 \n{@pagebreak}\n&a雷射鑽&r是此配置中的主要「工作」機器。雷射鑽被放置在與雷射基座或另一個雷射鑽連結的位置。\n\n最簡單的放置方式，是先手持雷射鑽，然後對著雷射基座的側面\n「潛行並點擊右鍵」放置。\n\n若放置得當，有動畫效果的那一面應該會對著你。\n\n你可以開啟其中一台雷射鑽的介面，查看它是否已連結至基座！\n{@pagebreak}\n在&d流體雷射基座&r的內部，請務必放入&5紫色雷射透鏡&r，來告訴它要提取哪種類型的流體。\n\n你還需要調整&b Y 軸高度&r來對準凋零怪。\n\n若配置得當，你就會開始提取&d乙醚氣體&r！",
     "context": "chapters/technology.snbt / quest 726891EAC51F5F70",
     "meta": {
       "line_split_policy": "lf",
@@ -1135,7 +1135,7 @@
   },
   "quest.7FBA170218539BE8.quest_desc": {
     "original": "Cognition has a unique method of XP generation by way of &aBibliophages&r: tiny constructs that steadily break down bookshelves into XP orbs until only &7Forgotten Dust&r is left behind.\n\n&aInfected Bookshelves&r can spread the phages onto other bookshelves, allowing for a single use of a Bibliophage to affect as many connected bookshelves as available. This process can be halted by using a &eStaff of Attunement&r on the infected shelf.\n\n&aSpecial bookshelves&r made using written books and enchanted books can also be infected, producing more XP value over their decay than regular shelves.\n{@pagebreak}\nA 'nest' for phages can be made if bookshelves are not in ready supply. &aFluorescent Agar&r is made using the dust left behind by decayed bookshelves, and then placed among infected bookshelves to allow phages to convert it into proper &aNutrient Agar&r, which can passively spread phage infection onto the 26 blocks surrounding it if able.\n\nThis Agar can be broken and picked back up to further enhance it:\n&6Insightful Agar&r will increase the rate of infection and decay.\n&dExtravagant Agar&r will increase rate of infection and the XP value gained from decay.",
-    "translation": "《&2認知&r》有一種獨特的經驗生產方式，那就是透過&a書蟲&r：\n這是一種細小的構造體，會穩定地將書櫃分解成經驗球，直到最後只剩下&7遺忘粉&r。\n\n&a受侵染的書櫃&r可以將書蟲擴散至其他書櫃，這表示只要使用一次書蟲，就能影響所有相連的書櫃。\n此過程可以透過對&a受侵染的書櫃&r，使用&e調和之杖&r來暫停。\n\n使用完成的書與附魔書製作的&a特殊書櫃&r也可以被侵染，在分解過程中產出的經驗值比普通書櫃更高。\n{@pagebreak}\n若沒有充足的書櫃供應，可以製作一個書蟲「巢穴」。\n&a螢光瓊脂&r是使用腐朽書櫃留下的粉末製作的，然後放置在受侵染的書櫃之間，讓書蟲將其轉化為正式的&a營養瓊脂&r，侵染範圍最大可擴散至周圍 26 個方塊。\n\n這種瓊脂可以被破壞並重新拾取以進一步增強：\n&6洞察瓊脂&r會增加侵染與腐朽的速度。\n&d奢華瓊脂&r會增加侵染速度，並從腐朽過程中獲得經驗值。",
+    "translation": "《認知》有一種獨特的經驗生產方式，那就是透過&a書蟲&r：\n這是一種細小的構造體，會穩定地將書櫃分解成經驗球，直到最後只剩下&7遺忘粉&r。\n\n&a受侵染的書櫃&r可以將書蟲擴散至其他書櫃，這表示只要使用一次書蟲，就能影響所有相連的書櫃。\n此過程可以透過使用&e調和之杖&r點擊受侵染的書櫃來暫停。\n\n使用完成的書與附魔書製作的&a特殊書櫃&r也可以被侵染，在分解過程中產出的經驗值比普通書櫃更高。\n{@pagebreak}\n若沒有充足的書櫃供應，可以製作一個書蟲「巢穴」。\n&a螢光瓊脂&r是使用腐朽書櫃留下的粉末製作的，然後放置在受侵染的書櫃之間，讓書蟲將其轉化為正式的&a營養瓊脂&r，侵染範圍最大可擴散至周圍 26 個方塊。\n\n這種瓊脂可以被破壞並重新拾取以進一步增強：\n&6洞察瓊脂&r會增加侵染與腐朽的速度。\n&d奢華瓊脂&r會增加侵染速度，以及腐朽過程中產出的經驗值。",
     "context": "chapters/technology.snbt / quest 7FBA170218539BE8",
     "meta": {
       "line_split_policy": "lf",

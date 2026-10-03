@@ -55,7 +55,7 @@
   },
   "quest.13FE28AF74A357CD.quest_desc": {
     "original": "&aMechanical Belts&r can be used to create conveyor-like systems to transfer items and/or &bRotational Force&r.\n\n&eCreate&r machines will automatically interact with items on &aBelts&r if they are able to.",
-    "translation": "&a輸送帶&r可以使用&b動能&r來建造物品的傳輸系統。\n\n&e《動力機械》&r模組的機械，都會自動與&a輸送帶&r上符合條件的物品進行互動。",
+    "translation": "&a輸送帶&r可組成傳送系統，用來運送物品及／或傳遞&b動能&r。\n\n&e《動力機械》&r模組的機械，都會自動與&a輸送帶&r上符合條件的物品進行互動。",
     "context": "chapters/processing__automation.snbt / quest 13FE28AF74A357CD",
     "meta": {
       "line_split_policy": "lf",
@@ -118,7 +118,7 @@
   },
   "quest.38869642A2E6F8B6.quest_desc": {
     "original": "When it comes to logistics, &eModular Routers&r can do it all. This mod comes with tons of useful features, like &aAuto-Clicking&r, &aBlock Breaking&r, and more!\n\nAll of these features are done within the main block, the &dModular Router&r. To give it a function, it needs a &aModule&r to tell it what to do. These Modules can be configured and upgraded using &aAugments&r.\n\n&eNote&r: &aModular Routers&r require the &bFortron Infused Block&r &6World Engine Upgrade&r to craft.",
-    "translation": "當我們提到物流時，&e《模組化路由器》&r模組能夠獨自完成所有任務。此模組有很多有用的功能，像是：&a自動點擊&r、&a破壞方塊&r......等！\n\n所有功能都是透過一個重要方塊來達成的：「&d模組化路由器&r」。它會需要各種&a模組&r來告訴它該做什麼，才能啟用各項功能；也可以使用&a增強&r來設定或強化這些模組。\n\n&e備註&r：&a模組化路由器&r需要&b力場子注能方塊&6世界引擎升級&r才能合成。",
+    "translation": "當我們提到物流時，&e《模組化路由器》&r模組能夠獨自完成所有任務。此模組有很多有用的功能，像是：&a自動點擊&r、&a破壞方塊&r......等！\n\n所有功能都是透過一個重要方塊來達成的：「&d模組化路由器&r」。它會需要各種&a模組&r來告訴它該做什麼，才能啟用各項功能；也可以使用&a增強&r來設定或強化這些模組。\n\n&e備註&r：&a模組化路由器&r需要&b力場子注能方塊&r&6世界引擎升級&r才能合成。",
     "context": "chapters/processing__automation.snbt / quest 38869642A2E6F8B6",
     "meta": {
       "line_split_policy": "lf",
@@ -172,7 +172,7 @@
   },
   "quest.5CFC04F4F9A4B01D.quest_desc": {
     "original": "&6Oritech&r comes with several basic &bPipes&r just for this! And of course, you'll need some way to configure the pipes, which is where the &aWrench&r comes in.\n\nRight-clicking on a &bPipe&r with an empty hand will set the pipe to extract!\n{@pagebreak}\nUsing the &aWrench&r on the end of a &bPipes&r will disconnect the &bPipe&r from whatever it is attached to. To reconnect it, use the &aWrench&r on the middle of the &bPipe&r.\n\nSneak+using the &aWrench&r on a &bPipe&r will insta-break it.\n{@pagebreak}\n&bPipes&r Throughputs:\n\n- Item Pipes: 8 items per 5 Ticks\n- Fluid Pipes: 500mb per 3 Ticks\n- Energy Pipes: 10k RF per 1 Tick.",
-    "translation": "&6《起源科技》&r也提供了數種基礎&b管道&r來處理日常傳輸！當然，你也需要工具來設定管道，也就是&a管道扳手&r。\n\n空手對著&b管道&r點擊右鍵，即可將其設為抽取模式！\n{@pagebreak}\n對著&b管道&r末端使用&a管道扳手&r，可斷開它與目標之間的連接；要重新連接，請對著&b管道&r中段使用&a管道扳手&r。\n\n潛行對著&b管道&r使用&a管道扳手&r，能將其瞬間拆除。\n{@pagebreak}\n&b管道&r吞吐量：\n\n- 物品管道：每 5 刻 8 個物品\n- 流體管道：每 3 刻 500 mB\n- 能量管道：每 1 刻 10k RF",
+    "translation": "&6《起源科技》&r也提供了數種基礎&b管道&r來處理日常傳輸！當然，你也需要工具來設定管道，也就是&a管道扳手&r。\n\n空手對著&b管道&r點擊右鍵，即可將其設為抽取模式！\n{@pagebreak}\n使用&a管道扳手&r點擊&b管道&r末端，可將&b管道&r與連接的目標斷開；要重新連接，請使用&a管道扳手&r點擊&b管道&r中段。\n\n潛行並使用&a管道扳手&r點擊&b管道&r，能將其瞬間拆除。\n{@pagebreak}\n&b管道&r吞吐量：\n\n- 物品管道：每 5 刻 8 個物品\n- 流體管道：每 3 刻 500 mB\n- 能量管道：每 1 刻 10k RF",
     "context": "chapters/processing__automation.snbt / quest 5CFC04F4F9A4B01D",
     "meta": {
       "line_split_policy": "lf",

@@ -10,7 +10,7 @@
   },
   "quest.009EE2933A83120B.quest_desc": {
     "original": "&6W.E.R.K&r has encountered a system error, perhaps &dThe Wyrmwright&r will be able to find traces of her brother &k&6Chaos&r.",
-    "translation": "&6W.E.R.K&r 遇到了一個系統錯誤，\\n說不定&d飛龍傳人&r有辦法找到她的兄弟「&k&6混沌&r」的蹤跡。",
+    "translation": "&6W.E.R.K&r 遇到了一個系統錯誤，\n說不定&d飛龍傳人&r有辦法找到她的兄弟「&k&6混沌&r」的蹤跡。",
     "context": "chapters/world_engine__tier_5.snbt / quest 009EE2933A83120B",
     "meta": {
       "line_split_policy": "lf",
@@ -19,7 +19,7 @@
   },
   "quest.009EE2933A83120B.title": {
     "original": "&fTracing &6&kChaos",
-    "translation": "&f尋找&6&k混沌&r的蹤跡",
+    "translation": "&f追尋蹤跡：&6&k混沌",
     "context": "chapters/world_engine__tier_5.snbt / quest 009EE2933A83120B",
     "meta": {
       "line_split_policy": "none",
@@ -28,7 +28,7 @@
   },
   "quest.01DB719967817220.quest_desc": {
     "original": "The &dSupercritical Phase Shifter&r (&dSPS&r) is a large structure that uses as much power as you can give it to generate small amounts of &5Antimatter&r from large amounts of &bPolonium&r.\n\nThis completely eliminates all possible &cNuclear Waste&r if that is a concern, though the energy used to process an amount of &bPolonium&r is greater than the energy made to create it, so additional power is required.\n{@pagebreak}\nSimply feed chemical &bPolonium&r into one &dSPS Port&r, power into another attached to a &dSupercharged Coil&r on the inside, and one more &dSPS Port&r for extracting &5Antimatter&r.\n\nEach 1000mB of &5Antimatter&r can be turned into a single &5Antimatter Pellet&r.\n\n{image:ftb:textures/quests/mekanism/sps_supercritical.png width:100 height:100 align:center}",
-    "translation": "大型結構&d超臨界移相器&r（&dSPS&r）消耗大量的&b釙&r來製造少量的&5反物質&r。\n\n這個裝置完全消耗了任何可能出現的&c核廢料&r，唯一的問題是維持運轉所消耗的電力，會比製造&b釙&r產生的電力還多，因此還需要額外供應能量。\n{@pagebreak}\n需要三個&d超臨界移相器端口&r，一個端口輸入&b釙&r，另一個連接&d增壓線圈&r的端口輸入電力，最後一個端口用來輸出&5反物質&r。\n\n每製造一顆&5反物質球&r需要 1000mb 的&5反物質&r。\n\n{image:ftb:textures/quests/mekanism/sps_supercritical.png width:100 height:100 align:center}",
+    "translation": "&d超臨界移相器&r（&dSPS&r）是一座大型結構，會盡可能利用你供應的電力，產出少量&5反物質&r，並消耗大量&b釙&r。\n\n如果你擔心廢料問題，這能完全消除所有可能產生的&c核廢料&r。不過，處理一定量的&b釙&r所消耗的電力，比生產它時產生的電力還多，因此需要額外供電。\n{@pagebreak}\n只要將化學物質&b釙&r輸入其中一個&d超臨界移相器端口&r，再將電力輸入另一個內側連接&d增壓線圈&r的端口，並另外設置一個&d超臨界移相器端口&r以輸出&5反物質&r即可。\n\n每 1000mB 的&5反物質&r可製成一顆&5反物質球&r。\n\n{image:ftb:textures/quests/mekanism/sps_supercritical.png width:100 height:100 align:center}",
     "context": "chapters/world_engine__tier_5.snbt / quest 01DB719967817220",
     "meta": {
       "line_split_policy": "lf",
@@ -54,7 +54,7 @@
   },
   "quest.0415C8A3274EF9D1.quest_desc": {
     "original": "You find yourself at the event horizon of a gigantic black hole. Explore the area and find &6Chaos&r.\n\nWork with him to learn about the draconic species' most prized creation and acquire the &3Awakened Core Upgrade&r for your &6World Engine&r.",
-    "translation": "你發現自己正在一個巨大黑洞的視界事件中，在四周探索尋找&6混沌&r。\n\n和這位&d回聲&r合作，了解這項龍族最重要的創造物，並協力為你的&6世界引擎&r解鎖&3覺醒核心升級&r。",
+    "translation": "你發現自己正在一個巨大黑洞的事件視界上，在四周探索尋找&6混沌&r。\n\n與他合作，了解龍族最引以為傲的造物，並取得&3覺醒核心升級&r，用於升級你的&6世界引擎&r。",
     "context": "chapters/world_engine__tier_5.snbt / quest 0415C8A3274EF9D1",
     "meta": {
       "line_split_policy": "lf",
@@ -160,7 +160,7 @@
   },
   "quest.19C9BB7952E89BA7.title": {
     "original": "&fSpeak With &6Radiance",
-    "translation": "&f與&6輻射&r交談",
+    "translation": "&f交談對象：&6輻射",
     "context": "chapters/world_engine__tier_5.snbt / quest 19C9BB7952E89BA7",
     "meta": {
       "line_split_policy": "none",
@@ -203,7 +203,7 @@
   },
   "quest.21322BAF061FE83F.quest_desc": {
     "original": "&6Neutronium&r gives you a start to work with, but now we will need to activate it. The &zNeutron Activator&r is a multiblock machine that will be used for this purpose.\n\nThis machine requires heat to simulate the power of the sun that is obviously missing in this stone world.\n{@pagebreak}\nIt can convert &eNuclear Waste&r into &dPolonium&r, and &eLithium&r into &aTritium&r when powered with a single &6Neutron Pile&r.\n{@pagebreak}\n&eCustom Machinery&r has a built-in structure preview function that allows you to see where the blocks should be placed in the world.\n\nTo access this feature, simply click the Recipe arrow inside of the UI, then click the structure block in JEI to see the block placements in the world.\n\n&7&oThe next page contains screenshots to help guide you, and the final page contains a screenshot of the fully-built structure. ->\n{@pagebreak}\n{image:ftb:textures/quests/neutron_activator/neutron_activator_ui.png width:200 height:90 align:center}\n\n{image:ftb:textures/quests/neutron_activator/neutron_activator_jei.png width:180 height:150 align:center}\n{@pagebreak}\nThe final structure should look like the picture below, with 2 Whisperglass on each of the four walls, the Reactor Reflector one up from the bottom-middle block, the Reactor Vent on top of that and the Empowered Void Block on the top-middle block.\n\n{image:ftb:textures/quests/neutron_activator/neutron_activator_build.png width:120 height:150 align:center}",
-    "translation": "有了&6中子素&r是件好事，不過我們還要將其活化。&z中子活化器&r就是為此而生的多方塊機器。\n\n&z中子活化器&r需要熱量來模擬太陽的能量，畢竟在這充滿石頭的世界顯然根本不存在什麼太陽。\n{@pagebreak}\n&z中子活化器&r利用活化的&6中子塵埃&r將&e核廢料&r轉換成&d釙&r，或將&e鋰&r轉換成&a氚&r。\n{@pagebreak}\n《&e自訂機器&r》內建結構預覽功能，能讓你查看方塊應該放置在世界中的哪個位置。\n\n想要使用此功能，只需點擊介面中的配方箭頭，然後點擊 JEI 中的結構\n方塊按鈕，即可查看方塊在世界中的擺放位置。\n\n&7&o下一頁包含引導你的擷圖畫面，最後一頁則是已搭建好的結構圖。 ->\n{@pagebreak}\n{image:ftb:textures/quests/neutron_activator/neutron_activator_ui.png width:200 height:90 align:center}\n\n{image:ftb:textures/quests/neutron_activator/zh_tw/neutron_activator_jei.png width:180 height:150 align:center}\n{@pagebreak}\n搭建完成的結構應該如下圖所示，四面牆壁上各有 2 個低語玻璃，\n\n反應爐中子反射器位於底部中間方塊的正上方，\n\n反應爐散熱器位於其上方，而充能煤晶方塊則位於頂部中間。\n\n{image:ftb:textures/quests/neutron_activator/neutron_activator_build.png width:120 height:150 align:center}",
+    "translation": "有了&6中子素&r是件好事，不過我們還要將其活化。&z中子活化器&r就是為此而生的多方塊機器。\n\n這台機器需要熱量來模擬太陽的能量，畢竟在這充滿石頭的世界顯然根本不存在什麼太陽。\n{@pagebreak}\n它可以將&e核廢料&r轉換成&d釙&r，或將&e鋰&r轉換成&a氚&r，只要由一個&6中子塵埃&r供能即可。\n{@pagebreak}\n《&e自訂機器&r》內建結構預覽功能，能讓你查看方塊應該放置在世界中的哪個位置。\n\n想要使用此功能，只需點擊介面中的配方箭頭，然後點擊 JEI 中的結構\n方塊按鈕，即可查看方塊在世界中的擺放位置。\n\n&7&o下一頁包含引導你的擷圖畫面，最後一頁則是已搭建好的結構圖。 ->\n{@pagebreak}\n{image:ftb:textures/quests/neutron_activator/neutron_activator_ui.png width:200 height:90 align:center}\n\n{image:ftb:textures/quests/neutron_activator/neutron_activator_jei.png width:180 height:150 align:center}\n{@pagebreak}\n搭建完成的結構應該如下圖所示，四面牆壁上各有 2 個低語玻璃，\n\n反應爐中子反射器位於底部中間方塊的正上方，\n\n反應爐散熱器位於其上方，而充能煤晶方塊則位於頂部中間。\n\n{image:ftb:textures/quests/neutron_activator/neutron_activator_build.png width:120 height:150 align:center}",
     "context": "chapters/world_engine__tier_5.snbt / quest 21322BAF061FE83F",
     "meta": {
       "line_split_policy": "lf",
@@ -239,7 +239,7 @@
   },
   "quest.28C1BB5C88F65CA0.quest_desc": {
     "original": "With &dWyvern&r tier injectors, you should be able to create &6Awakened Draconium&r, but you'll need a &6Dragon Heart&r. Several &6Dragon Hearts&r actually.\n\nYou're going to need a ton of &6Awakened Draconium&r, so this method isn't the best way to go about making it.",
-    "translation": "有了&d雙足飛龍聚合注入器&r，你就能開始製作&6覺醒龍金屬&r了，但你還需要一個（其實要很多個）&6龍族之心&r。\n\n由於你需要超級多的&6覺醒龍金屬&r，因此這種製作方式並不是最好的方式。",
+    "translation": "有了&d雙足飛龍聚合注入器&r，你就能開始製作&6覺醒龍金屬&r了，但你還需要一個&6龍族之心&r。其實，是好幾個&6龍族之心&r。\n\n由於你需要超級多的&6覺醒龍金屬&r，因此這種製作方式並不是最好的方式。",
     "context": "chapters/world_engine__tier_5.snbt / quest 28C1BB5C88F65CA0",
     "meta": {
       "line_split_policy": "lf",
@@ -257,7 +257,7 @@
   },
   "quest.28F9C2B43B31DE16.quest_desc": {
     "original": "The &dAtomic Forge&f can now combine your &oEnchanted&r &5Trinity Gem&f with a pair of &oEnchanted&r &dNeutronium Ingots&f to create a &6Fortified Containment Device&f.\n\n&eNote&f: The &5Trinity Gem&f needs Unbreaking 112 and Blast Protection 10 and the &dNeutronium Ingots&f need Unbreaking 16!\n\nOnce you have obtained the &6Containment Device&f to capture the &dAntimatter&f, it is time to create some!\n\nSmashing the &6Containment Device&f with a highly radioactive &2Plutonium Pellet&f at a high enough speed will generate plenty of &dAntimatter&f that the &6Containment Device&f can capture into an &dAntimatter Fragment&f before it dissipates.",
-    "translation": "&d原子鍛造廠&f現在可以將你附魔過的&5三位一體寶石&f，與一對附魔過的&d中子錠&f結合，合成出&6強化圍阻裝置&f。\n\n&e注意&f：&5三位一體寶石&f需要耐久 112 與爆炸保護 10，而&d中子錠&f需要耐久 16！\n\n當你取得了用來捕捉&d反物質&f的&6圍阻裝置&f後，是時候來開始生產了！\n\n以足夠高的速度，使具有高放射性的&2鈽燃料顆粒&f撞擊&6圍阻裝置&f，\n\n將會產生大量的&d反物質&f，&6圍阻裝置&f能夠在它消散之前，將其捕捉成&d反物質碎片&f。",
+    "translation": "&d原子鍛造廠&f現在可以將你&o附魔過的&r&5三位一體寶石&f，與一對&o附魔過的&r&d中子錠&f結合，合成出&6強化圍阻裝置&f。\n\n&e注意&f：&5三位一體寶石&f需要耐久 112 與爆炸保護 10，而&d中子錠&f需要耐久 16！\n\n當你取得了&6圍阻裝置&f，可以用來捕捉&d反物質&f後，是時候來開始生產了！\n\n以&6圍阻裝置&f為目標，讓具有高放射性的&2鈽燃料顆粒&f以足夠高的速度撞擊它，\n\n將會產生大量的&d反物質&f，&6圍阻裝置&f能夠在它消散之前，將其捕捉成&d反物質碎片&f。",
     "context": "chapters/world_engine__tier_5.snbt / quest 28F9C2B43B31DE16",
     "meta": {
       "line_split_policy": "lf",
@@ -284,7 +284,7 @@
   },
   "quest.309D995CCCDB3AEE.title": {
     "original": "&fSpeak to &dThe Wyrmwright&f",
-    "translation": "&f與&d飛龍傳人之回聲&r交談",
+    "translation": "&f與&d飛龍傳人之回聲&f交談",
     "context": "chapters/world_engine__tier_5.snbt / quest 309D995CCCDB3AEE",
     "meta": {
       "line_split_policy": "none",
@@ -373,7 +373,7 @@
   },
   "quest.38893C57D1D9A5DE.quest_desc": {
     "original": "There are two ways to get &3Souls&f for your &aArcane Catalyst&f. These need to be within a 16-block range of a &aCatalyst&f to harvest a &3Soul&f.\n\n1. Mob deaths will provide 1 soul each. Not all methods of killing mobs will produce souls. The Mob Crusher from Industrial Foregoing is a notable example of one that does not.\n\n2. Growing &nand&r Breaking &aSoul Flowers&r. A fully-grown &aSoul Flower&r will produce 1 soul. Many methods of harvesting will not produce a soul because they are not actually breaking the flower.\n\n&7&oYou will need about 350,000 soul per Antimatter Pellet.",
-    "translation": "有兩種方式可以為你的&a奧術催化器&f取得&3靈魂&f。\n\n這些事件必須發生在距離&a催化器&f的 16 格範圍內，才能收集到&3靈魂&f。\n\n1. 生物死亡時會提供 1 個靈魂。\n\n但並非所有殺死生物的方法都會產生靈魂。\n\n像是《工業先鋒》的生物屠殺裝置，它就不會產生靈魂。\n\n2. 種植並「破壞」&a靈魂花&r。\n\n一朵完全成熟的&a靈魂花&r會產生 1 個靈魂。\n\n許多收穫方法都不會產生靈魂，因為它們實際上並沒有「破壞」花朵。\n\n&7&o每製造一顆反物質球，大約需要 350,000 個靈魂。",
+    "translation": "有兩種方式可以取得&3靈魂&f，供你的&a奧術催化器&f使用。\n\n這些事件必須發生在距離&a催化器&f的 16 格範圍內，才能收集到&3靈魂&f。\n\n1. 生物死亡時會提供 1 個靈魂。\n\n但並非所有殺死生物的方法都會產生靈魂。\n\n像是《工業先鋒》的生物屠殺裝置，它就不會產生靈魂。\n\n2. 種植&n並&r破壞&a靈魂花&r。\n\n一朵完全成熟的&a靈魂花&r會產生 1 個靈魂。\n\n許多收穫方法都不會產生靈魂，因為它們實際上並沒有「破壞」花朵。\n\n&7&o每製造一顆反物質球，大約需要 350,000 個靈魂。",
     "context": "chapters/world_engine__tier_5.snbt / quest 38893C57D1D9A5DE",
     "meta": {
       "line_split_policy": "lf",
@@ -463,7 +463,7 @@
   },
   "quest.4B576E9FFA5D79CF.quest_desc": {
     "original": "Remember that these quests said you need a lot of &6Awakened Draconium&r? You need &a378&r &6Awakened Draconium Blocks&r.\n\nTo upgrade the &6World Engine&r, you will need to create a &aTier 8 Energy Core&r which also requires &a786&r &dDraconium Blocks&r as well.\n\nBawk to it then.\n\n&eNote&f: Recipes requiring this &3Upgrade&r will only work with an active &aEnergy Core&r.",
-    "translation": "還記得之前的任務提到過要超級多的&6覺醒龍金屬&r嗎？準確來說你需要&a 378 個&r&6覺醒龍金屬方塊&r。\n\n要升級&6世界引擎&r，你需要製作一個&a等級 8 能量核心&r。因此你還需要 &a786 個&r&6龍金屬方塊&r。\n\n&e備註&r：需要用到此&3升級&r的配方需要一個已啟動的&a能量核心&r。",
+    "translation": "還記得之前的任務提到過要超級多的&6覺醒龍金屬&r嗎？準確來說你需要&a 378 個&r&6覺醒龍金屬方塊&r。\n\n要升級&6世界引擎&r，你需要製作一個&a等級 8 能量核心&r。因此你還需要 &a786 個&r&d龍金屬方塊&r。\n\n那就咕咕開工吧。\n\n&e備註&f：需要用到此&3升級&r的配方需要一個已啟動的&a能量核心&r。",
     "context": "chapters/world_engine__tier_5.snbt / quest 4B576E9FFA5D79CF",
     "meta": {
       "line_split_policy": "lf",
@@ -499,7 +499,7 @@
   },
   "quest.4D7C7DE95E56C7B3.quest_desc": {
     "original": "When you fought the &zMighty Ender Chicken&r, you might have noticed a &aDislocator Receptacle&r in the arena. It's time to use that, because you have to milk the chicken.\n\nStart by setting up a &aStasis Chamber&r setup for the boss. This might be worth doing somewhere like a &dCompact Machine&r.\n\nThe goal will be to teleport the &zMighty Ender Chicken&r onto a &aStasis Chamber&r so that you can use a &6Fluid Laser Drill&r to milk it.\n\n&eNote&r: The chicken will teleport back if it is in the same dimension. You should set this up in a &aCompact Machine&r!\n{@pagebreak}\nThe &aLaser Base&r needs to be placed depending on the size of the chicken that you warp over.\n\nThe goal should be to place the Base directly above the chicken's head, which if tiny, will be one block above it.\n\nTo achieve a tiny chicken, as soon as you summon it, place in the &dDislocator&r to immediately open the portal.",
-    "translation": "當你在和&z偉大終界雞&r戰鬥時，你可能就已經發現場地中有一個&a傳送門定位器&r了。現在是時候該使用它了，你需要他來幫終界雞擠奶。\n\n首先你需要提前準備一個&a靜滯室&r來困住牠，推薦你在&d壓縮空間&r裡來做準備。\n\n我們的目的是把&z偉大終界雞&r傳送到&a靜滯室&r上面，接著用&6流體雷射鑽&r為牠擠奶。\n\n備註：如果在同一個維度的話，終界雞會被傳送回來，這也是為什麼推薦在&a壓縮空間&r內進行。\n{@pagebreak}\n根據終界雞當前的大小擺上&a雷射基座&r。基座要擺到終界雞頭部的正上方，如果雞夠小的話，直接擺到整隻雞的上方就好。\n\n要讓雞保持在很小隻的狀態，你需要在召喚的當下馬上放入&d傳送符咒&r來啟動傳送門。",
+    "translation": "當你在和&z偉大終界雞&r戰鬥時，你可能就已經發現場地中有一個&a傳送門定位器&r了。現在是時候該使用它了，你需要它來幫終界雞擠奶。\n\n首先你需要提前準備一個&a靜滯室&r來困住牠，推薦你在&d壓縮空間&r裡來做準備。\n\n我們的目的是把&z偉大終界雞&r傳送到&a靜滯室&r上面，接著用&6流體雷射鑽&r為牠擠奶。\n\n&e備註&r：如果在同一個維度的話，終界雞會被傳送回來，這也是為什麼推薦在&a壓縮空間&r內進行。\n{@pagebreak}\n根據終界雞當前的大小擺上&a雷射基座&r。基座要擺到終界雞頭部的正上方，如果雞夠小的話，擺在牠正上方一格即可。\n\n要讓雞保持在很小隻的狀態，你需要在召喚的當下馬上放入&d傳送符咒&r來啟動傳送門。",
     "context": "chapters/world_engine__tier_5.snbt / quest 4D7C7DE95E56C7B3",
     "meta": {
       "line_split_policy": "lf",
@@ -526,7 +526,7 @@
   },
   "quest.527A754FEFC95F4C.quest_desc": {
     "original": "Now that you've literally milked some &zChaos&r, it's time for you to return to the &dChaos&r &6Echoborne&r.",
-    "translation": "當你已經擠出一些&z混沌&r了，就回去找&6混沌&r之&d回聲&r談話。",
+    "translation": "當你已經擠出一些&z混沌&r了，就回去找&d混沌&r之&6回聲&r談話。",
     "context": "chapters/world_engine__tier_5.snbt / quest 527A754FEFC95F4C",
     "meta": {
       "line_split_policy": "lf",
@@ -535,7 +535,7 @@
   },
   "quest.527A754FEFC95F4C.title": {
     "original": "&fSpeak With &6Chaos",
-    "translation": "&f與&6混沌&r交談",
+    "translation": "&f交談對象：&6混沌",
     "context": "chapters/world_engine__tier_5.snbt / quest 527A754FEFC95F4C",
     "meta": {
       "line_split_policy": "none",
@@ -544,7 +544,7 @@
   },
   "quest.543C6917A16F266C.quest_desc": {
     "original": "Regardless of which path you've taken, you should now have the ability to make the &dAntimatter&f needed to craft the &zBlack Hole&f.",
-    "translation": "有了&z中子活化器&r，現在你有太陽般的能量去轉換&a核廢料&r了。\n\n之後你就能用&6超臨界移相器&r去製造&z反物質&r了。\n\n[\"\",{\"text\": \"備註\", \"color\": \"yellow\"},  \"：想了解更多如何製作通用機械反應堆和轉換核廢料的細節可以查看\", {\"text\": \"通用機械反應堆\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"49B8310D0C7A6C55\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"查看反應堆任務\"}}, \"的任務。\"]\n\n在這個模組包製作&z反物質&r需要消耗的&a核廢料&r量是其他模組包的一半。",
+    "translation": "無論你選擇哪條路線，現在應該都已具備製作&d反物質&f的能力，並能用它來合成&z黑洞&f。",
     "context": "chapters/world_engine__tier_5.snbt / quest 543C6917A16F266C",
     "meta": {
       "line_split_policy": "lf",
@@ -562,7 +562,7 @@
   },
   "quest.5804356B2AFCF14A.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_5.snbt / quest 5804356B2AFCF14A",
     "meta": {
       "line_split_policy": "lf",
@@ -598,7 +598,7 @@
   },
   "quest.5C8773D5561D7245.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_5.snbt / quest 5C8773D5561D7245",
     "meta": {
       "line_split_policy": "lf",
@@ -616,7 +616,7 @@
   },
   "quest.65B10C46C1AE5026.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_5.snbt / quest 65B10C46C1AE5026",
     "meta": {
       "line_split_policy": "lf",
@@ -642,7 +642,7 @@
   },
   "quest.6E24701C49A6114D.quest_desc": {
     "original": "With the &6World Engine&r upgraded with the power of the &zVoid&r, you can create the &dNeutronium Compressor&r to compact items down into &zSingularities&r.\n\nUse these to create the &zInfinity Singularity&r.\n\n&eNote&f: You'll need to install some &3Draconic Energy Cores&r in your &6World Engine&f to increase its energy buffer.",
-    "translation": "&6世界引擎&r安裝&z虛空升級&r過後，你現在能做出&d中子素壓縮機&r，將物品壓縮成&z奇點&r了。\n\n現在來做出&z無盡奇點&r吧。",
+    "translation": "&6世界引擎&r安裝&z虛空升級&r過後，你現在能做出&d中子素壓縮機&r，將物品壓縮成&z奇點&r了。\n\n現在來做出&z無盡奇點&r吧。\n\n&e注意&f：你需要安裝一些&3龍族能量核心&r至&6世界引擎&f中，以提高其能量緩衝容量。",
     "context": "chapters/world_engine__tier_5.snbt / quest 6E24701C49A6114D",
     "meta": {
       "line_split_policy": "lf",
@@ -660,7 +660,7 @@
   },
   "quest.71BDC5B453B8CAB4.quest_desc": {
     "original": "You find yourself at the event horizon of a gigantic black hole. Explore the area and find &6Radiance&r.\n\nWork with them to create and encase your very own &dBlack Hole&r and acquire the &3Dark Void Upgrade&r for your &6World Engine&r.",
-    "translation": "你發現自己正在一個巨大黑洞的視界事件中，在四周探索尋找&6輻射&r。\n\n和這位&d回聲&r合作，製作屬於你的&d黑洞&r後把它裝起來，並協力為你的&6世界引擎&r解鎖&3黑暗虛空升級&r。",
+    "translation": "你發現自己正在一個巨大黑洞的事件視界上，在四周探索尋找&6輻射&r。\n\n與對方合作，製作並封裝屬於你的&d黑洞&r，取得&3黑暗虛空升級&r，用於升級你的&6世界引擎&r。",
     "context": "chapters/world_engine__tier_5.snbt / quest 71BDC5B453B8CAB4",
     "meta": {
       "line_split_policy": "lf",
@@ -678,7 +678,7 @@
   },
   "quest.7C94432EFD49611F.quest_desc": {
     "original": "&zInfinity&r is the sole being holding back the collapse of reality as you know it.\n\nWork with them to unlock the &3Infinity World Engine Upgrade&r.\n\n&7&oIt all comes down to this.",
-    "translation": "&z無盡&r是目前正在阻止你所知的現實崩潰的存在。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3無盡世界引擎升級&r。\n\n&7&o一切將回歸平靜。",
+    "translation": "&z無盡&r是唯一正在阻止你所知的現實崩潰的存在。\n\n與對方合作解鎖&3無盡世界引擎升級&r。\n\n&7&o一切都取決於這一刻。",
     "context": "chapters/world_engine__tier_5.snbt / quest 7C94432EFD49611F",
     "meta": {
       "line_split_policy": "lf",
@@ -747,7 +747,7 @@
   },
   "task.061CA75E28BD6BF6.title": {
     "original": "Speak with the &dEcho of The Wyrmwright",
-    "translation": "與&d飛龍傳人之回聲&r交談",
+    "translation": "交談對象：&d飛龍傳人之回聲",
     "context": "chapters/world_engine__tier_5.snbt / task 061CA75E28BD6BF6",
     "meta": {
       "line_split_policy": "none",
@@ -756,6 +756,7 @@
   },
   "task.223A14462F14AFF6.title": {
     "original": "&6World Engine&f Energy Buffer Upgrades",
+    "translation": "&6世界引擎&f能量緩衝升級",
     "context": "chapters/world_engine__tier_5.snbt / task 223A14462F14AFF6",
     "meta": {
       "line_split_policy": "none",
@@ -764,7 +765,7 @@
   },
   "task.32877EA200F47B95.title": {
     "original": "&fSpeak With &6Radiance",
-    "translation": "&f與&6輻射&r交談",
+    "translation": "&f交談對象：&6輻射",
     "context": "chapters/world_engine__tier_5.snbt / task 32877EA200F47B95",
     "meta": {
       "line_split_policy": "none",
@@ -800,7 +801,7 @@
   },
   "task.64B290466E13BE30.title": {
     "original": "Speak with the &dEcho of The Wyrmwright",
-    "translation": "與&d飛龍傳人之回聲&r交談",
+    "translation": "交談對象：&d飛龍傳人之回聲",
     "context": "chapters/world_engine__tier_5.snbt / task 64B290466E13BE30",
     "meta": {
       "line_split_policy": "none",
@@ -809,7 +810,7 @@
   },
   "task.76987C0F742A8A14.title": {
     "original": "&fSpeak With The &6Echo of Infinity",
-    "translation": "&f與&6無盡之回聲&r交談",
+    "translation": "&f交談對象：&6無盡之回聲",
     "context": "chapters/world_engine__tier_5.snbt / task 76987C0F742A8A14",
     "meta": {
       "line_split_policy": "none",
@@ -818,7 +819,7 @@
   },
   "task.77F88B2E5E3A0AE2.title": {
     "original": "&fSpeak With &6Chaos",
-    "translation": "&f與&6混沌&r交談",
+    "translation": "&f交談對象：&6混沌",
     "context": "chapters/world_engine__tier_5.snbt / task 77F88B2E5E3A0AE2",
     "meta": {
       "line_split_policy": "none",
@@ -827,7 +828,7 @@
   },
   "task.7D8611641B6611FB.title": {
     "original": "&fSpeak With The &dEcho of Guidance",
-    "translation": "&f與&d指引嚮導之回聲&r交談",
+    "translation": "&f交談對象：&d指引嚮導之回聲",
     "context": "chapters/world_engine__tier_5.snbt / task 7D8611641B6611FB",
     "meta": {
       "line_split_policy": "none",

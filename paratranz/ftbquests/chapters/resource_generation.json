@@ -10,7 +10,7 @@
   },
   "quest.05F1EC4F14A449AD.quest_desc": {
     "original": "The &aOre Laser Base&r from &bIndustrial Foregoing&r can be used to infinitely generate ores using &aLaser Drills&r.\n\nWithin the UI, you can set the Y Lvl to determine what types of ores you want to find, as well as installing a &aColored Lens&r to allow the &aLaser Base&r to specialize in specific ore types.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "來自《&b工業先鋒&r》的&a礦物雷射基座&r，配合&a雷射鑽&r使用可以產出無限礦物。\n\n在機器的介面中，你可以設定 Y 軸高度來決定想要尋找的礦\n物類型。\n\n此外，安裝&a染色透鏡&r還能讓&a雷射基座&r專注於產出特定的礦物。\n\n在&b力場子注能方塊&6世界引擎升級&r後才能做出該機器。",
+    "translation": "&a礦物雷射基座&r來自《&b工業先鋒&r》，可搭配&a雷射鑽&r無限產生礦物。\n\n你能在介面中設定 Y 軸高度，決定要尋找的礦物種類，也能安裝&a染色透鏡&r，讓&a雷射基座&r專門產出特定礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 05F1EC4F14A449AD",
     "meta": {
       "line_split_policy": "lf",
@@ -82,7 +82,7 @@
   },
   "quest.0EBA58B7FD2AF36D.quest_desc": {
     "original": "The &aExtractor&r from &bXycraft&r is a staple for easily generating niche resources like &dDragon Eggs&r or &7Sky Stone Dust&r.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "來自&b《Xy 工藝》&r模組的&a提取器&r，是一台能夠輕鬆產出像是\n&d龍蛋&r或&7隕石粉&r這種稀缺資源的裝置。\n\n在&b力場子注能方塊&6世界引擎升級&r後才能做出該機器。",
+    "translation": "&a提取器&r來自《&bXy 工藝&r》，能輕鬆產生&d龍蛋&r或&7隕石粉&r等特殊資源，是相當實用的設備。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 0EBA58B7FD2AF36D",
     "meta": {
       "line_split_policy": "lf",
@@ -100,7 +100,7 @@
   },
   "quest.11C58E38DE9488BE.quest_desc": {
     "original": "The &aMob Masher&r from &bMob Grinding Utils&r can automate the killing process in mob farms when given a redstone signal.\n\nIt can also be upgraded to do more damage, drop more loot, or cause mobs to drop their heads!\n\n&aNote&r: You will still need something to pick up the items as they drop into the world.",
-    "translation": "來自《&b刷怪塔實用設備&r》的&a生物粉碎機&r，在給予紅石訊號時，能夠自動殺死刷怪塔裡生物。\n\n粉碎機能透過安裝升級，增加傷害、掉落物，甚至使生物掉落他們的頭顱！\n\n&a注意&r：你仍需要為刷怪塔產出的掉落物，準備收集措施。",
+    "translation": "&a生物粉碎機&r來自《&b刷怪塔實用設備&r》，接收紅石訊號後，就能在刷怪塔中自動擊殺生物。\n\n你也能安裝升級來增加傷害、提高戰利品掉落量，或讓生物掉落頭顱！\n\n&a注意&r：物品會掉落在世界中，因此你仍需要準備收集裝置。",
     "context": "chapters/resource_generation.snbt / quest 11C58E38DE9488BE",
     "meta": {
       "line_split_policy": "lf",
@@ -145,7 +145,7 @@
   },
   "quest.150BB4679DD2B4B5.quest_desc": {
     "original": "Believe it or not, cows really like Apples and.... clay? Put them together and what do you get?\n\nIf you feed a cow a &aClapple&r, it will convert it into a random baby &bFluid Cow&r. Once fully grown, these can be milked to give a bucket of that fluid!\n\nUnlike regular cows, &bFluid Cows&r have a cooldown on how often they can be milked.\n\nList of &bFluid Cows&r that can be made using the &aClapple&r ->\n{@pagebreak}\n- Copper\n- Iron\n- Tin\n- Zinc\n- Lead\n- Nickel\n- Silver\n{@pagebreak}\n- Aluminum\n- Gold\n- Uranium\n- Amethyst\n- Redstone\n- Carbon\n- Slime\n- Osmium",
-    "translation": "不管你信不信，牛真的很喜歡蘋果和......黏土？把它們湊在一起會變成什麼？\n\n若你將&a黏土蘋果&r餵給一頭牛，它就會轉化成一頭隨機的幼年&b流體牛&r。\n\n等到完全長大後，就能透過擠奶獲得一桶該種類的流體！\n\n與普通的牛不同，&b流體牛&r在擠奶之後會有冷卻時間。\n\n以下是使用&a黏土蘋果&r可以轉化出的&b流體牛&r清單 ->\n{@pagebreak}\n- 銅\n- 鐵\n- 錫\n- 鋅\n- 鉛\n- 鎳\n- 銀\n{@pagebreak}\n- 鋁\n- 金\n- 鈾\n- 紫水晶\n- 紅石\n- 炭\n- 史萊姆\n- 鋨",
+    "translation": "不管你信不信，牛真的很喜歡蘋果和......黏土？把它們湊在一起會變成什麼？\n\n若你將&a黏土蘋果&r餵給一頭牛，它就會轉化成一頭隨機的幼年&b流體牛&r。\n\n等到完全長大後，就能透過擠奶獲得一桶該種類的流體！\n\n與普通的牛不同，&b流體牛&r在擠奶之後會有冷卻時間。\n\n以下是&b流體牛&r清單，可透過餵食&a黏土蘋果&r轉化而來 ->\n{@pagebreak}\n- 銅\n- 鐵\n- 錫\n- 鋅\n- 鉛\n- 鎳\n- 銀\n{@pagebreak}\n- 鋁\n- 金\n- 鈾\n- 紫水晶\n- 紅石\n- 碳\n- 史萊姆\n- 鋨",
     "context": "chapters/resource_generation.snbt / quest 150BB4679DD2B4B5",
     "meta": {
       "line_split_policy": "lf",
@@ -181,7 +181,7 @@
   },
   "quest.16F7490FA5DE307C.quest_desc": {
     "original": "The &aMob Crusher&r from &bIndustrial Foregoing&r can easily crush mobs for you within your mob farm.\n\nWhen powered, this machine will instantly kill any mob within its working area, automatically picking up the loot into its inventory.\n\nThe working area can be upgraded using addons, as well as how fast it activates.",
-    "translation": "來自《&b工業先鋒&r》的&a生物屠殺裝置&r，可以為你的刷怪塔輕鬆粉碎生物。\n\n提供能量時，這台機器會立即殺死其工作範圍內的所有生物，並自動將掉落物收集至內部空間中。\n\n你可以透過安裝升級插件，來擴大機器的運作範圍，以及運作速度。",
+    "translation": "&a生物屠殺裝置&r來自《&b工業先鋒&r》，可輕鬆替你處理刷怪塔中的生物。\n\n供電後，這台機器會立即殺死工作範圍內的生物，並自動將戰利品收進物品欄。\n\n透過升級插件，你可以擴大工作範圍，也能提高運作速度。",
     "context": "chapters/resource_generation.snbt / quest 16F7490FA5DE307C",
     "meta": {
       "line_split_policy": "lf",
@@ -226,7 +226,7 @@
   },
   "quest.1CCD08A54B3F94C4.quest_desc": {
     "original": "Most items in the pack won't have EMC values, but &dDark Matter&r and &cRed Matter&r can be used for more than EMC.\n\nEither of these can be converted into a TON of &bMatter&r using the &aDisintegrator&r.",
-    "translation": "本模組包中的多數物品都沒有 EMC 數值，\n但&d暗物質&r與&c紅物質&r的用途可不只 EMC。\n\n使用&a粉碎機&r可將其中任一種，轉換成大量的&b物質&r。",
+    "translation": "本模組包中的大多數物品都沒有 EMC 數值，但&d暗物質&r與&c紅物質&r的用途不只限於 EMC。\n\n這兩者都能轉換成大量的&b物質&r，只要使用&a粉碎機&r即可。",
     "context": "chapters/resource_generation.snbt / quest 1CCD08A54B3F94C4",
     "meta": {
       "line_split_policy": "lf",
@@ -244,7 +244,7 @@
   },
   "quest.2E619195856B3B9F.quest_desc": {
     "original": "The &aOre Generator&r from &bMekanism&r allows you to charge &cLasers&r with power, then direct them into the generator to create ores.\n\nThis machine becomes available with the &bFortron Infused Block&r &6World Engine Upgrade&r.",
-    "translation": "來自《&b通用機械&r》的&a礦物製造機&r，讓你可以為&c雷射&r充能，並將其導向製造機以產生礦物。\n\n在&b力場子注能方塊&6世界引擎升級&r後才能做出該機器。",
+    "translation": "&a礦物製造機&r來自《&b通用機械&r》。你可以為&c雷射&r供電，再將光束導向製造機來產生礦物。\n\n完成&b力場子注能方塊&r&6世界引擎升級&r後，即可製作這台機器。",
     "context": "chapters/resource_generation.snbt / quest 2E619195856B3B9F",
     "meta": {
       "line_split_policy": "lf",
@@ -262,7 +262,7 @@
   },
   "quest.2E9F9DD6660745B3.quest_desc": {
     "original": "The &aMechanical Harvester&r from &bCreate&r can be attached to a spinning contraption to auto-harvest any crops it comes in contact with.\n\nThis can be a great option for those who like to use &bCreate&r!",
-    "translation": "來自《&b動力機械&r》的&a機械收割機&r，可以安裝在旋轉的動能裝置上，自動收割任何接觸到的作物。\n\n對於喜歡使用《&b動力機械&r》動力系統的玩家來說，這是一個絕佳的選擇！",
+    "translation": "&a機械收割機&r來自《&b動力機械&r》，可安裝在旋轉的動能裝置上，自動收割接觸到的作物。\n\n對喜歡使用《&b動力機械&r》的玩家來說，這是個很棒的選擇！",
     "context": "chapters/resource_generation.snbt / quest 2E9F9DD6660745B3",
     "meta": {
       "line_split_policy": "lf",
@@ -334,6 +334,7 @@
   },
   "quest.37F6FA6FD524AB9F.quest_desc": {
     "original": "The &6Data Center&f multiblock is a 7x7x7 structure that runs up to 25 &zSelf Aware&r data models at the same time.\n\nThe multiblock is built with a 7x7 &dObsidian&r platform at the bottom and &aBlack Stained Glass&r walls, leaving the interior hollow. Then, the &6Data Center&r block and 3 &bIO Ports&r must be placed on the outer bottom layer, each configured to a different mode: Energy, Inputs, Outputs.\n\nYou can optionally add a fourth Port confiured to Models for automatic input of data models, but this is not required.\n\nIf built correctly, a blue outline will display around the multiblock, otherwise you can click the main &6Data Model&f block for more details.\n\n[\"You can also check out the \", {\"text\": \"Data Center GuideMe\", \"underlined\": true, \"color\": \"aqua\", \"clickEvent\": {\"action\": \"run_command\", \"value\": \"/guidemec hostilenetworks:guide open\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Open Data Center GuideMe\"}}, \", for an example structure.\"]",
+    "translation": "&6資料中心&f是一座 7x7x7 的多方塊結構，可同時運作最多 25 個達到&z自我意識&r等級的資料模型。\n\n建造時，先以 7x7 的&d黑曜石&r平台作為底座，再用&a黑色玻璃&r圍成牆壁，內部保持中空。接著，在最底層的外圍放置&6資料中心&r方塊與 3 個&b輸入／輸出連接埠&r，並分別設為能量、輸入及輸出模式。\n\n你也可以另外放置第四個連接埠，將其設為模型模式，以便自動輸入資料模型；不過，這並非必要配置。\n\n結構正確時，周圍會出現藍色外框；若未出現，可點擊主要的&6資料模型&f方塊查看詳細資訊。\n\n[\"你也可以查看\", {\"text\": \"資料中心指南\", \"underlined\": true, \"color\": \"aqua\", \"clickEvent\": {\"action\": \"run_command\", \"value\": \"/guidemec hostilenetworks:guide open\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"開啟資料中心指南\"}}, \"，參考結構範例。\"]",
     "context": "chapters/resource_generation.snbt / quest 37F6FA6FD524AB9F",
     "meta": {
       "line_split_policy": "lf",
@@ -351,7 +352,7 @@
   },
   "quest.43919D8A9EB5C627.quest_desc": {
     "original": "The &2Hydroponic Bed&r from &bIndustrial Foregoing&r works as an accelerated soil for crops to grow on.\n\nIt can automatically harvest crops for you, and can also be upgraded in speed using upgrades and by using &bEther Gas&r from Withers.\n\nYou can also use the &dSimulated Hydroponic Bed&r to simulate the growth from a single crop into multiple beds!",
-    "translation": "來自《&b工業先鋒&r》的&2水耕床&r，可作為加速作物生長的強化土壤。\n\n它能為你自動收穫作物，並能透過安裝升級插件，以及消耗來自凋零怪的&b乙醚氣體&r，來進一步提升運作速度。\n\n你還可以使用&d模擬水耕床&r，模擬單一作物的生長狀態，並同步至多個水耕床中！",
+    "translation": "&2水耕床&r來自《&b工業先鋒&r》，能作為加速作物生長的土壤。\n\n它會自動收穫作物，也能藉由安裝升級，以及使用取自凋零怪的&b乙醚氣體&r，進一步提高速度。\n\n你還能使用&d模擬水耕床&r，將單株作物的生長模擬到多個水耕床中！",
     "context": "chapters/resource_generation.snbt / quest 43919D8A9EB5C627",
     "meta": {
       "line_split_policy": "lf",
@@ -387,7 +388,7 @@
   },
   "quest.45CB4500F3CEF539.quest_desc": {
     "original": "The &aMaterial Stonework Factory&r from &bIndustrial Foregoing&r can infinitely generate different types of stone blocks over time.\n\nTo see the many different items the Factory can make, hit &bU&r on it while in JEI.",
-    "translation": "來自《&b工業先鋒&r》的&a造石加工機&r，可以隨著時間，無限生產各種類型的石材方塊。\n\n若想查看該工廠能製作的所有物品，請在 JEI 中對其按下\n「&bU&r」查看用途。",
+    "translation": "&a造石加工機&r來自《&b工業先鋒&r》，能持續無限生產各種石材方塊。\n\n在 JEI 中將游標移到這台機器上，按下&bU&r，就能查看它可製作的各種物品。",
     "context": "chapters/resource_generation.snbt / quest 45CB4500F3CEF539",
     "meta": {
       "line_split_policy": "lf",
@@ -396,7 +397,7 @@
   },
   "quest.45CB4500F3CEF539.title": {
     "original": "&fStonework Factory",
-    "translation": "造石加工機",
+    "translation": "&f造石加工機",
     "context": "chapters/resource_generation.snbt / quest 45CB4500F3CEF539",
     "meta": {
       "line_split_policy": "none",
@@ -405,6 +406,7 @@
   },
   "quest.48B3D104BEFE1959.quest_desc": {
     "original": "Using a &aMechanical Saw&r from &6Create&r, you can create a contraption that can automatically harvest grown trees for you!\n\nCouple this with a &aDeployer&r to plant the saplings back, and you'll have a cool looking tree farm.",
+    "translation": "利用&a動力鋸&r，就能製作自動砍伐成熟樹木的裝置；這項設備來自《&6動力機械&r》。\n\n再搭配&a機械手&r重新種下樹苗，就能打造一座既實用又好看的自動樹場。",
     "context": "chapters/resource_generation.snbt / quest 48B3D104BEFE1959",
     "meta": {
       "line_split_policy": "lf",
@@ -458,7 +460,7 @@
   },
   "quest.4CE414ADD47790B2.quest_desc": {
     "original": "&aReplicators&r can be sped up using &dReplicator Enclosures&r, which can be Sneak+Right-clicked onto the &aReplicator&r to install it.\n\nYou can also configure speeds by installing a &aReplicator Motor&r. To craft the motor, you'll need to first craft the &dMatter Blueprint&r for the motor.\n{@pagebreak}\nPlace this into an &aIdentification Chamber&r with a &dMemory Chip&r to teach your system how to replicate it, then craft it from the &aReplication Terminal&r.\n\nOnce installed into a &aReplicator&r, you can configure its speed. The fastest it can go is 20%, but increases the chance for the replication to fail.",
-    "translation": "&a複製器&r可透過&d複製器外殼罩&r加速，安裝方式是對著&a複製器&r「潛行 + 點擊右鍵」。\n\n你也可以安裝&a複製器馬達&r來調整速度。\n\n若要製作馬達，需要先製作該馬達的&d物質藍圖&r。\n{@pagebreak}\n將藍圖與&d記憶體晶片&r一起放入&a鑑定室&r，讓系統學會如何複製，之後再到&a複製終端機&r製作。\n\n馬達裝入&a複製器&r後即可調整速度。最高可設為 20%，\n\n但也會提高複製失敗的機率。",
+    "translation": "&a複製器&r可透過&d複製器外殼罩&r加速，安裝方式是對著&a複製器&r「潛行 + 點擊右鍵」。\n\n你也可以安裝&a複製器馬達&r來調整速度。\n\n若要製作馬達，需要先製作該馬達的&d物質藍圖&r。\n{@pagebreak}\n將藍圖放入&a鑑定室&r，搭配&d記憶體晶片&r，讓系統學會如何複製，之後再到&a複製終端機&r製作。\n\n馬達裝入&a複製器&r後即可調整速度。最快可設為 20%，\n\n但也會提高複製失敗的機率。",
     "context": "chapters/resource_generation.snbt / quest 4CE414ADD47790B2",
     "meta": {
       "line_split_policy": "lf",
@@ -503,7 +505,7 @@
   },
   "quest.517AAA103D89A14F.quest_subtitle": {
     "original": "Queue Training Montage",
-    "translation": "排隊訓練蒙太奇",
+    "translation": "訓練蒙太奇，準備開始",
     "context": "chapters/resource_generation.snbt / quest 517AAA103D89A14F",
     "meta": {
       "line_split_policy": "none",
@@ -521,7 +523,7 @@
   },
   "quest.52ADC3D46CCB2659.quest_desc": {
     "original": "&aApothic Spawners&r provides the ability to relocate and upgrade &dMob Spawners&r to make your own mob farms. To move the spawner, break it with a pickaxe that has &bsilk touch&r on it.\n\nMob spawners can be changed by using a &aMob Egg&r of the monster you wish to change them to, creating custom, non-vanilla spawners.\n\n[ \"Exploding a spawner will drop \", {\"text\": \"Spawner Chains\", \"color\": \"dark_green\"}, \" which are used to craft upgrades that can be applied to your spawners, improving their abilities. You'll require a more \", { \"text\": \"Advanced Enchantment Setup\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"00A7C1FE54F86429\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Apothic Enchanting Quest\"} }, \" to make more advanced spawner upgrades.\" ]\n\nTo learn more about which items to use, check the recipes in &eJEI&f for a spawner.",
-    "translation": "《&a神化&r》提供了搬移與升級&d生怪磚&r的能力，這對於建造刷怪塔非常有幫助。\n\n要移動生怪磚，只需使用帶有&b絲綢之觸&r附魔的十字鎬將其挖掘即可。\n\n你可以對著生怪磚使用&a生怪蛋&r，來變更其生成的生物。\n\n在生怪磚上使用特定的物品，還能對其進行升級，使其生成速度更快、無視生成條件等等！\n\n若要進一步了解可使用的升級物品，請在 JEI 中查看生怪磚\n的相關配方。",
+    "translation": "《&a神化：生怪磚&r》讓你能搬移與升級&d生怪磚&r，打造自己的刷怪塔。若要搬動生怪磚，請用帶有&b絲綢之觸&r附魔的鎬挖掘它。\n\n對生怪磚使用目標生物的&a生怪蛋&r，就能更改它生成的生物，做出原版沒有的自訂生怪磚。\n\n[ \"炸毀生怪磚會掉落\", {\"text\": \"生怪磚鎖鏈\", \"color\": \"dark_green\"}, \"，可用來製作生怪磚升級，提升其功能。你需要更\", { \"text\": \"進階的附魔設備\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"00A7C1FE54F86429\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往神化附魔任務\"} }, \"，才能製作更進階的生怪磚升級。\" ]\n\n若想了解可使用哪些物品，請在&eJEI&f中查看生怪磚的相關配方。",
     "context": "chapters/resource_generation.snbt / quest 52ADC3D46CCB2659",
     "meta": {
       "line_split_policy": "lf",
@@ -674,7 +676,7 @@
   },
   "quest.60BBE214131DF6EB.quest_desc": {
     "original": "Once you have a Data Model for a mob, you'll need to level it up to at least the &aBasic&r tier by killing that type of mob.\n\nWhen provided with a &2Prediction Matrix&r and power, the &aSimulation Chamber&r will run simulations as if you were killing that specific mob.\n\nIf the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeeds, you'll get that mob's &6Prediction&r.\n\n{@pagebreak}\n\nThe &aSimulation Chamber&f has two modes: &2Training Mode&f runs simulations that upgrade the model's data and &dInference Mode&r produces predictions, but doesn't upgrade the model.\n\nThis &6Prediction&r can be run through a &dLoot Fabricator&r to create loot!\n\nYou can also switch the &dLoot Fabricator&f to &2Queue Mode&r, which lets you cycle through a list of outputs instead of producing only one fixed drop.",
-    "translation": "一旦你獲得了某種生物的&c資料模型&r，就必須透過擊殺該生物，將模型等級提升至&a基礎&r。\n\n當提供了&2預測矩陣&r與能量後，&a戰鬥模擬室&r就會開始模擬戰鬥，效果等同於你正在擊殺該特定生物。\n\n若戰鬥模擬失敗，你會獲得&b通用化預測產物&r；若戰鬥模擬成功，你則會獲得該生物專屬的&6預測產物&r。\n\n這些&6預測產物&r可以放入&d戰利品製造機&r中，生產對應生物的戰利品！",
+    "translation": "取得某種生物的資料模型後，你需要透過擊殺該種生物，將模型提升至至少&a基礎&r等級。\n\n提供&2預測矩陣&r與能量後，&a戰鬥模擬室&r便會進行模擬，效果如同你正在擊殺該種生物。\n\n若模擬失敗，你會獲得&b通用化預測產物&r；若模擬成功，則會獲得該生物專屬的&6預測產物&r。\n\n{@pagebreak}\n\n&a戰鬥模擬室&f有兩種模式：&2訓練模式&f會透過模擬增加模型資料，使模型升級；&d推論模式&r則會產生預測產物，但不會讓模型升級。\n\n將這些&6預測產物&r放入&d戰利品製造機&r，就能製造戰利品！\n\n你也可以將&d戰利品製造機&f切換為&2佇列模式&r，依照清單輪流產出不同的戰利品，而非只生產單一固定物品。",
     "context": "chapters/resource_generation.snbt / quest 60BBE214131DF6EB",
     "meta": {
       "line_split_policy": "lf",
@@ -764,7 +766,7 @@
   },
   "quest.705E4FFB4FCADFD1.quest_desc": {
     "original": "You can extract matter from items using the &aDisintegrator&r.\n\nThis matter will need to be stored into &aMatter Tanks&r for later use, and can be piped between machines and tanks using &eMatter Network Pipes&r.",
-    "translation": "你可以使用&a粉碎機&r從物品中提取&b物質&r。\n\n這些物質需要先存入&a物質儲罐&r以便後續使用，並可透過&e物質網路管道&r，在機器與儲罐之間傳輸。",
+    "translation": "你可以使用&a粉碎機&r從物品中提取物質。\n\n這些物質需要先存入&a物質儲罐&r以便後續使用，並可透過&e物質網路管道&r，在機器與儲罐之間傳輸。",
     "context": "chapters/resource_generation.snbt / quest 705E4FFB4FCADFD1",
     "meta": {
       "line_split_policy": "lf",
@@ -818,7 +820,7 @@
   },
   "quest.73268E8255CBB44A.quest_desc": {
     "original": "By making a &aSoul Vial&r, you can Sneak+Right-click on a mob to capture its soul.\n\nYou can combine this soul with a &aBroken Spawner&r inside of a &dSoul Binder&r to infuse the spawner with that mob's soul.\n\nCrafting a &2Powered Spawner&r using that infused spawner will create your own powered version of a spawner!",
-    "translation": "使用&a靈魂瓶&r，對著生物「Shift + 點擊右鍵」來捕捉其靈魂。\n\n你可以在&d靈魂綁定器&r中，將此靈魂與&a損壞的生怪磚&r結合，將該生物的靈魂注入到生怪磚中。\n\n接著將此注入靈魂的生怪磚，用於合成&2電動生怪磚&r，就能使用能量來生成你想要的生物！",
+    "translation": "使用&a靈魂瓶&r，對著生物「潛行 + 點擊右鍵」來捕捉其靈魂。\n\n你可以將此靈魂與&a損壞的生怪磚&r結合，在&d靈魂綁定器&r中處理，將該生物的靈魂注入到生怪磚中。\n\n接著將此注入靈魂的生怪磚，用於合成&2電動生怪磚&r，就能使用能量來生成你想要的生物！",
     "context": "chapters/resource_generation.snbt / quest 73268E8255CBB44A",
     "meta": {
       "line_split_policy": "lf",
@@ -844,7 +846,7 @@
   },
   "quest.74CC5FF2097C0839.quest_desc": {
     "original": "&6Hostile Neural Networks&r (or &6HNN&r for short) allows you to collect data from a mob to harvest its drops in the form of &bPredictions&r.\n\nTo get started with the mod, start off by creating a &aModel Framework&r and right-clicking it on a mob to gather its &cData Model&r.\n\nNext, you'll want to craft a &2Deep Learner&r and place the &cData Model&r inside of it. Once inside, every kill for that mob will allow you to improve the &bData Model&r.\n\n&eNote&r: You will need the &bChroniton Glass&r &6World Engine Upgrade&r to use this mod.",
-    "translation": "《&6敵對勢力神經網路&r》（或簡稱《&6HNN&r》）讓你能夠收集生物的資料，並以&b預測物質&r的形式來產出其掉落物。\n\n要開始使用此模組，首先製作一個&a模型框架&r，並對著生物按下右鍵，以取得該生物的&c資料模型&r。\n\n接下來，你需要製作一台&2深度學習機&r，並將&c資料模型&r放入其中。\n\n當模型放入學習機後，每當你擊殺該生物時，都能提升該&c資料模型&r的等級。\n\n&e注意&r：在使用此模組之前，你需要先擁有&b時空粒子玻璃&r&6世界引擎升級&r。",
+    "translation": "《&6敵對勢力神經網路&r》（或簡稱《&6HNN&r》）讓你能夠收集生物的資料，並以&b預測產物&r的形式來產出其掉落物。\n\n要開始使用此模組，首先製作一個&a模型框架&r，並對著生物按下右鍵，以取得該生物的&c資料模型&r。\n\n接下來，你需要製作一台&2深度學習機&r，並將&c資料模型&r放入其中。\n\n當模型放入學習機後，每當你擊殺該生物時，都能提升該&b資料模型&r的等級。\n\n&e注意&r：在使用此模組之前，你需要先擁有&b時空粒子玻璃&r&6世界引擎升級&r。",
     "context": "chapters/resource_generation.snbt / quest 74CC5FF2097C0839",
     "meta": {
       "line_split_policy": "lf",
@@ -925,6 +927,7 @@
   },
   "task.266AF5D6914A2BA5.title": {
     "original": "Chicken Soul",
+    "translation": "雞靈魂",
     "context": "chapters/resource_generation.snbt / task 266AF5D6914A2BA5",
     "meta": {
       "line_split_policy": "none",
@@ -942,6 +945,7 @@
   },
   "task.46201BC3BAE0D15A.title": {
     "original": "Mekanism Lasers",
+    "translation": "《通用機械》雷射",
     "context": "chapters/resource_generation.snbt / task 46201BC3BAE0D15A",
     "meta": {
       "line_split_policy": "none",
@@ -977,7 +981,7 @@
   },
   "task.6166C057F795A2CB.title": {
     "original": "Loads of Matter",
-    "translation": "物質載入",
+    "translation": "大量物質",
     "context": "chapters/resource_generation.snbt / task 6166C057F795A2CB",
     "meta": {
       "line_split_policy": "none",

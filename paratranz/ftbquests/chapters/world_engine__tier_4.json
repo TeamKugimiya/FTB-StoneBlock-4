@@ -28,7 +28,7 @@
   },
   "quest.03E48CD6E5DB806F.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Wyrmwright&r.\n\nWork with them to unlock the &dDraconic Energy&r upgrade for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo wyrmwright&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d飛龍傳人之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&d龍族能量&r升級吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wyrmwright&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d飛龍傳人之回聲&r了。\n\n與對方合作解鎖&d龍族能量&r升級，用於升級你的&6世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wyrmwright&7」。",
     "context": "chapters/world_engine__tier_4.snbt / quest 03E48CD6E5DB806F",
     "meta": {
       "line_split_policy": "lf",
@@ -70,7 +70,7 @@
   },
   "quest.0CE3C7A6DE787371.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤指向一座&3寶庫的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_4.snbt / quest 0CE3C7A6DE787371",
     "meta": {
       "line_split_policy": "lf",
@@ -88,7 +88,7 @@
   },
   "quest.0EAEEF79436FDFA7.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤指向一座&3寶庫的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_4.snbt / quest 0EAEEF79436FDFA7",
     "meta": {
       "line_split_policy": "lf",
@@ -115,7 +115,7 @@
   },
   "quest.14537A63D3BDC09B.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_4.snbt / quest 14537A63D3BDC09B",
     "meta": {
       "line_split_policy": "lf",
@@ -178,7 +178,7 @@
   },
   "quest.1F0F37429F1177DF.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of Twilight&r.\n\nWork with them to unlock the &3Twilight Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo twilight&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d暮光族裔之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3暮光升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo twilight&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d暮光族裔之回聲&r了。\n\n與對方合作解鎖&3暮光升級&r，用於升級你的&6世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo twilight&7」。",
     "context": "chapters/world_engine__tier_4.snbt / quest 1F0F37429F1177DF",
     "meta": {
       "line_split_policy": "lf",
@@ -196,7 +196,7 @@
   },
   "quest.27439A8D79B21B73.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Ancient&r.\n\nWork with them to learn the secrets of the &dDeep Dark&r to unlock the &3Euphonium Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo ancient&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d遠古族裔之回聲&r了。\n\n和這位&d回聲&r一同揭開&d深暗之域&r的秘密，並協力為你的&6世界引擎&r解鎖&3低吟金屬升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo ancient&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d遠古族裔之回聲&r了。\n\n與對方一同揭開&d深暗之域&r的秘密，並合作解鎖&3低吟金屬升級&r，用於升級你的&6世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo ancient&7」。",
     "context": "chapters/world_engine__tier_4.snbt / quest 27439A8D79B21B73",
     "meta": {
       "line_split_policy": "lf",
@@ -267,7 +267,7 @@
   },
   "quest.37499343396BC372.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_4.snbt / quest 37499343396BC372",
     "meta": {
       "line_split_policy": "lf",
@@ -285,7 +285,7 @@
   },
   "quest.383DAD591823C746.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_4.snbt / quest 383DAD591823C746",
     "meta": {
       "line_split_policy": "lf",
@@ -365,7 +365,7 @@
   },
   "quest.45BA73F16B7AE681.quest_desc": {
     "original": "Found within lower deepslate, the &3Ancient City&r holds a giant portal that can finally be activated, allowing you to defeat the boss within.\n\nUpon entering the portal you will receive a blindness effect that can only be cured by filling your &dSoul Cage&r with mob souls dropped from killing strengthened enemies inside the &3Vault&r.\n\n&cYou must hold the &dSoul Cage &cin your offhand to charge it!\n\nOnce you have filled your &dSoul Cage&r, you may start the boss fight by taking the elevator in the starting room.\n\n&eNote&r: Killing mobs with the &6Reaper&r enchantment will fill your Cage quicker (+1 per Level)",
-    "translation": "在深板岩環帶的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。\n\n當你進入傳送門之後，你會受到失明效果的影響。只能透過殺死&3寶庫&r內的強大敵人，利用他們的靈魂填滿你的&d靈魂牢籠&r，來逐步減緩失明效果。\n\n&c你必須要將&d靈魂牢籠&c放在你的副手才能收集到靈魂！\n\n當你填滿你的&d靈魂牢籠&r之後，你就可以搭上起始房間之中的電梯開啟頭目戰了。\n\n&e備註&r：使用&6收割者&r附魔殺死怪物能夠讓你的牢籠滿的更快。（每等級 +1）",
+    "translation": "在深板岩環帶的較低處，&3遠古之城&r之中的巨大傳送門終於能夠被點亮，讓你能夠進去擊敗裡面的頭目。\n\n當你進入傳送門之後，你會受到失明效果的影響。只有填滿&d靈魂牢籠&r才能治癒；你需要擊殺&3寶庫&r內經過強化的敵人，收集它們掉落的生物靈魂。\n\n&c你必須要將&d靈魂牢籠&c放在你的副手才能收集到靈魂！\n\n當你填滿你的&d靈魂牢籠&r之後，你就可以搭上起始房間之中的電梯開啟頭目戰了。\n\n&e備註&r：使用&6收割者&r附魔殺死怪物能夠讓你的牢籠填得更快。（每等級 +1）",
     "context": "chapters/world_engine__tier_4.snbt / quest 45BA73F16B7AE681",
     "meta": {
       "line_split_policy": "lf",
@@ -383,7 +383,7 @@
   },
   "quest.4B92EBBA1F2BBFEA.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_4.snbt / quest 4B92EBBA1F2BBFEA",
     "meta": {
       "line_split_policy": "lf",
@@ -437,7 +437,7 @@
   },
   "quest.51B3EF0BCEB804A4.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_4.snbt / quest 51B3EF0BCEB804A4",
     "meta": {
       "line_split_policy": "lf",
@@ -455,7 +455,7 @@
   },
   "quest.56FB1BC5711CC4F9.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤指向一座&3寶庫的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_4.snbt / quest 56FB1BC5711CC4F9",
     "meta": {
       "line_split_policy": "lf",
@@ -473,7 +473,7 @@
   },
   "quest.586C935010D2FE74.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取該任務的任務獎勵會幫你在該&d回聲的&6檔案庫&r的入口處設置一個定位點。",
     "context": "chapters/world_engine__tier_4.snbt / quest 586C935010D2FE74",
     "meta": {
       "line_split_policy": "lf",
@@ -491,7 +491,7 @@
   },
   "quest.5FDB9EC42FE936C6.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_4.snbt / quest 5FDB9EC42FE936C6",
     "meta": {
       "line_split_policy": "lf",
@@ -526,7 +526,7 @@
   },
   "quest.6781D1A7A53A5F1D.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤指向一座&3寶庫的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_4.snbt / quest 6781D1A7A53A5F1D",
     "meta": {
       "line_split_policy": "lf",
@@ -544,7 +544,7 @@
   },
   "quest.6D0C1811DA909BBD.quest_desc": {
     "original": "The &dAncient City Vault&r is filled with loot, but the most important item comes from the boss.\n\n3-4 &bCursium Ingots&r will drop on each kill. These ingots can be transformed into a usable upgrade in the &6World Engine&r.",
-    "translation": "縱使&d遠古之城寶庫&r中有著大量戰利品，但最重要的物品來自於那裡的頭目。\n\n每次殺死牠都會掉落 3~4 個&b咒靈錠&r。\\n這種金屬錠能夠被轉化為一項可用於&6世界引擎&r之中的升級。",
+    "translation": "縱使&d遠古之城寶庫&r中有著大量戰利品，但最重要的物品來自於那裡的頭目。\n\n每次殺死牠都會掉落 3~4 個&b咒靈錠&r。\n這種金屬錠能夠被轉化為一項可用於&6世界引擎&r之中的升級。",
     "context": "chapters/world_engine__tier_4.snbt / quest 6D0C1811DA909BBD",
     "meta": {
       "line_split_policy": "lf",
@@ -571,7 +571,7 @@
   },
   "quest.6F258F4C7BE2EE44.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤指向一座&3寶庫的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\n可以快速傳送至寶庫入口！&r",
     "context": "chapters/world_engine__tier_4.snbt / quest 6F258F4C7BE2EE44",
     "meta": {
       "line_split_policy": "lf",
@@ -589,7 +589,7 @@
   },
   "quest.775BE99DF402AF0D.quest_desc": {
     "original": "Speak to &dThe Ancient&r once you have returned from the &3Vault&r.\n\nThey'll be able to show you how to install the &3Euphonium World Engine Upgrade&r.",
-    "translation": "當你從這座&3寶庫&r成功歸來後，與&d遠古族裔&r談話。\n\n他會教你該如何安裝&3低吟金屬世界引擎升級&r。",
+    "translation": "與&d遠古族裔&r談話，等你從&3寶庫&r成功歸來後就去找他。\n\n他會教你該如何安裝&3低吟金屬世界引擎升級&r。",
     "context": "chapters/world_engine__tier_4.snbt / quest 775BE99DF402AF0D",
     "meta": {
       "line_split_policy": "lf",
@@ -794,7 +794,7 @@
   },
   "task.2B4A71FE904A1A6D.title": {
     "original": "Speak With The &dEcho of Guidance",
-    "translation": "與&d指引嚮導之回聲&r交談",
+    "translation": "交談對象：&d指引嚮導之回聲",
     "context": "chapters/world_engine__tier_4.snbt / task 2B4A71FE904A1A6D",
     "meta": {
       "line_split_policy": "none",
@@ -803,7 +803,7 @@
   },
   "task.2FF95590BE56EE26.title": {
     "original": "&fSpeak With The &dEcho of Twilight",
-    "translation": "&f與&d暮光族裔之回聲&r交談",
+    "translation": "&f交談對象：&d暮光族裔之回聲",
     "context": "chapters/world_engine__tier_4.snbt / task 2FF95590BE56EE26",
     "meta": {
       "line_split_policy": "none",
@@ -821,7 +821,7 @@
   },
   "task.35458B29D8F8E353.title": {
     "original": "&fSpeak With The &dEcho of The Ancient",
-    "translation": "&f與&d遠古族裔之回聲&r交談",
+    "translation": "&f交談對象：&d遠古族裔之回聲",
     "context": "chapters/world_engine__tier_4.snbt / task 35458B29D8F8E353",
     "meta": {
       "line_split_policy": "none",
@@ -920,7 +920,7 @@
   },
   "task.70DC330B1BB5FE90.title": {
     "original": "&fSpeak With The &dEcho of The Wyrmwright",
-    "translation": "&f與&d飛龍傳人之回聲&r交談",
+    "translation": "&f交談對象：&d飛龍傳人之回聲",
     "context": "chapters/world_engine__tier_4.snbt / task 70DC330B1BB5FE90",
     "meta": {
       "line_split_policy": "none",
