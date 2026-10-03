@@ -460,7 +460,7 @@
   },
   "quest.4CE414ADD47790B2.quest_desc": {
     "original": "&aReplicators&r can be sped up using &dReplicator Enclosures&r, which can be Sneak+Right-clicked onto the &aReplicator&r to install it.\n\nYou can also configure speeds by installing a &aReplicator Motor&r. To craft the motor, you'll need to first craft the &dMatter Blueprint&r for the motor.\n{@pagebreak}\nPlace this into an &aIdentification Chamber&r with a &dMemory Chip&r to teach your system how to replicate it, then craft it from the &aReplication Terminal&r.\n\nOnce installed into a &aReplicator&r, you can configure its speed. The fastest it can go is 20%, but increases the chance for the replication to fail.",
-    "translation": "&a複製器&r可透過&d複製器外殼罩&r加速，安裝方式是對著&a複製器&r「潛行 + 點擊右鍵」。\n\n你也可以安裝&a複製器馬達&r來調整速度。\n\n若要製作馬達，需要先製作該馬達的&d物質藍圖&r。\n{@pagebreak}\n將藍圖放入&a鑑定室&r，搭配&d記憶體晶片&r，讓系統學會如何複製，之後再到&a複製終端機&r製作。\n\n馬達裝入&a複製器&r後即可調整速度。最快可設為 20%，\n\n但也會提高複製失敗的機率。",
+    "translation": "&a複製器&r可透過&d複製器外殼罩&r加速，安裝方式是對著&a複製器&r「潛行 + 點擊右鍵」。\n\n你也可以安裝&a複製器馬達&r來調整速度。\n\n若要製作馬達，需要先製作該馬達的&d物質藍圖&r。\n{@pagebreak}\n將藍圖與&d記憶體晶片&r一起放入&a鑑定室&r，讓系統學會如何複製，之後再到&a複製終端機&r製作。\n\n馬達裝入&a複製器&r後即可調整速度。最快可設為 20%，\n\n但也會提高複製失敗的機率。",
     "context": "chapters/resource_generation.snbt / quest 4CE414ADD47790B2",
     "meta": {
       "line_split_policy": "lf",

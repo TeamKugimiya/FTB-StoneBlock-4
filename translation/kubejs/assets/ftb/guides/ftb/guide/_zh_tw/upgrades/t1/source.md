@@ -20,7 +20,7 @@ item_ids:
 
 將<Color id="light_purple">魔源</Color>從魔源罐導入控制器中。
 
-之後你大概會想改用<Color id="light_purple">魔源中繼器：折躍型</Color>，直接把基地裡的魔源運送過來。
+之後你大概會想改用<Color id="light_purple">魔源中轉器：折躍型</Color>，直接把基地裡的魔源運送過來。
 
 ## <Color id="gold">可解鎖配方</Color>
 

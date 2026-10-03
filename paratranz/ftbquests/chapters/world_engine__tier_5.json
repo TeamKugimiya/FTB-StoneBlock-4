@@ -580,7 +580,7 @@
   },
   "quest.580CDFD2B7675485.quest_desc": {
     "original": "To craft items in &6Draconic Evolution&r, you will need a special crafting setup called &dFusion Crafting&r.\n\nThe &dFusion Crafting Core&r must be the middle of the setup, with &dDraconium Fusion Crafting Ejectors&r placed facing towards the Core 2 blocks apart.\n\nThe Core will also need a redstone signal to start.\n{@pagebreak}\nTo upgrade to the &dWyvern Fusion Injectors&r, you will need at least 8 &dDraconium Injectors&r placed around the Core.\n\nYou can right-click each item the injectors need to craft the upgrade. Each injector will also need power.\n\nWith all items placed in the injectors, you can place the main item in the Core, and the craft should start once it has a redstone signal.",
-    "translation": "要製作&6龍族進化&r的物品，需要經過一種叫做&d聚合&r的特殊合成步驟。\n\n聚合裝置需要一個&d聚合核心&r在正中間，並在兩格外的地方擺上數個&d龍族聚合注入器&r。\n\n聚合核心需要紅石信號來啟動。\n{@pagebreak}\n要升級成&d雙足飛龍聚合注入器&r，需要至少八個&d龍族聚合注入器&r擺在核心周圍。\n\n右鍵點擊聚合注入器放入升級需要的物品，並為每個注入器提供能量。\n\n當物品都擺上注入器後，將主物品放入核心中，有紅石信號時就會開始合成。",
+    "translation": "要製作&6龍族進化&r的物品，需要經過一種叫做&d聚合&r的特殊合成步驟。\n\n聚合裝置需要一個&d聚合核心&r在正中間，並在兩格外的地方擺上數個&d龍族聚合注入器&r。\n\n聚合核心需要紅石訊號來啟動。\n{@pagebreak}\n要升級成&d雙足飛龍聚合注入器&r，需要至少八個&d龍族聚合注入器&r擺在核心周圍。\n\n右鍵點擊聚合注入器放入升級需要的物品，並為每個注入器提供能量。\n\n當物品都擺上注入器後，將主物品放入核心中，有紅石訊號時就會開始合成。",
     "context": "chapters/world_engine__tier_5.snbt / quest 580CDFD2B7675485",
     "meta": {
       "line_split_policy": "lf",

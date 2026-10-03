@@ -783,7 +783,7 @@
   },
   "quest.63BED4D08224B3EF.quest_desc": {
     "original": "There are more types of Relays to transfer &dSource&r between jars and blocks!\n\nThe &dSplitter&r is used to split the Source that is directed towards it into multiple Source Jars at once!\n\nThe &aDepositor Relay&r will deposit Source into Source Jars that are not linked to anything within 5 blocks. Great for creating Source storage rooms!\n{@pagebreak}\nThe &dWarper Relay&r is used to teleport Source to other &dWarper Relays&r, no matter how far away.\n\n&eNote&r: Distances beyond 30 blocks will have a chance to lose some Source when warping.\n\nThe &aCollector Relay&r will automatically take Source from any Source Jar it is not connected to within 5 blocks of it.",
-    "translation": "還有更多類型的中繼器，可用於在魔源罐與方塊間傳輸&d魔源&r！\n\n&d分流型中繼器&r可用於將引向它的魔源，同時分配至多個魔源罐中！\n\n&a存放型中繼器&r會將魔源存入 5 格方塊內，未連接至任何東西\n的魔源罐中。\n\n非常適合用來搭建魔源儲藏室！\n{@pagebreak}\n&d折躍型中繼器&r用於將魔源傳至其他&d折躍型中繼器&r，無論距離多遠。\n\n&e注意&r：距離超過 30 格時，傳送過程中有機率損失一些魔源。\n\n&a收集型中繼器&r將自動從其周圍 5 格內，未與其連接的任何魔\n源罐中提取魔源。",
+    "translation": "還有更多類型的中轉器，可用於在魔源罐與方塊間傳輸&d魔源&r！\n\n&d分流型中轉器&r可用於將引向它的魔源，同時分配至多個魔源罐中！\n\n&a存放型中轉器&r會將魔源存入 5 格方塊內，未連接至任何東西\n的魔源罐中。\n\n非常適合用來搭建魔源儲藏室！\n{@pagebreak}\n&d折躍型中轉器&r用於將魔源傳至其他&d折躍型中轉器&r，無論距離多遠。\n\n&e注意&r：距離超過 30 格時，傳送過程中有機率損失一些魔源。\n\n&a收集型中轉器&r將自動從其周圍 5 格內，未與其連接的任何魔\n源罐中提取魔源。",
     "context": "chapters/general_magic.snbt / quest 63BED4D08224B3EF",
     "meta": {
       "line_split_policy": "lf",

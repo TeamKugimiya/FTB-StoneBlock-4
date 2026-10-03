@@ -1135,7 +1135,7 @@
   },
   "quest.4BCA8A5C3F80D375.quest_desc": {
     "original": "The &aSigil of Unnaming&r removes the Affix name of an item, reverting it to its normal item name.\n\nFor example: &dEndawn the Ogre Slayer's Windswept Burnt Shoes of the Spellwarden&r will be renamed to &dBurnt Shoes&r.",
-    "translation": "&a除名咒符&r可移除物品名稱中的詞綴，還原為原本的物品名稱。\n\n例如：&d食人魔殺手恩道恩的御法者疾風焦靴&r，會重新命名為&d焦靴&r。",
+    "translation": "&a除名咒符&r可移除物品名稱中的詞綴，還原為原本的物品名稱。\n\n例如：&d森亞琉琉歌的疊高高冰淇淋《我的母親》&r會重新命名回&d冰淇淋&r。",
     "context": "chapters/gearing_up.snbt / quest 4BCA8A5C3F80D375",
     "meta": {
       "line_split_policy": "lf",
@@ -1477,7 +1477,7 @@
   },
   "quest.6B584FB6F2EEBCD0.quest_desc": {
     "original": "&dArcane Essence&r can be useful in making your first magic armor set from &6Iron's Spells&r.\n\nWhen combined with a piece of leather armor, it creates a piece of the &aWandering Magician Set&r.\n\nOnce you have a good bit of essence, you can create the &dWizard&r set using &dArcane Cloth&r.\n\nThese are both great starting sets for slinging spells.",
-    "translation": "&d奧術源質&r可用來製作你在《&6艾倫的法術&r》的第一套魔法盔甲。\n\n將它與皮革盔甲結合，可製作&a流浪法師套裝&r的部件。\n\n當你累積到足夠源質後，就能製作&d巫師套裝&r，所需材料是&d奧術布匹&r。\n\n這兩套都是非常適合前期施法的起手裝備。",
+    "translation": "&d奧術源質&r可用來製作你在《&6艾倫的法術&r》的第一套魔法盔甲。\n\n將它與皮革盔甲結合，可製作&a流浪法師套裝&r的部件。\n\n當你累積到足夠源質後，就能使用&d奧術布匹&r製作&d巫師套裝&r。\n\n這兩套都是非常適合前期施法的起手裝備。",
     "context": "chapters/gearing_up.snbt / quest 6B584FB6F2EEBCD0",
     "meta": {
       "line_split_policy": "lf",

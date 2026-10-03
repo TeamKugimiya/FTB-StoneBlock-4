@@ -532,7 +532,7 @@
   },
   "quest.6B387999FBEE2E9E.quest_desc": {
     "original": "This pack comes with random events that are disabled by default. To enable them, complete this quest!\n\n&eNote&r: Some events might contain jump scares. You can toggle each event using the command &b/events toggle <event>&r.\n\nFor example, if you want to disable the jump scare event, you can use the command &a/events toggle ftb:creeper&r. ",
-    "translation": "本模組包包含著一些預設為「關閉」的隨機事件。你要完成這項任務才能將它們「開啟」！\n\n&e備註&r：某些事件具有「突發驚嚇」成份。你可以藉由下列指令來開關它們：&b/events toggle <event>&r。\n\n舉例來說：如果你想要關閉突發驚嚇事件的話，你可以輸入「&a/events toggle ftb:creeper&r」。",
+    "translation": "本模組包包含著一些預設為「關閉」的隨機事件。你要完成這項任務才能將它們「開啟」！\n\n&e備註&r：某些事件具有「突發驚嚇」成份。你可以藉由下列指令來開關它們：&b/events toggle <事件 ID>&r。\n\n舉例來說：如果你想要關閉「神風特攻苦力怕」事件的話，你可以輸入「&a/events toggle ftb:creeper&r」。",
     "context": "chapters/getting_started.snbt / quest 6B387999FBEE2E9E",
     "meta": {
       "line_split_policy": "lf",

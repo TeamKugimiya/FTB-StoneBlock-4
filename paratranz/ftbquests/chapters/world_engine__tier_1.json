@@ -375,7 +375,7 @@
   },
   "quest.48005B47655AD525.quest_desc": {
     "original": "With the power of &dSource Gems&r, you can harness the flow of &dSource&r by making a &2Source Relay&r.\n\nUsing a &aDominion Wand&r, you can direct the flow of &dSource&r between jars.\n\nBy installing the &dSource&r &3World Engine Upgrade&r, you can direct &dSource&r into the engine to craft more magical items.",
-    "translation": "以&d魔源寶石&r之力，你可以駕馭&d魔源&r的流動，只要製造一台&2魔源中繼器&r即可。\n\n你可以使用&a支配之杖&r引導各個容器之間的&d魔源&r流動。\n\n當你安裝了&d魔源&r&3世界引擎升級&r之後，你就可以直接將&d魔源&r導入引擎內，合成更多魔法物品了。",
+    "translation": "以&d魔源寶石&r之力，你可以駕馭&d魔源&r的流動，只要製造一台&2魔源中轉器&r即可。\n\n你可以使用&a支配之杖&r引導各個容器之間的&d魔源&r流動。\n\n當你安裝了&d魔源&r&3世界引擎升級&r之後，你就可以直接將&d魔源&r導入引擎內，合成更多魔法物品了。",
     "context": "chapters/world_engine__tier_1.snbt / quest 48005B47655AD525",
     "meta": {
       "line_split_policy": "lf",
