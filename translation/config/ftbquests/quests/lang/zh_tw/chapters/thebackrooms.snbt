@@ -33,7 +33,7 @@
   quest.65C1A809B6A22758.title: "Wyrmwright Check 2",
   quest.67AA6621E5A00E37.title: "Twilight Check 1",
   quest.6C293F6A07C1657A.title: "Chaos Check 1",
-  quest.6D5A9E9E8B0D8AC2.quest_desc: ["使用你剛剛採集到的資源，你就可以合成出&d回聲&r想要的&3時空粒子產生器&r了！", "", "是時候交出&a時間粒子產生器&r並返回&d指引嚮導之回聲&r處了。完成這項任務會給予你隊伍中的所有玩家各一台&a單元&r和一台&r產生器&r。", "", "&e備註&f：你會需要提交這台&a時空粒子產生器&r才能完成這項任務並取得&d指引嚮導之回聲&r的下一步指示。"],
+  quest.6D5A9E9E8B0D8AC2.quest_desc: ["使用你剛剛採集到的資源，你就可以合成出&3時空粒子產生器&r了，正如&d回聲&r所期待的！", "", "是時候交出&a時空粒子產生器&r並返回&d指引嚮導之回聲&r處了。完成這項任務會給予你隊伍中的所有玩家各一台&a單元&r和一台&2產生器&r。", "", "&e備註&f：你會需要提交這台&a時空粒子產生器&r才能完成這項任務並取得&d指引嚮導之回聲&r的下一步指示。"],
   quest.6D5A9E9E8B0D8AC2.title: "&f時空粒子產生器",
   quest.71EF740F3234EA08.title: "Mycelial Reactor",
   quest.73FEE6C6149817E7.title: "Infernal Check 1",

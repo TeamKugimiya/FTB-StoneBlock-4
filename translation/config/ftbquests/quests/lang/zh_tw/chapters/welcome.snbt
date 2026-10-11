@@ -1,11 +1,13 @@
 {
   chapter.1C63D973F178FD60.title: "歡迎！",
-  quest.2B02D9425E19F560.quest_desc: ["出現了一些理應不該發生的事情？", "", "[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]"],
-  quest.2B02D9425E19F560.title: "出現了 BUG？",
-  quest.2F15D918EF183051.quest_desc: ["《&6只有石頭的世界4&r》是一款劇情向的模組包：有著豐富多樣的遊玩選項，", "並能夠根據你的個人遊玩風格來推進劇情。", "", "本模組包含有適合所有類型玩家的成千上萬種不同的模組。部分模組可能與主線任務有關，所以在遊玩過程請記得去探索各種不同的選項以推動遊戲進度！", "", "給任何想要挑戰自我的玩家：本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？"],
+  quest.261B2184A4839741.quest_desc: ["如果你和朋友一起遊玩，並想共用同一座初始基地，FTB Teams 能讓組隊變得十分簡單。", "", "第一次進入世界時，系統會自動為你建立一支隊伍。因此，你需要先在聊天欄輸入 &a/ftbteams party leave&f，再輸入一次以確認離隊。", "", "完成後，隊長便能輸入 &a/ftbteams party invite <username>&f 邀請新玩家。聊天欄會顯示訊息，讓受邀玩家選擇接受或拒絕邀請。"],
+  quest.261B2184A4839741.title: "建立與加入隊伍",
+  quest.2B02D9425E19F560.quest_desc: ["出現了一些理應不該發生的事情？", "", "[\"我們非常想知道這些情況，這樣我們就可以盡快修復它！你可以透過 \", {\"text\": \"Discord\", \"color\": \"aqua\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://discord.com/invite/X5UGvBs\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 FTB Discord 邀請連結\"]} }, \" 聯絡我們，或是在我們的 \", {\"text\": \"GitHub\", \"color\": \"light_purple\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/FTBTeam/FTB-Modpack-Issues/issues\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"開啟 GitHub 連結\"]} }, \" 上回報你遇到的 BUG。\"]", "", "請&c勿&r在編輯模式中強制完成任務，除非&aFTB 團隊&f成員指示你這麼做，否則可能徹底破壞模組包的遊戲進度。"],
+  quest.2B02D9425E19F560.title: "&f發現錯誤？",
+  quest.2F15D918EF183051.quest_desc: ["《&6只有石頭的世界 4&r》是一款以劇情為核心的模組包，提供多樣的遊玩方式，讓你能依照自己的風格推進進度。", "", "本模組包含有大量適合各類玩家的模組。部分模組需要隨著劇情推進才能解鎖，所以別忘了探索各種推進遊戲進度的途徑！", "", "對於想挑戰自我的玩家，本模組包的最終挑戰是完成&d世界引擎&r。你覺得自己有能力做到嗎？"],
   quest.2F15D918EF183051.title: "歡迎來到《&6只有石頭的世界 4&r》！",
   quest.77FC846DC0EF4ED2.quest_desc: ["&a/home&r｜此指令會在遊戲前期的主線任務中解鎖：開啟一道通往你的基地的傳送門。", "", "&a/back&r｜使你回到上一次死亡的位置。", "", "&a/spawn&r｜將玩家傳送回大廳。大廳在本模組包中非常重要！", "{@pagebreak}", "", "&a/spark tps&r｜查看伺服器的 TPS。如果你的伺服器出現卡頓時，可用來檢查。"],
-  task.2988CAF299690CDB.title: "Useful Commands",
+  task.2988CAF299690CDB.title: "實用指令",
   task.519E1F80092719D1.title: "回報錯誤",
-  task.5434F149E894EFA6.title: "Welcome"
+  task.5434F149E894EFA6.title: "歡迎"
 }

@@ -64,7 +64,7 @@
   },
   "quest.087D1FBAE8A425C0.quest_desc": {
     "original": "Using the power of Teleportation Cores, you can create your own &dPortals&r using &6Mekanism&r to quickly travel around our bases, even across dimensions!\n\nTo build one, you'll need 1 &dTeleporter&r block and 9 &bTeleporter Frame&r blocks. Once built, you'll want to give the Teleporter block power, and then you can open it up and set a name for the frequency. Make sure to click the checkmark button when you are done naming it!\n\n&eNote&r: To make these, it requires the &bFortron Infused Block&r &6World Engine Upgrade&r.\n{@pagebreak}\nAll other Teleporters will now be able to see that frequency, and you can build another Teleporter and select the frequency to link them up.\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\nThe &dPortable Teleporter&r allows you to access all of your Teleporters, allowing for instant travel to any of them as long as it has power!\n\nBy holding it in your hand and using it, you will see a list of your frequencies. You can then select one and click teleport!",
-    "translation": "透過傳送核心的力量，你可以透過《&6通用機械&r》建立自己的&d傳送門&r，\n在基地各區快速移動，甚至跨維度行動！\n\n要建造它，你需要 1 個&d傳送機&r，與 9 個&b傳送框架&r。\n搭好後先為傳送機供電，再開啟介面設定頻率名稱。命名完成後記得按下勾選按鈕！\n\n&e備註&r：製作這些裝置，需要&b力場子注能方塊&r的&6世界引擎升級&r。\n{@pagebreak}\n其他傳送機都會看到這個頻率；你可以再建一組傳送機並選擇相同頻率，讓兩者互相連線。\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\n&d便攜傳送器&r可讓你存取所有傳送機；只要有能量，就能立即傳送到任一傳送機！\n\n手持並使用它，會顯示你的頻率清單。選擇目標後按下傳送即可！",
+    "translation": "透過傳送核心的力量，你可以建立自己的&d傳送門&r，運用《&6通用機械&r》的技術，\n在基地各區快速移動，甚至跨維度行動！\n\n要建造它，你需要 1 個&d傳送機&r，與 9 個&b傳送框架&r。\n搭好後先為傳送機供電，再開啟介面設定頻率名稱。命名完成後記得按下勾選按鈕！\n\n&e備註&r：製作這些裝置，需要&b力場子注能方塊&r的&6世界引擎升級&r。\n{@pagebreak}\n其他傳送機都會看到這個頻率；你可以再建一組傳送機並選擇相同頻率，讓兩者互相連線。\n\n{image:ftb:textures/quests/mekanism/portalframe.png width:100 height:100 align:center}\n{@pagebreak}\n&d便攜傳送器&r可讓你存取所有傳送機；只要有能量，就能立即傳送到任一傳送機！\n\n手持並使用它，會顯示你的頻率清單。選擇目標後按下傳送即可！",
     "context": "chapters/exploration__combat.snbt / quest 087D1FBAE8A425C0",
     "meta": {
       "line_split_policy": "lf",
@@ -118,7 +118,7 @@
   },
   "quest.165A1B6F56051FA6.quest_desc": {
     "original": "&eTempad&r is a teleportation mod that uses special temporary portals called timedoors to travel between locations.\n\nYou've already gotten started with the &eTempad&r mod by making the &6Chronon Generator&r and &aChronon Cell&r.\n\n&aLocation Cards&r are the next step, and can be used to register location data for use in other devices such as the &2Timedoor Projector&r or &6Tempad&r.\n\nThese can be stored in a &aWallet&r to keep your inventory clean.",
-    "translation": "&e時空平板&r模組是一套傳送系統，透過名為時空門的特殊暫時傳送門在各地點間移動。\n\n你已透過製作&6時空粒子產生器&r與&a時空粒子單元&r，開始接觸&e時空平板&r模組。\n\n下一步是製作&a傳送點卡片&r，可用來記錄座標資料，供&2時空門投影儀&r或&6時空平板&r等裝置使用。\n\n這些卡片可以存放在&a卡片錢包&r中，讓你的物品欄更整潔。",
+    "translation": "&e時空平板&r模組是一套傳送系統，透過名為時空門的特殊暫時傳送門在各地點間移動。\n\n你已開始接觸&e時空平板&r模組，製作了&6時空粒子產生器&r與&a時空粒子單元&r。\n\n下一步是製作&a傳送點卡片&r，可用來記錄座標資料，供&2時空門投影儀&r或&6時空平板&r等裝置使用。\n\n這些卡片可以存放在&a卡片錢包&r中，讓你的物品欄更整潔。",
     "context": "chapters/exploration__combat.snbt / quest 165A1B6F56051FA6",
     "meta": {
       "line_split_policy": "lf",
@@ -145,7 +145,7 @@
   },
   "quest.1E061D2E5C560867.title": {
     "original": "Finding a &cChesed Arena",
-    "translation": "找到一座&c『慈悲』競技場&r",
+    "translation": "找到一座&c『慈悲』競技場",
     "context": "chapters/exploration__combat.snbt / quest 1E061D2E5C560867",
     "meta": {
       "line_split_policy": "none",
@@ -163,7 +163,7 @@
   },
   "quest.21A521011401074F.quest_desc": {
     "original": "This dungeon spawns in the &7Deepslate&r and &cNetherrack&r rings.",
-    "translation": "此地牢會出現於&7深板岩&r和&c地獄岩&r環帶。",
+    "translation": "此地牢會出現於&7深板岩&r和&c地獄石&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 21A521011401074F",
     "meta": {
       "line_split_policy": "lf",
@@ -181,7 +181,7 @@
   },
   "quest.2D20EDB447787183.quest_desc": {
     "original": "While you can use &ebelts&r as an automatic sidewalk and &eweighted ejectors&r to fling yourself, there are more sophisticated methods of travel around the different sections of your base using the &6Create&r mod. Namely: &6Hypertubes&r!\n\nSingle or dual direction &bhypertube paths&r can be made by placing down &aHypertube Entrance Blocks&r, then clicking with some &aHyper&mlink&r&atube Blocks&r to extend out to a separate point. You can place down hypertube blocks to set up connection points for longer distances.\n\n&7&oAny resemblance to Ficsit technologies current or previous is coincidental.",
-    "translation": "雖然你可以把&e輸送帶&r當作自動步道，或用&e彈射置物台&r將自己彈出去，\n但要在基地各區之間移動，&6動力機械&r還有更進階的方法：&6超級管道&r！\n\n你可以先放置&a超級管道入口方塊&r，再用&a超級管道方塊&r延伸路線，建立單向或雙向的&b超級管道通道&r。也可在途中加設節點，串接更長距離。\n\n&7&o如與 Ficsit 現行或過往技術雷同，純屬巧合。",
+    "translation": "雖然你可以把&e輸送帶&r當作自動步道，或用&e彈射置物台&r將自己彈出去，\n但要在基地各區之間移動，&6動力機械&r還有更進階的方法：&6超級管道&r！\n\n要建立單向或雙向的&b超級管道通道&r，可以先放置&a超級管道入口方塊&r，再手持&a超級&m連結&r&a管道方塊&r點擊，將路線延伸至另一個位置。也可在途中加設節點，串接更長距離。\n\n&7&o如與 Ficsit 現行或過往技術雷同，純屬巧合。",
     "context": "chapters/exploration__combat.snbt / quest 2D20EDB447787183",
     "meta": {
       "line_split_policy": "lf",
@@ -253,7 +253,7 @@
   },
   "quest.3B9E10A560C565CC.quest_desc": {
     "original": "&aTeleporters&r from the &6Simple Teleporters&r can be used to set up quick teleport pads within the world.\n\n&dEnder Shards&r can be Sneak + Right-clicked on a &aTeleporter&r to store its location data, then you can install the Shard into another &aTeleporter&r.\n\nOnce done, you can Sneak on top of the &aTeleporter&r to teleport!",
-    "translation": "使用《&6簡易傳送器&r》的&a傳送器&r，可在世界中建立快速傳送點。\n\n手持&d終界碎片&r，對&a傳送器&r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台&a傳送器&r。\n\n設定完成後，站上&a傳送器&r並按下潛行即可傳送！",
+    "translation": "《&6簡易傳送器&r》的&a傳送器&r可在世界中建立快速傳送點。\n\n手持&d終界碎片&r，對&a傳送器&r潛行並點擊右鍵可儲存其位置資料，再把碎片放進另一台&a傳送器&r。\n\n設定完成後，站上&a傳送器&r並按下潛行即可傳送！",
     "context": "chapters/exploration__combat.snbt / quest 3B9E10A560C565CC",
     "meta": {
       "line_split_policy": "lf",
@@ -271,7 +271,7 @@
   },
   "quest.3CFDFD0BA7D30118.quest_desc": {
     "original": "In &6Stoneblock 4&r, the world is generated in rings!\n\nYou spawn into a pre-generated stone ring that extends out about 712 blocks. Each subsequent ring only extends out 512 blocks.\n{@pagebreak}\nThe rings are in this order:\n\n1. &3Stone&r\n2. &7Deepslate&r\n3. &cNether&r\n4. &eEnd&r\n5. &dTwilight Forest&r (Maze Stone)\n6. &bOcean&r (Mossy Cobblestone)\n7. &zVoid Chasms&r (Otherrock, with Skystone in the upper layer)\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
-    "translation": "在&6《只有石頭的世界 4》&r中，世界生成分為好幾個環帶！\n\n你的重生點是一個預先生成好的石頭環帶（大約半經 712 格方塊內）。\n\n其餘每個環帶都只會向外延伸 512 格方塊遠。\n{@pagebreak}\n環帶的順序如下：\n\n1. &3石頭&r\n2. &7深板岩&r\n3. &c地獄&r\n4. &e終界&r\n5. &d暮光森林&r（迷宮石）\n6. &b海洋&r（青苔鵝卵石）\n7. &d虛空斷層&r（世界石，上面幾層為隕石）\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
+    "translation": "在&6《只有石頭的世界 4》&r中，世界生成分為好幾個環帶！\n\n你的重生點是一個預先生成好的石頭環帶（大約半徑 712 格方塊內）。\n\n其餘每個環帶都只會向外延伸 512 格方塊遠。\n{@pagebreak}\n環帶的順序如下：\n\n1. &3石頭&r\n2. &7深板岩&r\n3. &c地獄&r\n4. &e終界&r\n5. &d暮光森林&r（迷宮石）\n6. &b海洋&r（青苔鵝卵石）\n7. &z虛空斷層&r（異界岩，上面幾層為隕石）\n{@pagebreak}\n\n{image:ftb:textures/quests/worldgen_rings.png width:300 height:300 align:center}",
     "context": "chapters/exploration__combat.snbt / quest 3CFDFD0BA7D30118",
     "meta": {
       "line_split_policy": "lf",
@@ -352,7 +352,7 @@
   },
   "quest.4BB5ADD98F958712.quest_desc": {
     "original": "This dungeon spawns in the &7Stone&r and &7Deepslate&r rings.",
-    "translation": "此地牢會出現於&3石頭&r和&7深板岩&r環帶。",
+    "translation": "此地牢會出現於&7石頭&r和&7深板岩&r環帶。",
     "context": "chapters/exploration__combat.snbt / quest 4BB5ADD98F958712",
     "meta": {
       "line_split_policy": "lf",
@@ -361,7 +361,7 @@
   },
   "quest.4BB5ADD98F958712.title": {
     "original": "Finding a &7Stone Dungeon",
-    "translation": "找到一座石頭地牢",
+    "translation": "找到一座&7石頭地牢",
     "context": "chapters/exploration__combat.snbt / quest 4BB5ADD98F958712",
     "meta": {
       "line_split_policy": "none",
@@ -469,7 +469,7 @@
   },
   "quest.6D28E1AFBB33C43E.quest_desc": {
     "original": "&eTime Steel&r is used to craft better versions of your existing devices, and a few new gadgets as well.\n\nThe &dChronon Battery&r is the first upgrade you should craft.\n\nIt can store much more &bChronon&r than the simple &aChronon Cell&r, and is also a crafting ingredient used in some of the more advanced &eTempad&r recipes.\n\n&eNote&r: You must have the &eChroniton Glass&r and &aMachine Block&r &6World Engine Upgrades&r to craft this.",
-    "translation": "&e時空鋼&r可用來製作現有裝置的強化版本，以及一些全新的裝置。\n\n&d時空粒子電池&r是你應該優先製作的第一項升級。\n\n它比基礎的&a時空粒子單元&r能儲存更多&b時空粒子&r，且也是部分進階《&e時空平板&r》配方的材料。\n\n&e備註&r：製作前必須先取得&e時空粒子玻璃&r與&a世界引擎機器方塊&r&6升級&r。",
+    "translation": "&e時空鋼&r可用來製作現有裝置的強化版本，以及一些全新的裝置。\n\n&d時空粒子電池&r是你應該優先製作的第一項升級。\n\n它能儲存的&b時空粒子&r遠多於基礎的&a時空粒子單元&r，且也是部分進階《&e時空平板&r》配方的材料。\n\n&e備註&r：製作前必須先取得&e時空粒子玻璃&r與&a機器方塊&r的&6世界引擎升級&r。",
     "context": "chapters/exploration__combat.snbt / quest 6D28E1AFBB33C43E",
     "meta": {
       "line_split_policy": "lf",
@@ -487,7 +487,7 @@
   },
   "quest.754ADB22C6B8041F.quest_desc": {
     "original": "This structure spawns in the lower &7Deepslate&r ring.\n\nThe &aWeeping Well&r will be needed to progress in &6Malum&r!\n\n&eNote&r: You can also find the &aWeeping Well&r in the &dArcane Grove&r.",
-    "translation": "此地牢會出現於&2深板岩&r環帶的下半部。\n\n&a哭泣之井&r是推動&6《靈災》&r模組進展的必要結構！\n\n&e備註&r：你也能夠在&d祕法源林&r中找到&a哭泣之井&r。",
+    "translation": "此結構會出現於&7深板岩&r環帶的下半部。\n\n&a哭泣之井&r是推動&6《靈災》&r模組進展的必要結構！\n\n&e備註&r：&a哭泣之井&r也能在&d祕法源林&r中找到。",
     "context": "chapters/exploration__combat.snbt / quest 754ADB22C6B8041F",
     "meta": {
       "line_split_policy": "lf",
@@ -514,7 +514,7 @@
   },
   "quest.7B772A85691C60F5.quest_desc": {
     "original": "For each ring, there are 4 pre-built &dTelepads&r; one for each cardinal direction.\n\nYou might run into these as you dig out, but you can also buy &dEnder Shards&r that are linked to them from the &zShop&r!",
-    "translation": "每個環帶都預先建有 4 個&d傳送點&r結構，分別對應四個方位。\n\n你從基地向外挖掘時可能會遇到它們；也可以在&z商店&r購買已連結這些傳送點的&d終界碎片&r！",
+    "translation": "每個環帶都預先建有 4 個&d傳送點&r結構，分別對應四個方位。\n\n你從基地向外挖掘時可能會遇到它們；也可以購買已連結這些傳送點的&d終界碎片&r，&z商店&r就有販售！",
     "context": "chapters/exploration__combat.snbt / quest 7B772A85691C60F5",
     "meta": {
       "line_split_policy": "lf",

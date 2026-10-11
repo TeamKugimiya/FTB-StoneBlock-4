@@ -28,7 +28,7 @@
   },
   "quest.036C11AC70835846.title": {
     "original": "&fThe Power Of The &dEnd",
-    "translation": "&f來自&d終界&f的力量",
+    "translation": "&f力量之源：&d終界",
     "context": "chapters/oritech.snbt / quest 036C11AC70835846",
     "meta": {
       "line_split_policy": "none",
@@ -297,7 +297,7 @@
   },
   "quest.5D9EAE2A6D2B6646.quest_desc": {
     "original": "The &6Fragment Forge&r is an advanced multiblock machine that is mostly used to &bFragment&r and process ores, increasing the overall yield of ingot production.\n\nMost &bAddons&r affect the operation of the &6Fragment Forge&r. The &bMachine Yield Addon&r will produce additional byproducts when installed in the &6Fragment Forge&r.",
-    "translation": "&6粉碎工廠&r是進階的多方塊機器，主要用於&b粉碎&r與處理礦物，藉此增加金屬錠的產量。\n\n大多數&b升級插件&r都會影響&6粉碎工廠&r的運作。安裝&b產量升級&r時，粉碎工廠會產生更多的副產物。",
+    "translation": "&6粉碎工廠&r是進階的多方塊機器，主要用於&b粉碎&r與處理礦物，藉此增加金屬錠的產量。\n\n大多數&b升級插件&r都會影響&6粉碎工廠&r的運作。安裝&b產量升級&r時，&6粉碎工廠&r會產生更多的副產物。",
     "context": "chapters/oritech.snbt / quest 5D9EAE2A6D2B6646",
     "meta": {
       "line_split_policy": "lf",
@@ -333,7 +333,7 @@
   },
   "quest.7791DA964DA2A80D.quest_desc": {
     "original": "When particles of different items collide, they can create new items. The particle starts from the &aParticle Accelerator Block&r, where you can insert any item to be used as a particle. A straight &aGuide Ring&r needs to be placed right behind the &aController&r, facing to the side, with visuals aligning correctly.\n{@pagebreak}\nOnce inserted, the particle travels along a route defined by the &aGuide Rings&r. They can be right-clicked to add a 45-degree turn on one side. Another &aGuide Ring&r needs to be in the particle's path as defined by the &aGuide Rings&r. Depending on the speed, the allowed distance between &aGuide Rings&r increases\n\nThis means that, at higher speeds, the distance between &aGuide Rings&r can be larger.",
-    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從&a粒子加速器&r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線&a導引環&r必須放置在&a加速器控制部件&r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由&a導引環&r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n粒子路徑上必須有另一個導引環。隨著速度增加，導引環之間允許的最大距離也會增加。\n\n這表示在較高速度下，&a導引環&r之間的間距可以拉得更遠。",
+    "translation": "當不同物品的粒子產生碰撞時，它們會迸發出新的物品。\n\n粒子從&a粒子加速器&r出發，你可以在其中放入任何要作為粒子的物品。\n\n一個直線&a導引環&r必須放置在&a加速器控制部件&r的正後方，且指向側面，視覺效果必須正確對齊。\n{@pagebreak}\n一旦注入粒子，粒子會沿著由&a導引環&r定義的路徑前進。對導引環點擊右鍵可以使其一端增加 45 度轉角。\n\n下一個&a導引環&r必須放在粒子的行進路徑上。粒子速度越快，&a導引環&r之間允許的最大距離就越大。",
     "context": "chapters/oritech.snbt / quest 7791DA964DA2A80D",
     "meta": {
       "line_split_policy": "lf",

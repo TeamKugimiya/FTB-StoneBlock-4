@@ -5,145 +5,145 @@
   "overlay_root": "overrides",
   "files": {
     "config/ftbquests/quests/chapter_groups.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "3b85da798efae6d94b9f143c93ef4aaa7b51e8d9d3c42f4cbe2f6d46fcd4bb4a041f7636a2d0ee0eaa7ae504f9947b33aeef27df0e482bcec31d817a802bcabe",
       "size": 113,
       "source_archive_path": "overrides/config/ftbquests/quests/chapter_groups.snbt"
     },
     "config/ftbquests/quests/chapters/bounty_board.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "4959e21204c31cb5eb5754fffe2d7286224237b840002b4e6532823e547b7533c92545fcd0e014b337fd872be093d19a67b6c16f49044cb594cb1fdb1a0da42b",
       "size": 33853,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/bounty_board.snbt"
     },
     "config/ftbquests/quests/chapters/creative.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "5a16e5986a229c1ed3cd6877199484c0dff0ea4e9a4f6f66a0b01f6614f420235826fd9542eb08e18eb386c2c77afd43e7940337b7b5e53b20463787fcb0b33a",
       "size": 31648,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/creative.snbt"
     },
     "config/ftbquests/quests/chapters/draconic_evolution.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "fb7cf808a3fb7cfa9f9c2bb39f85f47b108acc542f2c667ed3ac2eaa034e1d2533f7b9338aa7d814693fb76ca5ce27fe04569760bd6369ad01ff69116b5f8eea",
       "size": 8336,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/draconic_evolution.snbt"
     },
     "config/ftbquests/quests/chapters/exploration__combat.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "eaa53ae669650cab5f535c29ad85a4324d9b0649c16d4f27a78f0bdd4f237c1fd868a6199c2deb7c016284fc874dcb1f9c64366cec3290692a1632a81f9cddbb",
       "size": 20830,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/exploration__combat.snbt"
     },
     "config/ftbquests/quests/chapters/gearing_up.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "c0e0f0ec1efd0565ea530c003e733a47c784f81e702bb299807f16746bdd5af522f265fb7b5fffb5dea70d19766c7edfcc9da9168cc491cb74b3c900806138d4",
       "size": 74394,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/gearing_up.snbt"
     },
     "config/ftbquests/quests/chapters/general_magic.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "64733a3b135f1ad8f41c438b91ba97c0251ac3a215e8da76da98c0e485e6000f31220aec5c41145b599842d5d5c07a57569bd2c65a633a62002a61d54395b442",
       "size": 53269,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/general_magic.snbt"
     },
     "config/ftbquests/quests/chapters/getting_started.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "8ca01966da35c50655461a6f20d4a45609b35924598198d38697ec6717bf97963f09fae0298474d9711f1e577d79200d063e771612237b20d758828db51df3bb",
       "size": 26998,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/getting_started.snbt"
     },
     "config/ftbquests/quests/chapters/logistics__storage.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "99d2a61cacd1e81c23ee5ff5a6e183d4936a13ab2693734ef49cbe6420efb0dfd9338ef1eca9dc229a9f0692681a390b0248a2503f0e4e83bb9b5c382bee1c0b",
       "size": 72381,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/logistics__storage.snbt"
     },
     "config/ftbquests/quests/chapters/mekanism.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "1b8f9e13605f99d8413ebfe6ed064da95a84118329e92d635d422d2fcd2a1b30802e2254dbb1cba6530dd4e8adbcd28140474011b68f121bef2ecf0165811475",
       "size": 17783,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/mekanism.snbt"
     },
     "config/ftbquests/quests/chapters/oritech.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "df63330b2aa688cebfb4bea27dd8afa44b8760f8693f8bfaed0de350845a916af9014ffe0705fb1ea266e3ed6ad0bb03d4949d3637ce8ef5d561bf71756686a5",
       "size": 14048,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/oritech.snbt"
     },
     "config/ftbquests/quests/chapters/power.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "874d142ac80f22d6a843aeb187d9fb26ed8334c8fc6eca272cdfe96bdfbaf0d04d7e247f372f3a715c72468f0f5f9582b97bb873bc97dcd2ee16bf2ef3f5f917",
       "size": 39253,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/power.snbt"
     },
     "config/ftbquests/quests/chapters/processing__automation.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "75ba27af4a278ee3925558f4ca6fcdcf050593b9cb3d23e29ed8f1c380518b27585d9bbf660fc93b2d3453b60986ec17d0febae2744d573b15fee9f4353deb5c",
       "size": 9474,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/processing__automation.snbt"
     },
     "config/ftbquests/quests/chapters/resource_generation.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "e1624a29fb78a692e46b83e2f60d24598b71a35741cfe6def96c454427ccedc8fcff9b36784f28b660a5b9dc1a5f33113904f0238152e52fc84e3a35c3b4e645",
       "size": 30412,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/resource_generation.snbt"
     },
     "config/ftbquests/quests/chapters/technology.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "b23e303229163fc80580f3205513ab74e44f6d19227530596d8aba2ad48190018323e1538b5a0f9d623d4223676017b75bce34853d11c0ab22bf3964399eda48",
       "size": 43148,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/technology.snbt"
     },
     "config/ftbquests/quests/chapters/thebackrooms.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "5d3af40ccdc0301e9b9859f897d37c13542f1c5f7085f2d3175b2a78f71e2d766891fc7d2b71c805667c8131c0ca1b1b96320eec2dfe22320e36ce38c78c3c88",
       "size": 77590,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/thebackrooms.snbt"
     },
     "config/ftbquests/quests/chapters/useful_items_tips.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "3e6360a1f507d963a8b74e85106a6bbd05605d9c8d9c99f9027d1ef59774d957062a0ce4a2bb00ee33497d7494ce3ba79d0766e10da120d65973198ac85dbf70",
       "size": 13324,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/useful_items_tips.snbt"
     },
     "config/ftbquests/quests/chapters/welcome.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "19fa65e6b50926513d75385238beee1e2e6c85b299c04c3c1ee69b3636e5b84689e8a39446361a439ac5ea727e970165b163231f4f43838f2b9ed7f61f5f34c7",
       "size": 2888,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/welcome.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_1.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "478524fdc4734b3c3529285e650510be13fa62c09f10df99ce7325e269bad4d94c8a14016b644410b0d116817233043f0267104422872c4782880033d514030b",
       "size": 27327,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_1.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_2.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "113c2cb1315b9f56d54114c18dffda71105c63a3aea22d3007638dc472cd982a4f2a9e7da26aa21a22eff84316a69e0ad70f20e48d25c313b9046acd5d8c316b",
       "size": 21054,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_2.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_3.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "0d08f4007660c40b5070717ec83fc5cf8564a9191dac8b83b1138494fed9cdabd780889ddecaf2ba00f80ac1f0f81410c2b408d1c93474703ba5c6a02dc86677",
       "size": 32770,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_3.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_4.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "f7c5db59fd4cb301a8772638896fb0c8574776d9f64dabf41c334260d1ac7a7cc885d680553c89669918a60f6838f80e46663a7b532649c47741dc962e1b2ac0",
       "size": 30758,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_4.snbt"
     },
     "config/ftbquests/quests/chapters/world_engine__tier_5.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "f8b63cec5c75c123bd0a4c711946f8a126cb9e72a87092a60760eadc7a217f8a9a755b86a7eb9e2213bfd60d371aeb9fef0f5bcf553056da158a61e3648a4fc9",
       "size": 27140,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/world_engine__tier_5.snbt"
     },
     "config/ftbquests/quests/data.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "e3f1f5dd3199294fea4f32d91c9f1733c7f0ea8373b746cdfd5d7f53a43a74452ebff5d9f12405e59b0d8ed6abd651a776c9ed83fe5fea8c3cf199bdeb7040c7",
       "size": 807,
       "source_archive_path": "overrides/config/ftbquests/quests/data.snbt"
@@ -155,187 +155,187 @@
       "source_archive_path": "overrides/config/ftbquests/quests/lang/en_us.snbt"
     },
     "config/ftbquests/quests/reward_tables/0C5DDA99EE8027D3.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "9b9bef94dab4ee9e298b8f161bc42e1dd5e0566ab96f108c774bda6e7ba4fef68d6835608328d7d13f3970049aaaba9ee54c30d2aaff5abc70a06d6d653d1e66",
       "size": 15292,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/0C5DDA99EE8027D3.snbt"
     },
     "config/ftbquests/quests/reward_tables/1320ECC4666318A7.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "8e95ddd7af396b34815d39ce509604c0b0f4b157d79b69af7f3de23c7c0c7266f813ac35866900e9c0f7e11d14f97ad2440dae56d2f7849e6e6cf2c2be925029",
       "size": 635,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/1320ECC4666318A7.snbt"
     },
     "config/ftbquests/quests/reward_tables/135B4037C1A40D88.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "98d5c27088fb365f281aa4371f61fc7a27f99a8e7f713c8cd5ea1bb408ae771b01950573abbafca5c1467644144f55d3e36d24c7ed657503d7938606506a0fb3",
       "size": 1486,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/135B4037C1A40D88.snbt"
     },
     "config/ftbquests/quests/reward_tables/16E7488E801B3DAA.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "48465cc386088a066d02163b7bed04fe21c2fc37cdee49735d9103aab4b303b917ac4aeb6e6a6afd62d1d9c60eeff04adef1b6b350c2c8f05a717d6e8379494b",
       "size": 3739,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/16E7488E801B3DAA.snbt"
     },
     "config/ftbquests/quests/reward_tables/1892AD44EB5DD99D.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "43e006b23bb9e477d783834b4ede558f1e28597576b78eac068d539b1d2bb817388c72f2b66a5ccb31b1256081eddd519448bcb3911494d5c2f10df2868e7eaf",
       "size": 3764,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/1892AD44EB5DD99D.snbt"
     },
     "config/ftbquests/quests/reward_tables/1D31E6EC121FF83B.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "246ca6dc1de6a0f53acd89a6e77bc34650defd73a4b3b2f76cace8228424aaf0c2d329a6aaa5d1f4803d9dbe8782516162437cbd9bcb1aa765447fa2374b5cbb",
       "size": 3796,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/1D31E6EC121FF83B.snbt"
     },
     "config/ftbquests/quests/reward_tables/1DA364008CA08643.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "c4495abcffeb15328f5c24f1b308082a90573d35ce0b8a56e41bedabd8f3d55246cf396c13837b40363b7cddbb6dd735115bd68a5fe81c0ab57397c6a7408adb",
       "size": 3801,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/1DA364008CA08643.snbt"
     },
     "config/ftbquests/quests/reward_tables/20D1BF16232BD665.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "1054ceebd4bf26adab850664e6f9581653afe6291fbcb63fe4629d02057637b29d071150e31c587d820266f875373846c06bc42b059fed677516e9f2b8622c7f",
       "size": 1995,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/20D1BF16232BD665.snbt"
     },
     "config/ftbquests/quests/reward_tables/21A38B78E82935CD.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "3328b73f2c673818f6b0f56583c6f2fec575ec2f959800c38fd7a37c2f2d7f2d37ff1ee9133b34c36482afacea0f666131cee8fefc5292a95d5977564760d9a7",
       "size": 10668,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/21A38B78E82935CD.snbt"
     },
     "config/ftbquests/quests/reward_tables/28714053C75776A5.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "20b0a563cf7eb33b0b239464e477430258e3099ba05e790ddb4d3fdbc5cdd245adaa81be0c8664c65806e7e9c32d33c73c3afac1fde9c33ab51a1ebc0259f205",
       "size": 8485,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/28714053C75776A5.snbt"
     },
     "config/ftbquests/quests/reward_tables/2CB2563E52E0EEFC.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "600fa1b7fd7b3dff60168c818a67f7ce3c72cc97ce706958c4be0cf45cc1b55423ed6cd003c9606d9b7fae1d9ab8acd383ee01e5956b16bfe24474b8e0eb072d",
       "size": 16894,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/2CB2563E52E0EEFC.snbt"
     },
     "config/ftbquests/quests/reward_tables/2F1621E7D65D48A1.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "aa003461895a9bae61205450a69074742815d7aeca27e5fe0a5eafe71582c9d5e966cdc4631f7a16221d95ad0de1a6be6720a931052ae9a785f816020041c0b1",
       "size": 1254,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/2F1621E7D65D48A1.snbt"
     },
     "config/ftbquests/quests/reward_tables/30F4E308726EB2AD.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "a0b7dec6a96bd78ce28dd822922961cc78812e350d867c843f2a973371683b0adda08c9d7f61243627959f1be3466e50fc33629245d84bfce628f90d4cc306c2",
       "size": 2111,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/30F4E308726EB2AD.snbt"
     },
     "config/ftbquests/quests/reward_tables/3621231FD4F80730.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "000584a68bac85cb92476aaecaea5bc86eb479cced86a0175112f2be9eb3cee9f488114529bd667336a9b69e2c42ef8fe53e84e63447a5729b5862142c907f3a",
       "size": 1023,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/3621231FD4F80730.snbt"
     },
     "config/ftbquests/quests/reward_tables/37F7F856288632A7.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "fb4f7b7b9918c7c9d91c821c9d73089eebfdcebc68ad908f17c5c41541e50fdfe14a7f25cd64097d86fe4cb9c40862783aaa04ba066b3396b3cc2efe927cdb0e",
       "size": 18255,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/37F7F856288632A7.snbt"
     },
     "config/ftbquests/quests/reward_tables/3FFF5862073B3D97.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "346b19b491acd929c8fbe709fb99dbc25d811d048bbd00cd59f3c77b64839fae4087fd7a5b2e375081da66d345c2e02bd191a97f5293fef9b6242c851f6abb5b",
       "size": 730,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/3FFF5862073B3D97.snbt"
     },
     "config/ftbquests/quests/reward_tables/5529BA88A208797B.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "1387f631f9fb58e738a4d9a851d3aafa734e4f36f65943678a856881911f4689496ba154ea67935ee878c79dad6432183dbb1ca31e24567c165d56a34c183eab",
       "size": 739,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/5529BA88A208797B.snbt"
     },
     "config/ftbquests/quests/reward_tables/56235F58490C3C41.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "a7e4a9ffe39777430beb77c0e3109b67776cbb055f8ca63a458cd5b4efacf51b8b2ab31f898315d6b3530ae878c3a9073c6e5ebe87b62edaa7d87c1ac536b822",
       "size": 3242,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/56235F58490C3C41.snbt"
     },
     "config/ftbquests/quests/reward_tables/5C5A40864844587A.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "c862786ac432aa754051404b30e592ad1fa7c60a4e8c72f2664ff6d191e7e63c365bdf7ce85d2c42fcc3687c31a99a76e73b645b640dd79cb59ba4db4d3bf69d",
       "size": 750,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/5C5A40864844587A.snbt"
     },
     "config/ftbquests/quests/reward_tables/5E58BEB7F462AA87.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "f446871bd500e27af37372dfe9d1cff0d5ae535a32ff881f065ff88a82a3ddfe478a552604ec38d1d7128b97d9b142d1ea8979fc62cd3718cea01f661d382eec",
       "size": 2034,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/5E58BEB7F462AA87.snbt"
     },
     "config/ftbquests/quests/reward_tables/6105D334632923AE.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "effc60b86646f5d33ca6695193decc48b5e03e3d61911532e4cc66e244a798a1bfc16e9f7a1620d2638c5f4f22d9730f5f2cee4678b23ccb97b3adfb693ed405",
       "size": 759,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/6105D334632923AE.snbt"
     },
     "config/ftbquests/quests/reward_tables/61FD9A6CC07465C1.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "bb59cefb683bfbc46c1c7d4816eba9051bc70dfa31f136b9d0dbf30a59c04f4d2ec6a8fa8f393c963fa95250347eb59c4a0cdcd714eb2ed9e9d5e335661be1d6",
       "size": 2407,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/61FD9A6CC07465C1.snbt"
     },
     "config/ftbquests/quests/reward_tables/657A949F0952B7D4.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "d04e1e008bc105e2c9ed5ea5a52502c60eb504753757af8f6ecb01d79763657c71e6f106433def2bfecde842cb93e1d722388b24bf22dcab01e4b44c1f3f5ca5",
       "size": 734,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/657A949F0952B7D4.snbt"
     },
     "config/ftbquests/quests/reward_tables/6835AC5E14D58A8C.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "b8aa7de7e0d0257aa5f2a1be1540aa80959aad492406ef88ce459d51e4f094172fb70fb00376ad516dc021dc66fcef57637a6a46466c256dffd25343c350daa8",
       "size": 8938,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/6835AC5E14D58A8C.snbt"
     },
     "config/ftbquests/quests/reward_tables/6B1481D18D7F1F24.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "7f7bd28621a7d8db0a6e0e9b627ff47207442bc4c2c668b27a88d16ee32089edd5c65baa40f938defdf54dd0b892c28523fc588f3f5f92f9bdd7d4a57bf72050",
       "size": 759,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/6B1481D18D7F1F24.snbt"
     },
     "config/ftbquests/quests/reward_tables/6B9058CED94B574F.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "67f9ab421624de953d9cd5e2e78d6b4476fc45268a8237afeae1f6f1862be8e899a4e7753f7cd3695f4e8b28e6ce2b2adfb51d1fbb31f3ccd7453a12d9beb1c4",
       "size": 5252,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/6B9058CED94B574F.snbt"
     },
     "config/ftbquests/quests/reward_tables/70ADF260F7A38A21.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "4722bd4df4b15a113eddffdf271ee96a52ba1d79dc6186840dc91e92174f894192f80ee98168d76b0007f2718403c201f90eea8ff9bfd8aef3bbe496f9672830",
       "size": 1718,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/70ADF260F7A38A21.snbt"
     },
     "config/ftbquests/quests/reward_tables/73C257EFB0D405CE.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "6e5dfbcf3e745fab9cb0313ed1926813d2d72ab8123d4a025b2f697765a8a6696105569cd054342869f549fadca06fec60fa41869337b34d791fea82a2b94a12",
       "size": 2543,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/73C257EFB0D405CE.snbt"
     },
     "config/ftbquests/quests/reward_tables/790A03E65CE8EBE4.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "ab5b4caa44ebec5d0a801397c6cfc69ec158563b35e19668fd3900c718604adedf750815e84c98af63c11605ec53042d897893e80e9f8b25bc5362a3f55d6f49",
       "size": 3658,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/790A03E65CE8EBE4.snbt"
     },
     "config/ftbquests/quests/reward_tables/7CDA9FD69979A8C9.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "245780c6f8a17dcb252d7023152575f22bf10c2d66eddbd98b049af460e023567204149876caa1630e6f22c2c725aa9feb2873bc20eafb59fa06e97dfa10aebd",
       "size": 1813,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/7CDA9FD69979A8C9.snbt"
     },
     "config/ftbquests/quests/reward_tables/7D0A27C985829037.snbt": {
-      "kind": "translatable",
+      "kind": "context",
       "sha512": "7fb4dd1e08c88b37b387301eb88b7b572ce2e4c9bde8ffa7d099d23c4880e660efef8e7a977ab8fe8340c46b8673eb3157f9d7c99bda6cd0583d71626d3cccac",
       "size": 16433,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/7D0A27C985829037.snbt"
@@ -495,6 +495,12 @@
       "sha512": "74aaa03d01c3f3a5e181d7c72284825f91aadbf19a82de6c018038d80d4c3e49e64458c06bcef8b6e564e1cffb63fbc46bab1a8cd409f6ec8fa39c259eca73b1",
       "size": 1321,
       "source_archive_path": "overrides/kubejs/assets/ftb/guides/ftb/guide/upgrades/t5/infinity.md"
+    },
+    "kubejs/assets/ftb/lang/en_us.json": {
+      "kind": "translatable",
+      "sha512": "2bf687bc8de76cc4f2c208c126f989083503ac3ca3859ec93c0be9522a54283745fdc29e81a326110b3b140206d96dd437cef185cbb377006f8c195d887cfa90",
+      "size": 152003,
+      "source_archive_path": "overrides/kubejs/assets/ftb/lang/en_us.json"
     },
     "kubejs/data/ftb/machine/steam_pressurizer.json": {
       "kind": "translatable",

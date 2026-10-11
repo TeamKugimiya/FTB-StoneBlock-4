@@ -73,7 +73,7 @@
   },
   "quest.05CEF45909A11F60.quest_desc": {
     "original": "&2Sophisticated Backpacks&r provide a simple solution to your inventory problems! They can also be upgraded to hold even more items, and have tons of cool upgrades to help you in your adventures, like the &aCrafting Upgrade&r for a portable crafting table.\n\nYou can place these in a &eCurio Slot&r as well for easy access using a keybind. These can also be placed down in the world by Sneak + Right-clicking while it's in your main hand.\n\n[\"You can place these in a curio slot for easy access using the keybind \", { \"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\" }, \".\"]\n\n&eNote&r: Backpacks do not connect to pipes or cables.",
-    "translation": "《&2精巧背包&r》為你的物品欄問題，提供了簡單解法！\n\n背包可透過升級來容納更多物品，還有大量實用升級可協助冒險，\n\n例如提供「隨身工作台」功能的&a合成升級&r。\n\n[\"你可以將背包放在 \", {\"text\": \"Curio 飾品欄\", \"color\": \"yellow\"}, \"，並用快捷鍵「\", {\"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\"}, \"」來快速開啟。\"]\n\n將背包拿在慣用手時，使用「潛行 + 右鍵」還能將其置於世界上。\n\n&e注意&r：背包無法連接管道或線纜。",
+    "translation": "《&2精巧背包&r》為你的物品欄問題，提供了簡單解法！\n\n背包可透過升級來容納更多物品，還有大量實用升級可協助冒險，\n\n例如提供「隨身工作台」功能的&a合成升級&r。\n\n[\"將背包放入\", {\"text\": \"飾品欄\", \"color\": \"yellow\"}, \"後，可按「\", {\"keybind\": \"keybind.sophisticatedbackpacks.open_backpack\", \"color\": \"green\"}, \"」快速開啟。\"]\n\n將背包拿在慣用手時，使用「潛行 + 右鍵」可將其放置在世界中。\n\n&e注意&r：背包無法連接管道或線纜。",
     "context": "chapters/logistics__storage.snbt / quest 05CEF45909A11F60",
     "meta": {
       "line_split_policy": "lf",
@@ -190,7 +190,7 @@
   },
   "quest.0C784115309E7C1C.quest_desc": {
     "original": "To access your AE2 system wirelessly, you can make a &dWireless Access Point&r and a &dWireless Crafting Terminal&r.\n\nInstalling &bWireless Boosters&r into the access point will extend the range but cost more energy to operate.\n\nThe &dWireless Crafting Terminal&r allows you to link to a wireless access point in your network by placing it in the slot in its interface. Once linked, you can access all of your items and even craft on the go anywhere you have signal!",
-    "translation": "若要無線存取 AE2 系統，\n\n你可以製作 &dME 無線存取點&r與&d無線合成終端機&r。\n\n在存取點中安裝&b無線訊號增幅卡&r，能擴大網路的訊號範圍，但這會提高網路的能量消耗。\n\n將&d無線合成終端機&r，放入&d無線存取點&r介面中的右上角欄位，即可將終端機綁定至網路。\n\n完成綁定後，只要人在訊號範圍內，你就能隨時使用終端機，存取網路中的資源並進行合成！",
+    "translation": "若要無線存取 AE2 系統，\n\n你可以製作 &dME 無線存取點&r與&d無線合成終端機&r。\n\n在存取點中安裝&b無線訊號增幅卡&r，能擴大網路的訊號範圍，但這會提高網路的能量消耗。\n\n將&d無線合成終端機&r，放入無線存取點介面中的欄位，即可將終端機綁定至網路。\n\n完成綁定後，只要人在訊號範圍內，你就能隨時使用終端機，存取網路中的資源並進行合成！",
     "context": "chapters/logistics__storage.snbt / quest 0C784115309E7C1C",
     "meta": {
       "line_split_policy": "lf",
@@ -253,7 +253,7 @@
   },
   "quest.16B60BCB8240F808.quest_desc": {
     "original": "Once you've encoded some patterns using the &dPattern Encoding Terminal&r, you can place them into a &aPattern Provider&r. The &aProviders&r will try to complete the craft using whatever block it is attached to.\n\nFor doing shaped and shapeless craft recipes that don't require machines, you can place the &aProvider&r next to a &3Molecular Assembler&r, which are just fancy autocrafters!\n{@pagebreak}\nFor other autocrafting tasks that require some type of processing, you'd place the &aProvider&r facing the machine you want to craft in.\n\nFor example, you can set up autosmelting for recipes by placing a &2Furnace&r in front of the &aProvider&r, and then encoding the appropriate smelting recipes onto patterns to be placed into the &aProviders&r.\n\n&aPattern Providers&r can also be renamed by using a &cCutting Knife&r on them, which can help you find them easier in your Pattern Terminals!\n{@pagebreak}\nFor more information about how to make the &aPattern Providers&r and &3Assemblers&r work faster, check out the AE2 Guide!",
-    "translation": "當你用 &dME 樣板編碼終端機&r編寫好樣板後，能將它放進 &aME 樣板供應器&r。\n\n&a樣板供應器&r會嘗試利用它連接的方塊來完成配方。\n\n若是一般有序／無序且不需機器的合成配方，\n\n可將&a供應器&r放在&3分子組裝機&r旁，這就是 AE2 的基礎自動合成設置。\n{@pagebreak}\n若是需要機器處理的自動合成，則把&a供應器&r朝向你要使用的機器。\n\n例如要自動熔煉，只要在&a供應器&r前放一台&2熔爐&r，並把對應的熔煉樣板編碼後，放入供應器即可。\n\n你也可以用&c賽特斯石英切割刀&r對&a樣板供應器&r重新命名，方便在樣板終端機中辨識。\n{@pagebreak}\n想了解如何讓&a樣板供應器&r與&3分子組裝機&r跑得更快，請查閱 AE2 指南！",
+    "translation": "當你用 &dME 樣板編碼終端機&r編寫好樣板後，能將它放進 &aME 樣板供應器&r。\n\n&a樣板供應器&r會嘗試利用它連接的方塊來完成配方。\n\n若是一般有序／無序且不需機器的合成配方，\n\n可將&a供應器&r放在&3分子組裝機&r旁，這就是 AE2 的基礎自動合成設置。\n{@pagebreak}\n若是需要機器處理的自動合成，則把&a供應器&r朝向你要使用的機器。\n\n例如要自動熔煉，只要放置一台&2熔爐&r，使其位於&a供應器&r前方，並把對應的熔煉配方編碼成樣板，再放入&a供應器&r即可。\n\n&a樣板供應器&r也能重新命名，只要對它使用&c賽特斯石英切割刀&r即可，方便在樣板終端機中辨識。\n{@pagebreak}\n想了解如何讓&a樣板供應器&r與&3分子組裝機&r跑得更快，請查閱 AE2 指南！",
     "context": "chapters/logistics__storage.snbt / quest 16B60BCB8240F808",
     "meta": {
       "line_split_policy": "lf",
@@ -316,7 +316,7 @@
   },
   "quest.1FEEBCA6D633B479.quest_desc": {
     "original": "&eEnder Storage&r allows for cross-dimensional storage of items and fluids.\n\n&aEnder Chests&r link their inventories to others with matching color patterns. You can use any colored dye on the wool pads to change its color.\n\n&eNote&r: Crafting these requires the &bChroniton Glass&r &6World Engine Upgrade&r.\n{@pagebreak}\n&aEnder Pouches&r allow you to remotely access an &aEnder Chest&r of the same color pattern. Right-clicking the pouch on any &aEnder Chest&r will change the pouch's color to match that of the chest.\n\n&aEnder Tanks&r work in the same way as &aEnder Chests&r but store liquids instead of items.\n\nUsing a &bDiamond&r on the latch of an &aEnder Chest&r will move it to a separate private network for the player that used the diamond. This is especially good for server use.",
-    "translation": "《&e終界儲存&r》可進行跨維度的物品與流體儲存。\n\n&a終界箱&r會與相同配色的終界箱共享儲存空間。\n\n你能對羊毛墊使用任意染料來變更顏色。\n\n&e注意&r：要合成這些物品，需要先解鎖&b時空粒子玻璃&r&6世界引擎升級&r 。\n{@pagebreak}\n&a終界袋&r可遠端存取相同配色的&a終界箱&r。\n手持終界袋對任意終界箱點擊右鍵，終界袋便會同步成該箱子的配色。\n\n&a終界槽&r的機制與終界箱相同，不同在於儲存的是流體，而非物品。\n\n對&a終界箱&r的鎖扣使用&b鑽石&r，可將其切換到使用者的私人網路。這在伺服器中特別實用。",
+    "translation": "《&e終界儲存&r》可進行跨維度的物品與流體儲存。\n\n&a終界箱&r會與相同配色的終界箱共享儲存空間。\n\n你能對羊毛墊使用任意染料來變更顏色。\n\n&e注意&r：要合成這些物品，需要先解鎖&b時空粒子玻璃&r&6世界引擎升級&r 。\n{@pagebreak}\n&a終界袋&r可遠端存取相同配色的&a終界箱&r。\n手持終界袋對任意&a終界箱&r點擊右鍵，終界袋便會同步成該箱子的配色。\n\n&a終界槽&r的機制與&a終界箱&r相同，不同在於儲存的是流體，而非物品。\n\n使用&b鑽石&r點擊&a終界箱&r的鎖扣，可將其切換到使用者的私人網路。這在伺服器中特別實用。",
     "context": "chapters/logistics__storage.snbt / quest 1FEEBCA6D633B479",
     "meta": {
       "line_split_policy": "lf",
@@ -379,7 +379,7 @@
   },
   "quest.294AB45D52BE342B.title": {
     "original": "&6Create's &eInventory System",
-    "translation": "《&6動力機械&r》的&e物流系統",
+    "translation": "《&6動力機械》的&e物流系統",
     "context": "chapters/logistics__storage.snbt / quest 294AB45D52BE342B",
     "meta": {
       "line_split_policy": "none",
@@ -496,7 +496,7 @@
   },
   "quest.3334E05101A7297F.quest_desc": {
     "original": "The &aReaction Chamber&r is a very fast machine that can produce many of the common &eAE2&r materials at the cost of large amounts of power. \n\nIt's important to make sure you have adequate power buffers as the crafts will not start without enough available power. You can export water or lava into these to process the recipes that require them.\n\n&eNote&r: The &aReaction Chamber&r requires both the &dME Quantum Ring&r and &cAdvanced Machine Block&r &6World Engine Upgrades&r to craft.",
-    "translation": "&a反應室&r是一台非常高速的機器，可消耗大量能量來製作許多常用的 &eAE2&r 材料。\n\n請務必在網路中準備足夠的能量緩衝，否則在能量不足的情況下，配方無法完成。\n\n你也可以在機器中輸入水或熔岩，以處理需要流體的世界互動配方。\n\n&e注意&r：合成&a反應室&r需要先解鎖 &dME 量子環&r，與&c高級機器方塊&r&6世界引擎\n&6升級&r。",
+    "translation": "&a反應室&r是一台非常高速的機器，可消耗大量能量來製作許多常用的 &eAE2&r 材料。\n\n請務必在網路中準備足夠的能量緩衝，否則在能量不足的情況下，配方無法開始製作。\n\n你也可以在機器中輸入水或熔岩，以處理需要流體的世界互動配方。\n\n&e注意&r：合成&a反應室&r需要先解鎖 &dME 量子環&r，與&c高級機器方塊&r&6世界引擎升級&r。",
     "context": "chapters/logistics__storage.snbt / quest 3334E05101A7297F",
     "meta": {
       "line_split_policy": "lf",
@@ -568,7 +568,7 @@
   },
   "quest.35E8F57E93106BFE.quest_desc": {
     "original": "&aPatterns&r are used to store crafting or processing recipes. This can be done inside the &3Pattern Grid&r, which can hold up to a stack of &aPatterns&r at once.\n\nTo set up a recipe, first select the mode from the right-most interface. Then, search up the item you wish to craft in JEI and click the '+' icon next to its recipe. This will automatically set up the &aPattern&r, but you can still do it manually if you wish.\n\nResources capable of being autocrafted will have a yellow backdrop when viewed on a grid.",
-    "translation": "&a樣板&r用於儲存合成或處理配方。\n\n你能在&3樣板終端機&r中建立樣板。\n\n設定配方時，先在右側切換模式，\n\n再到 JEI 搜尋目標物品，並點擊配方旁的「+」。\n\n系統會自動將配方寫入&a樣板&r，你也可以手動調整配方。\n\n可自動合成的資源，會在合成欄中以黃色底色顯示。",
+    "translation": "&a樣板&r用於儲存合成或處理配方。\n\n你能在&3樣板終端機&r中建立樣板，一次最多可放入一組&a樣板&r。\n\n設定配方時，先在右側切換模式，\n\n再到 JEI 搜尋目標物品，並點擊配方旁的「+」。\n\n系統會自動將配方寫入&a樣板&r，你也可以手動調整配方。\n\n可自動合成的資源，會在合成欄中以黃色底色顯示。",
     "context": "chapters/logistics__storage.snbt / quest 35E8F57E93106BFE",
     "meta": {
       "line_split_policy": "lf",
@@ -586,7 +586,7 @@
   },
   "quest.37104662F0BDDE66.quest_desc": {
     "original": "To get started with &eDigital Storage&r with either &6Applied Energistics 2&r or &6Refined Storage 2&r, you'll want to first craft a &aFlawless Budding Certus Block&r using the &6World Engine&r. This requires the &aMachine Block&r upgrade.\n\n&o&7Yes, the reward is for decoration. This is not a bug.",
-    "translation": "若要用《&6應用能源 2&r》或《&6精緻儲存 2&r》開始&e數位儲存&r，\n\n建議先透過&6世界引擎&r製作&a無瑕的賽特斯石英芽床&r。\n\n這需要先解鎖&a機器方塊&r&6世界引擎升級&r。\n\n&o&7沒錯，這個獎勵僅作裝飾用途，不是錯誤。",
+    "translation": "若要開始使用&e數位儲存&r，無論選擇《&6應用能源 2&r》或《&6精緻儲存 2&r》，都需要先製作&a無瑕的賽特斯石英芽床&r，這要透過&6世界引擎&r完成，並先取得&a機器方塊&r升級。\n\n&o&7沒錯，這個獎勵僅作裝飾用途，不是錯誤。",
     "context": "chapters/logistics__storage.snbt / quest 37104662F0BDDE66",
     "meta": {
       "line_split_policy": "lf",
@@ -631,7 +631,7 @@
   },
   "quest.3ACF3359B3B59A05.quest_desc": {
     "original": "&eSophisticated Storage&r allows you to create and upgrade your chests, barrels, and more!\n\nThese &aStorages&r can hold even more items, hold fluids, or even automate certain tasks like smelting down ores.\n\nTo start out, you can convert a regular chest or barrel into a &aSophisticated Chest&r or &aSophisticated Barrel&r by using &aBasic To Copper Tier Upgrade&r on it.\n\n&eNote&r: The &aBasic To Copper Tier Upgrade&r can only be acquired by purchasing it from the shop. Storage Tier Upgrades past copper can be crafted.",
-    "translation": "《&e精巧儲存&r》能讓你製作並升級箱子、木桶等各式儲存裝置！\n\n這些「&a容器&r」不只容量更大，還能儲存流體，甚至是自動化熔煉礦物。\n\n剛開始生存時，可用「&a基礎 > 銅升級&r」，\n\n將一般的箱子或木桶，升級成《&e精巧儲存&r》版本。\n\n&e注意&r：「&a基礎 > 銅升級&r」只能透過商店取得；\n\n銅階級之後的儲存階級升級，則可以自行合成。",
+    "translation": "《&e精巧儲存&r》能讓你製作並升級箱子、木桶等各式儲存裝置！\n\n這些「&a容器&r」不只容量更大，還能儲存流體，甚至是自動化熔煉礦物。\n\n起步時，可以將一般的箱子或木桶轉換為&a精巧箱子&r或&a精巧木桶&r，只要對它使用「&a基礎 > 銅升級&r」即可。\n\n&e注意&r：「&a基礎 > 銅升級&r」只能透過商店取得；\n\n銅階級之後的儲存階級升級，則可以自行合成。",
     "context": "chapters/logistics__storage.snbt / quest 3ACF3359B3B59A05",
     "meta": {
       "line_split_policy": "lf",
@@ -748,7 +748,7 @@
   },
   "quest.3FE99AE10B0737BB.quest_desc": {
     "original": "The &aBasic Bin&r stores a lot of a single item type. It can also generate cobble with a &aStone Generator&r upgrade installed.\n\nThe &#5EFCB6Basic Fluid Tank&r can store 32 buckets of a single type of fluid, but also works as a bucket.\n\nWhile holding this in your hand and sneaking, you can change the mode to &aBucket&r by scrolling your mouse wheel. This will allow you to scoop up multiple buckets worth of fluids like water or lava.",
-    "translation": "&a基礎箱櫃&r可大量儲存單一物品類型。\n\n安裝&a造石機升級&r後，還能自動生產鵝卵石。\n\n&#5EFCB6基礎儲罐&r可儲存 32 桶單一流體，且本身也能當作水桶使用。\n\n手持&#5EFCB6儲罐&r「潛行 + 滾動滾輪」能切換至&a桶&r模式，\n\n讓你一次舀取多桶水或熔岩等流體。",
+    "translation": "&a基礎箱櫃&r可大量儲存單一物品類型。\n\n安裝&a造石機升級&r後，還能自動生產鵝卵石。\n\n&#5EFCB6基礎儲罐&r可儲存 32 桶單一流體，且本身也能當作水桶使用。\n\n手持儲罐「潛行 + 滾動滾輪」能切換至&a桶&r模式，\n\n讓你一次舀取多桶水或熔岩等流體。",
     "context": "chapters/logistics__storage.snbt / quest 3FE99AE10B0737BB",
     "meta": {
       "line_split_policy": "lf",
@@ -757,7 +757,7 @@
   },
   "quest.3FE99AE10B0737BB.title": {
     "original": "&#5EFCB6Mekanism Storage Options",
-    "translation": "《&#5EFCB6通用機械&r》儲存選項",
+    "translation": "《&#5EFCB6通用機械》儲存選項",
     "context": "chapters/logistics__storage.snbt / quest 3FE99AE10B0737BB",
     "meta": {
       "line_split_policy": "none",
@@ -766,7 +766,7 @@
   },
   "quest.400FD8861E907DDA.quest_desc": {
     "original": "The &aDisk Interface&r transfers items between the storage network and provided &bStorage Disks&r.\n\n&bStorage Disks&r can alternatively be upgraded directly into the next tier by combining the upgraded part with the existing disk in a crafting grid, returning your old disk in the process while keeping all of your items.\n\n&eCable Tiers &aDisk Interfaces&r upgrade the speed at which items are transferred and have more filter slots.",
-    "translation": "&a磁碟介面&r用於在儲存網路，與提供的&b儲存磁碟&r間傳輸物品。\n\n&b儲存磁碟&r也能在合成欄中，將現有磁碟與升級材料直接合成至下一階；過程會保留原磁碟內所有物品。\n\n《&e高階線纜&r》的高階&a磁碟介面&r，會提升傳輸速度，並提供更多篩選欄位。",
+    "translation": "&a磁碟介面&r用於在儲存網路，與提供的&b儲存磁碟&r間傳輸物品。\n\n&b儲存磁碟&r也能在合成欄中，將現有磁碟與升級材料直接合成至下一階；過程會返還舊儲存元件，並保留磁碟中的所有物品。\n\n《&e高階線纜》的高階&a磁碟介面&r，會提升傳輸速度，並提供更多篩選欄位。",
     "context": "chapters/logistics__storage.snbt / quest 400FD8861E907DDA",
     "meta": {
       "line_split_policy": "lf",
@@ -802,7 +802,7 @@
   },
   "quest.4101E75F69C9909F.quest_desc": {
     "original": "The &dQuantum Item Orchestration&r (&dQIO&r) system is &eMekanism's&r wireless, power-free, and expandable digital storage solution.\n\nThe &dQIO&r operates on frequencies similar to teleporters and machine security, so items can be accessed from any &aQIO Dashboard&r that's connected to the frequency of a &2QIO Drive Array&r.\n\n&eApplied Mekanistics&r allows a &aME System&r to access a &dQIO&r storage by placing a &aDashboard&r onto an &2AE2 Storage Bus&r and setting the desired frequency.",
-    "translation": "《&e通用機械&r》的&d量子物品管理&r（&dQIO&r）系統，是一套無線、免供電、且可擴充的數位儲存方案。\n\n&dQIO&r 採用類似傳送器的頻率機制，因此任何設定成相同頻率，\n並連線至 &2QIO 驅動器陣列&r的 &aQIO 儀表板&r，都能存取系統中的物品。\n\n《&e應用機械&r》模組讓 &aME 系統&r能透過&2儲存匯流排&r讀取&a QIO 儀表板&r，\n存取整個 &dQIO&r 儲存系統。",
+    "translation": "&d量子物品管理&r（&dQIO&r）系統是《&e通用機械&r》的無線、免供電且可擴充的數位儲存方案。\n\n&dQIO&r 採用類似傳送器與機器安全設定的頻率機制，因此任何&aQIO 儀表板&r，只要連接至 &2QIO 驅動器陣列&r的頻率，就能存取其中的物品。\n\n《&e應用機械&r》讓 &aME 系統&r能存取 &dQIO&r 儲存系統：將&a儀表板&r放在 &2AE2 儲存匯流排&r上，並設定所需的頻率即可。",
     "context": "chapters/logistics__storage.snbt / quest 4101E75F69C9909F",
     "meta": {
       "line_split_policy": "lf",
@@ -829,7 +829,7 @@
   },
   "quest.43949500F6A0B46A.quest_desc": {
     "original": "The &dCrafting CPU Multiblock&r is the heart of autocrafting within &eAE2&r.\n\nThese multiblocks must be built as rectangular prisms in shape with no empty blocks, and contain at least 1 or more &aCrafting Storages&r. While optional, &aCrafting Co-Processors&r are recommended to use as well.\n{@pagebreak}\n&aCrafting Storage&r blocks are used to store the ingredients of a craft. The storage amount will determine how many items you can request to be autocrafted at once.\n\nFor example, if you want to craft 1k Crafting Tables, you will need to have enough crafting storage to store the ingredients of all 1k of them.\n{@pagebreak}\nThe &dCrafting Co-Processor&r is an optional block but is recommended as each additional Co-Processor allows for more sub tasks to be queued at once, and somewhat speeds up complex autocrafting operations.\n\nFor example, crafting 1k Crafting Tables might require turning logs into planks, then planks into tables. With multiple Co-Processors, your multiblock can craft the logs into planks at the same time as it crafts planks into tables. Otherwise, it would craft all of the logs into planks until finished, then craft the planks into the tables all at once.\n{@pagebreak}\nOne important thing to note is that each &dCrafting CPU Multiblock&r can only handle one type of task at a time. For example, if you wanted to craft both 1k Crafting Tables and autosmelt 1k Iron Ingots at the same time, you would need 2 separate CPU Multiblocks to achieve this.\n\nFor more info, you can always refer to the AE2 Guide.",
-    "translation": "&eAE2&r 的&d合成 CPU 多方塊結構&r是自動合成系統的核心。\n\n這些方塊必須組成一個無中空的長方體，且至少包含 1 個&a合成儲存器&r。\n\n&a合成協同處理器&r雖為選配，但非常建議加入。\n{@pagebreak}\n&a合成儲存器&r用來暫存配方材料；容量大小會決定你一次可請求自動合成的數量。\n\n例如你要一次合成 1k 個工作台，就必須要有足夠的儲存空間，容納 1k 份材料。\n{@pagebreak}\n&d合成協同處理器&r是選配方塊，但建議使用；每多一個就能同時排入更多子任務，並加快複雜的自動合成流程。\n\n例如合成 1k 個工作台時，可能要先把原木變木材，再把木材變工作台。\n\n若有多個協同處理器，兩個步驟可平行處理；否則會先等原木全做成木材後，才開始合成工作台。\n{@pagebreak}\n重點是每一組&d合成 CPU 多方塊結構&r，同時間只能處理一項任務。\n\n例如，若你想同時做 1k 個工作台，與自動熔煉 1k 個鐵錠，就需要 2 組獨立的 CPU 多方塊結構。\n\n&7&o注意：若合成作業都在做同一種物品，仍可同時平行處理多項工作。",
+    "translation": "&d合成 CPU 多方塊結構&r是 &eAE2&r 自動合成系統的核心。\n\n這些方塊必須組成一個無中空的長方體，且至少包含 1 個&a合成儲存器&r。\n\n&a合成協同處理器&r雖為選配，但非常建議加入。\n{@pagebreak}\n&a合成儲存器&r用來暫存配方材料；容量大小會決定你一次可請求自動合成的數量。\n\n例如你要一次合成 1k 個工作台，就必須要有足夠的儲存空間，容納 1k 份材料。\n{@pagebreak}\n&d合成協同處理器&r是選配方塊，但建議使用；每多一個就能同時排入更多子任務，並加快複雜的自動合成流程。\n\n例如合成 1k 個工作台時，可能要先把原木變木材，再把木材變工作台。\n\n若有多個協同處理器，兩個步驟可平行處理；否則會先等原木全做成木材後，才開始合成工作台。\n{@pagebreak}\n重點是每一組&d合成 CPU 多方塊結構&r，同時間只能處理一項任務。\n\n例如，若你想同時做 1k 個工作台，與自動熔煉 1k 個鐵錠，就需要 2 組獨立的 CPU 多方塊結構。\n\n如需更多資訊，可查閱 AE2 指南。",
     "context": "chapters/logistics__storage.snbt / quest 43949500F6A0B46A",
     "meta": {
       "line_split_policy": "lf",
@@ -838,7 +838,7 @@
   },
   "quest.43949500F6A0B46A.title": {
     "original": "&fThe &dAutocrafting Multiblock",
-    "translation": "&d自動合成多方塊結構",
+    "translation": "&f&d自動合成多方塊結構",
     "context": "chapters/logistics__storage.snbt / quest 43949500F6A0B46A",
     "meta": {
       "line_split_policy": "none",
@@ -919,7 +919,7 @@
   },
   "quest.46A1341E5E97ABDC.quest_desc": {
     "original": "Before you start building out your &bAE Network&r, it's time to talk about &2Channels&r. Don't worry, the pack's default is set to &b4x by default&r with the intention of having an easier time for players who might be new to &eAE2&r.\n\n&2Channels&r are essentially the limit of the total number of devices that your Network can interact with at one time. This can be increased with some clever mechanics and the use of multiblock &3Controllers&r, which will be discussed in a different quest.\n\nWith the increased settings, you have &232 Channels&r per network before needing to add more channels.\n{@pagebreak}\nTo connect different parts of your networks, you can do this by using 3 different types of ME Cables: &bGlass Cables&r, &3Dense Cables&r, and &dSmart Cables&r.\n\nEach of these cables carry a different number of &2Channels&r. This means you might run into issues if you run &bGlass Cables&r to every single part of your network when you get towards the end game.\n{@pagebreak}\n&bGlass Cables&r transfer power, but can also transfer up to &232 Channels&r with the pack's settings.\n\n&dSmart Cables&r don't add more channels, but give you a visual of how many channels are being used with lines on the cable itself.\n\n&3Dense Cables&r can transfer up to &2128 Channels&r, but does not support connecting to Buses or Panels. You can also make &dDense Smart Cables&r!",
-    "translation": "在你開始擴建 &bAE 網路&r前，先來談談&2頻道&r。\n\n別擔心，本模組包預設為 &b4 倍頻道&r，對剛接觸 &eAE2&r 的玩家更友善。\n\n&2頻道&r本質上是網路可同時連線裝置數的上限。\n\n你能透過一些技巧與多方塊&3控制器&r進一步擴充，後續任務會再說明。\n\n在目前設定下，每個網路初始可用 &232 個頻道&r。\n{@pagebreak}\n要連接網路的不同區段，\n\n你能使用 3 種 ME 線纜：&b玻璃線纜&r、&3緻密線纜&r與&d智慧線纜&r。\n\n每種線纜可承載的&2頻道數&r不同。\n\n若後期仍全用&b玻璃線纜&r，可能會遇到頻道瓶頸。\n{@pagebreak}\n&b玻璃線纜&r除了傳電外，在本模組包設定中，最多可傳遞 &232 個頻道&r。\n\n&d智慧線纜&r不會增加頻道上限，但會在外觀上顯示目前使用了多少頻道。\n\n&3緻密線纜&r在本模組包設定下，最多可承載 &2128 個頻道&r，是大型 AE2 系統的主幹線。",
+    "translation": "在你開始擴建 &bAE 網路&r前，先來談談&2頻道&r。\n\n別擔心，本模組包預設為 &b4 倍頻道&r，對剛接觸 &eAE2&r 的玩家更友善。\n\n&2頻道&r本質上是網路可同時連線裝置數的上限。\n\n你能透過一些技巧與多方塊&3控制器&r進一步擴充，後續任務會再說明。\n\n在目前設定下，每個網路初始可用 &232 個頻道&r。\n{@pagebreak}\n要連接網路的不同區段，\n\n你能使用 3 種 ME 線纜：&b玻璃線纜&r、&3緻密線纜&r與&d智慧線纜&r。\n\n每種線纜可承載的&2頻道數&r不同。\n\n若後期仍全用&b玻璃線纜&r，可能會遇到頻道瓶頸。\n{@pagebreak}\n&b玻璃線纜&r除了傳電外，在本模組包設定中，最多可傳遞 &232 個頻道&r。\n\n&d智慧線纜&r不會增加頻道上限，但會在外觀上顯示目前使用了多少頻道。\n\n&3緻密線纜&r在本模組包設定下，最多可承載 &2128 個頻道&r，但無法連接匯流排或面板。你也可以製作&d緻密智慧線纜&r！",
     "context": "chapters/logistics__storage.snbt / quest 46A1341E5E97ABDC",
     "meta": {
       "line_split_policy": "lf",
@@ -937,7 +937,7 @@
   },
   "quest.4882D3E03CC01268.quest_desc": {
     "original": "&bStorage Buses&r allow your network to see and interact with items inside an external storage block/network, such as a chest, or &eStorage Controller&r (from &6Functional Storage&r mod).\n\n&bStorage Buses&r come in different types, and can also be filtered to only allow certain items to be stored and interacted with.\n\n&7&oIt is possible to create an essentially infinite storage network that only takes up one channel.",
-    "translation": "&bME 儲存匯流排&r能讓你的網路，讀取並操作外部儲存設備／網路中的資源，\n\n例如儲物箱或&e儲存控制器&r（來自《&6功能性儲存&r》）。\n\n&bME 儲存匯流排&r有多種不同的類型，且能藉由設定篩選條件，\n\n僅允許特定物品被儲存與存取。\n\n&7&o你甚至可以做出幾乎無限容量、且只占用一個頻道的儲存網路。",
+    "translation": "&bME 儲存匯流排&r能讓你的網路，讀取並操作外部儲存設備／網路中的資源，\n\n例如儲物箱或《&6功能性儲存&r》的&e儲存控制器&r。\n\n&bME 儲存匯流排&r有多種不同的類型，且能藉由設定篩選條件，\n\n僅允許特定物品被儲存與存取。\n\n&7&o你甚至可以做出幾乎無限容量、且只占用一個頻道的儲存網路。",
     "context": "chapters/logistics__storage.snbt / quest 4882D3E03CC01268",
     "meta": {
       "line_split_policy": "lf",
@@ -964,7 +964,7 @@
   },
   "quest.49DD167D6323406B.quest_desc": {
     "original": "Functional Storage can also handle fluid storage using &aFluid Drawers&r!\n\nYou can either pump fluids directly into the drawer or just use a fluid bucket on it to set its fluid.",
-    "translation": "《&e功能性儲存&r》也能透過&a流體抽屜&r來儲存流體！\n\n你可以透過管道，直接將流體送入抽屜，\n\n或用流體桶對著抽屜點擊右鍵來存入流體。",
+    "translation": "《功能性儲存》也能透過&a流體抽屜&r來儲存流體！\n\n你可以透過管道，直接將流體送入抽屜，\n\n或用流體桶對著抽屜點擊右鍵來存入流體。",
     "context": "chapters/logistics__storage.snbt / quest 49DD167D6323406B",
     "meta": {
       "line_split_policy": "lf",
@@ -982,7 +982,7 @@
   },
   "quest.4A707D443EC2DE33.title": {
     "original": "&eFunctional Drawers",
-    "translation": "《&e功能性儲存&r》抽屜",
+    "translation": "《&e功能性儲存》抽屜",
     "context": "chapters/logistics__storage.snbt / quest 4A707D443EC2DE33",
     "meta": {
       "line_split_policy": "none",
@@ -1045,7 +1045,7 @@
   },
   "quest.52C305EDBE2CCC55.quest_desc": {
     "original": "&aGrids&r allow you to interact with and view parts of your network in different ways.\n\nThe standard &aGrid&r allows you to view, remove, and insert resources into your storage network, send recipe requests, and many more things.\n\nThe &3Crafting Grid&r provides you with all the functionality of the regular &aGrid&r, but also provides you with an integrated crafting table.",
-    "translation": "&a終端機&r能讓你以不同方式，查看並操作網路內容。\n\n普通&a終端機&r可查看、取出與存入資源，也能發送合成請求等多種操作。\n\n&3合成終端機&r包含一般終端機的所有功能，並額外整合工作台。",
+    "translation": "&a終端機&r能讓你以不同方式，查看並操作網路內容。\n\n普通&a終端機&r可查看、取出與存入資源，也能發送合成請求等多種操作。\n\n&3合成終端機&r包含一般&a終端機&r的所有功能，並額外整合工作台。",
     "context": "chapters/logistics__storage.snbt / quest 52C305EDBE2CCC55",
     "meta": {
       "line_split_policy": "lf",
@@ -1126,7 +1126,7 @@
   },
   "quest.5E1FD04538F89292.quest_desc": {
     "original": "You can connect a second network to your main &eRS2&r network wirelessly by binding a &aNetwork Card&r to the secondary network's &dNetwork Receiver&r, then placing that same &aNetwork Card&r into a &dNetwork Transmitter&r connected to your main network.\n\nThis even works across dimensions as long as your main system is chunkloaded.",
-    "translation": "你能將&a網路卡&r綁定至次要網路的&d網路訊號接收器&r，\n\n再把同一張網路卡裝進主網路端的&d網路訊號發射器&r，\n\n藉此將第二套網路連接至你的 &eRS2&r 主網路。\n\n只要主系統區塊有載入，此連線甚至可跨維度運作。",
+    "translation": "你可以將另一套網路無線連接至 &eRS2&r 主網路：先將&a網路卡&r綁定至次要網路的&d網路訊號接收器&r，再把同一張&a網路卡&r裝進已連接至主網路的&d網路訊號發射器&r。\n\n只要主系統所在的區塊持續載入，此連線甚至可跨維度運作。",
     "context": "chapters/logistics__storage.snbt / quest 5E1FD04538F89292",
     "meta": {
       "line_split_policy": "lf",
@@ -1153,7 +1153,7 @@
   },
   "quest.5FBD41923B66C239.quest_desc": {
     "original": "By default, drawers can only hold a base number of items depending on their size. You can upgrade this with these upgrades! \n\nFor example, a standard Drawer that holds one type of item can hold up to around &a2,000 items&r for the base amount. Each upgrade multiplies the total storage amount, meaning the upgrades stack. Most drawers can hold 4 &aInventory Size Upgrades&r of any tier.\n\nPro Tip: You can also place these inside of a &3Storage Controller&r to increase the linking range.",
-    "translation": "預設情況下，抽屜可儲存的物品數量會依類型而定。\n\n你可以透過這些升級進一步擴充容量！\n\n例如一般 1x1 抽屜的基礎容量約為 &a2,000 個&r。\n\n同類升級會以倍數增加容量，且效果可疊加。\n\n多數抽屜可安裝最多 4 個任意階級的&a儲存空間升級&r。\n\n&e小技巧&r：你也可把這些升級裝在&3儲存控制器&r上，提升連結範圍。",
+    "translation": "預設情況下，抽屜可儲存的物品數量會依類型而定。\n\n你可以透過這些升級進一步擴充容量！\n\n例如一般 1x1 抽屜的基礎容量約為 &a2,000 個&r。\n\n同類升級會以倍數增加容量，且效果可疊加。\n\n多數抽屜可安裝最多 4 個任意階級的&a儲存空間升級&r。\n\n小技巧：你也可把這些升級裝在&3儲存控制器&r上，提升連結範圍。",
     "context": "chapters/logistics__storage.snbt / quest 5FBD41923B66C239",
     "meta": {
       "line_split_policy": "lf",
@@ -1279,7 +1279,7 @@
   },
   "quest.6AA51581B0CA5271.quest_desc": {
     "original": "&aDisk Drives&r accept &bStorage Disks&r capable of holding different resources and have several configuration options such as storage priority, insert/extract mode, void mode, and more.\n\nYou can also filter what items can be stored within a &aDisk Drive&r by placing that item on one of the top 9 slots inside its interface.\n\n&bStorage Disks&r can be upgraded directly into the next tier by crafting the upgraded part with the existing &bStorage Disk&r, returning your old one in the process while keeping all of your items stored.\n\n&bStorage Disks&r can be separated from their housing by Shift + Right-clicking when it has no items stored inside it.",
-    "translation": "&a磁碟驅動器&r可安裝&b儲存磁碟&r來儲存不同資源，並提供多種設定選項，\n\n如儲存優先度、存取模式、銷毀模式等。\n\n你還能在&a磁碟驅動器&r的介面，上方 9 格欄位放入物品，篩選可儲存的資源類型。\n\n&b儲存磁碟&r可透過將現有磁碟，與升級材料結合，直接合成至下一階，過程會保留原磁碟中的所有物品。\n\n當磁碟內無物品時，可用「Shift + 右鍵」將&b儲存元件&r與外殼分離。",
+    "translation": "&a磁碟驅動器&r可安裝&b儲存磁碟&r來儲存不同資源，並提供多種設定選項，\n\n如儲存優先度、存取模式、銷毀模式等。\n\n你還能在&a磁碟驅動器&r的介面，上方 9 格欄位放入物品，篩選可儲存的資源類型。\n\n&b儲存磁碟&r可透過將升級材料與現有的&b儲存磁碟&r結合，直接合成至下一階，過程會返還舊儲存元件，並保留磁碟中的所有物品。\n\n&b儲存磁碟&r清空後，可用「Shift + 右鍵」拆出儲存元件與外殼。",
     "context": "chapters/logistics__storage.snbt / quest 6AA51581B0CA5271",
     "meta": {
       "line_split_policy": "lf",
@@ -1423,7 +1423,7 @@
   },
   "quest.73EC5E7F2300B99D.quest_desc": {
     "original": "&aBudding Certus Quartz&r works similarly to amethyst and will bud crystals over time.\n\nThese will decay into &7Flawed Budding Certus Quartz&r if mined, but can be moved safely using things like a &2Cardboard Box&r.\n\n&eNote&r: Squat grow does work on the budding blocks.",
-    "translation": "&b賽特斯石英芽床&r&r與&d紫水晶芽床&r的機制類似，會隨時間長出水晶。\n\n若直接挖掘芽床，會衰變成&7微瑕的賽特斯石英芽床&r；\n\n但你能用&2紙箱&r來將其無損搬運。\n\n&e注意&r：豐收之舞催熟作物的功能，對芽床也同樣生效。",
+    "translation": "&a賽特斯石英芽床&r與紫水晶芽床的機制類似，會隨時間長出水晶。\n\n若直接挖掘芽床，會衰變成&7微瑕的賽特斯石英芽床&r；\n\n但你能用&2紙箱&r來將其無損搬運。\n\n&e注意&r：豐收之舞催熟作物的功能，對芽床也同樣生效。",
     "context": "chapters/logistics__storage.snbt / quest 73EC5E7F2300B99D",
     "meta": {
       "line_split_policy": "lf",
@@ -1495,7 +1495,7 @@
   },
   "quest.77F8CCE971B9B186.quest_desc": {
     "original": "&eOccultism's&r upgradeable storage system allows you to store your items in a separate dimension of &9The Otherworld&r.\n\nThe &aStorage Actuator Base&r is the first of two parts needed to access your storage dimension.\n\nThis block functions very much like a big shulker box. This means that when breaking the &aDimensional Storage Actuator&r, your items will stay safe inside the block.\n{@pagebreak}\n&aStorage Stabilizers&r increase the storage space in the &aStorage Actuator&r.\n\nHigher tier &aStorage Stabilizers&r provide a bigger storage increase for both items and item types.\n\n&aStorage Stabilizers&r can be placed up to five blocks away, facing the &aDimensional Matrix&r texture. Check the &aDictionary of Spirits&r for the exact layout.\n\nEach &aTier 1 Dimensional Storage Stabilizer&r adds 512000 items, and 64 item types, up to four &aStabilizers&r.\n{@pagebreak}\nThe &aStable Wormhole&r allows access to a Dimensional Storage from a remote destination.\n\nShift-click the &aDimensional Storage Actuator&r to link it, then place the &aStable Wormhole&r in the world to use as a remote access point.\n\nShift + right-click a &aDimensional Storage Actuator&r with a &cStorage Accessor&r to link them, allowing you to access your items from anywhere in the world, even across dimensions.",
-    "translation": "&d維度儲存&r是《&e神祕學&r》的可升級儲存系統，讓你能把物品存放在獨立於現世的&9異界&r維度。\n\n&a維度儲存促動器&r是進入此儲存維度，所需兩大元件中的第一個。\n\n此方塊運作方式很像大型界伏盒。\n\n也就是說，打掉&a維度儲存促動器&r時，物品仍會安全保留在方塊內。\n{@pagebreak}\n&a維度儲存穩定器&r可提升&a儲存促動器&r的容量。\n\n更高階的&a儲存穩定器&r，會同時提高物品的可儲存總量與種類上限。\n\n&a儲存穩定器&r最遠可放在距離 5 格處，且擺放方向面向&a維度矩\n陣&r。\n\n精確擺放位置，請參考&a魔靈全典&r。\n\n每個 &a1 級維度儲存穩定器&r，可增加 512000 個物品容量，\n\n與 64 種物品類型，最多可放置 4 個 &a穩定器&r。\n{@pagebreak}\n&a穩定蟲洞&r能讓你從遠端位置存取維度儲存。\n\n先拿著蟲洞對著&a維度儲存促動器&r「Shift + 右鍵」完成綁定，\n\n再把&a穩定蟲洞&r放在世界上作為遠端存取點。\n\n拿著&c儲存存取器&r，對著&a維度儲存促動器&r「Shift + 右鍵」進行\n連結，之後即可在世界上的任意地點，甚至跨維度存取物品。",
+    "translation": "維度儲存是《&e神祕學&r》的可升級儲存系統，讓你能把物品存放在獨立於現世的&9異界&r維度。\n\n&a儲存促動器基座&r是進入此儲存維度，所需兩大元件中的第一個。\n\n此方塊運作方式很像大型界伏盒。\n\n也就是說，打掉&a維度儲存促動器&r時，物品仍會安全保留在方塊內。\n{@pagebreak}\n&a維度儲存穩定器&r可提升&a儲存促動器&r的容量。\n\n更高階的&a儲存穩定器&r，會同時提高物品的可儲存總量與種類上限。\n\n&a儲存穩定器&r最遠可放在距離 5 格處，且擺放方向面向&a維度矩陣&r。\n\n精確擺放位置，請參考&a魔靈全典&r。\n\n每個 &a1 級維度儲存穩定器&r，可增加 512000 個物品容量，\n\n與 64 種物品類型，最多可放置 4 個 &a穩定器&r。\n{@pagebreak}\n&a穩定蟲洞&r能讓你從遠端位置存取維度儲存。\n\n先拿著蟲洞對著&a維度儲存促動器&r「Shift + 右鍵」完成綁定，\n\n再把&a穩定蟲洞&r放在世界上作為遠端存取點。\n\n要與&a維度儲存促動器&r連結，請手持&c儲存存取器&r，再按住 Shift 並點擊右鍵；之後即可在世界上的任意地點，甚至跨維度存取物品。",
     "context": "chapters/logistics__storage.snbt / quest 77F8CCE971B9B186",
     "meta": {
       "line_split_policy": "lf",
@@ -1504,7 +1504,7 @@
   },
   "quest.77F8CCE971B9B186.title": {
     "original": "&dOccultism&r Storage",
-    "translation": "《&e神祕學&r》儲存系統",
+    "translation": "《&d神祕學&r》儲存系統",
     "context": "chapters/logistics__storage.snbt / quest 77F8CCE971B9B186",
     "meta": {
       "line_split_policy": "none",
@@ -1513,7 +1513,7 @@
   },
   "quest.78ADC11570C5561E.quest_desc": {
     "original": "&dFluix&r is at the heart of all of technology in Applied Energistics.\n\nTo make the &dFluix Crystal&r, you'll first need to charge &bCertus Quartz Crystal&r in the charger. Next, toss the crystal with a piece of redstone and nether quartz in a pool of water out in the world.\n\nThe components will react and form a &dFluix Crystal&r that is ready for refinement! You can do many of these at once to speed up the process, as well as eventually making machines that can automate the creation process for you.",
-    "translation": "&d福魯伊克斯&r是《&6應用能源 2&r》整個科技線的核心。\n\n若要製作&d福魯伊克斯水晶&r，先把&b賽特斯石英水晶&r放進充能器充能。\n\n接著將它與紅石、地獄石英一起丟進世界上的水池。\n\n這些材料間會發生反應，並形成可進一步精煉的&d福魯伊克斯水晶&r！\n\n你可以一次做很多組來加快進度，後期也能用機器把整個流程自動化。",
+    "translation": "&d福魯伊克斯&r是《應用能源 2》整個科技線的核心。\n\n若要製作&d福魯伊克斯水晶&r，先把&b賽特斯石英水晶&r放進充能器充能。\n\n接著將它與紅石、地獄石英一起丟進世界上的水池。\n\n這些材料間會發生反應，並形成可進一步精煉的&d福魯伊克斯水晶&r！\n\n你可以一次做很多組來加快進度，後期也能用機器把整個流程自動化。",
     "context": "chapters/logistics__storage.snbt / quest 78ADC11570C5561E",
     "meta": {
       "line_split_policy": "lf",
@@ -1792,6 +1792,7 @@
   },
   "task.4A84D885C313D512.title": {
     "original": "Stack Upgrades",
+    "translation": "堆疊升級",
     "context": "chapters/logistics__storage.snbt / task 4A84D885C313D512",
     "meta": {
       "line_split_policy": "none",
@@ -1845,6 +1846,7 @@
   },
   "task.5290130556504104.title": {
     "original": "&aIron Chests&r",
+    "translation": "&a鐵箱子&r",
     "context": "chapters/logistics__storage.snbt / task 5290130556504104",
     "meta": {
       "line_split_policy": "none",
@@ -1907,6 +1909,7 @@
   },
   "task.6DF527923993A57F.title": {
     "original": "In-World Chest Upgrades",
+    "translation": "原地箱子升級",
     "context": "chapters/logistics__storage.snbt / task 6DF527923993A57F",
     "meta": {
       "line_split_policy": "none",
@@ -1960,6 +1963,7 @@
   },
   "task.7F31E6F7A6728CF1.title": {
     "original": "Fortune Upgrades",
+    "translation": "幸運升級",
     "context": "chapters/logistics__storage.snbt / task 7F31E6F7A6728CF1",
     "meta": {
       "line_split_policy": "none",

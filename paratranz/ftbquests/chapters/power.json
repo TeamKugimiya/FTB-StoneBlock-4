@@ -64,7 +64,7 @@
   },
   "quest.0533C0C07AE600FD.quest_desc": {
     "original": "&eMekanism &dFission Reactors&r take fissile fuel and coolant, and convert them into &6nuclear waste&r and &bhot coolant&r. \n\n&dFission Reactors&r do not generate power by themselves. They can produce steam that can be pumped into a &6Turbine&r.\n{@pagebreak}\nThe &dReactor&r accepts two forms of coolants which can be piped directly into the multiblock via a port. &bWater Cooling&r is simpler but less effective, while &6Sodium Cooling&r is stronger but requires an additional multiblock.\n\nFailing to provide coolant will not stop a running reactor, but will cause it to &coverheat&r, &ctake internal damage&r, and eventually &cexplode&r, releasing &cradioactive material&r. Failing to empty the waste will cause it to also &cleak out into the environment&r and accumulate as &eradiation&r.\n\nThe smaller the build, the slower and fewer things can go wrong. Take your time and test it out.\n\n&7&oBuilding and operation are on the following pages.&r\n{@pagebreak}\nThe smallest functioning &dFission Reactor&r is a 3x4x3 multiblock, which can scale up to 18x18x18. The edges of all &dReactors&r must be &aReactor Casings&r, but the faces can also include reactor glass, logic adapters, and/or ports.\n\nThe &dReactor&r multiblock will form once the cuboid is fully built and at least one &2Fission Fuel Assembly&r is inside with a &aControl Rod Assembly&r on top.\n\nAt least 4 &aFission Reactor Ports&r are needed to supply a &dFission Reactor&r: one for inputting &bWater&r, one for &2Fuel&r, one set to output &7Steam&r, and one set to output &cWaste&r. &dReactor Ports&r can be toggled by Sneak + Right-Clicking them with a &9Configurator&r.\n\n&dReactors&r can also accept &aFission Reactor Logic Adaptors&r for reading different information about its multiblock or for turning it on/off automatically.\n{@pagebreak}\n&dReactors&r can burn fuel at a max rate of 1mB * (number of &3Fuel Assemblies&r) per tick, down to 0.01mB/tick.\n\nThis rate also adjusts coolant demand, and the production of &7Steam&r and &cnuclear waste&r. Check the recipes and make sure your pipes can handle all these rates, as well as your coolant production.\n\n{image:ftb:textures/quests/mekanism/fission_reactor_open.png width:100 height:100 align:center}",
-    "translation": "《&e通用機械&r》的&d核分裂反應爐&r消耗易裂變燃料和冷卻液，產生&6核廢料&r和&b過熱冷卻液&r。\n\n&d核分裂反應爐&r本身並沒有發電的功能，但是能夠製造蒸汽輸進&6渦輪&r。\n{@pagebreak}\n&d反應爐&r多方塊結構透過連接埠，能輸入的冷卻液有兩種，&b用水冷卻&r的方式效率較差，但建造較為簡單；&6用鈉冷卻&r的方式比較有效率，但需要多蓋一個多方塊結構。\n\n缺少冷卻液並不會使反應爐停止，反應爐會&c過熱&r，開始&c損壞&r，最後發生&c爆炸&r，並釋出&c放射性物質&r。若核廢料不及時輸出也有可能會&c洩漏到環境&r當中。兩者皆會使&e輻射&r增加。\n\n反應爐越小，問題就越少。你需要花時間測試一下。\n\n&7&o後續將會介紹如何建造和操作反應爐。&r\n{@pagebreak}\n最小的&d核分裂反應爐&r尺寸是 3x4x3，最大為 18x18x18。\n&d反應爐&r邊緣必須是&a反應爐外殼&r，其餘的面可以替換成強化玻璃、邏輯適配器或連接埠。\n\n如果&d反應爐&r內至少有一個&2核分裂燃料組件&r和一個&a控制棒組件&r在其上方，則當&d反應爐&r完全圍成一個長方體時就會成型。\n\n&d核分裂反應爐&r至少需要四個&a核分裂反應爐連接埠&r，一個輸入&b水&r，一個輸入&2燃料&r，一個輸出&7水蒸汽&r，一個輸出&c核廢料&r。拿著&9調整器&r對&d反應爐連接埠&r潛行 + 點擊右鍵能夠進行調整。\n\n可以透過&a核分裂反應爐邏輯適配器&r讀取&d反應爐&r的各種資訊，自動開關&d反應爐&r。\n{@pagebreak}\n反應爐消耗燃料的速率最高為（&3燃料組件&r數量）mB/tick，\n最低為 0.01mB/tick。\n\n消耗燃料的速率同時影響冷卻液需求量，以及&7蒸汽&r和&c核廢料&r的生產量。查看配方確認這些數據，檢查你的管道傳輸速度是否夠快，以及確認冷卻液是否足夠。\n\n{image:ftb:textures/quests/mekanism/fission_reactor_open.png width:100 height:100 align:center}",
+    "translation": "《&e通用機械》的&d核分裂反應爐&r消耗易裂變燃料和冷卻液，產生&6核廢料&r和&b過熱冷卻液&r。\n\n&d核分裂反應爐&r本身並沒有發電的功能，但是能夠製造蒸汽輸進&6渦輪&r。\n{@pagebreak}\n&d反應爐&r多方塊結構透過連接埠，能輸入的冷卻液有兩種，&b用水冷卻&r的方式效率較差，但建造較為簡單；&6用鈉冷卻&r的方式比較有效率，但需要多蓋一個多方塊結構。\n\n缺少冷卻液並不會使反應爐停止，反應爐會&c過熱&r，開始&c損壞&r，最後發生&c爆炸&r，並釋出&c放射性物質&r。若核廢料不及時輸出也有可能會&c洩漏到環境&r當中。兩者皆會使&e輻射&r增加。\n\n反應爐越小，問題就越少。你需要花時間測試一下。\n\n&7&o後續將會介紹如何建造和操作反應爐。&r\n{@pagebreak}\n最小的&d核分裂反應爐&r尺寸是 3x4x3，最大為 18x18x18。\n&d反應爐&r邊緣必須是&a反應爐外殼&r，其餘的面可以替換成強化玻璃、邏輯適配器或連接埠。\n\n如果&d反應爐&r內至少有一個&2核分裂燃料組件&r和一個&a控制棒組件&r在其上方，則當反應爐完全圍成一個長方體時就會成型。\n\n至少需要四個&a核分裂反應爐連接埠&r供&d核分裂反應爐&r使用，一個輸入&b水&r，一個輸入&2燃料&r，一個輸出&7水蒸汽&r，一個輸出&c核廢料&r。&d反應爐連接埠&r可切換模式，只要手持&9調整器&r對它潛行 + 點擊右鍵即可。\n\n&d反應爐&r也可安裝&a核分裂反應爐邏輯適配器&r，讀取多方塊結構的各種資訊，或自動開關反應爐。\n{@pagebreak}\n&d反應爐&r消耗燃料的速率最高為每 tick 1mB ×（&3燃料組件&r數量），\n最低為 0.01mB/tick。\n\n消耗燃料的速率同時影響冷卻液需求量，以及&7蒸汽&r和&c核廢料&r的生產量。查看配方確認這些數據，檢查你的管道傳輸速度是否夠快，以及確認冷卻液是否足夠。\n\n{image:ftb:textures/quests/mekanism/fission_reactor_open.png width:100 height:100 align:center}",
     "context": "chapters/power.snbt / quest 0533C0C07AE600FD",
     "meta": {
       "line_split_policy": "lf",
@@ -82,7 +82,7 @@
   },
   "quest.06C9E9DBE25887D9.quest_desc": {
     "original": "The &aLava Generator&r from &6Oritech&r generates RF by consuming lava. RF generation can be increased with &bAddons&r.",
-    "translation": "來自《&6起源科技&r》的&a熔岩發電機&r，會透過消耗熔岩產生 RF，\n並可用&b升級插件&r提升發電量。",
+    "translation": "《&6起源科技&r》的&a熔岩發電機&r會透過消耗熔岩產生 RF，\n並可用&b升級插件&r提升發電量。",
     "context": "chapters/power.snbt / quest 06C9E9DBE25887D9",
     "meta": {
       "line_split_policy": "lf",
@@ -100,7 +100,7 @@
   },
   "quest.0D57D3662EB40CE3.quest_desc": {
     "original": "&aCapacitor Banks&r from &eEnderIO&r are used to store energy!\n\nThese are easily configurable within the interface. You can also stack these together to make multiblock power banks.",
-    "translation": "&eEnderIO&r 的 &a電容庫&r 用來儲存能量！\n\n可在介面中輕鬆調整設定。你也能把它們堆疊組成多方塊能量庫。",
+    "translation": "&eEnderIO&r 的&a電容庫&r可用來儲存能量！\n\n可在介面中輕鬆調整設定。你也能把它們堆疊組成多方塊能量庫。",
     "context": "chapters/power.snbt / quest 0D57D3662EB40CE3",
     "meta": {
       "line_split_policy": "lf",
@@ -118,7 +118,7 @@
   },
   "quest.0E0B4F549B42AF63.quest_desc": {
     "original": "&aReactor Fuel Rods&r are interior components that need to be supplied with &6Uranium&r or &dPlutonium&r &6Pellets&r from &aReactor Fuel Ports&r to generate heat.\n\nThe &aFuel Port&r will be placed on the ceiling of the Reactor. This Port will need &aFuel Rods&r connecting it all the way to the bottom of the Reactor.\n\nTo create &6Uranium Pellets&r, you'll need access to the &6Atomic Forge&r to create &6Uranium Gems&r.\n{@pagebreak}\nWhen burning fuel, &aFuel Rods&r will generate neutron pulses that create a specific amount of energy, the more pulses a rod receives, the more energy it also creates. However, if a neighboring component is also a &aFuel Rod&r, it will also hit the neighboring component with a pulse.\n\nThe amount of heat generated is based on the total pulses of a rod (internal + external pulses).\n\nA &aSingle Rod&r will generate 1 internal pulse, a &aDouble Rod&r 4, and a &aQuad Rod&r 12. \n{@pagebreak}\n&eNeutron Reflectors&r can be used to send a pulse back to its origin, acting as a similar rod type to its neighbor, increasing its efficiency.\n\nEach &aFuel Rod&r will consume a fixed amount of fuel from the &bReactor Fuel Ports&r above the stack. Each fuel pellet has a capacity, and each rod will use 1 capacity unit, a double rod uses 2, and a quad rod uses 4.",
-    "translation": "&a反應爐燃料棒&r是內部核心元件，\n\n需要由&a反應爐燃料埠&r供應&6鈾&r或&d鈽&r的&6燃料顆粒&r來產生熱量。\n\n&a燃料埠&r應設置在反應爐頂部，並確保下方一路連接到最底層的&a燃料棒&r。\n\n要製作&6鈾燃料顆粒&r，你需要先使用&6原子鍛造廠&r製作&6鈾寶石&r。\n{@pagebreak}\n燃料燃燒時，&a燃料棒&r會產生中子脈衝來生成能量。單支燃料棒接收的脈衝越多，產能越高；\n\n若鄰近元件也是燃料棒，脈衝也會傳遞給它。\n\n產生的熱量取決於燃料棒的總脈衝數（內部 + 外部脈衝）。\n\n&a單聯燃料棒&r產生 1 次內部脈衝，&a雙聯&r為 4 次，&a四聯&r為 12 次。\n{@pagebreak}\n&e中子反射器&r可將脈衝反射回來源端，等同於提供鄰近燃料棒同類型的加成，進一步提升效率。\n\n每支&a燃料棒&r都會從其上方的&b反應爐燃料埠&r消耗固定量燃料。\n\n每顆燃料顆粒有容量值：單聯消耗 1、雙聯消耗 2、四聯消耗 4。",
+    "translation": "&a反應爐燃料棒&r是內部核心元件，\n\n需要供應&6鈾&r或&d鈽&r的&6燃料顆粒&r，經由&a反應爐燃料埠&r輸入，才能產生熱量。\n\n&a燃料埠&r應設置在反應爐頂部，並確保下方一路連接到最底層的&a燃料棒&r。\n\n要製作&6鈾燃料顆粒&r，你需要先使用&6原子鍛造廠&r製作&6鈾寶石&r。\n{@pagebreak}\n燃料燃燒時，&a燃料棒&r會產生中子脈衝來生成能量。單支燃料棒接收的脈衝越多，產能越高；\n\n若鄰近元件也是&a燃料棒&r，脈衝也會傳遞給它。\n\n產生的熱量取決於燃料棒的總脈衝數（內部 + 外部脈衝）。\n\n&a單聯燃料棒&r產生 1 次內部脈衝，&a雙聯&r為 4 次，&a四聯&r為 12 次。\n{@pagebreak}\n&e中子反射器&r可將脈衝反射回來源端，等同於提供鄰近燃料棒同類型的加成，進一步提升效率。\n\n每支&a燃料棒&r都會從其上方的&b反應爐燃料埠&r消耗固定量燃料。\n\n每顆燃料顆粒有容量值：單聯消耗 1、雙聯消耗 2、四聯消耗 4。",
     "context": "chapters/power.snbt / quest 0E0B4F549B42AF63",
     "meta": {
       "line_split_policy": "lf",
@@ -181,7 +181,7 @@
   },
   "quest.13EC7C64DFBD1556.quest_desc": {
     "original": "The &aBasic Generator&r from &6Oritech&r is a starter generator that burns any type of furnace fuel to generate a small amount of power.\n\nYou can transfer the power out using &cEnergy Pipes&r from the mod, or any other type of energy cable works as well.",
-    "translation": "來自《&6起源科技&r》的&a基礎發電機&r是入門發電機，可燃燒各類熔爐燃料來產生少量能量。\n\n你可以使用本模組的&c能量管道&r將能量輸出，也可搭配其他模組的能量線纜。",
+    "translation": "&a基礎發電機&r是《&6起源科技&r》的入門發電機，可燃燒各類熔爐燃料來產生少量能量。\n\n你可以使用本模組的&c能量管道&r將能量輸出，也可搭配其他模組的能量線纜。",
     "context": "chapters/power.snbt / quest 13EC7C64DFBD1556",
     "meta": {
       "line_split_policy": "lf",
@@ -226,7 +226,7 @@
   },
   "quest.212600F8D3C1E1EB.quest_desc": {
     "original": "If you run &eBrine&r through another Thermal Evaporation Tower, it'll convert it into &6Liquid Lithium&r.\n\nWe can't do much with Liquid Lithium, so we'll need to convert it into a gas using a &aRotary Condensentrator&r.\n\nTo make the best power storage in &aMekanism&r, we'll need to convert Lithium into &6Lithium Dust&r using a &aChemical Crystallizer&r. The Crystallizer requires &dUltimate Control Circuits&r to craft!",
-    "translation": "&e鹽水&r在經過熱力蒸餾塔處理過後會變成&6液態鋰&r。\n\n液態鋰我們用不上，要先經過&a迴旋式氣液轉換機&r將其轉成氣體。\n\n要製作機械動力最能儲存能量的材料，我們要將鋰經過&a化學結晶器&r進行處理，製成&6鋰粉&r。結晶器要用&d終極控制電路&r製作。",
+    "translation": "&e鹽水&r在經過熱力蒸餾塔處理過後會變成&6液態鋰&r。\n\n液態鋰我們用不上，要先經過&a迴旋式氣液轉換機&r將其轉成氣體。\n\n要製作《&a通用機械&r》最好的能量儲存裝置，我們需要將鋰轉換成&6鋰粉&r，這要用到&a化學結晶器&r。結晶器要用&d終極控制電路&r製作。",
     "context": "chapters/power.snbt / quest 212600F8D3C1E1EB",
     "meta": {
       "line_split_policy": "lf",
@@ -262,7 +262,7 @@
   },
   "quest.24401E59D87AC23A.quest_desc": {
     "original": "The &6Fusion Reactor&r is &eMekanism's&r final energy generator. Fueled by &aDeuterium&r and &2Tritium&r, or a mixture of both&r, it is capable of producing vast amounts of power and/or heat for relatively little upkeep. Both fuel components are produced using just water and energy!\n\nThe &6Fusion Reactor&r itself requires a (un)healthy amount of &bPost-Fission&r materials to create, both to justify this level of power and contain it.\n{image:ftb:textures/quests/mekanism/fusion_reactor.png width:100 height:100 align:center}\n\n{@pagebreak}\nTo build the &6Fusion Reactor&r, place three 5x5 squares of building material that connect with each other at their mid points, replace the corners of the squares with &2Fusion Reactor Casing&r, and add four &2Casings&r around the midpoints.\n\nThen, replace the top mid-point with the &6Fusion Reactor Controller&r, and all other remaining building blocks can be replaced with reactor glass, ports, or the laser focus matrix.\n\nTo start the &6Reactor&r, a small amount of &aD-T Fuel&r in a &eHohlraum&r will be needed inside the &2Controller&r, with fuel supplied to the &6Reactor&r. A disabled &bLaser Amplifier&r will then need to collect energy from other lasers before firing a single beam containing 400 million FE or more into the &3Laser Focus Matrix&r on the &6Reactor&r.\n\nFrom here energy, steam, or heat can be extracted from a &aFusion Reactor Port&r set to output mode.",
-    "translation": "&6核融合反應爐&r是&e通用機械&r的終極發電機，以&a氘&r和&2氚&r（或兩者的混合物）作為燃料。只需要維持少量的消耗就能產生巨量的電力或熱量，更別提兩種燃料僅需水和能量來製作。\n\n核融合發電非常強力，為了限制，&6核融合反應爐&r需要大量的&b核分裂&r材料來製作。\n{image:ftb:textures/quests/mekanism/fusion_reactor.png width:100 height:100 align:center}\n\n{@pagebreak}\n要建造&6核分裂反應爐&r，先用任意建材搭出三個 5x5 的方形框架，並使其相互在中點連接。將框架的角落替換成&2核融合反應爐框架&r，並在六面中點周圍四角補上&2反應爐框架&r。\n\n接著將頂面中點替換成&6核融合反應爐控制器&r，剩下的建材方塊可以替換成強化玻璃、連接埠以及雷射聚焦矩陣。\n\n要啟動&6反應爐&r，&2控制器&r內需要一個含有少量&a氘氚燃料&r的&e黑體輻射腔&r。還需要用雷射來為&b雷射增幅器&r充能，射出一發至少帶有 400MFE  的光束至&3雷射聚焦矩陣&r上。\n\n能量、蒸汽或是熱量可以透過輸出模式下的&a核融合反應爐連接埠&r來輸出。",
+    "translation": "&6核融合反應爐&r是&e通用機械&r的終極發電機，以&a氘&r和&2氚&r（或兩者的混合物&r）作為燃料。只需要維持少量的消耗就能產生巨量的電力或熱量，更別提兩種燃料僅需水和能量來製作。\n\n核融合發電非常強力，為了限制，&6核融合反應爐&r需要大量的&b核分裂&r材料來製作。\n{image:ftb:textures/quests/mekanism/fusion_reactor.png width:100 height:100 align:center}\n\n{@pagebreak}\n要建造&6核融合反應爐&r，先用任意建材搭出三個 5x5 的方形框架，並使其相互在中點連接。將框架的角落替換成&2核融合反應爐框架&r，並在六面中點周圍四角補上&2反應爐框架&r。\n\n接著將頂面中點替換成&6核融合反應爐控制器&r，剩下的建材方塊可以替換成強化玻璃、連接埠以及雷射聚焦矩陣。\n\n要啟動&6反應爐&r，需將少量&a氘氚燃料&r裝入&e黑體輻射腔&r，再放入&2控制器&r，並為&6反應爐&r供應燃料。接著讓停用的&b雷射增幅器&r接收其他雷射的能量，再射出一發至少含有 4 億 FE 的光束，對準&3雷射聚焦矩陣&r，也就是&6反應爐&r上的雷射輸入端。\n\n能量、蒸汽或是熱量可以透過輸出模式下的&a核融合反應爐連接埠&r來輸出。",
     "context": "chapters/power.snbt / quest 24401E59D87AC23A",
     "meta": {
       "line_split_policy": "lf",
@@ -298,7 +298,7 @@
   },
   "quest.269EE6FF35CA9857.quest_desc": {
     "original": "Most of &6Oritech's&r generators can accept the &aSteam Boiler Addon&r. This allows you to pump water into the addon, which will convert the power output of the generator into &bSteam.\n\nThis can then be pumped into a &aSteam Engine&r to generate RF. The energy produced is added with the energy produced from the base generator that is using the &aSteam Boiler Addon&r.\n\nA &aSteam Engine's&r speed varies based on the stored steam. More steam results in more pressure, making it operate faster. The speed is scaled linearly based on the tank's fill percentage, with a maximum multiplier of 10 when the tank is full.\n{@pagebreak}\nHowever, the &aSteam Engine's&r efficiency varies based on the speed. Higher efficiency results in more RF per steam unit produced. The machine's efficiency is highest when operating at around 700% speed. Anything lower or higher than that will result in a less ideal yield.\n\nEnergy can be extracted from the red machine slots, while Fluid ports are marked blue.",
-    "translation": "《&6起源科技&r》大多數發電機都可安裝&a蒸汽鍋爐升級&r。\n\n安裝後可向升級輸入水，將發電機的產出轉為&b蒸汽&r。\n\n再把蒸汽輸送到&a蒸汽引擎&r來發電，且其產出會與裝有蒸汽鍋爐升級的原發電機輸出疊加。\n\n&a蒸汽引擎&r的運轉速度會隨儲存蒸汽量而變化。\n\n蒸汽越多、壓力越高，運轉越快；速度會依蒸汽的填充比例線性提升，佔滿時最高為 10 倍。\n{@pagebreak}\n不過&a蒸汽引擎&r的效率也會隨速度改變。\n\n效率越高，每單位蒸汽可轉換更多 RF。\n\n機器在約 700% 速度時效率最佳，低於或高於此值都會降低\n收益。\n\n能量可從機器上的紅色埠輸出，流體埠則以藍色標示。",
+    "translation": "《&6起源科技&r》大多數發電機都可安裝&a蒸汽鍋爐升級&r。\n\n安裝後可向升級輸入水，將發電機的產出轉為&b蒸汽。\n\n再把蒸汽輸送到&a蒸汽引擎&r來發電，且其產出會與裝有&a蒸汽鍋爐升級&r的原發電機輸出疊加。\n\n&a蒸汽引擎&r的運轉速度會隨儲存蒸汽量而變化。\n\n蒸汽越多、壓力越高，運轉越快；速度會依蒸汽的填充比例線性提升，佔滿時最高為 10 倍。\n{@pagebreak}\n不過&a蒸汽引擎&r的效率也會隨速度改變。\n\n效率越高，每單位蒸汽可轉換更多 RF。\n\n機器在約 700% 速度時效率最佳，低於或高於此值都會降低收益。\n\n能量可從機器上的紅色埠輸出，流體埠則以藍色標示。",
     "context": "chapters/power.snbt / quest 269EE6FF35CA9857",
     "meta": {
       "line_split_policy": "lf",
@@ -307,7 +307,7 @@
   },
   "quest.28F636FAA3397479.quest_desc": {
     "original": "The &aBasic Coal Generator&r from &6RFTools&r is a simple-to-use generator that burns furnace fuel items to generate power.",
-    "translation": "《&6RFTools&r》的&a基礎煤炭發電機&r，能透過燃燒熔爐燃料物品來發電。",
+    "translation": "《&6RFTools&r》的&a基礎煤炭發電機&r能透過燃燒熔爐燃料物品來發電。",
     "context": "chapters/power.snbt / quest 28F636FAA3397479",
     "meta": {
       "line_split_policy": "lf",
@@ -352,7 +352,7 @@
   },
   "quest.31C83D9253FFF685.quest_desc": {
     "original": "&3Industrial Turbines&r are vertical multiblock structures that turn &7Steam&r into energy, and optionally back into &bWater&r using &9Saturating Condensers&r. Be careful if a turbine is full of energy, as it will stop or dump steam.\n\nThe minimum size for this multiblock is a 5x5x5 structure, but adding just one layer to the height (5x6x5) &6quadruples&r its power production capacity. So, this quest will treat these dimensions (5x6x5) as the minimum. The largest size of turbine is a 17x18x17, as turbine widths need to be odd for the spinning blades.\n\nWhile &3Industrial Turbines&r are more complex than &dFission Reactors&r, they can handle plenty of &7Steam&r flow.\n{@pagebreak}\nThe multiblock needs a frame of &aTurbine Casings&r, with the bottom face filled with &aStructural Glass&r or more &aCasings&r.\n\n&bTurbine Rotors&r are stacked on the center block at the bottom, with two &3Turbine Blades&r applied to each.\n\nOnly &aStructural Glass&r, &3Turbine Valves&r, and &aCasings&r can fill in the faces up to the top of the rotors.\n\n{image:ftb:textures/quests/mekanism/turbine1transp.png width:100 height:100 align:center}\n{@pagebreak}\nThe &3Rotational Complex&r goes above the rotors, and surrounded by &2Pressure Dispersers&r to close off the multiblock's bottom section.\n\n&dElectromagnetic Coils&r go above the complex, at least one must touch it, and all must be connected if using more than one.\n\n&3Saturating Condensers&r can then fill in the remaining space depending on how much water needs to be recycled.\n\n{image:ftb:textures/quests/mekanism/turbine2transp.png width:100 height:100 align:center}\n{@pagebreak}\nThe remaining empty spaces can now be filled with &aGlass&r, &aCasings&r, or &2Turbine Vents&r. The multiblock only needs 1 &2Vent&r to form, but they help with &7Steam&r flow so the more the better.\n\nOnce formed, the multiblock can be interacted with to check its current rates and status. The &eStats Menu&r can list what parts of the build are limiting the &7Steam&r flow and production rates.\n\n&dFission Reactor &aSteam Ports&r can export into &aTurbine Valves&r, and &2Turbine Vents&r can export &bWater&r into the &dReactor&r input ports, allowing for a cycle with zero pipes!\n\n{image:ftb:textures/quests/mekanism/turbine3transp.png width:100 height:100 align:center}",
-    "translation": "&3工業渦輪&r是一種能將&7蒸汽&r轉成能量的直立多方塊結構，如果需要的話，還能用&9飽和冷凝器&r將蒸汽變回&b水&r。要注意當渦輪的能量滿了之後，渦輪就會停止處理蒸汽。\n\n渦輪最小的尺寸為 5x5x5，若是加高一層（5x6x5）發電量會變&6四倍&r，\n因此任務將會以 5x6x5 的尺寸為最小標準。\n\n渦輪最大尺寸為 17x18x17，由於刀片會旋轉的原因，結構長寬須為奇數。\n\n雖然&3工業渦輪&r比&d核分裂反應爐&r複雜得多，但是兩台機器都能承受大量的&7蒸汽&r流量。\n{@pagebreak}\n此多方塊結構需要&a渦輪外殼&r作為框架，底面必須為&a結構玻璃&r或外殼。\n\n&b渦輪轉子&r從底部開始堆疊，立在渦輪的正中間。每一層轉子都需要安裝兩個&3渦輪刀片&r。\n\n側面能擺放&a結構玻璃&r、&3渦輪閥門&r和&a渦輪外殼&r，但是最高只能到轉子的高度。\n\n{image:ftb:textures/quests/mekanism/turbine1transp.png width:100 height:100 align:center}\n{@pagebreak}\n將&3旋轉裝置&r放在轉子上面，用&2分壓元件&r把旋轉裝置圍起來，將渦輪下層隔開。\n\n接著將&d電磁線圈&r放在旋轉裝置上。如果擺放多個線圈，則線圈需要相連並接觸到旋轉裝置。\n\n上層剩下的空間根據需要回收的水量，填充數個&3飽和冷凝器&r。\n\n{image:ftb:textures/quests/mekanism/turbine2transp.png width:100 height:100 align:center}\n{@pagebreak}\n現在還剩下來的空間就填上&a結構玻璃&r、&a渦輪外殼&r或&2渦輪排氣口&r。雖然渦輪只需要一個&2排氣口&r就能成形，但是越多排氣口&7蒸汽&r流量就越大，所以建議多加幾個。\n\n一旦結構成形，就能夠查看當前的流量和狀態。工業渦輪的&e狀態介面&r可以查看當前的最大&7蒸汽&r流量和發電量。\n\n&d核分裂反應爐&r的&a蒸汽連接埠&r能直接貼著&a渦輪閥門&r輸出&7蒸汽&r，&2渦輪排氣口&r能直接對著&d反應爐&r的輸入端輸出&b水&r，從而實現零管道的循環。\n\n{image:ftb:textures/quests/mekanism/turbine3transp.png width:100 height:100 align:center}",
+    "translation": "&3工業渦輪&r是一種能將&7蒸汽&r轉成能量的直立多方塊結構，如果需要的話，還能將蒸汽變回&b水&r，這需要使用&9飽和冷凝器&r。要注意當渦輪的能量滿了之後，渦輪就會停止運轉或排放蒸汽。\n\n渦輪最小的尺寸為 5x5x5，若是加高一層（5x6x5）發電量會變&6四倍&r，\n因此任務將會以 5x6x5 的尺寸為最小標準。\n\n渦輪最大尺寸為 17x18x17，由於刀片會旋轉的原因，結構長寬須為奇數。\n\n雖然&3工業渦輪&r比&d核分裂反應爐&r複雜得多，但它能處理大量的&7蒸汽&r流量。\n{@pagebreak}\n此多方塊結構需要&a渦輪外殼&r作為框架，底面必須為&a結構玻璃&r或更多&a渦輪外殼&r。\n\n&b渦輪轉子&r從底部開始堆疊，立在渦輪的正中間。每一層轉子都需要安裝兩個&3渦輪刀片&r。\n\n側面能擺放&a結構玻璃&r、&3渦輪閥門&r和&a渦輪外殼&r，但是最高只能到轉子的高度。\n\n{image:ftb:textures/quests/mekanism/turbine1transp.png width:100 height:100 align:center}\n{@pagebreak}\n將&3旋轉裝置&r放在轉子上面，用&2分壓元件&r把旋轉裝置圍起來，將渦輪下層隔開。\n\n接著將&d電磁線圈&r放在旋轉裝置上。如果擺放多個線圈，則線圈需要相連並接觸到旋轉裝置。\n\n上層剩下的空間根據需要回收的水量，填充數個&3飽和冷凝器&r。\n\n{image:ftb:textures/quests/mekanism/turbine2transp.png width:100 height:100 align:center}\n{@pagebreak}\n現在還剩下來的空間就填上&a結構玻璃&r、&a渦輪外殼&r或&2渦輪排氣口&r。雖然渦輪只需要一個&2排氣口&r就能成形，但是越多排氣口&7蒸汽&r流量就越大，所以建議多加幾個。\n\n一旦結構成形，就能夠查看當前的流量和狀態。工業渦輪的&e狀態介面&r可以查看哪些元件限制了&7蒸汽&r流量和發電量。\n\n&d核分裂反應爐的&a蒸汽連接埠&r能直接貼著&a渦輪閥門&r輸出蒸汽，&2渦輪排氣口&r能直接輸出&b水&r至&d反應爐&r的輸入端，從而實現零管道的循環。\n\n{image:ftb:textures/quests/mekanism/turbine3transp.png width:100 height:100 align:center}",
     "context": "chapters/power.snbt / quest 31C83D9253FFF685",
     "meta": {
       "line_split_policy": "lf",
@@ -370,7 +370,7 @@
   },
   "quest.323A230EB571C4CA.quest_desc": {
     "original": "&aReactors&r are where generating power starts to get serious!\n\nThese will burn up &6Uraninite&r using &bCoal&r and &cRedstone&r to generate a ton of power.\n\n&eReactors will not accept water in this pack!\n\nTo build one, you'll need &a36 Reactor Blocks&r in your inventory. Right clicking to place it down will automatically build out the 3x4x3 structure if it has room.\n\n&aNote&r: &6Uraninite&r is made in the &aEnergizing Orb&r, which requires the &cHeat&r &6World Engine&r upgrade.\n\nWater is not a good enough coolant. You can see which coolants you can use by hitting &aU&r on a reactor block in JEI.",
-    "translation": "&a反應爐&r是你邁向大規模發電的起點！\n\n它會消耗&6晶質鈾燃料&r，並搭配&b煤炭&r與&c紅石&r來產生大量能量。\n\n&e注意&r：本模組包中的反應爐不接受水作為冷卻。\n\n要建造反應爐，你背包中需先有 &a36 個反應爐方塊&r。\n\n若空間足夠，右鍵放置會自動搭出 3x4x3 的結構。\n\n&a補充&r：&6晶質鈾燃料&r需在&a充能室&r製作，而這需要&c熱能&r&6世界引擎&r升級。\n\n水不是足夠好的冷卻液。你可在 JEI 對反應爐方塊按「&aU&r」查看可用\n的冷卻液。",
+    "translation": "&a反應爐&r是你邁向大規模發電的起點！\n\n它會消耗&6晶質鈾燃料&r，並搭配&b煤炭&r與&c紅石&r來產生大量能量。\n\n&e本模組包中的反應爐不接受水！\n\n要建造反應爐，你背包中需先有 &a36 個反應爐方塊&r。\n\n若空間足夠，右鍵放置會自動搭出 3x4x3 的結構。\n\n&a補充&r：&6晶質鈾燃料&r需在&a充能室&r製作，而這需要&c熱能&r&6世界引擎&r升級。\n\n水不是足夠好的冷卻液。你可在 JEI 對反應爐方塊按「&aU&r」查看可用\n的冷卻液。",
     "context": "chapters/power.snbt / quest 323A230EB571C4CA",
     "meta": {
       "line_split_policy": "lf",
@@ -379,7 +379,7 @@
   },
   "quest.333E8FBE15AE980D.quest_desc": {
     "original": "&cNuclear Waste&r can be safely dumped into &aRadioactive Waste Barrels&r to slowly decay, but a &dReactor&r produces a lot of waste from which we can still extract some new useful products.\n\nCentrifuging radioactive waste will create &3Plutonium&r, while further radiating it with a &6Neutron Activator&r will produce &9Polonium&r, both processes heavily reducing the amount of radioactive chemicals.\n{@pagebreak}\nThese chemicals can be further converted into &2Pellets&r, removing any final few chemical impurities that will still ultimately need to decay.\n\nThese &2Pellets&r are used in crafting high tier gear, as well as the ultimate power generator from the mod: the &dFusion Reactor&r.",
-    "translation": "你可以將&c核廢料&r安全的存放在&a放射性廢料桶&r等它衰變，不過核廢料並非毫無用處，裡面還能提取出一些有用的東西。\n\n將放射性廢料離心後可以得到&3鈽&r，或經過&6中子活化器&r處理後能夠得到&9釙&r，處理過程會大大減少放射性物質的含量。\n{@pagebreak}\n這兩種化學物質可以轉換成&2顆粒&r，去除剩下的放射性物質。\n\n而這兩種&2顆粒&r能夠用來製作高階的設備，\n像是本模組最強的發電裝置——&d核融合反應爐&r。",
+    "translation": "你可以將&c核廢料&r安全的存放在&a放射性廢料桶&r中讓它緩慢衰變，不過&d反應爐&r會產生大量廢料，我們還能從中提取出一些有用的新產物。\n\n將放射性廢料離心後可以得到&3鈽&r，或經過&6中子活化器&r處理後能夠得到&9釙&r，處理過程會大大減少放射性物質的含量。\n{@pagebreak}\n這兩種化學物質可以轉換成&2顆粒&r，去除最後殘留的少量化學雜質；這些雜質最終仍需等待衰變。\n\n而這兩種&2顆粒&r能夠用來製作高階的設備，\n像是本模組最強的發電裝置——&d核融合反應爐&r。",
     "context": "chapters/power.snbt / quest 333E8FBE15AE980D",
     "meta": {
       "line_split_policy": "lf",
@@ -388,7 +388,7 @@
   },
   "quest.333E8FBE15AE980D.title": {
     "original": "&fYou say Polonium, I say Plutonium",
-    "translation": "你說的是釙，我說的是鈽",
+    "translation": "&f你說的是釙，我說的是鈽",
     "context": "chapters/power.snbt / quest 333E8FBE15AE980D",
     "meta": {
       "line_split_policy": "none",
@@ -415,7 +415,7 @@
   },
   "quest.39A6CE8A1D5B2D8F.quest_desc": {
     "original": "The &aSimple Coal Generator&r from &6Just Dire Things&r can burn regular burnable items like coal or wood, but it can also burn the different tiers of coal from the mod itself, like &aPrimal Coal&r!\n\nUsing these special coals will produce more power, with the higher tiers producing up to 960 RF/t.\n\nThe &aPocket Generator&r will do the same thing, but in your inventory to charge your items.",
-    "translation": "《&6Just Dire Things&r》的&a簡易煤炭發電機&r，\n可燃燒一般可燃物（如煤炭、木材），也能燒模組內不同階級的煤，例如&a原初煤炭&r！\n\n使用這些特殊煤炭，能帶來更高的能量產出，最高階可達 960 RF/t。\n\n&a隨身發電機&r也是同樣原理，但可在物品欄內為你的物品充能。",
+    "translation": "《&6Just Dire Things&r》的&a簡易煤炭發電機&r\n可燃燒一般可燃物（如煤炭、木材），也能燒模組內不同階級的煤，例如&a原初煤炭&r！\n\n使用這些特殊煤炭，能帶來更高的能量產出，最高階可達 960 RF/t。\n\n&a隨身發電機&r也是同樣原理，但可在物品欄內為你的物品充能。",
     "context": "chapters/power.snbt / quest 39A6CE8A1D5B2D8F",
     "meta": {
       "line_split_policy": "lf",
@@ -460,7 +460,7 @@
   },
   "quest.456030ECDFA9CE3B.quest_desc": {
     "original": "&bReactor Heat Absorbers&r remove a fixed amount of heat from all neighboring components making it more efficient when surrounded by components that need to be cooled.\n\nIt requires a constant supply of coolant in the form of ice (or blue/packed ice), which can be inserted via the &bCoolant Port&r above the &bAbsorber&r stack.\n\nThe amount of coolant used is fixed, and does not increase with more sides being cooled. Each tick, 16 units of heat are removed from each neighbor.\n\nA &bReactor Coolant Port&r must be placed on the outer ceiling of the &dReactor&r, with &bHeat Absorbers&r beneath it.",
-    "translation": "&b反應爐熱吸收器&r每刻會從所有相鄰元件移除固定熱量，因此周圍需要冷卻的元件越多，效益越高。\n\n它需要持續供應冰類冷卻劑（冰、藍冰或冰磚），可由吸收器堆疊上方的&b冷卻劑埠&r輸入。\n\n冷卻劑消耗量固定，不會因同時冷卻更多側面而增加。每刻會從每個相鄰元件移除 16 單位熱量。\n\n&b反應爐冷卻劑吸收埠&r必須設置於&d反應爐&r外層頂部，並在其下方配置&b熱吸收器&r。",
+    "translation": "&b反應爐熱吸收器&r每刻會從所有相鄰元件移除固定熱量，因此周圍需要冷卻的元件越多，效益越高。\n\n它需要持續供應冰類冷卻劑（冰、藍冰或冰磚），可由&b冷卻劑埠&r輸入，這個埠位於&b吸收器&r堆疊上方。\n\n冷卻劑消耗量固定，不會因同時冷卻更多側面而增加。每刻會從每個相鄰元件移除 16 單位熱量。\n\n&b反應爐冷卻劑埠&r必須設置於&d反應爐&r外層頂部，並在其下方配置&b熱吸收器&r。",
     "context": "chapters/power.snbt / quest 456030ECDFA9CE3B",
     "meta": {
       "line_split_policy": "lf",
@@ -496,7 +496,7 @@
   },
   "quest.4843F5564CA5810C.quest_desc": {
     "original": "The &aDiesel Generator&r generates &dHV&r power by consuming fuels like &2Diesel&r.\n\nDepending on the fuel used, certain fuels will burn for longer inside the generator, creating more power.\n\nFor a full list of fuels check the &bEngineer's Manual&r or JEI.\n\nTo learn more about building and using them, refer to the &aElectrical Grids&r section of the &bEngineer's Manual&r.",
-    "translation": "&a柴油發電機&r透過消耗像&2柴油&r這類燃料來產生&d高壓&r能量。\n\n依使用的燃料不同，有些燃料會在發電機內燃燒更久，進而產生更多能量。\n\n完整燃料清單，請查閱&b工程師指南手冊&r或 JEI。\n\n若要進一步了解建造與使用方式，請參考&b工程師指南手冊&r的&a電網&r章節。",
+    "translation": "&a柴油發電機&r會消耗&2柴油&r等燃料，產生&d高壓&r能量。\n\n依使用的燃料不同，有些燃料會在發電機內燃燒更久，進而產生更多能量。\n\n完整燃料清單，請查閱&b工程師指南手冊&r或 JEI。\n\n若要進一步了解建造與使用方式，請參考&b工程師指南手冊&r的&a電網&r章節。",
     "context": "chapters/power.snbt / quest 4843F5564CA5810C",
     "meta": {
       "line_split_policy": "lf",
@@ -613,7 +613,7 @@
   },
   "quest.57ED7DBAC5E8C5BE.quest_desc": {
     "original": "The &dEnergized Induction Matrix&r from &eMekanism&r is the ultimate way to store tons of power!\n\nThis is a custom multiblock structure that can be built up to 18x18x18 for all of your power storage needs. It only requires 1 &aInduction Cell&r, 1 &aInduction Provider&r, and &aInduction Ports&r to pull and push power out.\n{@pagebreak}\nTo build this, the smallest structure that can be made is a 3x4x3 multiblock. The frame must be made up of &aInduction Casings&r, and the faces can be &aStructural Glass&r or &aInduction Ports&r.\n\nInside of the structure, you'll place down your &aInduction Cells&r and &aProviders&r. Providers determine how fast the Matrix can push or pull power, whereas the Cells determine the maximum amount of power that can be stored. You can mix and match however many you want of each, as long as it is placed inside of the structure.\n{@pagebreak}\n&aInduction Ports&r can be configured to input or output power by sneak-using a &aConfigurator&r on them. I suggest using at least 2 for your first Matrix!",
-    "translation": "《&6通用機械&r》的&d充能輸導矩陣&r，是儲存海量能量的終極方案！\n\n這是可自訂的多方塊結構，\n\n最大可建到 18x18x18，足以滿足各種儲能需求。\n\n至少需要 1 個&a輸導元件&r、1 個&a輸導供應器&r，\n\n與若干&a輸導端口&r來輸入與輸出能量。\n{@pagebreak}\n建造時最小尺寸為 3x4x3。\n\n外框必須使用&a輸導外殼&r，表面可用&a結構玻璃&r或&a輸導端口&r。\n\n在結構內部放置&a輸導元件&r與&a輸導供應器&r。\n\n供應器決定矩陣輸入/輸出速度，元件決定最大儲能量。只要放在結構內，兩者數量可自由搭配。\n{@pagebreak}\n手持&a調節器&r，對&a輸導端口&r「潛行 + 右鍵」可切換輸入/輸出模式。\n\n建議你的第一座矩陣至少使用 2 個輸導端口！",
+    "translation": "《&e通用機械&r》的&d充能輸導矩陣&r是儲存海量能量的終極方案！\n\n這是可自訂的多方塊結構，\n\n最大可建到 18x18x18，足以滿足各種儲能需求。\n\n至少需要 1 個&a輸導元件&r、1 個&a輸導供應器&r，\n\n與若干&a輸導端口&r來輸入與輸出能量。\n{@pagebreak}\n建造時最小尺寸為 3x4x3。\n\n外框必須使用&a輸導外殼&r，表面可用&a結構玻璃&r或&a輸導端口&r。\n\n在結構內部放置&a輸導元件&r與&a輸導供應器&r。\n\n供應器決定矩陣輸入/輸出速度，元件決定最大儲能量。只要放在結構內，兩者數量可自由搭配。\n{@pagebreak}\n&a輸導端口&r可切換輸入/輸出模式，只要手持&a調整器&r對它「潛行 + 右鍵」即可。\n\n建議你的第一座矩陣至少使用 2 個輸導端口！",
     "context": "chapters/power.snbt / quest 57ED7DBAC5E8C5BE",
     "meta": {
       "line_split_policy": "lf",
@@ -622,7 +622,7 @@
   },
   "quest.57ED7DBAC5E8C5BE.title": {
     "original": "&fThe &dEnergized Induction Matrix",
-    "translation": "&d充能輸導矩陣",
+    "translation": "&f&d充能輸導矩陣",
     "context": "chapters/power.snbt / quest 57ED7DBAC5E8C5BE",
     "meta": {
       "line_split_policy": "none",
@@ -694,7 +694,7 @@
   },
   "quest.6A4A2A2EFD552316.quest_desc": {
     "original": "If you're looking to store your power, &aEnergy Cells&r from &ePowah&r will do the trick.\n\nYou can also craft &aBatteries&r and charge them up using the Cells. The Batteries can then be used to charge items in your inventory in the early game!",
-    "translation": "若你想儲存能量，《&e波瓦科技&r》的&a能量單元&r就是很好的選擇。\n\n你也能製作&a電池&r，並用能量單元替電池充能。\n\n前期可用這些電池為物品欄中的道具充能！",
+    "translation": "若你想儲存能量，《&e波瓦科技&r》的&a能量單元&r就能勝任。\n\n你也能製作&a電池&r，並用能量單元替電池充能。\n\n前期可用這些電池為物品欄中的道具充能！",
     "context": "chapters/power.snbt / quest 6A4A2A2EFD552316",
     "meta": {
       "line_split_policy": "lf",
@@ -721,7 +721,7 @@
   },
   "quest.6C4783132CC50BF0.quest_desc": {
     "original": "&dSchrödinger's Safe&r is an energy storage multiblock that can store billions of RF when properly set up.\n\nThis multiblock requires a &bCapacity Block&r which changes the base storage multiplier of &dSchrödinger's Safe&r.\n\nLow, Medium, and High Capacity Blocks multiply the base storage by 0.3x, 1x, and 5x respectively. Check the item tooltip for a full list of available capacity blocks.\n\nYou can also exponentially increase the capacity of &dSchrödinger's Safe&r by powering its sides with &aEnderic Lasers&r, up to 5000x",
-    "translation": "&d薛丁格的保險箱&r是多方塊能量儲存結構，正確設置後可儲存數十億 RF。\n\n此多方塊需要&b容量方塊&r來調整&d薛丁格保險箱&r的基礎儲存倍率。\n\n低／中／高容量方塊分別提供 0.3x、1x、5x 基礎倍率。\n\n完整可用方塊請查看物品提示。\n\n你也可以用&a終界雷射&r為其側面供能，\n\n將&d薛丁格保險箱&r容量以指數方式提升，最高可達 5000 倍。",
+    "translation": "&d薛丁格的保險箱&r是多方塊能量儲存結構，正確設置後可儲存數十億 RF。\n\n此多方塊需要&b容量方塊&r來調整&d薛丁格保險箱&r的基礎儲存倍率。\n\n低／中／高容量方塊分別提供 0.3x、1x、5x 基礎倍率。\n\n完整可用方塊請查看物品提示。\n\n你也可以用&a終界雷射&r為&d薛丁格保險箱&r的側面供能，使其容量以指數方式提升，最高可達 5000 倍。",
     "context": "chapters/power.snbt / quest 6C4783132CC50BF0",
     "meta": {
       "line_split_policy": "lf",
@@ -838,7 +838,7 @@
   },
   "quest.78115154B5DC07B3.quest_desc": {
     "original": "This block generates &625 Million RF/t&r when all other &dMycelial Generators&r are active.",
-    "translation": "當其他所有種類的&d菌絲網路發電機&r同時在運作時，能產生 &62500 萬 RF/t&r 的能量。",
+    "translation": "這個方塊能產生 &62500 萬 RF/t&r 的能量，條件是其他所有&d菌絲網路發電機&r都在運作。",
     "context": "chapters/power.snbt / quest 78115154B5DC07B3",
     "meta": {
       "line_split_policy": "lf",
@@ -892,7 +892,7 @@
   },
   "quest.7B579D0762DB9F33.quest_desc": {
     "original": "Once you have some &aOsmium&r, you can easily start generating some basic power using the &eHeat Generator&r from &6Mekanism&r.\n\nThis &aGenerator&r can be fed any burnable item like coal or wood to generate power, but can also harness heat from &cLava&r around it to generate power passively.\n\nTo extract the power from the generator, you must connect a pipe or machine to the front face that has a square on it! ",
-    "translation": "當你取得一些&a鋨&r後，就能用《&6通用機械&r》的&e熱力發電機&r，輕鬆開始基礎發電。\n\n這台&a發電機&r可燃燒煤炭、木材等可燃物，也能利用周遭&c熔岩&r的熱量被動發電。\n\n要輸出能量，必須把管線或機器接在正面帶方框的那一面！",
+    "translation": "當你取得一些&a鋨&r後，就能用《&6通用機械&r》的&e熱力發電機&r輕鬆開始基礎發電。\n\n這台&a發電機&r可燃燒煤炭、木材等可燃物，也能利用周遭&c熔岩&r的熱量被動發電。\n\n要輸出能量，必須把管線或機器接在正面帶方框的那一面！",
     "context": "chapters/power.snbt / quest 7B579D0762DB9F33",
     "meta": {
       "line_split_policy": "lf",

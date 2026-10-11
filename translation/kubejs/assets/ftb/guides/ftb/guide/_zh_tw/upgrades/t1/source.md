@@ -16,8 +16,6 @@ item_ids:
 
 這項小型升級能讓你把<Color id="light_purple">魔源</Color>導入<Color id="gold">世界引擎控制器</Color>。
 
-***
-
 一開始，你需要準備一個<Color id="green">裝有魔源的魔源罐</Color>，和一把<Color id="light_purple">支配之杖</Color>，
 
 將<Color id="light_purple">魔源</Color>從魔源罐導入控制器中。

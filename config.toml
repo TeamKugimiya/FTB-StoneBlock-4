@@ -19,10 +19,17 @@ project_id = 16802
 [source]
 archive_roots = ["overrides", "."]
 include = [
-  "config/ftbquests/quests/**/*.snbt",
+  "config/ftbquests/quests/lang/en_us.snbt",
+  "kubejs/assets/ftb/lang/en_us.json",
   "kubejs/assets/ftb/guides/**/*.md",
   "kubejs/data/ftb/machine/steam_pressurizer.json",
   "kubejs/server_scripts/event_handlers/items/ender_shard.js"
+]
+context_include = [
+  "config/ftbquests/quests/chapters/**/*.snbt",
+  "config/ftbquests/quests/reward_tables/**/*.snbt",
+  "config/ftbquests/quests/chapter_groups.snbt",
+  "config/ftbquests/quests/data.snbt"
 ]
 exclude = [
   "kubejs/assets/ftb/guides/ftb/guide/_zh_cn/**",

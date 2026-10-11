@@ -277,7 +277,7 @@
   },
   "quest.6D5A9E9E8B0D8AC2.quest_desc": {
     "original": "With the materials you've gathered, you should be able to craft the &3Chronon Generator&r like the &dEcho&r wanted!\n\nIt's time to submit the &aChronon Generator&r and return to the &dEcho of Guidance&r. Doing this will award all players on your team a &aCell&r and a &2Generator&r.\n\n&eNote&f: You must submit the &aChronon Generator&r to complete this quest and update the &dEcho of Guidance&r. ",
-    "translation": "使用你剛剛採集到的資源，你就可以合成出&d回聲&r想要的&3時空粒子產生器&r了！\n\n是時候交出&a時間粒子產生器&r並返回&d指引嚮導之回聲&r處了。完成這項任務會給予你隊伍中的所有玩家各一台&a單元&r和一台&r產生器&r。\n\n&e備註&f：你會需要提交這台&a時空粒子產生器&r才能完成這項任務並取得&d指引嚮導之回聲&r的下一步指示。",
+    "translation": "使用你剛剛採集到的資源，你就可以合成出&3時空粒子產生器&r了，正如&d回聲&r所期待的！\n\n是時候交出&a時空粒子產生器&r並返回&d指引嚮導之回聲&r處了。完成這項任務會給予你隊伍中的所有玩家各一台&a單元&r和一台&2產生器&r。\n\n&e備註&f：你會需要提交這台&a時空粒子產生器&r才能完成這項任務並取得&d指引嚮導之回聲&r的下一步指示。",
     "context": "chapters/thebackrooms.snbt / quest 6D5A9E9E8B0D8AC2",
     "meta": {
       "line_split_policy": "lf",

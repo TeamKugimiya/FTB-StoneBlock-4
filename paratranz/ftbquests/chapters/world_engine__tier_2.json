@@ -10,7 +10,7 @@
   },
   "quest.08000D28B577EF94.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取此任務獎勵，會在&d回聲的&6檔案庫&r入口設置定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 08000D28B577EF94",
     "meta": {
       "line_split_policy": "lf",
@@ -28,7 +28,7 @@
   },
   "quest.0A3C1CD48C85E17D.quest_desc": {
     "original": "Within the lower parts of the &7Deepslate&r ring, you have a chance to run into the &dAncient City&r.\n\nSurely there is nothing bad down there. Just quietly sneak in and find a few of &dEcho Shards&r.\n\nYou should see the &dEcho of The Enchanter&r after acquiring this shard.\n\n&eNote&r: The &dEnchanter&r mentioned that the &dWayfinder&r can also offer you some that you can buy once you've completed some of their tasks.",
-    "translation": "你有機會在&7深板岩&r環帶的較低處遇到&d遠古城市&r。\n\n當然，那邊沒有任何的危險。你只要安靜的潛行進入，並找到幾片&d回聲碎片&r就好了。\n\n當取得這片碎片後，回去找&d附魔道長之回聲&r交差。\n\n&e備註&r：&d附魔道長&r提到說：&d尋路先鋒&r會在你完成他的任務之後賣給你一些&d回聲碎片&r。",
+    "translation": "你有機會在&7深板岩&r環帶的較低處遇到&d遠古城市&r。\n\n當然，那邊沒有任何的危險。你只要安靜的潛行進入，並找到幾片&d回聲碎片&r就好了。\n\n當取得這片碎片後，回去找&d附魔道長之回聲&r交差。\n\n&e備註&r：&d附魔道長&r提到說：&d尋路先鋒&r會在你完成他的部分任務之後賣給你一些回聲碎片。",
     "context": "chapters/world_engine__tier_2.snbt / quest 0A3C1CD48C85E17D",
     "meta": {
       "line_split_policy": "lf",
@@ -46,7 +46,7 @@
   },
   "quest.0B02B72259362345.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取此任務獎勵，會在&d回聲的&6檔案庫&r入口設置定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 0B02B72259362345",
     "meta": {
       "line_split_policy": "lf",
@@ -64,7 +64,7 @@
   },
   "quest.101B8D9769D835AB.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_2.snbt / quest 101B8D9769D835AB",
     "meta": {
       "line_split_policy": "lf",
@@ -109,7 +109,7 @@
   },
   "quest.1F66695405A4863D.quest_desc": {
     "original": "The &dChroniton Star&r is filled with the power to alter time and space.\n\nUsing the &6World Engine&r, you should be able to drain this power to upgrade the &6World Engine&r itself by infusing its own power into &2Chroniton Glass&r.\n\n&eNote&r: The &dChroniton Star&r can be restored once you've upgraded the &6World Engine&r with the glass.",
-    "translation": "&d時空粒子之星&r之中富含著能夠影響時空的能量。\n\n透過&6世界引擎&r，你應當能夠汲取到這種能量，並將它灌注為&2時空粒子玻璃&r：你的下一項&6世界引擎&r升級。\n\n&e備註&r：當你使用該玻璃升級&6世界引擎&r後，你將能夠再次為&d時空粒子之星&r進行充能。",
+    "translation": "&d時空粒子之星&r蘊含著改變時間與空間的力量。\n\n透過&6世界引擎&r，你應該能汲取這股力量，用來升級&6世界引擎&r本身：將力量灌注到&2時空粒子玻璃&r中。\n\n&e備註&r：&d時空粒子之星&r可在你用玻璃升級&6世界引擎&r後恢復。",
     "context": "chapters/world_engine__tier_2.snbt / quest 1F66695405A4863D",
     "meta": {
       "line_split_policy": "lf",
@@ -144,7 +144,7 @@
   },
   "quest.2AB58696A843E9C2.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Fabricator&r.\n\nWork with this &dEcho&r to unlock the &cHeat Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo fabricator&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d熱力謙者之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3熱源升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo fabricator&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d熱力謙者之回聲&r了。\n\n和這位&d回聲&r合作，解鎖&c熱源升級&r，強化你的&6世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo fabricator&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 2AB58696A843E9C2",
     "meta": {
       "line_split_policy": "lf",
@@ -204,7 +204,7 @@
   },
   "quest.370B05FC62884456.quest_desc": {
     "original": "The &aSuperheating Element&r is perfect for the core of a heater.\n\nWhile it may seem like you have 2 options for the type of heater you choose to make, the &cFuelwood Heater&r can only produce heat via coal or wood, rendering it insufficient to heat your &6World Engine&r.\n\nThe &cResistive Heater&r, however, specializes in converting power directly into heat. It allows for fine-tuning how much power is converted, and generates significantly more heat.\n\n&eNote&r: 2k FE/t is ideal for hitting around 350°C.\n{@pagebreak}\nTo power the heater, you can either bring some generators or energy cubes down, or use &dSpectre Coils&r for wireless power transfer.\n\nMost crafts will require around &c350°C&r to work, and you will need to maintain that temperature during the craft for it to complete.",
-    "translation": "&a導熱元件&r是一台加熱器的完美核心。\n\n縱使你似乎可以選擇做出兩種不同的加熱器之一，&c木料加熱器&r只能透過煤炭或木頭等燃料產生熱量，這對於加熱你的&6世界引擎&r來說是非常沒效率的。\n\n&c電阻加熱器&r則能夠直接將能量轉換為熱量。它能夠設定該轉換多少能量，並能夠顯著產出更多熱量。\n\n&e備註&r：為了達到 350°C，將用電量設置為 2k FE/t 是最理想的選擇。",
+    "translation": "&a導熱元件&r很適合作為加熱器的核心。\n\n雖然看似有 2 種加熱器可供選擇，但&c木料加熱器&r只能透過煤炭或木頭產生熱量，無法提供足夠的熱量來加熱&6世界引擎&r。\n\n&c電阻加熱器&r則專門將能量直接轉換為熱量。你可以精確調整轉換的能量多寡，並產生更多熱量。\n\n&e備註&r：將用電量設為 2k FE/t，很適合用來達到約 350°C。\n{@pagebreak}\n若要為加熱器供電，你可以把發電機或能量方塊帶到下方，也可以使用&d幽靈線圈&r進行無線傳電。\n\n大多數合成需要約 &c350°C&r 才能運作，而且必須在合成期間持續維持該溫度，才能完成合成。",
     "context": "chapters/world_engine__tier_2.snbt / quest 370B05FC62884456",
     "meta": {
       "line_split_policy": "lf",
@@ -231,7 +231,7 @@
   },
   "quest.3E1DB27DAB197F6B.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Wayfinder&r.\n\nHelp this &dEcho&r to unlock the &aChroniton Glass&r upgrade for your &bWorld Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo wayfinder&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d尋路先鋒之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3時空粒子玻璃升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wayfinder&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d尋路先鋒之回聲&r了。\n\n幫助這位&d回聲&r，解鎖&a時空粒子玻璃&r升級，強化你的&b世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo wayfinder&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 3E1DB27DAB197F6B",
     "meta": {
       "line_split_policy": "lf",
@@ -267,7 +267,7 @@
   },
   "quest.456904808D93A9E3.quest_desc": {
     "original": "This compass points to the location of a &3Vault.\n\n&7&oThe Compass can be Sneak + Right-clicked when within 256 blocks from the vault to instantly teleport to the entrance!&r",
-    "translation": "這個羅盤指向一座&3寶庫&r的確切地點。\n\n&7&o在寶庫的 256 格內手持羅盤「潛行 + 右鍵」\\n可以快速傳送至寶庫入口！&r",
+    "translation": "這個羅盤會指向一座&3寶庫的位置。\n\n&7&o在距離寶庫 256 格以內，手持羅盤並按住潛行鍵點擊右鍵，即可瞬間傳送到入口！&r",
     "context": "chapters/world_engine__tier_2.snbt / quest 456904808D93A9E3",
     "meta": {
       "line_split_policy": "lf",
@@ -285,7 +285,7 @@
   },
   "quest.456B067C9CC123AD.quest_desc": {
     "original": "Once you've crafted a &cHeater&r, you should return to the &dFabricator&r to learn how to use it with the &6World Engine&r.",
-    "translation": "當你合成出&d加熱器&r後，你是時候該回訪&d熱力謙者&r，並向他學習該如何在&6世界引擎&r上使用它了。",
+    "translation": "當你合成出&c加熱器&r後，你是時候該回訪&d熱力謙者&r，並向他學習該如何在&6世界引擎&r上使用它了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 456B067C9CC123AD",
     "meta": {
       "line_split_policy": "lf",
@@ -312,7 +312,7 @@
   },
   "quest.4BFF8EE3F588E006.quest_desc": {
     "original": "With more &6Archives&r unlocked, it is time to explore the lobby and find the &dEcho of The Enchanter&r.\n\nWork with this &dEcho&r to unlock the &3Enchanting Upgrade&r for your &6World Engine&r.\n\n&7&oYou may teleport directly to this Echo from anywhere in the lobby after meeting them using &e/echo enchanter&7.",
-    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d附魔道長之回聲&r了。\n\n和這位&d回聲&r協力為你的&6世界引擎&r解鎖&3附魔升級&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo enchanter&7」。",
+    "translation": "隨著更多&6檔案庫&r的解鎖，是時候探索大廳並找出&d附魔道長之回聲&r了。\n\n和這位&d回聲&r合作，解鎖&3附魔升級&r，強化你的&6世界引擎&r吧。\n\n&7&o你可以在初訪這位回聲後，於大廳的任何地方使用下列指令傳送至他身旁：「&e/echo enchanter&7」。",
     "context": "chapters/world_engine__tier_2.snbt / quest 4BFF8EE3F588E006",
     "meta": {
       "line_split_policy": "lf",
@@ -365,7 +365,7 @@
   },
   "quest.50B0E45705EDB5F2.quest_desc": {
     "original": "Submitting the blocks required for the &3Upgrade&f and claiming its rewards will automatically assemble your team's &6World Engine&r.\n\n&eNote&f: Any blocks placed where an upgrade should go will be voided.",
-    "translation": "提交該&3升級&r所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
+    "translation": "提交該&3升級&f所需的方塊並領取該獎勵會自動將它組裝到你們隊伍的&6世界引擎&r之中。\n\n&e備註&f：任何放置在該升級所需位置的所有方塊都會被銷毀。",
     "context": "chapters/world_engine__tier_2.snbt / quest 50B0E45705EDB5F2",
     "meta": {
       "line_split_policy": "lf",
@@ -427,7 +427,7 @@
   },
   "quest.66FF7D88B712C969.quest_desc": {
     "original": "Claiming this quest reward will set a waypoint at the &dEcho's &6Archive&r entrance.",
-    "translation": "領取該任務的任務獎勵會幫你在該&d回聲&r的&6檔案庫&r的入口處設置一個定位點。",
+    "translation": "領取此任務獎勵，會在&d回聲的&6檔案庫&r入口設置定位點。",
     "context": "chapters/world_engine__tier_2.snbt / quest 66FF7D88B712C969",
     "meta": {
       "line_split_policy": "lf",
@@ -445,7 +445,7 @@
   },
   "quest.6E149F8E8B3F150B.quest_desc": {
     "original": "Once you've crafted the &2Echoing Deepshelves&r, head back to the &dEcho of the Enchanter&r to learn how to install it into the &6World Engine&r as an upgrade.",
-    "translation": "當你合成出了足夠多的&2回聲深板岩書櫃&r後，你是時候該回訪&d附魔道長&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
+    "translation": "當你合成出了足夠多的&2回聲深板岩書櫃&r後，你是時候該回訪&d附魔道長之回聲&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 6E149F8E8B3F150B",
     "meta": {
       "line_split_policy": "lf",
@@ -454,7 +454,7 @@
   },
   "quest.7191726ECAAFE40F.quest_desc": {
     "original": "Once you've crafted enough &2Chroniton Glass&r, head back to the &dEcho of the Wayfinder&r to learn how to install it into the &6World Engine&r as an upgrade.",
-    "translation": "當你合成出了足夠多的&2時空粒子玻璃&r後，你是時候該回訪&d尋路先鋒&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
+    "translation": "當你合成出了足夠多的&2時空粒子玻璃&r後，你是時候該回訪&d尋路先鋒之回聲&r，並向他學習該如何在&6世界引擎&r安裝這項升級了。",
     "context": "chapters/world_engine__tier_2.snbt / quest 7191726ECAAFE40F",
     "meta": {
       "line_split_policy": "lf",
@@ -578,7 +578,7 @@
   },
   "task.2DD1C42797FC03F0.title": {
     "original": "&fSpeak With The &dEcho of The Enchanter",
-    "translation": "&f與&d附魔道長之回聲&r交談",
+    "translation": "&f交談對象：&d附魔道長之回聲",
     "context": "chapters/world_engine__tier_2.snbt / task 2DD1C42797FC03F0",
     "meta": {
       "line_split_policy": "none",
@@ -632,7 +632,7 @@
   },
   "task.6A6EB35F2D0397D5.title": {
     "original": "&fSpeak With The &dEcho of The Wayfinder",
-    "translation": "&f與&d尋路先鋒之回聲&r交談",
+    "translation": "&f交談對象：&d尋路先鋒之回聲",
     "context": "chapters/world_engine__tier_2.snbt / task 6A6EB35F2D0397D5",
     "meta": {
       "line_split_policy": "none",
@@ -641,7 +641,7 @@
   },
   "task.6B46A4D5E6915E1B.title": {
     "original": "&fSpeak With The &dEcho of The Fabricator",
-    "translation": "&f與&d熱力謙者之回聲&r交談",
+    "translation": "&f交談對象：&d熱力謙者之回聲",
     "context": "chapters/world_engine__tier_2.snbt / task 6B46A4D5E6915E1B",
     "meta": {
       "line_split_policy": "none",
@@ -668,7 +668,7 @@
   },
   "task.7ECEEC776BBA8B53.title": {
     "original": "Speak With The &dEcho of Guidance",
-    "translation": "與&d指引嚮導之回聲&r交談",
+    "translation": "交談對象：&d指引嚮導之回聲",
     "context": "chapters/world_engine__tier_2.snbt / task 7ECEEC776BBA8B53",
     "meta": {
       "line_split_policy": "none",
